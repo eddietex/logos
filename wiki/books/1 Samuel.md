@@ -58,6 +58,15 @@ No one in the house will grow old; both sons will die *in one day* as the sign (
 The sign falls at Aphek (4:11), and Kings records the end of the sentence when Solomon removes Abiathar,
 *that he might fulfill Yahweh's word, which he spoke concerning the house of Eli in Shiloh* (1 Kings 2:27).
 
+[[Yahweh Calls Samuel]] (3:1–4:1a) turns from the stranger's oracle to the child's call. *Yahweh's word was
+precious in those days* (3:1). At night, with Eli's eyes growing dim and *God's lamp* not yet out, Yahweh
+calls Samuel where the ark is, and three times the boy runs to Eli, because he *didn't yet know Yahweh*
+(3:2–7). Eli understands and teaches him the answer, *Speak, Yahweh; for your servant hears* (3:9). The
+first word Samuel receives is the sentence on Eli's house, confirmed with an oath that its iniquity *shall
+not be removed with sacrifice or offering forever* (3:14); Eli, hearing it from the boy, says *It is
+Yahweh* (3:18). Yahweh lets *none of his words fall to the ground*; *all Israel from Dan even to
+Beersheba* knows Samuel as *a prophet of Yahweh*; and *the word of Samuel came to all Israel* (3:19–4:1a).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -84,7 +93,7 @@ merge, or reorder them freely.
 - [x] [[The Song of Hannah]] — 1 Samuel 2:1–11
 - [x] [[The Sins of Eli's Sons]] — 1 Samuel 2:12–26
 - [x] [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36
-- [ ] Yahweh Calls Samuel — 1 Samuel 3:1–4:1a
+- [x] [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a
 - [ ] The Ark Is Captured — 1 Samuel 4:1b–22
 - [ ] The Ark Among the Philistines — 1 Samuel 5:1–12
 - [ ] The Ark Returns to Israel — 1 Samuel 6:1–7:1
@@ -147,6 +156,11 @@ merge, or reorder them freely.
 - [[Hardening of the Heart]] — *because Yahweh intended to kill them* (2:25)
 - [[Prophecy and Vision]] — the man of God's oracle against Eli's house (2:27–36)
 - [[Retribution]] — *those who honor me I will honor* (2:30)
+- [[Call and Election]] — Yahweh calls the boy Samuel four times at Shiloh (3:4–10)
+- [[Judgment]] — the sentence on Eli's house, given twice (2:27–36; 3:11–14)
+- [[Atonement]] — iniquity *not removed with sacrifice or offering forever* (3:14)
+- [[Curse]] — *his sons brought a curse on themselves* (3:13)
+- [[Light and Darkness]] — *God's lamp hadn't yet gone out* (3:3)
 
 ## Key people
 - [[Samuel]]
@@ -165,3 +179,4 @@ merge, or reorder them freely.
 - [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home
 - [[The Hill Country of Ephraim]]
 - [[Egypt]] — where Yahweh revealed himself to the house of Eli's father (2:27)
+- [[Dan (city)]] and [[Beersheba]] — *all Israel from Dan even to Beersheba* (3:20)

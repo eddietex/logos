@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh's oath, and Eli's on Samuel — 1 Samuel 3:14, 17
+
+Two oaths in one chapter. Yahweh's: *Therefore I have sworn to the house of Eli, that the iniquity of
+Eli's house shall not be removed* (3:14), sworn in the Hebrew oath form *ʾim-yiṯkappēr*, *if it will be
+atoned*, whose unstated clause is the curse (WLC). Eli's: *God do so to you, and more also, if you hide
+anything from me* (3:17), *kōh yaʿăśeh-ləḵā ʾĕlōhîm wəḵōh yôsîp̄* (WLC). The self-curse formula appeared
+first in the stored text at Ruth 1:17, sworn by Ruth on herself; here a priest lays it on a boy, to make
+him tell a word against the priest. 1–2 Samuel and 1 Kings use it often after (lemma search). See
+[[Yahweh Calls Samuel]]. Source: stored WEB 1 Samuel 3:14, 17; Ruth 1:17. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ### Hannah's vow, and Elkanah's — 1 Samuel 1:11, 21–28
 
 *She vowed a vow*, *wattiddōr neḏer* (1:11, WLC), the phrase of Jacob (Genesis 28:20) and Jephthah
@@ -609,6 +620,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:14, 17; Yahweh's oath against Eli's house and Eli's *God do so to you* laid on Samuel.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 21–28; Hannah's vow of a son, Elkanah's *his vow*, and the vow paid at Shiloh
 
 - [[Ruth at the Threshing Floor]] — Ruth 3:13; *as Yahweh lives* — Boaz's oath to redeem.

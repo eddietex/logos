@@ -69,6 +69,30 @@ records both. See [[A Man of God Against the House of Eli]] and
 Source: stored WEB 1 Samuel 2:18, 26, 35; 3:20; 8:3. 1 Kings 2:35 WEB checked at bible-api.com,
 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Called at Shiloh — 1 Samuel 3:1–4:1a
+
+*The child Samuel ministered to Yahweh before Eli* in days when *Yahweh's word was precious* (3:1). Lying in
+*Yahweh's temple, where God's ark was*, before *God's lamp* had gone out, he hears his name and runs to Eli
+three times: *Here I am; for you called me* (3:3–8). The narrator explains: *Samuel didn't yet know Yahweh,
+neither was Yahweh's word yet revealed to him* (3:7), *ṭerem*, *not yet*, where Eli's sons simply *didn't
+know Yahweh* (2:12, WLC). Eli teaches him the answer; when *Yahweh came, and stood, and called as at other
+times, "Samuel! Samuel!"*, he says *Speak; for your servant hears* (3:9–10), without the *Yahweh* of Eli's
+version (WLC). He says *hinnēnî* to the first single call and to Eli, not to the doubled call (3:4–8, 16);
+see [[Jacob, Jacob - The Doubled Name and Hinneni]], corrected on this point.
+
+His first word from Yahweh is the sentence on the house that raised him: *I will perform against Eli all
+that I have spoken concerning his house* (3:11–14). He is *afraid to show Eli the vision*, opens the doors
+of Yahweh's house in the morning as usual, and when Eli binds him with an oath tells him *every bit*
+(3:15–18). Then the summary of a career: *Samuel grew, and Yahweh was with him, and let none of his words
+fall to the ground*; *all Israel from Dan even to Beersheba knew that Samuel was established*, *neʾĕmān*,
+*to be a prophet of Yahweh*; and *the word of Samuel came to all Israel* (3:19–4:1a, WLC). It is the first
+*nāḇîʾ*, *prophet*, in 1 Samuel. *Neʾĕmān* is the word of the *faithful priest* of 2:35, which keeps
+Samuel among the candidates for that figure; see [[A Sure House - The Faithful Priest and the House of David]].
+See [[Yahweh Calls Samuel]] and
+[[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]].
+
+Source: stored WEB 1 Samuel 2:12; 3:1–4:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -76,6 +100,7 @@ Source: stored WEB 1 Samuel 2:18, 26, 35; 3:20; 8:3. 1 Kings 2:35 WEB checked at
 - Stays at Shiloh and *served Yahweh before Eli the priest* — 2:11.
 - Ministers in a linen ephod; grows *with Yahweh and with men* beside Eli's sons — 2:18–26.
 - Not named, but one common identification of the man of God's *faithful priest* — 2:35.
+- Called four times by Yahweh at night in the temple at Shiloh; receives and tells the word against Eli's house; known *from Dan even to Beersheba* as a prophet — 3:1–4:1a.
 
 ## Appears in
 
@@ -83,6 +108,7 @@ Source: stored WEB 1 Samuel 2:18, 26, 35; 3:20; 8:3. 1 Kings 2:35 WEB checked at
 - [[The Song of Hannah]] — 1 Samuel 2:11.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:18–21, 26.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35 (not named; a proposed identification).
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a.
 
 ## Related people
 

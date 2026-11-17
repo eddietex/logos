@@ -11,7 +11,8 @@ tags: [connection]
 - **Genesis 46:2** — [[Jacob's Family Settles in Egypt]]. *"Jacob, Jacob!" He said, "Here I am."*
 - **Exodus 3:4** — [[The Burning Bush]]. *God called to him out of the middle of the bush, and said,
   "Moses! Moses!" He said, "Here I am."*
-- **1 Samuel 3:10** — Shiloh; *Samuel, Samuel*.
+- **1 Samuel 3:4–10** — [[Yahweh Calls Samuel]]. *Yahweh called Samuel; and he said, "Here I am"* (3:4); then
+  *"Samuel! Samuel!" Then Samuel said, "Speak; for your servant hears"* (3:10).
 - **Luke 10:41** — *Martha, Martha*.
 - **Luke 22:31** — *Simon, Simon*.
 - **Acts 9:4** — the Damascus road; *Saul, Saul*.
@@ -31,7 +32,8 @@ ordinary.**
 | **Luke 22:31** | Simon Peter, at the table | *Satan asked to have you* |
 | **Acts 9:4** | Saul, on the ground | the turning of the persecutor |
 
-**Four of the seven are Old Testament, and all four are answered with the same word.** ***Hinnēnî*** —
+**Four of the seven are Old Testament. Three are answered with the same word, and the fourth is answered
+with another** (see *Samuel at Shiloh* below). ***Hinnēnî*** —
 ***"Here I am"*** — **is not a statement of location.** It is the Hebrew for placing oneself at
 someone's disposal, and Genesis has used it of [[Abraham]] three times in one chapter (22:1, 7, 11),
 of [[Jacob]] here, and of [[Joseph]] at 37:13 when his father sends him to Shechem to look for his
@@ -92,4 +94,18 @@ this is the same voice.**
 
 **It also supplies the pattern the calls of the Old Testament are built on**: **a name said twice, one
 word in reply, and an instruction.** **Moses and Samuel both receive their commissions in that form**,
-and in both cases the reply is Jacob's. See [[Call and Election]] and [[Prophecy and Vision]].
+and Moses' reply is Jacob's. Samuel's is not quite: see below. See [[Call and Election]] and
+[[Prophecy and Vision]].
+
+### Samuel at Shiloh — 1 Samuel 3
+
+**Correction, 2026-11-17.** This page earlier said all four Old Testament doubled-name calls are answered
+with *hinnēnî*, and that Samuel's reply is Jacob's. The Hebrew and the WEB of 1 Samuel 3 do not support
+that. Samuel says *hinnēnî* five times in the chapter (3:4, 5, 6, 8, 16, WLC): once to Yahweh's first,
+*single* call (4), three times to Eli in the mistaken belief that Eli called (5, 6, 8), and once to Eli in
+the morning (16). To the doubled call, *Samuel! Samuel!* (10), he answers with the words Eli taught him,
+*Speak; for your servant hears*, *dabbēr kî šōmēaʿ ʿaḇdeḵā* (10, WLC), dropping the *Yahweh* of Eli's
+version (9). So the shape holds — name twice, a reply of availability, an instruction — but the reply
+has changed from *Here I am* to *Speak … your servant hears*: from presenting oneself to listening. See
+[[Yahweh Calls Samuel]]. Source: stored WEB 1 Samuel 3:4–16; Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.

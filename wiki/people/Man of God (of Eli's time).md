@@ -31,13 +31,22 @@ recalled, not verified, and not supported by anything in 1 Samuel.
 Source: stored WEB 1 Samuel 2:27–36; 3:11–14; 4:11; 9:6; Deuteronomy 33:1. 1 Kings 2:27 WEB checked at
 bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### His word confirmed to Samuel — 1 Samuel 3:11–14
+
+He does not appear again, but his oracle does. Yahweh tells the boy Samuel, *In that day I will perform
+against Eli all that I have spoken concerning his house, from the beginning even to the end* (3:12), which
+reaches back to 2:27–36. The second telling comes from inside the house, through the child Eli raised, and
+Eli has to ask for it. See [[Yahweh Calls Samuel]]. Source: stored WEB 1 Samuel 3:11–14.
+
 ## Timeline / key events
 
 - Comes to Eli with Yahweh's word against his house — 1 Samuel 2:27–36.
+- His oracle confirmed by Yahweh to Samuel — 3:11–14.
 
 ## Appears in
 
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36.
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:12 (his word referred to; not present).
 
 ## Related people
 

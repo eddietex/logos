@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *His sons brought a curse on themselves* — 1 Samuel 3:13
+
+*Məqalləlîm lāhem bānāw* (3:13, WLC), *his sons were cursing for themselves*, or *making themselves
+contemptible*: the Piel participle of *qālal*, the root of *those who despise me will be cursed*,
+*yēqallû* (2:30). Those who made God light are made light. The reading is disputed: a rabbinic list of
+scribal corrections is commonly said to include the verse, with *ʾĕlōhîm*, *God*, softened to *lāhem*,
+*themselves*, and the Septuagint is commonly reported to read *speaking evil of God* (both recalled from
+standard commentary, not checked). See [[Yahweh Calls Samuel]]. Source: stored WEB 1 Samuel 2:30; 3:13.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Will be made light* — 1 Samuel 2:30
 
 *Those who despise me will be cursed* (2:30). The verb is *qālal*, *be light, be slight*, set against
@@ -392,6 +402,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:13; *məqalləlîm lāhem*, the sons *brought a curse on themselves*.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:30; *qālal*, *be light*, against *kāḇēḏ*, *honor*.
 - [[Wives for Benjamin]] — Judges 21:18; *Cursed is he who gives a wife to Benjamin*.
 - [[Micah's Idol and Levite]] — Judges 17:2; a mother's curse on a thief, heard by her son.

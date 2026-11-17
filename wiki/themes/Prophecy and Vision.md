@@ -6,6 +6,21 @@ tags: [theme]
 
 ## Definition / overview
 
+### *There were not many visions* — 1 Samuel 3:1–4:1a
+
+The call of Samuel opens on scarcity: *Yahweh's word was precious in those days. There were not many
+visions, then* (3:1); *ḥāzôn*, *vision*, occurs in the WLC files of Genesis through 1 Kings only here
+(lemma search). It closes on abundance: *Yahweh appeared again in Shiloh; for Yahweh revealed himself to
+Samuel in Shiloh by Yahweh's word*, and *the word of Samuel came to all Israel* (3:21–4:1a). Between, the
+first word the boy receives is the man of God's sentence on Eli's house, confirmed (3:11–14); 3:15 calls it
+*the vision*, *hammarʾâ* (WLC). The chapter then states the prophet's credentials in two ways: Yahweh
+*let none of his words fall to the ground* (3:19), the fulfilment test of Deuteronomy 18:21–22, and *all
+Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of Yahweh* (3:20), the
+first *nāḇîʾ* in 1 Samuel. *Both the ears of everyone who hears it will tingle* (3:11) recurs against
+Jerusalem in 2 Kings 21:12 and Jeremiah 19:3 (WEB checked). See [[Yahweh Calls Samuel]] and
+[[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]]. Source: stored WEB 1
+Samuel 3:1–4:1a; Deuteronomy 18:21–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The first oracle in 1 Samuel — 1 Samuel 2:27–36
 
 The book's first prophetic word comes from an anonymous [[Man of God (of Eli's time)]], *ʾîš ʾĕlōhîm*
@@ -271,6 +286,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a; the word *precious*, the boy called, the vision told, and a prophet known from Dan to Beersheba.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; an unnamed man of God's oracle, with a near sign and a far fulfilment.
 - [[The Danite Migration]] — Judges 18:5–6; *ask counsel of God*, and the hired priest's *Go in peace … before Yahweh*.
 - [[The Dream of the Barley Loaf]] — Judges 7:13–14; a dream told and interpreted in Midian's camp.

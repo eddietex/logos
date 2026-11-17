@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### All Israel knows a prophet — 1 Samuel 3:20
+
+The south end of the formula again: *All Israel from Dan even to Beersheba knew that Samuel was
+established to be a prophet of Yahweh* (3:20). See [[Yahweh Calls Samuel]] and [[Dan (city)]]. Source:
+stored WEB 1 Samuel 3:20.
+
 ### *From Dan even to Beersheba* — Judges 20:1
 
 Beersheba is the south end of the whole land in the formula's first use: *the congregation was assembled
@@ -89,6 +95,7 @@ is the standing formula for the whole land, north to south, and Beersheba is the
 every one of them.
 
 ## Appears in
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:20; *from Dan even to Beersheba*.
 - [[The War Against Benjamin]] — Judges 20:1; *from Dan even to Beersheba*.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 

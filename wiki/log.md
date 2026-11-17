@@ -28332,3 +28332,48 @@ Sources: 1 Samuel from stored WEB, including the not-yet-ingested 3:11–14, 20;
 2026-11-17; not stored in raw. Hebrew from a fresh download of the Westminster Leningrad Codex
 (OpenScriptures morphhb) XML, `Gen` through `Ruth`, `1Sam`, `2Sam`, and `1Kgs`, 2026-11-17; occurrence
 claims cover those files. No Greek text, Septuagint, or Qumran text was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 3.1-4.1a — Yahweh Calls Samuel
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+the call of Samuel, 3:1–4:1a, ingested as planned. 1 Samuel is now 5 / 47.
+
+Created: passage [[Yahweh Calls Samuel]]; connection
+[[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes, and places); people [[Samuel]], [[Eli]],
+[[Hophni]], [[Phinehas (son of Eli)]], and [[Man of God (of Eli's time)]]; places [[Shiloh]],
+[[Dan (city)]], and [[Beersheba]]; themes [[Prophecy and Vision]], [[Call and Election]], [[Judgment]],
+[[Atonement]], [[Sacrifice and Offering]], [[Oaths and Vows]], [[Curse]], [[The Dwelling of God]], and
+[[Light and Darkness]]; connections [[Jacob, Jacob - The Doubled Name and Hinneni]],
+[[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]],
+[[They Didn't Know Yahweh - Pharaoh, the Generation After Joshua, and Eli's Sons]],
+[[A Sure House - The Faithful Priest and the House of David]], and
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]]. Also `wiki/books/index.md`,
+People Index A-E, F-M, and N-Z, Connections Index A-C, D-H, I-N, O-S, and T-Z, the places and themes
+indexes, and the dashboard counts. Frontmatter totals: 491 passages, 365 people, 598 places, 88 themes,
+936 connections.
+
+Contradiction flagged and corrected: [[Jacob, Jacob - The Doubled Name and Hinneni]] said all four Old
+Testament doubled-name calls are answered with *hinnēnî* and that Samuel's reply *is Jacob's*. In the WLC
+and the WEB, Samuel answers the doubled call of 3:10 with *Speak; for your servant hears*; his *hinnēnî*
+answers the single call of 3:4 and Eli (3:5, 6, 8, 16). The page now says so in a dated correction.
+
+Judgment calls: the boundary 3:1–4:1a stands, with 4:1a closing the call; the next pericope begins at
+4:1b. The next title, *The Ark Is Captured*, is named in plain text, not linked, until its page exists.
+Hophni and Phinehas are listed on the passage page though unnamed, since 3:13 concerns them. No new person
+or place pages were needed.
+
+Recorded, not resolved: whether Samuel slept beside the ark (3:3); the text of *məqalləlîm lāhem* (3:13),
+with the reported scribal correction and Septuagint reading flagged as recalled, not checked; whether the
+*kihâ* / *kēhôṯ* echo (3:2, 13) is intended; and whether Eli's *It is Yahweh* (3:18) is submission or
+resignation.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 4:1, 3–4, 11, 18; 9:9. Comparisons from
+stored WEB Genesis 22:11; 27:1; 35:7; 46:2; Exodus 3:4; 5:2; 27:21; 34:5; Leviticus 24:3; Numbers 15:30–31;
+22:22; 24:1; Deuteronomy 18:21–22; 34:7; Joshua 21:45; 23:14; Judges 2:10; 16:20; 20:1; Ruth 1:17. 2 Kings
+10:10; 21:10, 12; Jeremiah 19:3; and Acts 3:24 checked against the WEB at bible-api.com
+(`translation=web`), 2026-11-17; not stored in raw. Jeremiah 7:12 cited by reference only. Hebrew from a
+fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML, `Gen` through `Ruth`,
+`1Sam`, `2Sam`, `1Kgs`, `2Kgs`, and `Jer`, 2026-11-17; occurrence claims cover `Gen` through `1Kgs` unless
+stated. No Greek text, Septuagint, or rabbinic source was consulted.

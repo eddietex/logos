@@ -7,6 +7,20 @@ tags: [place]
 
 ## Overview
 
+### The lamp, the ark, and the doors — 1 Samuel 3:1–21
+
+Samuel lies *in Yahweh's temple, where God's ark was*, before *God's lamp* has gone out (3:3), and Yahweh
+calls him there. In the morning he *opened the doors of Yahweh's house* (3:15). *Hêḵal YHWH* (3:3, WLC) is
+the word of 1:9; a sanctuary with doors is a building, while 2:22 still names *the Tent of Meeting*, and
+the text does not reconcile the two. The chapter ends with the place renewed as a seat of revelation:
+*Yahweh appeared again in Shiloh; for Yahweh revealed himself to Samuel in Shiloh by Yahweh's word* (3:21).
+The next chapter takes the ark out of it (4:3–4, stored WEB; not yet ingested), and Jeremiah later points
+to Shiloh as a sanctuary Yahweh judged (Jeremiah 7:12, cited by reference only). See
+[[Yahweh Calls Samuel]] and
+[[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]].
+
+Source: stored WEB 1 Samuel 1:9; 2:22; 3:3, 15, 21; 4:3–4. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *My habitation* — 1 Samuel 2:27–36
 
 The man of God's oracle against Eli speaks of *my sacrifice and … my offering, which I have commanded in my
@@ -106,6 +120,7 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:3, 15, 21; the call by the ark, the doors opened, Yahweh appearing again.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; Yahweh's *habitation*; the word against Eli's house.
 
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–26; the sacrifices seized, the women at the Tent's door, Samuel ministering.

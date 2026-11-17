@@ -33,6 +33,16 @@ hardest.
 
 ## Development across Scripture
 
+### *God's lamp hadn't yet gone out* — 1 Samuel 3:2–3
+
+The call of Samuel is set at night between two lights: Eli's eyes *had begun to grow dim, so that he could
+not see* (3:2), and *God's lamp hadn't yet gone out* (3:3). The lamp was to burn *from evening to morning
+before Yahweh* (Exodus 27:21; Leviticus 24:3), so the clause dates the scene before dawn. The old priest's
+fading sight and the lamp still burning are set side by side, and many readers take them as a figure for
+the state of Israel's leadership and the word about to be given; the text does not interpret them. See
+[[Yahweh Calls Samuel]] and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]]. Source:
+stored WEB 1 Samuel 3:2–3; Exodus 27:21; Leviticus 24:3.
+
 ### Morning light and midnight — Judges 16:2–3
 
 The Gazites wait *until morning light* to kill Samson (16:2); he rises *at midnight* and is gone with their
@@ -365,6 +375,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
 ## Key passages
 
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:2–3; Eli's dim eyes and *God's lamp* not yet out.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–20; torches hidden in jars and shown at the middle watch.
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

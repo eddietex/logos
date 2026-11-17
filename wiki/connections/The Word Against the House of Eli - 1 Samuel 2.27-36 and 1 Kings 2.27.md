@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36 *(stored WEB)*
-- 1 Samuel 3:11–14 — the word repeated to Samuel: *In that day I will perform against Eli all that I have
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:11–14, the word repeated to Samuel: *In that day I will perform against Eli all that I have
   spoken concerning his house, from the beginning even to the end* (3:12) *(stored WEB; not yet ingested)*
 - 1 Samuel 4:11, 18 — *the two sons of Eli, Hophni and Phinehas, were slain*; Eli falls and dies *(stored
   WEB; not yet ingested)*
@@ -30,6 +30,15 @@ distances:
 | *the man of yours, whom I don't cut off from my altar* (33) | commonly read as Abiathar, the one who escapes Nob (22:20) |
 | *I will raise me up a faithful priest* (35) | read as Samuel (3:20), or Zadok installed *in the place of Abiathar* (1 Kings 2:35) |
 | *everyone who is left in your house will … bow down to him* (36) | no narrated fulfilment |
+
+**Repeated, and sharpened.** At 3:11–14 Yahweh tells the boy Samuel the same sentence: *I will perform
+against Eli all that I have spoken concerning his house, from the beginning even to the end* (3:12). The
+second telling adds the charge that *he didn't restrain them* (3:13) and an oath that *the iniquity of
+Eli's house shall not be removed with sacrifice or offering forever* (3:14). Its opening, *both the ears
+of everyone who hears it will tingle* (3:11), is reused against Jerusalem; see
+[[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]]. Eli, told it by Samuel
+under oath, answers *It is Yahweh. Let him do what seems good to him* (3:18). Source: stored WEB 1 Samuel
+3:11–18.
 
 **The genealogy that joins them.** The chain from Eli to Abiathar is given in 1 Samuel itself: Ahijah is
 *the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli* (14:3), and Abiathar is *one

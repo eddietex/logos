@@ -13,7 +13,7 @@ tags: [connection]
   Yahweh, nor the work which he had done for Israel.*
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12: *Now the sons of Eli were wicked men. They didn't know
   Yahweh.*
-- **1 Samuel 3:7** *(not yet ingested)* — *Now Samuel didn't yet know Yahweh, neither was Yahweh's word
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:7: *Now Samuel didn't yet know Yahweh, neither was Yahweh's word
   yet revealed to him.*
 
 ## Analysis

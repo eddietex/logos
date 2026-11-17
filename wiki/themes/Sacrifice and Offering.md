@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sacrifice that will not avail — 1 Samuel 3:14
+
+The house that took the sacrifices by force (2:13–17) and *kicked* at them (2:29) is told by oath that
+*the iniquity of Eli's house shall not be removed with sacrifice or offering forever* (3:14). *Zeḇaḥ* and
+*minḥâ* (WLC), the animal sacrifice and the grain offering, stand for the whole system, and the system
+cannot reach this iniquity. See [[Yahweh Calls Samuel]] and [[Atonement]]. Source: stored WEB 1 Samuel
+2:13–17, 29; 3:14. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Why do you kick at my sacrifice?* — 1 Samuel 2:29
 
 The man of God names the sons' offence from Yahweh's side: *Why do you kick at my sacrifice and at my
@@ -889,6 +897,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:14; *not removed with sacrifice or offering forever*.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–29; *kick at my sacrifice*; fattened on *the best of all the offerings*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:13–17; the fork in the pot, raw meat before the fat is burned; *despised the offering of Yahweh*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–5, 21–25; the yearly sacrifice and its portions; bulls, flour, and wine brought with the child

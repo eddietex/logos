@@ -20,6 +20,8 @@ tags: [connection]
   *(stored WEB; ingested)*.
 
 - **Numbers 8:1–4** — Aaron told to light the lamps, and doing it — [[The Lamps and the Levites Cleansed]].
+- **1 Samuel 3:3** — *God's lamp hadn't yet gone out* at Shiloh — [[Yahweh Calls Samuel]].
+  *(stored WEB)*
 
 ## Analysis
 
@@ -55,6 +57,13 @@ and consecration are still to be prescribed. See [[Priesthood]], [[Aaron]], and 
 Source check: Exodus read in `raw/bible/Exodus.md`; Leviticus 24:1–4 fetched individually from
 bible-api.com with `translation=web` on 2026-10-23 (public-domain WEB). That earlier comparison paraphrased the verified texts without ingesting Leviticus.
 Leviticus 24:1–9 is now ingested from the stored raw book (2026-10-30).
+
+**The lamp at Shiloh.** 1 Samuel 3:3 dates Yahweh's call of Samuel by the lamp: *God's lamp hadn't yet
+gone out*, *nēr ʾĕlōhîm ṭerem yiḵbeh* (WLC). If the rule of Exodus 27:21 and Leviticus 24:3 was being
+kept, a lamp burning *from evening to morning* that had not yet gone out places the call in the night,
+before dawn; 3:15 then has Samuel open the doors *in the morning*. Readers often hear a figure in it, the light
+of Israel not yet extinguished in the days of Eli; the text does not draw it. Source: stored WEB 1 Samuel
+3:3, 15; Exodus 27:21; Leviticus 24:3; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

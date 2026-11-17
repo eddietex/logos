@@ -12,8 +12,8 @@ tags: [connection]
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35; *I will raise me up a faithful priest, that
   will do according to that which is in my heart and in my mind. I will build him a sure house; and he
   will walk before my anointed forever.* *(stored WEB)*
-- 1 Samuel 3:20 — *All Israel from Dan even to Beersheba knew that Samuel was established to be a prophet
-  of Yahweh.* *(stored WEB; not yet ingested)*
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:20; *All Israel from Dan even to Beersheba knew that Samuel was
+  established to be a prophet of Yahweh.* *(stored WEB)*
 - 1 Samuel 25:28 — Abigail: *For Yahweh will certainly make my lord a sure house, because my lord fights
   Yahweh's battles.* *(stored WEB; not yet ingested)*
 - 2 Samuel 7:16 — Nathan: *Your house and your kingdom will be made sure forever before you. Your throne

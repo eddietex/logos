@@ -44,17 +44,31 @@ ingested). See [[A Man of God Against the House of Eli]].
 
 Source: stored WEB 1 Samuel 2:29, 34; 4:11.
 
+### *His sons brought a curse on themselves* — 1 Samuel 3:13
+
+Not named in the chapter, the brothers are the cause of the sentence Yahweh repeats to the boy Samuel: Eli's
+house is judged *because his sons brought a curse on themselves, and he didn't restrain them* (3:13).
+*Məqalləlîm lāhem* (WLC), literally *cursing for themselves* or *making themselves contemptible*, is
+commonly reported to be a scribal softening of *cursing God*, with the Septuagint reading *speaking evil
+of God* (recalled from standard commentary, not checked). The iniquity of the house *shall not be removed
+with sacrifice or offering forever* (3:14): the priests who abused the sacrifices (2:13–17) are told the
+sacrifices cannot cover them. See [[Yahweh Calls Samuel]].
+
+Source: stored WEB 1 Samuel 2:13–17; 3:13–14. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Priest at Shiloh with his brother — 1 Samuel 1:3.
 - With his brother, seizes the sacrifices and lies with the women at the Tent's door; ignores Eli's rebuke — 2:12–25.
 - Named in the sign of the man of God: both brothers to die in one day — 2:34.
+- Not named; the sons whose curse brings the sentence Yahweh repeats to Samuel — 3:13–14.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–17, 22–25.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:34.
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:13 (not named).
 
 ## Related people
 

@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Both the ears … will tingle* — 1 Samuel 3:11–14
+
+Yahweh repeats to the boy Samuel the sentence the man of God brought to Eli: *I will perform against Eli
+all that I have spoken concerning his house, from the beginning even to the end* (3:12). It adds a charge
+and an oath. The charge: *for the iniquity which he knew, because his sons brought a curse on themselves,
+and he didn't restrain them* (3:13). The oath: *the iniquity of Eli's house shall not be removed with
+sacrifice or offering forever* (3:14). *Judge* is *šōp̄ēṭ* (3:13, WLC), the participle of the verb that
+names the book of Judges. Eli's reply, *It is Yahweh. Let him do what seems good to him* (3:18), accepts
+the verdict without appeal. The image *both the ears of everyone who hears it will tingle* (3:11) recurs
+when Yahweh pronounces judgment on Jerusalem (2 Kings 21:12; Jeremiah 19:3, WEB checked). See
+[[Yahweh Calls Samuel]] and
+[[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]]. Source: stored WEB 1
+Samuel 3:11–18. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The sentence on Eli's house — 1 Samuel 2:27–36
 
 What Eli's question *who will intercede for him?* (2:25) left open, the man of God closes. Yahweh
@@ -1144,6 +1158,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:11–18; the sentence on Eli's house confirmed, with its oath, and accepted.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the sentence on Eli's house, from its sign (2:34) to Abiathar (1 Kings 2:27).
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *God will judge him*; *Yahweh intended to kill them*.
 - [[The Song of Hannah]] — 1 Samuel 2:9–10; *Yahweh will judge the ends of the earth*.

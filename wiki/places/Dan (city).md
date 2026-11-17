@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### All Israel knows a prophet — 1 Samuel 3:20
+
+*All Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of Yahweh* (3:20).
+The formula's second use in the WLC files of Genesis through 1 Kings (lemma search); its first, Judges
+20:1, gathered the tribes to war on Benjamin. See [[Yahweh Calls Samuel]] and [[Beersheba]]. Source:
+stored WEB 1 Samuel 3:20; Judges 20:1; Hebrew WLC, 2026-11-17.
+
 ### *From Dan even to Beersheba* — Judges 20:1
 
 The assembly gathers *from Dan even to Beersheba* (20:1), the first use of the formula in the WLC files of
@@ -70,6 +77,7 @@ See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
 
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:20; *from Dan even to Beersheba*.
 - [[The War Against Benjamin]] — Judges 20:1; *from Dan even to Beersheba*.
 - [[The Danite Migration]] — Judges 18:7–10, 27–31; Laish spied out, struck, burned, rebuilt, and renamed Dan.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Leshem captured and renamed (47).

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Iniquity no sacrifice will cover — 1 Samuel 3:14
+
+*Therefore I have sworn to the house of Eli, that the iniquity of Eli's house shall not be removed with
+sacrifice or offering forever* (3:14). *Removed* is *yiṯkappēr*, the Hithpael of *kāp̄ar* (WLC), which in
+the WLC files of Genesis through 1 Kings occurs only here (lemma search). The ordinary means of atonement,
+*zeḇaḥ* and *minḥâ*, are named and ruled out, by oath, for the priestly house that abused them (2:13–17,
+29). The nearest precedent in the stored law is the high-handed sinner of Numbers 15:30–31, for whom no
+offering is prescribed: *His iniquity shall be on him*. See [[Yahweh Calls Samuel]]. Source: stored WEB
+1 Samuel 2:13–17, 29; 3:14; Numbers 15:30–31. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The closing WEB line says Yahweh will make atonement for his land and people (43), beside avenging his servants’ blood. No priest, altar, or animal rite is prescribed here. The poem connects restored land and people with divine action against bloodshed, without defining a ritual mechanism.
@@ -348,6 +358,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
 
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:14; *yiṯkappēr*, iniquity not removed *with sacrifice or offering forever*.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

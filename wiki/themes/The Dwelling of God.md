@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The ark, the lamp, and the doors — 1 Samuel 3:3, 15, 21
+
+Samuel sleeps *in Yahweh's temple, where God's ark was*, while *God's lamp hadn't yet gone out* (3:3), and
+in the morning *opened the doors of Yahweh's house* (3:15). The temple has an ark, a lamp tended *from
+evening to morning* (Exodus 27:21), and doors, so it is a building; 2:22 still calls the sanctuary *the
+Tent of Meeting*, and the text does not reconcile the two. Here Yahweh *came, and stood* (3:10), and
+*appeared again in Shiloh* (3:21): the dwelling becomes again a place of meeting. The next chapter takes
+the ark out of it. See [[Yahweh Calls Samuel]] and [[Shiloh]]. Source: stored WEB 1 Samuel 2:22; 3:3, 10,
+15, 21; Exodus 27:21.
+
 ### The Tent of Meeting at Shiloh — 1 Samuel 2:22
 
 1 Samuel 2:22 calls the sanctuary at Shiloh *the Tent of Meeting*, the name Joshua 18:1 gave it,
@@ -677,6 +687,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:3, 10, 15, 21; the temple with the ark, the lamp, and doors; Yahweh *came, and stood*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:18–22; the Tent of Meeting at Shiloh; the boy ministering, the priests defiling its door.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7, 9, 22, 24; *Yahweh's house* and *Yahweh's temple* at Shiloh; *appear before Yahweh … forever*
 

@@ -73,6 +73,25 @@ Abiathar (1 Kings 2:27, WEB checked at bible-api.com). See [[A Man of God Agains
 Source: stored WEB 1 Samuel 2:27–36; 4:18; 14:3; 22:20. 1 Kings 2:27 and 1 Chronicles 24:3 WEB checked at
 bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### The boy hears what Eli had heard — 1 Samuel 3:1–18
+
+Eli lies *in his place*, his eyes *beginning to grow dim, so that he could not see* (3:2); *kēhôṯ*, *dim*, is
+the root of Isaac's failing eyes (Genesis 27:1) and of Moses' that were *not dim* (Deuteronomy 34:7, WLC).
+Three times the boy runs to him, and twice he sends him back; *the third time … Eli perceived that Yahweh
+had called the child* and teaches him the answer, *Speak, Yahweh; for your servant hears* (3:5–9). The word
+that follows is against Eli himself: Yahweh will judge his house *for the iniquity which he knew, because
+his sons brought a curse on themselves, and he didn't restrain them*, and has sworn that its iniquity
+*shall not be removed with sacrifice or offering forever* (3:13–14). *Kihâ*, *restrain* (3:13), shares its
+consonants with *kēhôṯ*, *dim* (3:2); morphhb lemmatizes them as homonyms (3543 b, 3544), and whether the
+echo is intended is not recoverable. Eli rebuked his sons (2:23–25); this verse judges the rebuke
+insufficient. In the morning Eli calls *Samuel, my son*, lays an oath on him (*God do so to you, and more
+also*), hears every word, and says *It is Yahweh. Let him do what seems good to him* (3:16–18). The text
+records the sentence without comment; readers take it as submission or as resignation. See
+[[Yahweh Calls Samuel]].
+
+Source: stored WEB 1 Samuel 2:23–25; 3:1–18; Genesis 27:1; Deuteronomy 34:7. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Priest at Shiloh, with his sons Hophni and Phinehas — 1 Samuel 1:3, 9.
@@ -81,6 +100,7 @@ bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 - The child serves Yahweh before him — 2:11.
 - Blesses Elkanah and Hannah; hears of his sons' sins and rebukes them; they do not listen — 2:20–25.
 - A man of God pronounces judgment on his house: no old man in it, his sons to die in one day, a faithful priest to replace it — 2:27–36.
+- Teaches the boy Samuel to answer Yahweh; hears from him the sentence on his house, and accepts it: *It is Yahweh* — 3:1–18.
 
 ## Appears in
 
@@ -88,6 +108,7 @@ bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 - [[The Song of Hannah]] — 1 Samuel 2:11.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:20–25.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36.
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:2–18.
 
 ## Related people
 

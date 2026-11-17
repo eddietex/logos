@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### A boy who did not yet know the voice — 1 Samuel 3:1–10
+
+Yahweh calls Samuel four times at night in the temple at Shiloh. Three times the boy runs to Eli, *Here I
+am; for you called me*, because *Samuel didn't yet know Yahweh, neither was Yahweh's word yet revealed to
+him* (3:4–8). The old priest recognizes the caller before the one called does, and teaches him the
+answer. Then *Yahweh came, and stood, and called as at other times, "Samuel! Samuel!"* (3:10), the doubled
+name of Abraham, Jacob, and Moses. Samuel answers it not with *Here I am* but *Speak; for your servant
+hears* (3:10, WLC; see [[Jacob, Jacob - The Doubled Name and Hinneni]], corrected on this point). The
+call carries no commission in words, no sign, and no objection, unlike Moses' or Gideon's; its content is
+a sentence on someone else's house (3:11–14), and the calling is confirmed by what follows: *Yahweh was
+with him, and let none of his words fall to the ground* (3:19). See [[Yahweh Calls Samuel]]. Source:
+stored WEB 1 Samuel 3:1–19. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### A chosen house unchosen — 1 Samuel 2:28–30
 
 *Didn't I choose him out of all the tribes of Israel to be my priest …?* (2:28). The man of God grounds his
@@ -322,6 +335,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Yahweh Calls Samuel]] — 1 Samuel 3:1–10, 19–20; the boy called four times, taught to answer by Eli, and established as a prophet.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–35; *Didn't I choose him out of all the tribes*; the chosen house displaced.
 - [[Jephthah Called from Tob]] — Judges 11:5–11; a deliverer fetched by elders and made head by the people, not called by Yahweh.
 - [[The Call of Gideon]] — Judges 6:11–24; sent, objects, promised presence, given a sign.
