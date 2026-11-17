@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Weeping at the feast — 1 Samuel 1:7–10, 18
+
+At the yearly feast, provoked by her rival, Hannah *wept, and didn't eat* (1:7). Elkanah asks *why do you
+weep? Why don't you eat? Why is your heart grieved?* (1:8). She prays *in bitterness of soul*, *mārat
+nāp̄eš* (1:10, WLC) — the phrase used of Dan's *angry fellows* (Judges 18:25) and of the *discontented* who
+gather to David (1 Samuel 22:2) — and calls herself *a woman of a sorrowful spirit* (1:15). The grief ends
+in a narrated change of face: *the woman went her way, and ate; and her facial expression wasn't sad any
+more* (1:18), before any child is conceived. See [[Hannah Asks Yahweh for a Son]].
+
+Source: stored WEB 1 Samuel 1:1–28; 22:2; Judges 18:25. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Bitterness in Bethlehem — Ruth 1:20–21
 
 The first act of Ruth ends in a complaint, not a funeral. Naomi tells the women of Bethlehem to call her
@@ -324,6 +335,8 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 *trouble*. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:14.
 
 ## Key passages
+
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7–10, 18; weeping and not eating at the feast; *bitterness of soul*; the face no longer sad
 
 - [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *Call me Mara*; the complaint that ends chapter 1.
 - [[Ruth Clings to Naomi]] — Ruth 1:9, 13–14; the widows weep at the parting, twice.

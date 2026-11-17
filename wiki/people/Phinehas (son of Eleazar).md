@@ -85,7 +85,9 @@ this Moses?* ends on the heir in whom Aaron's priesthood is confirmed.** See
 [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]], which reads his zeal beside
 Levi's sword at Shechem.
 
-The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1:3).
+The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1:3), now
+[[Phinehas (son of Eli)]]. The WLC spells both names *Pînəḥās*; 1 Samuel does not say whether Eli's line
+descends from this Phinehas. See [[Hannah Asks Yahweh for a Son]].
 
 ## Timeline / key events
 
@@ -109,6 +111,7 @@ The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1
 
 ## Related people
 
+- [[Phinehas (son of Eli)]] — the later priest at Shiloh who bears his name (1 Samuel 1:3)
 - [[Eleazar (son of Aaron)]] — his father
 - [[Aaron]], [[Elisheba]] — his grandparents
 - [[Levi]] — his tribe, whose sword he will take up again

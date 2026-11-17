@@ -24,6 +24,8 @@ tags: [connection]
 - **Leviticus 26:42, 45** — *"then I will remember my covenant with Jacob; and also my covenant with
   Isaac, and also my covenant with Abraham; and I will remember the land."* The same act, promised in
   advance for exile — [[Covenant Warnings and Remembered Promises]]
+- **1 Samuel 1:19** — *"Then Elkanah knew Hannah his wife; and Yahweh remembered her."* After her plea,
+  *remember me, and not forget your servant* (1:11) — [[Hannah Asks Yahweh for a Son]]
 - **Psalm 105:42** — *"For he remembered his holy word, and Abraham, his servant."*
 - **Luke 1:72–73** — *"to show mercy towards our fathers, to remember his holy covenant, the oath
   which he swore to Abraham, our father"*
@@ -86,6 +88,15 @@ and, for the first time, the land as an object: *wəhāʾāreṣ ʾezkōr*, *and
 (WLC). Unlike the table above, nothing follows at once. No rescue is narrated, and the next clause
 has the land still lying desolate (43). See
 [[If They Confess Their Iniquity - Leviticus 26.40-45, 1 Kings 8, Daniel 9, and Nehemiah 9]].
+
+### 1 Samuel 1:19 — remembered, after being asked to
+
+Hannah's case joins Rachel's. *Wayyizkərehā YHWH* (1 Samuel 1:19, WLC) answers a prayer that used the same
+verb, *zəḵartanî*, *remember me* (1:11), and the result is a womb opened, as at Genesis 30:22. Rachel's
+remembrance is narrated with *God listened to her*; Hannah's follows a night at home and *Elkanah knew
+Hannah his wife*, in the same verse. The rescue the verb turns on here is a birth. See
+[[Hannah Asks Yahweh for a Son]]. Source: stored WEB Genesis 30:22; 1 Samuel 1:11, 19; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

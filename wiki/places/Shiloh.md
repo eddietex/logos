@@ -7,6 +7,19 @@ tags: [place]
 
 ## Overview
 
+### Yahweh's temple, and Eli's seat — 1 Samuel 1:3–28
+
+Elkanah *went up out of his city from year to year to worship and to sacrifice to Yahweh of Armies in
+Shiloh*, where *the two sons of Eli, Hophni and Phinehas* were priests (1:3). The sanctuary here is called
+*Yahweh's house* (1:7, 24) and *Yahweh's temple*, *hêḵal YHWH*, with a *doorpost* beside which Eli sits on
+his *seat* (1:9, WLC). *Hêḵal* occurs in the WLC files of Genesis through 1 Samuel only at 1:9 and 3:3.
+Joshua set up *the Tent of Meeting* at Shiloh (Joshua 18:1); 1 Samuel 2:22 still names *the Tent of
+Meeting* there (not yet ingested). The text does not explain how tent and *temple* relate. Here Hannah
+prays and vows, and here she brings the weaned Samuel to *appear before Yahweh, and stay there forever*
+(1:9–28). The yearly visit continues the *feast of Yahweh from year to year in Shiloh* of Judges 21:19;
+see [[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]] and [[Hannah Asks Yahweh for a Son]]. Source: stored
+WEB 1 Samuel 1:3–28; 2:22; Joshua 18:1; Judges 21:19; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The camp, the feast, and the dances — Judges 21:12, 19–23
 
 The four hundred virgins of Jabesh Gilead are brought *to the camp to Shiloh, which is in the land of
@@ -69,6 +82,8 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–28; the yearly sacrifice, Hannah's vow, and Samuel given to Eli.
+
 - [[Wives for Benjamin]] — Judges 21:12, 19–23; the camp, the yearly feast, and the daughters seized.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:18; possibly the *Yahweh's house* the Levite names.
 - [[The Danite Migration]] — Judges 18:31; *God's house*, while Micah's image stood at Dan.
@@ -81,9 +96,11 @@ Source: stored WEB Joshua 18:1–10.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 ## Related places
+- [[Ramah]] — Elkanah's home, from which the family goes up yearly (1 Samuel 1:3, 19).
 - [[The Jordan]] — separates the earlier eastern grants from the new western division.
 - [[Taanath Shiloh]] — named in Joshua 16:6; no identity with Shiloh is asserted here.
 
 ## Events here
+- Elkanah's yearly sacrifice; Hannah's vow; Samuel given to Eli — 1 Samuel 1:3–28, [[Hannah Asks Yahweh for a Son]]
 - Possibly *Yahweh's house*, the Levite's stated destination — Judges 19:18, [[The Levite's Concubine at Gibeah]]
 - The Tent is set up, the written survey is returned, and Joshua casts lots before Yahweh (1, 9–10).

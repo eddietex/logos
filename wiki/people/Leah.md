@@ -238,6 +238,8 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 
 ## Related people
 
+- [[Hannah]] — who asks God to *look at the affliction of your servant* (1 Samuel 1:11), in the words
+  Leah used naming Reuben — [[Yahweh Has Looked on My Affliction - Leah, Israel in Egypt, and Hannah]]
 - [[Jacob]] — her husband by substitution, who served seven years for her sister and got her
 - [[Rachel]] — her younger sister, married to the same man a week later; the rivalry Leviticus 18:18
   names as the reason for its own prohibition

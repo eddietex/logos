@@ -9,8 +9,8 @@ tags: [connection]
 
 - [[The Birth of Obed]] — Ruth 4:15 *(stored WEB)*
 - [[Ruth Clings to Naomi]] — Ruth 1:11–12 *(stored WEB)*
-- 1 Samuel 1:8 — Elkanah to Hannah *(WEB checked at bible-api.com, not yet ingested)*
-- 1 Samuel 2:5, 21 — Hannah's song; her later children *(WEB checked at bible-api.com, not yet ingested)*
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:8, Elkanah to Hannah *(stored WEB)*
+- 1 Samuel 2:5, 21 — Hannah's song; her later children *(stored WEB; not yet ingested)*
 
 ## Analysis
 
@@ -39,6 +39,14 @@ she had (1:5); the women's *seven* is set against that two.
 **Sequence.** In the English canon Ruth stands directly before 1 Samuel, so the reader meets the
 women's *seven sons* one chapter before Elkanah's *ten sons*. Neither text cites the other; the parallel is
 in the construction, and the wiki makes no claim of dependence.
+
+### 1 Samuel 1 now ingested
+
+Read in place, 1:8 is a string of four questions, *why do you weep? Why don't you eat? Why is your heart
+grieved? Am I not better to you than ten sons?*, and the narrative answers none of them: the next verse
+has Hannah rise and go to pray (1:9). The comparison sits between two notices that *Yahweh had shut up her
+womb* (1:5, 6) and her vow (1:11), so the chapter itself sets Elkanah's *ten sons* against the one son she
+asks for. See [[Hannah Asks Yahweh for a Son]]. Source: stored WEB 1 Samuel 1:5–11; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

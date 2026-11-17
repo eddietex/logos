@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh of Armies* — 1 Samuel 1:3, 11
+
+*YHWH ṣəḇāʾôṯ*, which the WEB renders *Yahweh of Armies*, first occurs in the books stored so far at 1
+Samuel 1:3, in the narrator's voice: Elkanah goes up *to worship and to sacrifice to Yahweh of Armies in
+Shiloh*. In the WLC files of Genesis through Ruth it never occurs. The first person to use it is Hannah,
+in the address of her vow: *Yahweh of Armies, if you will indeed look at the affliction of your servant*
+(1:11). The title arrives with the sanctuary at Shiloh and, later in the book, with the ark (4:4, not yet
+ingested). Whose *armies* are meant — Israel's (compare *all of Yahweh's armies*, Exodus 12:41) or heavenly
+hosts — the chapter does not say. The barren woman addresses God by the title of armies. See [[Hannah Asks Yahweh for a Son]].
+
+Source: stored WEB 1 Samuel 1:1–28; 4:4; Exodus 12:41. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Shaddai* in Naomi's mouth — Ruth 1:20–21
 
 Naomi calls God *Shaddai*, *the Almighty*, twice, and *Yahweh* twice, in parallel lines: *Yahweh has
@@ -301,6 +313,8 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 11; *Yahweh of Armies*, its first occurrence in the books stored so far; Hannah the first to use it
 
 - [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *Shaddai* and *Yahweh* paired in Naomi's complaint.
 - [[The Call of Gideon]] — Judges 6:24; the altar *Yahweh is Peace*.

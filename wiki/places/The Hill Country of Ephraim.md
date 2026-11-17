@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Ramathaim Zophim — 1 Samuel 1:1
+
+1 Samuel opens as Judges 17 and 19 did, with a man of this hill country: *a certain man of Ramathaim
+Zophim, of the hill country of Ephraim, and his name was Elkanah* (1:1). Micah was *a man of the hill
+country of Ephraim* (Judges 17:1) and the Levite lived *on the farther side of the hill country of
+Ephraim* (19:1). The three stories share the region and the opening. See [[Hannah Asks Yahweh for a Son]] and [[Ramah]]. Source:
+stored WEB 1 Samuel 1:1; Judges 17:1; 19:1.
+
 ### The far side, and the old man — Judges 19:1, 16–18
 
 The Levite of Judges 19 lives *on the farther side of the hill country of Ephraim*, *bəyarkəṯê har-ʾep̄rāyim*
@@ -86,6 +94,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1; Elkanah's region.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16–18; the Levite's home, and his host's origin.
 - [[The Danite Migration]] — Judges 18:2, 13; the spies lodge at Micah's house, and the six hundred return to rob it.
 - [[Micah's Idol and Levite]] — Judges 17:1, 8; Micah's home, where the Levite of Bethlehem comes.

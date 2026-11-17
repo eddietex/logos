@@ -13,10 +13,10 @@ tags: [connection]
   Jephthah the Gileadite four days in a year.* Stored WEB.
 - [[Wives for Benjamin]] — Judges 21:19: *Behold, there is a feast of Yahweh from year to year in
   Shiloh.* Stored WEB.
-- **1 Samuel 1:3** *(not yet ingested; WEB checked at bible-api.com)* — *This man went up out of his city
+- [[Hannah Asks Yahweh for a Son]] — **1 Samuel 1:3** *(stored WEB)* — *This man went up out of his city
   from year to year to worship and to sacrifice to Yahweh of Armies in Shiloh.*
-- **1 Samuel 2:19** *(not yet ingested)* — Hannah brings Samuel a little robe *miyyāmîm yāmîmâ* (WLC); WEB
-  not checked for this verse.
+- **1 Samuel 2:19** *(not yet ingested)* — *his mother made him a little robe, and brought it to him from
+  year to year* (stored WEB); *miyyāmîm yāmîmâ* (WLC).
 
 ## Analysis
 
@@ -42,6 +42,15 @@ the two describe the same annual festival is likely and is not stated.
 means, *a feast of Yahweh*, it does not say; *ḥaḡ YHWH* is what Leviticus 23:39 calls the autumn feast of
 ingathering, and some readers take the vineyards of 21:20 as a sign of that season. Reported, not decided.
 See [[Festivals and First Fruits]] and [[Shiloh]].
+
+### 1 Samuel 1 now ingested
+
+The chapter marks the yearly rhythm three ways. 1:3 has *miyyāmîm yāmîmâ*; 1:7 has a different phrase,
+*šānâ ḇəšānâ*, *year by year*, for the rival's taunting; and 1:21 calls the offering *zeḇaḥ hayyāmîm*,
+literally *the sacrifice of the days*, which the WEB renders *the yearly sacrifice* (WLC). The feast that
+Judges 21 used as cover for a raid is, in 1 Samuel 1, the occasion of a family's grief and a woman's
+prayer. Whether it is the same annual feast remains unstated. See [[Hannah Asks Yahweh for a Son]]. Source: stored WEB 1 Samuel 1:3, 7,
+21; 2:19; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

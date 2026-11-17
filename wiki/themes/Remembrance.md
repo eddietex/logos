@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Remember me, and not forget* — 1 Samuel 1:11, 19
+
+Hannah asks Yahweh to *remember me, and not forget your servant*, *zəḵartanî wəlōʾ-tiškaḥ* (1:11, WLC). In
+the WLC files of Genesis through Ruth and 1 Samuel, *zāḵar* and *šāḵaḥ* share a verse only here, at the
+cupbearer who *didn't remember Joseph, but forgot him* (Genesis 40:23), and at Moses' *Remember, and don't
+forget* (Deuteronomy 9:7). The answer comes in the narrator's voice: *Elkanah knew Hannah his wife; and
+Yahweh remembered her* (1:19), as *God remembered Rachel* (Genesis 30:22). See [[Hannah Asks Yahweh for a Son]],
+[[God Remembered - Noah, Abraham, Rachel, and Israel]], and
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]].
+
+Source: stored WEB 1 Samuel 1:1–28; Genesis 30:22; 40:23; Deuteronomy 9:7. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Remember me, please — Judges 16:28
 
 *Zākərēnî nāʾ*, *remember me, please* (16:28, WLC), Samson's prayer at the pillars. In Judges *zākar*
@@ -846,6 +858,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 19; *remember me, and not forget*; *Yahweh remembered her*
+
 - [[The Death of Samson]] — Judges 16:28; *remember me, please*.
 - [[Jephthah's Vow]] — Judges 11:39–40; a yearly telling of the daughter's story.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15–26; the wilderness road retold as evidence, three centuries on.

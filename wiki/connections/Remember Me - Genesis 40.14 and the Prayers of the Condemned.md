@@ -12,7 +12,9 @@ tags: [connection]
 - [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:9: *"I remember my faults today"* — ***mazkîr***,
   **the causative of 40:14's verb, with the speaker's own offences as its object rather than Joseph**
 - [[The Death of Samson]] — Judges 16:28 — Samson: *"Lord Yahweh, remember me, please, and strengthen me, please, only this once"*
-- 1 Samuel 1:11 — Hannah: *"if you will… remember me, and not forget your servant"*
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 19 — Hannah: *"if you will… remember me, and not forget your servant"*; and
+  *"Yahweh remembered her"*. In the WLC files of Genesis through Ruth and 1 Samuel, *remember* and
+  *forget* share a verse only here, at Genesis 40:23, and at Deuteronomy 9:7
 - Nehemiah 5:19; 13:14, 22, 31 — *"Remember me, my God, for good"*, four times, closing a book
 - Job 14:13 — *"that you would appoint me a set time and remember me"* — asked from inside Sheol,
   imagined as a hiding place — [[Though He Slay Me]]

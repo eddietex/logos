@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rival — 1 Samuel 1:6–7
+
+*Her rival provoked her severely, to irritate her, because Yahweh had shut up her womb* (1:6). The
+narrator's word for [[Peninnah]] is *ṣārâ*, *rival*, from the root Leviticus 18:18 uses when it forbids
+taking a wife's sister *to be a rival*. The weapon is *kaʿas*, *provocation*, three times in 1:6–7 (WLC),
+and Hannah uses the noun of herself before Eli, *my complaint and my provocation* (1:16). The text names no
+motive beyond the barrenness; that the loved wife is the one taunted (1:5) is placed beside it, as Leah and
+Rachel's rivalry was (Genesis 30:1). See [[Hannah Asks Yahweh for a Son]].
+
+Source: stored WEB 1 Samuel 1:1–28; Leviticus 18:18; Genesis 30:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Achan's confession, I saw … I coveted them and took them (21), uses the verb ḥāmaḏ of the tenth
@@ -209,6 +220,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 
 ## Key passages
 
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:6–7; Peninnah, the *rival*, provokes Hannah year by year
+
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 
@@ -314,6 +327,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 
 ## Related people
 
+- [[Peninnah]] — the rival who provokes the barren wife (1 Samuel 1:6–7)
 - [[Isaac]] — the first person in Scripture said to be envied, and the reason given is a harvest
 - [[Abimelech (of Isaac's time)]] — who acts on his people's envy by expelling the household and then
   comes back to sign a treaty with it

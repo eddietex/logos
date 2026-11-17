@@ -18,7 +18,7 @@ tags: [connection]
 - **Genesis 30:22** — *"God remembered Rachel, and God listened to her, and opened her womb."*
 - Genesis 16:1–2; 18:9–15; 21:1–2 — Sarah's barrenness, its household consequences, and its end
 - [[The Announcement of Samson's Birth]] — Judges 13:2–3, 24; Samson's mother
-- 1 Samuel 1:2–20; Luke 1:7, 36 — Hannah and Elizabeth
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:2–20; and Luke 1:7, 36 — Hannah and Elizabeth
 - Psalm 113:9; Isaiah 54:1; Galatians 4:27 — the barren woman as a figure for the people
 - [[The Birth of Obed]] — Ruth 4:13; *Yahweh enabled her to conceive* (Ruth is not called barren)
 
@@ -119,6 +119,17 @@ of the pattern: the narrator's attribution of the conception to Yahweh is the sa
 but the barrenness itself is left to inference. The son born is the line's next link, as the pattern on this
 page leads one to expect — *the father of Jesse, the father of David* (4:17). The grief here is Naomi's, not
 the mother's. See [[The Birth of Obed]]. Source: stored WEB Ruth 1:4; 4:13, 17; Hebrew WLC, 2026-11-17.
+
+### 1 Samuel 1 read in place — barren, without the word
+
+1 Samuel 1 never calls Hannah *ʿăqārâ*; the word first appears in her song, *the barren has borne seven*
+(2:5, WLC). The chapter says *Hannah had no children* (1:2) and, twice, *Yahweh had shut up her womb*
+(1:5, 6). Everything else in the pattern is present: a loved wife, a fertile rival who provokes her (the
+narrator's *ṣārâ*, 1:6), a husband who cannot mend it (1:8), and a conception credited to God, *Yahweh
+remembered her* (1:19). What is new is who acts. No angel announces the son and no husband prays; Hannah
+asks, with a vow, and the child is given back before the chapter ends (1:11, 28). The preference claim
+above holds for her: *he loved Hannah* (1:5). See [[Hannah Asks Yahweh for a Son]]. Source: stored WEB 1 Samuel 1:1–28; 2:5; Hebrew
+WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

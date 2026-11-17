@@ -28150,3 +28150,54 @@ Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Num`, `Josh
 and `1Chr` XML on 2026-11-17; the occurrence claims (lemmas 3205, 5177, 5992, 7410, 8007, 8009, 8012) cover
 those eight files only. The Luke 3:33 manuscript variation is recalled and marked unverified on the pages; no
 Greek text was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 1.1-28 — Hannah Asks Yahweh for a Son
+
+Unattended run (`/ingest auto`). No book was `in-progress`, and every book in `## Priority` (Proverbs,
+Ecclesiastes, Song of Solomon) is complete, so ingestion fell through to the first `not-started` book in
+canonical order, 1 Samuel. Opened it: fetched the WEB text into `raw/bible/1 Samuel.md` (31 chapters, 810
+verses), created [[1 Samuel]] with a 47-pericope plan, and marked it `in-progress` (1 / 47).
+
+Created: book [[1 Samuel]]; passage [[Hannah Asks Yahweh for a Son]]; people [[Elkanah (father of Samuel)]],
+[[Hannah]], [[Peninnah]], [[Eli]], [[Hophni]], [[Phinehas (son of Eli)]], and [[Samuel]]; connections
+[[Asked of Yahweh - Samuel's Name and Saul's]] and
+[[Yahweh Has Looked on My Affliction - Leah, Israel in Egypt, and Hannah]].
+
+Revised: places [[Shiloh]], [[Ramah]], and [[The Hill Country of Ephraim]]; people
+[[Phinehas (son of Eleazar)]], [[Shemuel]], [[Korah (son of Izhar)]], and [[Leah]]; themes [[Barrenness]],
+[[Envy]], [[Prayer]], [[Oaths and Vows]], [[Seeing and Being Seen]], [[Remembrance]], [[Names and Naming]],
+[[The Names of God]], [[Priesthood]], [[The Dwelling of God]], [[Sacrifice and Offering]], and
+[[Mourning and Lament]]; connections [[Better Than Seven Sons - Ruth 4.15 and 1 Samuel 1.8]],
+[[May Yahweh Establish His Word - Numbers 30 and 1 Samuel 1]],
+[[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]],
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]],
+[[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]],
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]], [[The Barren Matriarchs]], and
+[[God Remembered - Noah, Abraham, Rachel, and Israel]]. Also `wiki/books/index.md`, People Index A-E, F-M,
+and N-Z, Connections Index A-C, D-H, I-N, O-S, and T-Z, the places and themes indexes, and the dashboard
+counts. Frontmatter totals: 487 passages, 363 people, 598 places, 88 themes, 924 connections.
+
+Judgment calls: the plan follows narrative units, not chapters — 3:1–4:1a (the call ends *The word of
+Samuel came to all Israel*), 23:29–24:22 (WEB 23:29 moves David to En Gedi), and Goliath split into four
+units (17:1–11, 12–40, 41–54, 55–18:5). Chapter 1 is one pericope; Hannah's song (2:1–11) is the next.
+Elkanah takes the qualifier `(father of Samuel)` because Exodus 6:24 and 1 Chronicles 6 name other
+Elkanahs. Eli's son is `Phinehas (son of Eli)`, beside the existing `Phinehas (son of Eleazar)`. Samuel stays
+bare: no book is named *Samuel* alone, and [[Shemuel]] (Numbers 34:20) is spelled differently in the WEB.
+Elkanah's ancestors Jeroham, Elihu, Tohu, and Zuph get no pages yet. Samuel's Ramah is filed on the existing
+[[Ramah]] page with *Ramathaim Zophim* as an alternative name; whether it is Benjamin's Ramah is flagged
+there, to be split if a later passage separates them.
+
+Contradiction flagged, not resolved: 1 Samuel 1:1 calls Elkanah *an Ephraimite*; 1 Chronicles 6:33–38 lists
+his line among the Kohathite Levites. Both claims and sources are on [[Elkanah (father of Samuel)]] and
+[[Korah (son of Izhar)]]. Also recorded, not resolved: *three bulls* (1:24) beside *the bull* (1:25), with a
+Greek and Qumran reading *a three-year-old bull* recalled and not verified; the obscure *double portion*
+(1:5); and the origin of the *šāʾûl* wordplay (1:28; 9:2), where proposals are reported, not verified.
+
+Sources: 1 Samuel from stored WEB, fetched this run. Comparisons from stored WEB Genesis, Exodus, Leviticus,
+Numbers, Deuteronomy, Joshua, Judges, Ruth, and Proverbs. 1 Chronicles 6:22–28, 33–38 and Luke 2:22–24
+checked against the WEB at bible-api.com (`translation=web`), 2026-11-17; not stored in raw. Hebrew from a
+fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`,
+`Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, and `Prov` XML on 2026-11-17; occurrence claims (*YHWH ṣəḇāʾôṯ*,
+*ṣārâ*, *hêḵal*, *môrâ*, *mārat nep̄eš*, *šāp̄aḵ nep̄eš*, *ʿŏnî* with *rāʾâ*, *zāḵar* with *šāḵaḥ*,
+*gāmal*) cover the first nine of those files only. Name glosses are conventional and not verified against a
+lexicon. No Greek text was consulted.

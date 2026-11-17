@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Look at the affliction of your servant* — 1 Samuel 1:11–13
+
+Hannah's vow asks God to see: *if you will indeed look at the affliction of your servant*, *rāʾōh tirʾeh
+bəʿŏnî* (1:11, WLC). The infinitive-and-verb is the form of Exodus 3:7, *I have surely seen the affliction
+of my people*, and the noun is Leah's at the naming of Reuben (Genesis 29:32). Two verses later a human
+watcher misreads: *Eli saw her mouth* (1:12) and took her silent prayer for drunkenness. God is asked to
+see the affliction; the priest sees only the lips. See [[Hannah Asks Yahweh for a Son]] and
+[[Yahweh Has Looked on My Affliction - Leah, Israel in Egypt, and Hannah]].
+
+Source: stored WEB 1 Samuel 1:1–28; Genesis 29:32; Exodus 3:7. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### For my two eyes — Judges 16:24–28
 
 The blinded Samson is now the one looked at: *When the people saw him, they praised their god* (16:24);
@@ -460,6 +471,8 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11–13; *look at the affliction of your servant*; Eli *saw her mouth*
+
 - [[The Death of Samson]] — Judges 16:24–28; seen by the crowd, feeling for the pillars, *my two eyes*.
 - [[Samson and Delilah]] — Judges 16:21; *put out his eyes*.
 - [[The Call of Gideon]] — Judges 6:22–23; *I have seen Yahweh's angel face to face*.

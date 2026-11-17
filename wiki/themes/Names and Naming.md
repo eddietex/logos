@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Because I have asked him of Yahweh* — 1 Samuel 1:20, 28
+
+Hannah names her son *Samuel, saying, "Because I have asked him of Yahweh"* (1:20). The explanation turns
+on *šāʾal*, *ask*, and is a sound-play rather than an etymology: *Šəmûʾēl* does not obviously come from
+that verb. The chapter repeats *ask* until the gift itself is phrased with it — *hišʾiltihû*, *I have
+given him*, and *šāʾûl*, *given* (1:28, WLC) — and that participle has the consonants of Saul's name
+(9:2). The name points one way and the wordplay another. As with Moses (*Because I drew him out of the
+water*, Exodus 2:10), the mother names the child and gives the reason. See [[Hannah Asks Yahweh for a Son]] and
+[[Asked of Yahweh - Samuel's Name and Saul's]].
+
+Source: stored WEB 1 Samuel 1:1–28; 9:2; Exodus 2:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Ten names and nothing else — Ruth 4:18–22
 
 The book ends on a list of names joined by one verb, *became the father of*, nine times. One of them is
@@ -451,6 +463,8 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:20, 28; *Samuel*, *because I have asked him of Yahweh*; *šāʾûl*, *given*
+
 - [[Boaz Redeems at the Gate]] — Ruth 4:1, 5, 10–11; *so-and-so*; *the name of the dead may not be cut off*; *be famous* (*call a name*).
 - [[Naomi Returns to Bethlehem]] — Ruth 1:19–21; *Is this Naomi?*; *Call me Mara*, a self-given name the narrator never uses.
 - [[Famine and Death in Moab]] — Ruth 1:2–4; Elimelech, Naomi, Mahlon, Chilion, Orpah, and Ruth, none explained.
@@ -673,6 +687,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 
 ## Related people
 
+- [[Samuel]] — named *because I have asked him of Yahweh* (1 Samuel 1:20)
 - [[Eve]] — the first human to name a child, and to give a reason
 - [[Hagar]] — named a son at God's instruction and then named God
 - [[Leah]] — seven namings, and the running argument they make

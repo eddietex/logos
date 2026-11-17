@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### The yearly sacrifice, and the gift with the child — 1 Samuel 1:3–5, 21–25
+
+Elkanah goes up *from year to year to worship and to sacrifice* (1:3), and at the sacrificial meal gives
+portions to his household, Hannah's marked out because *he loved Hannah* (1:4–5). The offering is *the
+yearly sacrifice*, literally *the sacrifice of the days*, *zeḇaḥ hayyāmîm* (1:21, WLC), with *his vow*.
+When Hannah pays her vow she brings *three bulls, and one ephah of meal, and a bottle of wine* (1:24), and
+*they killed the bull* (1:25) — plural and singular in consecutive verses of the Masoretic text; the Greek
+is reported to read *a three-year-old bull* (recalled, not verified). The offering accompanies the gift of
+the child; it does not redeem him. See [[Hannah Asks Yahweh for a Son]].
+
+Source: stored WEB 1 Samuel 1:1–28. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### An altar at Bethel — Judges 21:4
 
 *On the next day, the people rose early, and built an altar there, and offered burnt offerings and peace
@@ -853,6 +865,8 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–5, 21–25; the yearly sacrifice and its portions; bulls, flour, and wine brought with the child
+
 - [[Wives for Benjamin]] — Judges 21:4; altar, burnt offerings, and peace offerings at Bethel.
 - [[The War Against Benjamin]] — Judges 20:26, 40; offerings at Bethel, and the city *kālîl*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:29; the burnt-offering verb used of the concubine.

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eli and his sons at Shiloh — 1 Samuel 1:3, 9–17
+
+1 Samuel introduces the priesthood at Shiloh in one clause: *The two sons of Eli, Hophni and Phinehas,
+priests to Yahweh, were there* (1:3). Eli himself sits *on his seat by the doorpost of Yahweh's temple*
+(1:9). His one priestly act in the chapter is a misjudgment followed by a blessing: he takes Hannah's
+silent prayer for drunkenness (1:13–14), then sends her away with *may the God of Israel grant your
+petition* (1:17). The chapter gives no genealogy for Eli. His son's name, *Phinehas*, is the name of
+Aaron's grandson (Numbers 25:11), and the next chapter will call both sons *wicked men* (2:12). See [[Hannah Asks Yahweh for a Son]].
+
+Source: stored WEB 1 Samuel 1:1–28; 2:12; Numbers 25:11. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Phinehas before the ark — Judges 20:27–28
 
 *Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days* (20:28): the only
@@ -847,6 +858,8 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 9–17; Eli and his sons at Shiloh; the priest who misreads a prayer and blesses it
+
 - [[The War Against Benjamin]] — Judges 20:27–28; Phinehas, Aaron's grandson, at the ark.
 - [[The Danite Migration]] — Judges 18:4, 19–20, 30; Micah's priest hired away, and a priestly line at Dan.
 - [[Micah's Idol and Levite]] — Judges 17:5, 10–13; Micah's son and then a hired Levite made priest.
@@ -1088,6 +1101,8 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Related people
 
+- [[Eli]] — the priest at Shiloh (1 Samuel 1)
+- [[Hophni]] and [[Phinehas (son of Eli)]] — his sons, *priests to Yahweh* (1 Samuel 1:3)
 - [[Melchizedek]] — the first priest in Scripture, and the one the argument is built on
 - [[Abraham]] — who builds altars, is blessed by a priest, and pays him a tenth
 - [[Noah]] and [[Job (person)]] — sacrificers before the office exists

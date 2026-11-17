@@ -1,11 +1,29 @@
 ---
 type: place
-also_known_as: []
+also_known_as: [Ramathaim Zophim, hārāmāṯayim ṣôp̄îm]
 tags: [place]
 ---
 # Ramah
 
 ## Overview
+
+### Ramathaim Zophim, Elkanah's home — 1 Samuel 1:1, 19
+
+Elkanah is *a certain man of Ramathaim Zophim, of the hill country of Ephraim* (1:1), and after Shiloh the
+family *came to their house to Ramah* (1:19). The WLC has *hārāmāṯayim ṣôp̄îm* in 1:1, a dual form, *the
+two heights*, with *Zophim*, and *hārāmāṯâ*, *to Ramah*, in 1:19; the narrative treats them as one town.
+*Zophim* matches the ancestor named at the end of the verse, *Zuph*, and *the land of Zuph* of 9:5 (not yet
+ingested). This is Samuel's Ramah: his birthplace here, and later his home, his altar, and his grave (7:17;
+25:1; not yet ingested).
+
+**Which Ramah — flagged.** The wiki files Samuel's Ramah on this page, beside Benjamin's Ramah of Joshua
+18:25, because 1 Samuel calls it simply *Ramah* and gives no other qualifier. Whether the two are the same
+town is disputed: 1:1 places Ramathaim *of the hill country of Ephraim*, and Benjamin's Ramah lies in
+Benjamin's allotment. Deborah's palm, already filed here, also stands *between Ramah and Bethel in the hill
+country of Ephraim* (Judges 4:5), so the hill country's name may reach into Benjamin. Proposed sites differ
+(recalled, not verified); if a later passage makes the distinction clear, this page will be split. See
+[[Hannah Asks Yahweh for a Son]]. Source: stored WEB 1 Samuel 1:1, 19; 7:17; 9:5; 25:1; Joshua 18:25; Judges 4:5; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
 
 ### *Gibeah, or Ramah* — Judges 19:13
 
@@ -28,15 +46,19 @@ Named among Benjamin’s second group of fourteen cities with their villages (25
 Source: stored WEB Joshua 18:11–28.
 
 ## Appears in
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1, 19; *Ramathaim Zophim*, Elkanah's home.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:13; named with Gibeah as a place to lodge.
 - [[Deborah and Barak]] — Judges 4:5; Deborah's palm stands between Ramah and Bethel.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 
 ## Related places
+- [[Shiloh]] — where Elkanah's family goes up yearly from Ramah (1 Samuel 1:3, 19).
+- [[The Hill Country of Ephraim]] — the region 1 Samuel 1:1 places Ramathaim in.
 - [[Gibeah (Benjamin)]] — the other town named at Judges 19:13.
 - [[Deborah's Palm Tree]] — between Ramah and [[Bethel]] (Judges 4:5).
 - [[The Jordan]] — Benjamin’s eastern boundary.
 
 ## Events here
+- Elkanah's home; Samuel conceived after the return from Shiloh — 1 Samuel 1:1, 19
 - Named as an alternative lodging to Gibeah — Judges 19:13, [[The Levite's Concubine at Gibeah]]
 - Named in Benjamin’s allotment; no separate conquest is narrated.

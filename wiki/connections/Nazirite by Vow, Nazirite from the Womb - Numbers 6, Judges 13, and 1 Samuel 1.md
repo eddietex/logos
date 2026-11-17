@@ -11,7 +11,7 @@ tags: [connection]
 - [[The Announcement of Samson's Birth]] — Judges 13:4–5, 7, 14 — *"No razor shall come on his head; for the child shall be a Nazirite
   to God from the womb."* (stored WEB)
 - [[Samson and Delilah]] — Judges 16:17 — *"I have been a Nazirite to God from my mother's womb."* *(same)*
-- 1 Samuel 1:11 — *"then I will give him to Yahweh all the days of his life, and no razor shall come on
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11 — *"then I will give him to Yahweh all the days of his life, and no razor shall come on
   his head."* *(same)*
 - Amos 2:11–12 — *"But you gave the Nazirites wine to drink"* *(same)*
 - Luke 1:15 — of John: *"he will drink no wine nor strong drink."* *(same)*
@@ -46,6 +46,15 @@ corpses, or a vow. The verse echoes the pattern and goes no further.
 **Amos** sets Nazirites beside prophets as something Yahweh raised up, and his charge is that Israel
 *gave the Nazirites wine to drink*. This assumes the wine rule is known and was meant to be kept, and
 that a Nazirite was a public sign that could be attacked.
+
+### 1 Samuel 1 read in place
+
+Ingesting [[Hannah Asks Yahweh for a Son]] confirms the razor and *nāzîr* findings above against the stored WEB and the WLC, and
+places the vow in the barren-mother pattern of Judges 13 with one inversion: in Judges the razor rule is
+announced to the mother by the angel (13:5), and in 1 Samuel the mother offers it to God herself (1:11).
+Samuel's term is *all the days of his life*, in the vow's own words, where Samson's *to the day of his
+death* came from his mother's report (13:7). Source: stored WEB Judges 13:5, 7; 1 Samuel 1:11, 15; Hebrew
+WLC (OpenScriptures morphhb), 2026-11-17.
 
 ### Judges 13 read in place
 

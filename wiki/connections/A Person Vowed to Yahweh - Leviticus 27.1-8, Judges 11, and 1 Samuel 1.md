@@ -11,8 +11,8 @@ tags: [connection]
 - [[Jephthah's Vow]] — Judges 11:30–31 — *"whatever comes out of the doors of my house to meet me ... it shall be
   Yahweh's, and I will offer it up for a burnt offering."* (stored WEB)
 - [[Jephthah's Vow]] — Judges 11:39 — her father *"did with her according to his vow which he had vowed."* (stored WEB)
-- 1 Samuel 1:11 — *"I will give him to Yahweh all the days of his life."* *(same)*
-- 1 Samuel 1:28 — *"As long as he lives he is given to Yahweh."* *(same)*
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11 — *"I will give him to Yahweh all the days of his life."* *(stored WEB)*
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:28 — *"As long as he lives he is given to Yahweh."* *(stored WEB)*
 
 ## Analysis
 
@@ -44,7 +44,7 @@ Hannah's is a wife's vow, and Elkanah's response is set beside Numbers 30 at
 ## Significance
 
 Leviticus sets a person's vow into a schedule. Hannah and Jephthah show two vows that leave that
-schedule, one in gift and one in grief. 1 Samuel is not yet ingested.
+schedule, one in gift and one in grief.
 
 ### Judges 11 now ingested
 
@@ -56,5 +56,14 @@ out of your mouth* (11:36). Leviticus 27:28–29 provides a stricter category, *
 that *shall not be ransomed*. Judges 11 does not use *ḥērem* (WLC). See [[Jephthah's Vow]]. Source: stored WEB
 Leviticus 27:2, 28–29; Numbers 30:2; Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb),
 2026-11-15.
+
+### 1 Samuel 1 now ingested
+
+Hannah's vow is paid in kind and with an offering. She brings the weaned child *with three bulls, and one
+ephah of meal, and a bottle of wine* (1:24), and *they killed the bull* (1:25), but the offering goes with
+the child and does not replace him; nothing in the chapter is a valuation. The gift is phrased with
+*šāʾal*: *hišʾiltihû*, *I have given him*, and *šāʾûl*, *given* (1:28, WLC), the verb of *asked* turned
+round. See [[Hannah Asks Yahweh for a Son]] and [[Asked of Yahweh - Samuel's Name and Saul's]]. Source: stored WEB 1 Samuel 1:11,
+24–28; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 Sources: WEB from bible-api.com, 2026-10-30; Hebrew from WLC (morphhb, GitHub), 2026-10-30.

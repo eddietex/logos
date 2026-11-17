@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh had shut up her womb* — 1 Samuel 1:2–20
+
+*Peninnah had children, but Hannah had no children* (1:2), and the narrator gives the cause twice, once in
+his own voice and once as the reason for the rival's taunting: *Yahweh had shut up her womb* (1:5, 6).
+*Sāḡar … raḥmāh* occurs in the WLC files searched (Genesis through Ruth, and 1 Samuel) only in these two
+verses. The word *ʿăqārâ*, *barren*, is not used of Hannah in the chapter; it first comes in her song, *the
+barren has borne seven* (2:5). The pattern is the Genesis one — a loved wife, a fertile rival, a husband who
+cannot mend it (*Am I not better to you than ten sons?*, 1:8) — but the remedy is Hannah's own prayer and
+vow, not an announcement and not a husband's intercession. *Yahweh remembered her* (1:19). See [[Hannah Asks Yahweh for a Son]] and
+[[The Barren Matriarchs]].
+
+Source: stored WEB 1 Samuel 1:1–28; 2:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Yahweh enabled her to conceive* — Ruth 4:13
 
 Ruth is never called barren. The book says only that she and Orpah married Naomi's sons and that *they lived
@@ -135,6 +148,8 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:2–20; *Yahweh had shut up her womb*, twice; Hannah asks, and Yahweh remembers
+
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
@@ -243,6 +258,8 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Related people
 
+- [[Hannah]] — the loved wife whose womb Yahweh had shut, who asks with a vow (1 Samuel 1)
+- [[Peninnah]] — the fertile rival (1 Samuel 1:2–7)
 - [[Sarah]] — the first, and the pattern
 - [[Abraham]] — promised a nation four verses after his wife is called barren
 - [[Hagar]] — the fertile one, and what the arrangement costs her

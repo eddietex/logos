@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### Hannah's vow, and Elkanah's — 1 Samuel 1:11, 21–28
+
+*She vowed a vow*, *wattiddōr neḏer* (1:11, WLC), the phrase of Jacob (Genesis 28:20) and Jephthah
+(Judges 11:30). Like theirs it is conditional — *if you will indeed look … then I will give him to Yahweh all
+the days of his life* — and like Jephthah's it gives a child. Unlike Jephthah's, it names the child and the
+terms in advance, and the child lives. Elkanah then goes up with *his vow* (1:21), which the text has not
+recorded, and consents to its timing with *only may Yahweh establish his word* (1:23), the confirming
+husband of Numbers 30. Hannah pays it in person, bringing the weaned boy: *As long as he lives he is given
+to Yahweh* (1:28). See [[Hannah Asks Yahweh for a Son]],
+[[May Yahweh Establish His Word - Numbers 30 and 1 Samuel 1]], and
+[[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]].
+
+Source: stored WEB 1 Samuel 1:1–28; Genesis 28:20; Judges 11:30. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *As Yahweh lives* — Ruth 3:13
 
 Boaz promises to redeem Ruth if the nearer kinsman will not, and seals it: *I will do the duty of a kinsman
@@ -595,6 +609,8 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 21–28; Hannah's vow of a son, Elkanah's *his vow*, and the vow paid at Shiloh
+
 - [[Ruth at the Threshing Floor]] — Ruth 3:13; *as Yahweh lives* — Boaz's oath to redeem.
 - [[Ruth Clings to Naomi]] — Ruth 1:16–17; Ruth's vow, and the self-curse oath in Yahweh's name.
 - [[Wives for Benjamin]] — Judges 21:1, 5, 7, 18, 22; the oath not to give daughters, and *the great oath* against those who did not come.
@@ -850,6 +866,8 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Related people
 
+- [[Hannah]] — vows a son to Yahweh and pays the vow (1 Samuel 1:11, 28)
+- [[Elkanah (father of Samuel)]] — *his vow*, and *may Yahweh establish his word* (1 Samuel 1:21–23)
 - [[The Woman (Song of Solomon)]] and [[The Daughters of Jerusalem]] — the woman puts the daughters under oath not to awaken love (Song of Solomon 2:7; 3:5), and to tell him she is faint with love (5:8).
 
 - [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.

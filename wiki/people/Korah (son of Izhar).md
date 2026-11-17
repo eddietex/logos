@@ -52,6 +52,11 @@ and [[Aaron]] are his cousins. **He is the only one of Amram's nephews whose own
 (6:24). **The list gives him a clan before it gives him a story.** See
 [[The Heads of the Fathers' Houses]].
 
+**A later Elkanah traced to him.** 1 Chronicles 6:33–38 runs Samuel's line back through *Elkanah, the son
+of Jeroham … the son of Zuph* to *Ebiasaph, the son of Korah, the son of Izhar, the son of Kohath* (WEB
+checked at bible-api.com, 2026-11-17; not yet ingested). 1 Samuel 1:1 calls Samuel's father *an
+Ephraimite* instead; the two claims are kept side by side on [[Elkanah (father of Samuel)]].
+
 ### The revolt and its later retrospective
 
 In Numbers 16 he leads a revolt of Levites, with Reubenites, against Moses and Aaron, and the ground
@@ -93,6 +98,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
 ## Related people
 
+- [[Elkanah (father of Samuel)]] and [[Samuel]] — his descendants in 1 Chronicles 6:33–38
 - [[Kohath]] — his grandfather
 - [[Amram]] — his uncle
 - [[Moses]], [[Aaron]] — his cousins

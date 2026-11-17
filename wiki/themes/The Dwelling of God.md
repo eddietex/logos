@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh's temple* at Shiloh — 1 Samuel 1:7, 9, 24
+
+At Shiloh the sanctuary is *Yahweh's house* (1:7, 24) and *Yahweh's temple*, *hêḵal YHWH* (1:9, WLC),
+with a *doorpost*, *məzûzâ*, beside which Eli sits. *Hêḵal* — *palace*, *temple* — occurs in the WLC files
+of Genesis through 1 Samuel only here and at 3:3. Joshua had set up *the Tent of Meeting* at Shiloh (Joshua
+18:1), and 1 Samuel 2:22 still names it; the narrative does not say whether *temple* and *tent* are the
+same structure or how they relate. Hannah wants her son to *appear before Yahweh, and stay there forever*
+(1:22): the pilgrimage law's *appear before Yahweh* (Deuteronomy 16:16), made permanent. See [[Hannah Asks Yahweh for a Son]] and
+[[Shiloh]].
+
+Source: stored WEB 1 Samuel 1:1–28; 2:22; 3:3; Joshua 18:1; Deuteronomy 16:16. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The ark at Bethel — Judges 20:26–28
 
 *The ark of the covenant of God was there in those days* (20:27): at Bethel, not at Shiloh, where Joshua
@@ -656,6 +668,8 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7, 9, 22, 24; *Yahweh's house* and *Yahweh's temple* at Shiloh; *appear before Yahweh … forever*
+
 - [[The War Against Benjamin]] — Judges 20:26–28; the ark at Bethel *in those days*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:18; *Yahweh's house*, named once and never reached.
 - [[The Danite Migration]] — Judges 18:31; *God's house … in Shiloh*, while Dan kept Micah's image.

@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### *I poured out my soul before Yahweh* — 1 Samuel 1:9–18, 26–27
+
+Hannah prays at the temple in Shiloh *in bitterness of soul … weeping bitterly*, and vows (1:10–11). She
+prays silently — *she spoke in her heart. Only her lips moved, but her voice was not heard* (1:13) — and Eli
+the priest, seeing her mouth, takes her for drunk. Her answer defines what he saw: *I poured out my soul
+before Yahweh* (1:15). *Šāp̄aḵ*, the verb of poured blood and drink, with *nep̄eš* as its object, occurs in
+the WLC files searched only here. Abraham's servant had prayed *speaking in my heart* (Genesis 24:45); here
+the silent prayer is watched and misread by the sanctuary's priest. Eli blesses it without asking its
+content (1:17), and when the child comes Hannah names the prayer as the cause: *I prayed for this child;
+and Yahweh has given me my petition* (1:27). See [[Hannah Asks Yahweh for a Son]].
+
+Source: stored WEB 1 Samuel 1:1–28; Genesis 24:45. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### A question with no answer — Judges 21:3
 
 *Yahweh, the God of Israel, why has this happened in Israel, that there should be one tribe lacking in
@@ -461,6 +474,8 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:9–18, 26–27; Hannah's silent prayer, misread as drunkenness; *I poured out my soul*
+
 - [[Wives for Benjamin]] — Judges 21:3; *why has this happened … ?*, unanswered.
 - [[The War Against Benjamin]] — Judges 20:18, 23, 26–28; three inquiries, the last with fasting.
 - [[The Death of Samson]] — Judges 16:28; *remember me, please, and strengthen me*.
@@ -700,6 +715,8 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Related people
 
+- [[Hannah]] — prays silently and is misread (1 Samuel 1:10–15)
+- [[Eli]] — the priest who misreads prayer and then blesses it (1 Samuel 1:12–17)
 - [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[Abraham's Servant]] — the first person in Scripture to pray a petition of his own

@@ -10,10 +10,10 @@ tags: [connection]
 - [[Vows of Men and Women]] — Numbers 30:10–14, a wife's vow made in her husband's house:
   *"Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband
   may make it void"* (13). *(stored WEB)*
-- **1 Samuel 1:11** — *"She vowed a vow, and said, “Yahweh of Armies, if you will indeed look at the
+- [[Hannah Asks Yahweh for a Son]] — **1 Samuel 1:11** — *"She vowed a vow, and said, “Yahweh of Armies, if you will indeed look at the
   affliction of your servant, and remember me, and not forget your servant, but will give to your
   servant a boy, then I will give him to Yahweh all the days of his life, and no razor shall come on
-  his head.”"* *(WEB verified at bible-api.com, 2026-11-05; not yet ingested)*
+  his head.”"* *(WEB verified at bible-api.com, 2026-11-05; now stored)*
 - **1 Samuel 1:21–23** — Elkanah goes up *"to offer to Yahweh the yearly sacrifice, and his vow"*;
   Hannah stays until the child is weaned; Elkanah says, *"Do what seems good to you. Wait until you
   have weaned him; only may Yahweh establish his word."* *(same source)*
@@ -41,6 +41,15 @@ hers. Numbers 30:2 governs his: *he shall not break his word*. Numbers 30 gives 
 **What Elkanah does not do.** He does not void the vow, and his *Do what seems good to you* gives Hannah the
 timing of its payment. Read beside Numbers 30, his words have the effect of a husband's confirmation; that is
 a reading of the two texts together, not something 1 Samuel states.
+
+### 1 Samuel 1 now ingested
+
+The stored text confirms the readings above and adds one detail. Elkanah is not present at the vow: Hannah
+rises *after they had finished eating and drinking* and goes to the temple alone (1:9), and the next
+scene with him is the night at Ramah (1:19). So the text gives no moment at which he *hears* it, the moment
+Numbers 30:11–14 makes decisive, and his *his vow* in 1:21 still has no narrated origin. The WLC agrees
+with the Masoretic readings cited above from Sefaria: *ʾaḵ yāqēm YHWH ʾeṯ-dəḇārô* (1:23) and *wəʾeṯ-niḏrô*
+(1:21). See [[Hannah Asks Yahweh for a Son]]. Source: stored WEB 1 Samuel 1:9–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 
