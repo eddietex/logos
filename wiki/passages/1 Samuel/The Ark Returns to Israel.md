@@ -208,7 +208,7 @@ garbled at 4:8, is now cited correctly (6:6): they let the ark *go*, as Egypt le
 departed*, and they send it with gold, as Egypt did (Exodus 12:35–36; see
 [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]). The death at Beth Shemesh fulfils, in narrative,
 the warning of Numbers 4:20 ([[Lest They Die - The Ark Carried and the Ark Looked Into]]). The ark will stay
-at Kiriath Jearim *twenty years* (7:2, next pericope) and is next moved by David, on another *new cart*, at
+at Kiriath Jearim *twenty years* (7:2, [[Samuel Judges Israel at Mizpah]]) and is next moved by David, on another *new cart*, at
 the cost of Uzzah's life (2 Samuel 6:3–7, not yet ingested).
 
 ## Key verses

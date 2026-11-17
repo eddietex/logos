@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A suckling lamb at Mizpah, an altar at Ramah — 1 Samuel 7:9–10, 17
+
+Samuel *took a suckling lamb, and offered it for a whole burnt offering to Yahweh*, *ʿôlâ kālîl* (7:9, WLC), the
+*whole burnt offering* Moses' blessing gives to Levi (Deuteronomy 33:10). The battle comes *as Samuel was offering
+up the burnt offering* (7:10), and the answer comes with it. At Ramah *he built an altar to Yahweh* (7:17). The ark
+is elsewhere and Shiloh is not mentioned; the narrator neither commends nor questions either sacrifice. See
+[[Samuel Judges Israel at Mizpah]]. Source: stored WEB Deuteronomy 33:10; 1 Samuel 7:9–10, 17. Hebrew WLC,
+2026-11-17.
+
 ### Gold, cows, and the great stone — 1 Samuel 6:3–15
 
 Three offerings meet at Beth Shemesh: the Philistines' *trespass offering* of golden tumors and mice (6:3–4,
@@ -906,6 +915,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:9–10, 17; a suckling lamb as a whole burnt offering; an altar at Ramah.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:14–15; the cart for wood, the cows a burnt offering.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:14; *not removed with sacrifice or offering forever*.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–29; *kick at my sacrifice*; fattened on *the best of all the offerings*.

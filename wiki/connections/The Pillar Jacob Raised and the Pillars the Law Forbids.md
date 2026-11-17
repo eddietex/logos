@@ -25,7 +25,7 @@ tags: [connection]
 - Joshua 4:1–9 — twelve stones out of the Jordan
 - [[The Covenant at Shechem]] — Joshua 24:26–27; a great stone under an oak, *"it shall be a
   witness against us"*
-- 1 Samuel 7:12 — Ebenezer
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:12; Ebenezer, *Yahweh helped us until now*
 - 1 Kings 14:23; 2 Kings 17:10; 18:4; 23:14 — the pillars Israel keeps putting up and the kings who
   break them
 - Hosea 3:4; 10:1–2 — pillars as both loss and indictment

@@ -79,6 +79,7 @@ Source: stored WEB Judges 4:1–16; Hebrew WLC (OpenScriptures morphhb), 2026-11
 - [[Deborah (Rebekah's nurse)]] — a different woman of the same name.
 - [[Jael]] — the woman into whose hand Sisera was sold.
 - [[Sisera's Mother]] — the other *mother* of the Song (5:7, 28).
+- [[Samuel]] — the other prophet who *judged Israel*, at Ramah and Bethel; see [[Between Ramah and Bethel - Deborah and Samuel as Judges]]
 
 ## Themes associated
 - [[Prophecy and Vision]]

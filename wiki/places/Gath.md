@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### *From Ekron even to Gath* — 1 Samuel 7:14
+
+*The cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath* (7:14),
+*mēʿeqrôn wəʿaḏ-gaṯ* (WLC). The two are the last cities the ark passed through (5:8–10). The phrase reads as a
+line along the edge of the Philistine plain; the verse does not say whether Gath itself was taken. See
+[[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 5:8–10; 7:14. Hebrew WLC, 2026-11-17.
+
 ### A golden tumor for Gath — 1 Samuel 6:17
 
 *These are the golden tumors which the Philistines returned for a trespass offering to Yahweh: for Ashdod
@@ -34,6 +41,7 @@ One of three cities where some of the Anakim remain after Joshua cuts them off f
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
 ## Appears in
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *from Ekron even to Gath*, the towns restored.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:17; one golden tumor for Gath.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:8–9; the second city struck.
 - [[The Land That Remains]] — Joshua 13:1–7.
@@ -47,3 +55,4 @@ Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 - The ark brought there; *a very great confusion* and tumors on small and great — 1 Samuel 5:8–9, [[The Ark Among the Philistines]]
 - [[The Whole Land Taken]] — Some of the Anakim remain there (22).
 - Counted in the Philistine trespass offering — 1 Samuel 6:17, [[The Ark Returns to Israel]]
+- Towns *from Ekron even to Gath* restored to Israel — 1 Samuel 7:14, [[Samuel Judges Israel at Mizpah]]

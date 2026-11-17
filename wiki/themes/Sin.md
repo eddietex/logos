@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *We have sinned against Yahweh* — 1 Samuel 7:6
+
+At Mizpah, with water poured out and a fast, Israel says *ḥāṭāʾnû laYHWH*, *We have sinned against Yahweh*
+(7:6, WLC), the confession of Judges 10:10, 15. This time no refusal follows: Samuel prays, and Yahweh answers
+(7:9). Samuel will later quote the confession back to the people, *We have sinned, because we have forsaken
+Yahweh, and have served the Baals and the Ashtaroth* (12:10, stored WEB; not yet ingested). See
+[[Samuel Judges Israel at Mizpah]]. Source: stored WEB Judges 10:10–16; 1 Samuel 7:6, 9; 12:10. Hebrew WLC,
+2026-11-17.
+
 ### Sinning against Yahweh — 1 Samuel 2:17, 25
 
 *The sin of the young men was very great before Yahweh* (2:17). Eli's rebuke distinguishes two kinds:
@@ -783,6 +792,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:6; *We have sinned against Yahweh*, at Mizpah.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:17, 24–25; *very great before Yahweh*; sin against a man and sin against Yahweh.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 10, 15; *We have sinned*, twice.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1, 10; the cycle's formula, and the charge.

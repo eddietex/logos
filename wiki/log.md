@@ -28529,3 +28529,55 @@ at bible-api.com (`translation=web`), 2026-11-17; not stored in raw. Hebrew from
 Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-17, files `Gen`, `Exod`, `Lev`, `Num`,
 `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `2Kgs`, `Ps`, and `Eccl`; occurrence claims cover
 those files only. No Greek text, Septuagint, or Targum was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 7.2-17 — Samuel Judges Israel at Mizpah
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+Samuel at Mizpah, 7:2–17, ingested as planned. 1 Samuel is now 9 / 47.
+
+Created: passage [[Samuel Judges Israel at Mizpah]]; places [[Beth Kar]] and [[Shen]]; connections
+[[He Will Thunder Against Them - Hannah's Song and Mizpah]] and
+[[Between Ramah and Bethel - Deborah and Samuel as Judges]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes, people, and places); passages
+[[The Ark Returns to Israel]], [[The Ark Is Captured]], and [[The Song of Hannah]] (forward references now
+linked); people [[Samuel]], [[The Philistines]], [[The Amorites]], [[Baal (deity)]], [[Ashtoreth (deity)]], and
+[[Deborah (prophetess)]] (related-people line); places [[Mizpeh]], [[Ebenezer]], [[Kiriath Jearim]], [[Ekron]],
+[[Gath]], [[Bethel]], [[Gilgal]], [[Ramah]], and [[Deborah's Palm Tree]]; themes [[Idolatry]], [[Sin]],
+[[Prayer]], [[Mediation and Advocacy]], [[Mourning and Lament]], [[Sacrifice and Offering]], [[War]],
+[[Signs and Wonders]], [[Remembrance]], [[Strife and Peacemaking]], and [[Kingship and Empire]]; connections
+[[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]] (new section on 7:3–4),
+[[Yahweh Confused Them - Hamam in the Wars of Yahweh]] (new section: Deuteronomy 2:15's hand and confusion),
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]] (new section on 7:13 and the later
+wars), [[His King and His Anointed - Hannah's Song and David's]],
+[[The Pillar Jacob Raised and the Pillars the Law Forbids]],
+[[Bethel from Jacob's Pillar to Jeroboam's Calf]], and
+[[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]] (links). Also `wiki/books/index.md`, the places
+index (two new rows; the pre-existing Gilgal row has a missing cell separator, left as found apart from the
+appended link), the themes index, People Index A-E and N-Z, Connections Index A-C and D-H (one new row each),
+O-S, and T-Z, and the dashboard counts. Frontmatter totals: 495 passages, 370 people, 601 places, 88 themes, 945
+connections.
+
+Judgment calls: the boundary 7:2–17 stands; 8:1 opens *When Samuel was old*. Mizpah is filed on [[Mizpeh]]
+(Benjamin), with the Judges 20 assembly, because of the circuit with Bethel and Gilgal; the text names no
+tribe. Gilgal is filed on the Joshua 4 [[Gilgal]], also by the usual identification. Beth Kar and Shen get
+pages though each occurs once, as fixed points of the battle. The Philistine lords stay under
+[[The Philistines]]. The *hāmam* table on the Confused page is unchanged; 7:10 was already in it.
+
+Recorded, not resolved: what the *twenty years* of 7:2 measures; the sense of *lamented after Yahweh* (*nāhâ*,
+only here in the files searched); the meaning of the water poured out at Mizpah; whether Samuel's sacrifice
+implies Levitical descent; whether the Ebenezer of 7:12 is the camp of 4:1; and the tension between 7:13 (*they
+stopped coming within the border of Israel … all the days of Samuel*) and the Philistine garrisons and wars of
+9:16; 10:5; 13:3–5. The last is flagged on the passage page and on the He Shall Begin to Save page, and will be
+revisited at 9:16 and 13:3–5. No contradiction with an existing page was found. The readings offered for each
+of these are general knowledge, not checked against a commentary; claims about ancient versions at 7:12 and 12:11
+(*Shen*, *Bedan*) are recalled, not checked, and flagged where made.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 8:1–5, 20; 9:16; 10:5; 12:10–11, 23; 13:3–5;
+25:1; 31:10. Comparisons from stored WEB Genesis 28:18; 35:2; Deuteronomy 1:4; 2:15; 12:13–14; 30:10; 33:10;
+Joshua 4:1–9, 19; 24:23, 26; Judges 1:34–36; 2:13, 16–19; 3:9, 15, 30; 4:4–5, 14–16, 23; 5:4, 20–21; 6:6; 8:28;
+10:6, 10–18; 11:33; 13:5; 15:20; 20:1, 26–27. 2 Samuel 6:2–3; 8:1; 11:1; 22:14; 23:16; Psalms 18:13; 29:3; 96:11;
+98:7; and 1 Chronicles 6:27–28 checked against the WEB at bible-api.com (`translation=web`), 2026-11-17; not
+stored in raw. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML,
+2026-11-17, files `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `2Kgs`,
+and `Ps`; occurrence claims cover those files only. No Greek text, Septuagint, or Targum was consulted.

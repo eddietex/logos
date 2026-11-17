@@ -69,3 +69,5 @@ not stored in raw. Hebrew from the Westminster Leningrad Codex (OpenScriptures m
 only.
 - The second royal *anointed* (2:35) sits in a priestly oracle: the faithful priest who replaces Eli's
   house will *walk before* the king. See [[A Sure House - The Faithful Priest and the House of David]].
+- Both songs have Yahweh *thunder* from the sky (1 Samuel 2:10; 2 Samuel 22:14), and Hannah's line is
+  answered at Mizpah (1 Samuel 7:10). See [[He Will Thunder Against Them - Hannah's Song and Mizpah]].

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### *From Ekron even to Gath* — 1 Samuel 7:14
+
+*The cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath* (7:14),
+*mēʿeqrôn wəʿaḏ-gaṯ* (WLC). The two are the last cities the ark passed through (5:8–10). The phrase reads as a
+line along the edge of the Philistine plain; the verse does not say whether Ekron itself was taken. See
+[[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 5:8–10; 7:14. Hebrew WLC, 2026-11-17.
+
 ### The lords return — 1 Samuel 6:16–17
 
 The five lords follow the cart *to the border of Beth Shemesh*, watch the ark received, and *returned to
@@ -58,6 +65,7 @@ Ekron marks the northern boundary of the stretch from the Shihor (Joshua 13:3). 
 Source: stored WEB Joshua 13:1–7.
 
 ## Appears in
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *from Ekron even to Gath*, the towns restored.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:16–17; the lords return there; one golden tumor.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:10–12; the third city struck, which demands the ark be sent home.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
@@ -74,3 +82,4 @@ Source: stored WEB Joshua 13:1–7.
 - Named in the inventory of land remaining; no new conquest narrated.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]
 - The five lords return there from the border of Beth Shemesh — 1 Samuel 6:16, [[The Ark Returns to Israel]]
+- Towns *from Ekron even to Gath* restored to Israel — 1 Samuel 7:14, [[Samuel Judges Israel at Mizpah]]

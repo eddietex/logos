@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Samuel cries for Israel — 1 Samuel 7:5–9
+
+The question of 2:25 is answered in narrative. Samuel promises *I will pray to Yahweh for you* (7:5); the people
+plead *Don't stop crying to Yahweh our God for us* (7:8), *ʾal-taḥărēš mimmennû mizzəʿōq*, *don't be silent from
+crying out* (WLC); and he cries *for Israel*, *bəʿaḏ yiśrāʾēl*, while offering a whole burnt offering, and is
+answered (7:9). Prayer and sacrifice are joined in the one mediator. He will call it sin to cease praying for
+them (12:23, stored WEB; not yet ingested). See [[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel
+2:25; 7:5–9; 12:23. Hebrew WLC, 2026-11-17.
+
 ### *Who will intercede for him?* — 1 Samuel 2:25
 
 Eli asks his sons: *If one man sins against another, God will judge him; but if a man sins against
@@ -551,6 +560,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
 ## Key passages
 
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:5–9; Samuel prays and cries *for Israel*, and is answered.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *who will intercede for him?*; the question Samuel later answers.
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

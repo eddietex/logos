@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Deliverance without a king — 1 Samuel 7:13–17
+
+The chapter before the demand for a king shows Israel delivered without one. Under Samuel *the Philistines were
+subdued*, lost towns are restored, and *Yahweh's hand was against the Philistines all the days of Samuel* (7:13–14),
+the formula of the judges (Judges 2:18). The people will ask for a king to *go out before us, and fight our
+battles* (8:20, stored WEB; not yet ingested), after a battle that Yahweh fought with thunder while Samuel
+prayed. See [[Samuel Judges Israel at Mizpah]] and [[Between Ramah and Bethel - Deborah and Samuel as Judges]].
+Source: stored WEB Judges 2:18; 1 Samuel 7:10–17; 8:20. Hebrew WLC, 2026-11-17.
+
 ### *Before my anointed* — 1 Samuel 2:35
 
 The second royal *māšîaḥ* in 1 Samuel comes in a priestly oracle: the faithful priest *will walk before my
@@ -621,6 +630,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:13–17; the Philistines subdued under a judge, on the eve of the demand for a king.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35; the faithful priest *will walk before my anointed*, before Israel has a king.
 - [[The Song of Hannah]] — 1 Samuel 2:10; *his king … his anointed*, the first royal *māšîaḥ*, before Israel has a king.
 - [[Wives for Benjamin]] — Judges 21:25; the fourth and last *no king in Israel* refrain, full form.

@@ -14,9 +14,8 @@ tags: [connection]
 - [[Samson Against the Philistines at Lehi]] — Judges 15:18, 20; *this great deliverance*, and *He judged Israel
   twenty years in the days of the Philistines*. [[The Death of Samson]] repeats the twenty years (16:31) and
   kills *the lords of the Philistines* (16:30), but the Philistines remain.
-- 1 Samuel 7:13 — *So the Philistines were subdued, and they stopped coming within the border of
-  Israel. Yahweh's hand was against the Philistines all the days of Samuel.* (WEB at bible-api.com; not
-  stored)
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:13; *So the Philistines were subdued, and they stopped
+  coming within the border of Israel. Yahweh's hand was against the Philistines all the days of Samuel.*
 - 1 Samuel 9:16 — of Saul: *He will save my people out of the hand of the Philistines* (same)
 - 2 Samuel 8:1 — *After this, David struck the Philistines and subdued them* (same)
 - [[Samson's Riddle]] — Judges 14:4, 19; *he sought an occasion against the Philistines*, and thirty struck at Ashkelon.
@@ -92,3 +91,21 @@ enemy's rule, which it does not end. The phrase *təšûʿâ gədôlâ* recurs i
 23:10, 12, of David and his men against the Philistines (WEB at bible-api.com; WLC). The beginning has a
 great deliverance in it, and the Philistines are still there. See [[Samson Against the Philistines at Lehi]]. Sources:
 stored WEB Judges 13:5; 15:18, 20; Hebrew WLC (`Judg.xml`, `1Sam.xml`, `2Sam.xml`), 2026-11-16.
+
+### 1 Samuel 7 — subdued, and the question of the later wars
+
+Read in place, the Philistines are *subdued*, *wayyikkānəʿû* (1 Samuel 7:13, WLC), at the end of a deliverance
+told in the shape of a Judges cycle: Baals and Ashtaroth put away, a confession, a cry, and a victory. *Yahweh's
+hand was against the Philistines all the days of Samuel* repeats the formula of Judges 2:18, *all the days of the
+judge* (WLC). The first sentence of the promise to Samson, *begin to save … out of the hand of the Philistines*,
+is completed here in substance, and 1 Samuel 9:16 repeats it of Saul in the same words.
+
+That repetition is the tension this page left for the ingest of 1 Samuel. 7:13 says the Philistines *stopped
+coming within the border of Israel … all the days of Samuel*; Samuel lives until 25:1, and before then there is a
+*garrison of the Philistines* at the hill of God (10:5), Saul is sent to *save my people out of the hand of the
+Philistines* (9:16), and the Philistines muster at Michmash after Jonathan strikes their garrison at Geba
+(13:3–5) (stored WEB; not yet ingested). The text does not reconcile the two. The summary may describe Samuel's
+judgeship before the monarchy, *the border of Israel* may mean the recovered lowland towns of 7:14, or the summary
+may idealize; the wiki records the tension here and on [[Samuel Judges Israel at Mizpah]], and will return to it
+at 9:16 and 13:3–5. Sources: stored WEB Judges 2:18; 13:5; 1 Samuel 7:13–14; 9:16; 10:5; 13:3–5; 25:1. Hebrew
+WLC (OpenScriptures morphhb), 2026-11-17.

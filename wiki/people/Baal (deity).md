@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The Baals removed — 1 Samuel 7:4
+
+At Samuel's word, *the children of Israel removed the Baals and the Ashtaroth, and served Yahweh only* (7:4).
+Samuel had said *the foreign gods and the Ashtaroth* (7:3); the narrator names *the Baals*, *habbəʿālîm*
+(WLC), as the people remove them. Samuel's farewell puts the same pair in the people's confession, *we have
+served the Baals and the Ashtaroth* (12:10, stored WEB; not yet ingested). See [[Samuel Judges Israel at Mizpah]].
+Source: stored WEB 1 Samuel 7:3–4; 12:10. Hebrew WLC, 2026-11-17.
+
 ### The Baals again — Judges 10:6, 10
 
 *The Baals, the Ashtaroth*, head the longest list of gods in the book, followed by the gods of five peoples (6). Israel's first spoken confession names them: *we have forsaken our God, and have served the Baals* (10). Then *they put away the foreign gods from among them* (16).
@@ -60,6 +68,7 @@ died, and Baal is restored. See [[Gideon's Ephod and Death]] and [[Baal Berith]]
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
 - [[Gideon's Ephod and Death]] — Judges 8:33; *the Baals*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 10, 16; served, confessed, put away.
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:4; *the Baals* removed at Samuel's word.
 
 ## Related people
 - [[Ashtoreth (deity)]] — the goddess named beside him (2:13).

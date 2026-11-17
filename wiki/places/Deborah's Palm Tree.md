@@ -25,6 +25,7 @@ Source: stored WEB Judges 4:5; Genesis 35:8; Hebrew WLC, 2026-11-13. No modern s
 ## Related places
 - [[Ramah]] and [[Bethel]] — it stands between them.
 - [[The Hill Country of Ephraim]]
+- [[Mizpeh]] · [[Gilgal]] — with Bethel and Ramah, the towns where Samuel judged (1 Samuel 7:16–17); see [[Between Ramah and Bethel - Deborah and Samuel as Judges]]
 
 ## Events here
 - Israel comes up to Deborah for judgment (4:5).

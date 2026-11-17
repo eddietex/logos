@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Thunder at Mizpah — 1 Samuel 7:10
+
+*Yahweh thundered with a great thunder on that day on the Philistines, and confused them* (7:10). Hannah sang
+*He will thunder against them in the sky* (2:10), and in 1 Samuel the verb *rāʿam* occurs only at 1:6, 2:10, and
+here (WLC lemma search). See [[Samuel Judges Israel at Mizpah]] and
+[[He Will Thunder Against Them - Hannah's Song and Mizpah]]. Source: stored WEB 1 Samuel 1:6; 2:10; 7:10.
+Hebrew WLC, 2026-11-17.
+
 ### The cows that went straight — 1 Samuel 6:7–12
 
 The Philistines make a sign by stacking the odds against it: a new cart, two milk cows never yoked, their
@@ -234,6 +242,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:10; *Yahweh thundered with a great thunder*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:7–12; the test of the unyoked cows.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:3–4; Dagon found fallen before the ark on two mornings.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:34; the two sons' death *in one day* as the sign of the longer sentence.

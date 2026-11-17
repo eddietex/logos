@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The foreign gods put away at Mizpah — 1 Samuel 7:3–4
+
+Samuel makes return to Yahweh conditional on an act: *If you are returning to Yahweh with all your heart, then
+put away the foreign gods and the Ashtaroth from among you … and serve him only* (7:3). *Then the children of
+Israel removed the Baals and the Ashtaroth, and served Yahweh only* (7:4). The order is Jacob's at Shechem in
+nearly the same Hebrew (Genesis 35:2), and the deed repeats Judges 10:16. *Only*, *ləḇaddô*, is said of the order
+and of its keeping (WLC). See [[Samuel Judges Israel at Mizpah]] and
+[[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]]. Source: stored WEB Genesis 35:2; Judges
+10:16; 1 Samuel 7:3–4. Hebrew WLC, 2026-11-17.
+
 ### *Dagon had fallen on his face* — 1 Samuel 5:1–7
 
 The captured ark is set *by Dagon* in his house at Ashdod (5:2). Twice the image is found *fallen on his
@@ -625,6 +635,7 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–4; the foreign gods, the Baals, and the Ashtaroth put away; *serve him only*.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:2–7; Dagon twice fallen before the ark, set up again by hand, and broken.
 - [[The Danite Migration]] — Judges 18:14–20, 24, 30–31; Micah's image, ephod, and teraphim taken and set up at Dan.
 - [[Micah's Idol and Levite]] — Judges 17:3–5; the carved and molten image, ephod, and teraphim in Micah's house.

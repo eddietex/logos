@@ -59,7 +59,7 @@ Judges 2:4–5; 20:23, 26; 21:2 read from the Westminster Leningrad Codex (OpenS
 
 At 20:26 the weeping at Bethel comes with fasting: *wayyiḇkû … wayyāṣûmû* (WLC). In the WLC files of Genesis
 through Judges this is the only occurrence of the verb *ṣûm*, *to fast* (lemma 6684); 1 Samuel 7:6 has it
-next, at Mizpah. Here weeping is followed by an inquiry and an answer, *tomorrow I will deliver him into
+next, at Mizpah ([[Samuel Judges Israel at Mizpah]]). Here weeping is followed by an inquiry and an answer, *tomorrow I will deliver him into
 your hand* (20:28) — the only one of these scenes in which Yahweh replies. The next day Benjamin is nearly
 destroyed, and in 21:2 the people weep at Bethel again. See [[The War Against Benjamin]]. Source: stored
 WEB Judges 20:23–28; 21:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh helped us until now* — 1 Samuel 7:12
+
+Samuel sets up a stone and names it *Ebenezer*, *the stone of help*: *Yahweh helped us until now* (7:12). The
+name is the camp's name from the defeat of chapter 4, now given to the place of victory. Like Jacob's pillar and
+Joshua's stones, it is a memorial set up after an act of God, and its name says what is to be remembered. See
+[[Samuel Judges Israel at Mizpah]], [[Ebenezer]], and
+[[The Pillar Jacob Raised and the Pillars the Law Forbids]]. Source: stored WEB 1 Samuel 4:1; 7:12.
+
 ### *Remember me, and not forget* — 1 Samuel 1:11, 19
 
 Hannah asks Yahweh to *remember me, and not forget your servant*, *zəḵartanî wəlōʾ-tiškaḥ* (1:11, WLC). In
@@ -858,6 +866,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:12; the stone named Ebenezer, *Yahweh helped us until now*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 19; *remember me, and not forget*; *Yahweh remembered her*
 
 - [[The Death of Samson]] — Judges 16:28; *remember me, please*.

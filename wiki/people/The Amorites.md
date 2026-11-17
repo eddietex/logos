@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Peace with the Amorites — 1 Samuel 7:14
+
+After the victory at Mizpah, *There was peace between Israel and the Amorites* (7:14), *šālôm bên yiśrāʾēl
+ûḇên hāʾĕmōrî* (WLC, the collective singular). The verse does not say who they were by then; the usual reading
+is the remaining non-Israelite population of the land, like the Amorites who held Aijalon and Shaalbim against
+Dan (Judges 1:34–36). See [[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 7:14; Judges 1:34–36.
+Hebrew WLC, 2026-11-17.
+
 ### The Amorites' land, not Ammon's — Judges 11:19–23
 
 Jephthah's whole case rests on them. Israel *possessed all the land of the Amorites* and *all the border
@@ -85,6 +93,7 @@ See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Genesis 10:16; 15:
 - Among the peoples Israel lives among and marries — [[The Nations Left to Test Israel]]
 
 ## Appears in
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *peace between Israel and the Amorites*.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:19–23; Sihon's people, whose land Israel took.
 
 - [[Israel's Repentance Under Ammon]] — Judges 10:8, 11; *the land of the Amorites, which is in Gilead*; saved from them.

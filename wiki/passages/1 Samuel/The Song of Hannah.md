@@ -122,7 +122,8 @@ lens for what follows: the proud brought low, the lowly raised, and a king whose
   (4) and anticipates the boy with a sling who will say *Yahweh doesn't save with sword and spear*
   (17:47, stored WEB; not yet ingested).
 - **He will thunder against them in the sky.** *Bašāmayim yarʿēm* (10, WLC). At Mizpah, *Yahweh thundered
-  with a great thunder on that day on the Philistines* (7:10, stored WEB; not yet ingested), the same verb.
+  with a great thunder on that day on the Philistines* (7:10), the same verb; see
+  [[He Will Thunder Against Them - Hannah's Song and Mizpah]].
 - **His king, his anointed.** *Wəyitten-ʿōz ləmalkô wəyārēm qeren məšîḥô* (10, WLC). *Māšîaḥ*, *anointed*,
   occurs in the WLC files of Genesis through Ruth only of *the anointed priest* (Leviticus 4:3, 5, 16;
   6:22 WEB, 6:15 WLC). This is its first use of a king. In 1 Samuel it returns of the priest's master (*my
@@ -206,6 +207,7 @@ Eli's sons, *wicked men* who *despised the offering of Yahweh* (2:12, 17): the p
 - Luke 1:46–55 — Mary's song —
   [[The Song of Hannah and the Song of Mary - 1 Samuel 2.1-10 and Luke 1.46-55]]
 - Genesis 16–30; Judges 13 — the barren wives — [[The Barren Matriarchs]]
+- 1 Samuel 7:10 — *Yahweh thundered* — [[He Will Thunder Against Them - Hannah's Song and Mizpah]]
 
 ## Notes
 

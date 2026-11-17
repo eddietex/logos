@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A battle won by thunder — 1 Samuel 7:7–14
+
+The Philistines come up against an assembly gathered to fast, and Israel is *afraid* (7:7). No one musters an
+army and no one fights until the pursuit: *Yahweh thundered with a great thunder … and confused them; and they
+were struck down before Israel* (7:10), and then *the men of Israel went out of Mizpah, and pursued* (7:11). The
+phrase *struck down before* reverses the defeat of 4:2 (WLC). The war ends as the judges' wars did: *the
+Philistines were subdued* (7:13). See [[Samuel Judges Israel at Mizpah]] and
+[[Yahweh Confused Them - Hamam in the Wars of Yahweh]]. Source: stored WEB 1 Samuel 4:2; 7:7–14. Hebrew WLC,
+2026-11-17.
+
 ### Two defeats at Ebenezer — 1 Samuel 4:1b–11
 
 Israel loses *about four thousand* in the first battle and *thirty thousand footmen* in the second, after the
@@ -946,6 +956,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder, confusion, pursuit; the Philistines subdued.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–11; two defeats before the Philistines, and the ark lost.
 - [[Wives for Benjamin]] — Judges 21:10–12; twelve thousand sent against Jabesh Gilead.
 - [[The War Against Benjamin]] — Judges 20:1–48; all the tribes against Benjamin.

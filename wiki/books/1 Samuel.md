@@ -98,6 +98,18 @@ Yahweh's ark* (6:19). *Who is able to stand before Yahweh, this holy God?* (6:20
 Kiriath Jearim, to Abinadab's house *on the hill*, and his son Eleazar is consecrated to keep it (7:1). It
 does not return to Shiloh.
 
+[[Samuel Judges Israel at Mizpah]] (7:2–17) closes the ark narrative with Samuel. After *twenty years*, *all
+the house of Israel lamented after Yahweh* (7:2), and Samuel, silent since his call, makes return conditional:
+*put away the foreign gods and the Ashtaroth … and serve him only* (7:3). They do; at Mizpah they pour out water
+before Yahweh, fast, and confess *We have sinned against Yahweh*, and *Samuel judged the children of Israel*
+(7:6). When the Philistines come up, Samuel offers a suckling lamb and *cried to Yahweh for Israel; and Yahweh
+answered him*: *Yahweh thundered with a great thunder … and confused them* (7:9–10), as Hannah sang (2:10). He
+names a stone *Ebenezer*, *Yahweh helped us until now*, the name of the camp where the ark was lost (4:1; 7:12).
+The Philistines are *subdued*, the verb of the judges' victories, and *Yahweh's hand was against the Philistines
+all the days of Samuel* (7:13), a summary the Philistine wars of chapters 9–14 do not obviously fit. The chapter
+ends on a judge's notice: a yearly circuit of Bethel, Gilgal, and Mizpah, and a house and altar at Ramah
+(7:15–17). Deliverance has come without a king, and the next chapter asks for one.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -128,7 +140,7 @@ merge, or reorder them freely.
 - [x] [[The Ark Is Captured]] — 1 Samuel 4:1b–22
 - [x] [[The Ark Among the Philistines]] — 1 Samuel 5:1–12
 - [x] [[The Ark Returns to Israel]] — 1 Samuel 6:1–7:1
-- [ ] Samuel Judges Israel at Mizpah — 1 Samuel 7:2–17
+- [x] [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2–17
 - [ ] Israel Asks for a King — 1 Samuel 8:1–22
 - [ ] Saul Comes to the Seer — 1 Samuel 9:1–25
 - [ ] Samuel Anoints Saul — 1 Samuel 9:26–10:16
@@ -200,6 +212,11 @@ merge, or reorder them freely.
 - [[Holiness]] — *Who is able to stand before Yahweh, this holy God?* (6:20)
 - [[Providence]] — Yahweh's hand, or *a chance* (6:9)
 - [[Guilt and Conscience]] — the Philistines' *trespass offering* (6:3–4)
+- [[Mourning and Lament]] — *all the house of Israel lamented after Yahweh* (7:2)
+- [[Sin]] — *We have sinned against Yahweh* (7:6)
+- [[Mediation and Advocacy]] — *Samuel cried to Yahweh for Israel; and Yahweh answered him* (7:9)
+- [[Remembrance]] — the stone Ebenezer, *Yahweh helped us until now* (7:12)
+- [[Strife and Peacemaking]] — *peace between Israel and the Amorites* (7:14)
 
 ## Key people
 - [[Samuel]]
@@ -219,16 +236,21 @@ merge, or reorder them freely.
 - [[Abinadab (of Kiriath Jearim)]]
 - [[Eleazar (son of Abinadab)]]
 - [[David]]
+- [[Baal (deity)]] and [[Ashtoreth (deity)]] — *the Baals and the Ashtaroth*, put away (7:3–4)
+- [[The Amorites]] — at peace with Israel (7:14)
 
 ## Key places
 - [[Shiloh]]
-- [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home
+- [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home; Samuel's house and altar (7:17)
 - [[The Hill Country of Ephraim]]
 - [[Egypt]] — where Yahweh revealed himself to the house of Eli's father (2:27)
 - [[Dan (city)]] and [[Beersheba]] — *all Israel from Dan even to Beersheba* (3:20)
-- [[Ebenezer]] and [[Aphek]] — the opposing camps of the battle where the ark is taken (4:1)
+- [[Ebenezer]] and [[Aphek]] — the opposing camps of the battle where the ark is taken (4:1); Ebenezer named at 7:12
 - [[Ashdod]], [[Gath]], and [[Ekron]] — the three Philistine cities the ark passes through (5:1–12)
 - [[The Land of the Philistines]] — where the ark stays *seven months* (6:1)
 - [[Beth Shemesh]] — where the ark comes home, and its men are struck (6:12–20)
 - [[Kiriath Jearim]] — where the ark is kept in Abinadab's house (6:21–7:1)
 - [[Gaza]] and [[Ashkelon]] — named with the other three lordships in the trespass offering (6:17)
+- [[Mizpeh]] — the assembly, fast, and victory under Samuel (7:5–11)
+- [[Beth Kar]] and [[Shen]] — the end of the pursuit, and the stone's position (7:11–12)
+- [[Bethel]] and [[Gilgal]] — with Mizpah, the towns of Samuel's circuit (7:16)

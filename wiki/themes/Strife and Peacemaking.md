@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Peace with the Amorites — 1 Samuel 7:14
+
+After the Philistines are subdued, *There was peace between Israel and the Amorites* (7:14), *šālôm* (WLC). The
+verse reports the peace and gives no treaty or occasion. It is the last line of the deliverance before the closing
+notice of Samuel's judgeship. See [[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 7:14. Hebrew
+WLC, 2026-11-17.
+
 ### Peace proclaimed after the war — Judges 21:13
 
 *The whole congregation sent and spoke to the children of Benjamin who were in the rock of Rimmon, and
@@ -474,6 +481,7 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *peace between Israel and the Amorites*.
 - [[Wives for Benjamin]] — Judges 21:13; *proclaimed peace* to the six hundred.
 - [[The War Against Benjamin]] — Judges 20:12–14; the demand, and the refusal.
 - [[Shibboleth]] — Judges 12:1–4; *a man of strife*, and an answer that does not turn away wrath.

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Twenty years — 1 Samuel 7:2
+
+*From the day that the ark stayed in Kiriath Jearim, the time was long; for it was twenty years* (7:2). The ark
+is still in Abinadab's house when David fetches it (2 Samuel 6:2–3, WEB checked at bible-api.com), so the twenty
+years are usually read as the time until the assembly at Mizpah, not the whole stay; the verse does not say. The
+ark plays no part in Samuel's victory, and Samuel's circuit (7:16) does not include the town. See
+[[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 7:2, 16; 2 Samuel 6:2–3 at bible-api.com,
+2026-11-17.
+
 ### The ark in Abinadab's house — 1 Samuel 6:21–7:1
 
 After the slaughter at Beth Shemesh, its men send to *the inhabitants of Kiriath Jearim*: *Come down, and
@@ -52,6 +61,7 @@ No later sanctuary history or modern site identification is asserted by this cha
 Source: stored WEB Joshua 9:1–27.
 
 ## Appears in
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2; the ark there *twenty years*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:21–7:1; the ark brought to Abinadab's house on the hill.
 - [[The Danite Migration]] — Judges 18:12; the six hundred camp *in Kiriath Jearim, in Judah*, at Mahaneh Dan.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
@@ -68,3 +78,4 @@ Source: stored WEB Joshua 9:1–27.
 ## Events here
 - Discovery of the cities and preservation under oath; labor assigned to the congregation and altar.
 - The ark housed with Abinadab, Eleazar consecrated to keep it — 1 Samuel 7:1, [[The Ark Returns to Israel]]
+- The ark stays *twenty years*; Israel laments after Yahweh — 1 Samuel 7:2, [[Samuel Judges Israel at Mizpah]]

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *I will pray to Yahweh for you* — 1 Samuel 7:5–9
+
+Eli's question, *who will intercede for him?* (2:25), gets its first answer in Samuel: *Gather all Israel to
+Mizpah, and I will pray to Yahweh for you*, *wəʾeṯpallēl baʿaḏḵem* (7:5, WLC), the same verb. The people ask him
+not to stop *crying to Yahweh our God for us* (7:8), and *Samuel cried to Yahweh for Israel; and Yahweh answered
+him* (7:9). The water *poured out before Yahweh* at Mizpah (7:6) uses the verb and phrase of Hannah's *I poured
+out my soul before Yahweh* (1:15, WLC); the meaning of the rite is not explained. See
+[[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 1:15; 2:25; 7:5–9. Hebrew WLC, 2026-11-17.
+
 ### The verb of prayer, turned to a question — 1 Samuel 2:25
 
 Eli's *who will intercede for him?* (2:25) uses *yiṯpallel* (WLC), the Hitpael of *pālal*, the verb of
@@ -490,6 +499,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:5–9; *I will pray to Yahweh for you*; *Samuel cried to Yahweh for Israel; and Yahweh answered him*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *who will intercede for him?*, the verb of Hannah's prayer.
 - [[The Song of Hannah]] — 1 Samuel 2:1; *Hannah prayed*, and the prayer is a song with no request.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:9–18, 26–27; Hannah's silent prayer, misread as drunkenness; *I poured out my soul*

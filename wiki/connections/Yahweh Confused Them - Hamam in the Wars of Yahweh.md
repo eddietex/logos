@@ -14,8 +14,8 @@ tags: [connection]
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:10; *Yahweh confused them before Israel*.
 - [[Deborah and Barak]] — Judges 4:15; *Yahweh confused Sisera, all his chariots, and all his army*.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:19, 22; the same kind of rout told without the verb.
-- 1 Samuel 7:10 — *Yahweh thundered … on the Philistines, and confused them* *(WEB checked, not yet
-  ingested)*.
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:10; *Yahweh thundered … on the Philistines, and confused
+  them*.
 
 ## Analysis
 
@@ -91,3 +91,14 @@ Samuel 5; the confusion comes with the ark alone. See
 [[Tumors and Confusion - The Covenant Curses on Ashdod, Gath, and Ekron]]. Sources: stored WEB Deuteronomy
 7:23; 28:20; 1 Samuel 5:9, 11; 14:20; Hebrew WLC (OpenScriptures morphhb), 2026-11-17, files `Gen` through
 `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `Ps`, `Zeph`.
+
+### 1 Samuel 7 ingested — confusion and the hand of Yahweh
+
+Read in place, 1 Samuel 7:10 is the battle of a prayer: the confusion comes *as Samuel was offering up the burnt
+offering*, after he *cried to Yahweh for Israel* (7:9–10), and Israel only pursues (7:11). Three verses later the
+narrator adds *Yahweh's hand was against the Philistines*, *wattəhî yaḏ-YHWH bappəlištîm* (7:13, WLC). Deuteronomy
+2:15, the verse in the table above where Israel's own fighting men are the object, joins the same two phrases:
+*Yahweh's hand was against them, to destroy them*, *yaḏ-YHWH hāyəṯâ bām ləhummām* (WLC). 1 Samuel 7 has the hand
+and the confusion together again, this time against Israel's enemy. See [[Samuel Judges Israel at Mizpah]] and
+[[He Will Thunder Against Them - Hannah's Song and Mizpah]]. Sources: stored WEB Deuteronomy 2:15; 1 Samuel
+7:9–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

@@ -7,6 +7,20 @@ tags: [person]
 
 ## Overview
 
+### Subdued under Samuel — 1 Samuel 7:7–14
+
+Hearing that Israel has gathered at Mizpah, *the lords of the Philistines went up against Israel* (7:7). While
+Samuel is offering, *Yahweh thundered with a great thunder on that day on the Philistines, and confused them;
+and they were struck down before Israel* (7:10), the verb and phrase of Israel's defeat at 4:2 turned around
+(WLC). Israel pursues them to below Beth Kar (7:11). Then *the Philistines were subdued*, *wayyikkānəʿû*, the
+verb Judges never used of them, *and they stopped coming within the border of Israel. Yahweh's hand was against
+the Philistines all the days of Samuel* (7:13). Towns *from Ekron even to Gath* are restored (7:14). The summary
+stands in tension with the Philistine garrisons and wars of 9:16; 10:5; 13:3–5, which the text does not
+reconcile; the question is recorded on the passage page. See [[Samuel Judges Israel at Mizpah]] and
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]].
+
+Source: stored WEB 1 Samuel 4:2; 7:7–14; 9:16; 10:5; 13:3–5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The ark sent home — 1 Samuel 6:1–18
 
 After *seven months* the Philistines ask *the priests and the diviners* what to do with the ark (6:1–2). The
@@ -180,6 +194,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–11; the ark captured.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:1–12; Dagon fallen, the three cities struck, the lords' two councils.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:1–18; the priests' counsel, the trespass offering, the cart test, the lords at the border.
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder at Mizpah, the Philistines subdued.
 
 ## Related people
 

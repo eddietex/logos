@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### On Samuel's circuit — 1 Samuel 7:16
+
+*He went from year to year in a circuit to Bethel, Gilgal, and Mizpah; and he judged Israel in all those places*
+(7:16). Bethel is first in the list. It was the place of inquiry and fasting, *where the ark of the covenant of
+God was in those days*, in the war with Benjamin (Judges 20:26–27), and Deborah judged *between Ramah and Bethel*
+(Judges 4:5). See [[Samuel Judges Israel at Mizpah]] and
+[[Between Ramah and Bethel - Deborah and Samuel as Judges]]. Source: stored WEB 1 Samuel 7:16; Judges 4:5;
+20:26–27.
+
 ### Weeping without an answer — Judges 21:2–4, 19
 
 The people return to Bethel after the war, *sat there until evening before God, and lifted up their
@@ -113,7 +122,7 @@ armies keep passing through it.
   used as a pillow, and vows. *"This is none other than God's house, and this is the gate of
   heaven."* He is sent back to build an altar there twenty years later (35:1–15).
 - **It becomes a sanctuary of the judges' period**, where the ark stands and Israel enquires of God
-  (Judges 20:18, 26–28), and part of Samuel's circuit (1 Samuel 7:16).
+  (Judges 20:18, 26–28), and part of Samuel's circuit (1 Samuel 7:16; [[Samuel Judges Israel at Mizpah]]).
 - **And then Jeroboam puts a golden calf in it** (1 Kings 12:28–29), one of the two he makes so that
   the northern tribes need not go up to Jerusalem, with the line *"behold your gods, Israel, which
   brought you up out of the land of Egypt"* — the words of Exodus 32:4. From that point Bethel is
@@ -136,6 +145,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:16; first town on Samuel's yearly circuit.
 - [[Wives for Benjamin]] — Judges 21:2–4, 19; weeping, altar, offerings; a landmark for Shiloh.
 - [[The War Against Benjamin]] — Judges 20:18–31; three inquiries, weeping, fasting, and the ark.
 - [[Deborah and Barak]] — Judges 4:5; Deborah's palm, between Ramah and Bethel.
@@ -212,3 +222,4 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 - Amos is expelled by Amaziah its priest — Amos 7:10–13
 - Josiah destroys the altar — 2 Kings 23:15–16
 - Its king counted (12:16); no capture narrated in Joshua.
+- Samuel judges Israel there on his yearly circuit — 1 Samuel 7:16, [[Samuel Judges Israel at Mizpah]]

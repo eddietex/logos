@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### On Samuel's circuit — 1 Samuel 7:16
+
+Gilgal is the second town of Samuel's yearly circuit, *Bethel, Gilgal, and Mizpah* (7:16), *wəhaggilgāl* (WLC,
+with the article, as usual for this name). It was Israel's first camp across the Jordan (Joshua 4:19). The verse
+does not say which Gilgal is meant, and the wiki files it here with the camp of Joshua 4; the identification is
+the usual one, not stated in the text. See [[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 7:16;
+Joshua 4:19. Hebrew WLC, 2026-11-17.
+
 ### The stone idols by Gilgal — Judges 3:19, 26
 
 Ehud *turned back from the stone idols that were by Gilgal* to bring Eglon his *secret message* (19),
@@ -99,6 +107,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:16; on Samuel's yearly circuit.
 - [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.
 - [[The Angel at Bochim]] — Judges 2:1; the angel comes up from here.
 - [[The Borders of Judah]] — Joshua 15:1–12.
@@ -130,3 +139,4 @@ both pages qualified.
   [[Set These Words Before You]].
 - Israel's first camp west of the Jordan — Joshua 4:19, [[The Twelve Stones from the Jordan]].
 - Yahweh's angel comes up from Gilgal to Bochim — Judges 2:1, [[The Angel at Bochim]].
+- Samuel judges Israel there on his yearly circuit — 1 Samuel 7:16, [[Samuel Judges Israel at Mizpah]]

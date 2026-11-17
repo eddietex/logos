@@ -14,7 +14,7 @@ family *came to their house to Ramah* (1:19). The WLC has *hārāmāṯayim ṣ�
 two heights*, with *Zophim*, and *hārāmāṯâ*, *to Ramah*, in 1:19; the narrative treats them as one town.
 *Zophim* matches the ancestor named at the end of the verse, *Zuph*, and *the land of Zuph* of 9:5 (not yet
 ingested). This is Samuel's Ramah: his birthplace here, and later his home, his altar, and his grave (7:17;
-25:1; not yet ingested).
+25:1; the grave not yet ingested).
 
 **Which Ramah — flagged.** The wiki files Samuel's Ramah on this page, beside Benjamin's Ramah of Joshua
 18:25, because 1 Samuel calls it simply *Ramah* and gives no other qualifier. Whether the two are the same
@@ -45,7 +45,19 @@ Named among Benjamin’s second group of fourteen cities with their villages (25
 
 Source: stored WEB Joshua 18:11–28.
 
+### Samuel's house and altar — 1 Samuel 7:17
+
+*His return was to Ramah, for his house was there; and he judged Israel there; and he built an altar to Yahweh
+there* (7:17). *Ûṯəšuḇāṯô hārāmāṯâ* (WLC): Ramah is the fixed point of the circuit of Bethel, Gilgal, and Mizpah
+(7:16), and *there* is said three times. The ark is at Kiriath Jearim and Shiloh is not mentioned; the altar is
+Samuel's own, and the narrator neither commends nor questions it. Deborah judged *between Ramah and Bethel*
+(Judges 4:5), which strengthens, without settling, the filing of Samuel's Ramah with Benjamin's. The elders will
+come *to Samuel to Ramah* to ask for a king (8:4, stored WEB; not yet ingested). See
+[[Samuel Judges Israel at Mizpah]] and [[Between Ramah and Bethel - Deborah and Samuel as Judges]].
+Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Appears in
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:17; Samuel's house, his judging, and his altar.
 - [[The Song of Hannah]] — 1 Samuel 2:11; *Elkanah went to Ramah to his house*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1, 19; *Ramathaim Zophim*, Elkanah's home.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:13; named with Gibeah as a place to lodge.
@@ -58,8 +70,10 @@ Source: stored WEB Joshua 18:11–28.
 - [[Gibeah (Benjamin)]] — the other town named at Judges 19:13.
 - [[Deborah's Palm Tree]] — between Ramah and [[Bethel]] (Judges 4:5).
 - [[The Jordan]] — Benjamin’s eastern boundary.
+- [[Mizpeh]] · [[Gilgal]] · [[Bethel]] — the towns of Samuel's circuit, with Ramah his return (1 Samuel 7:16–17).
 
 ## Events here
+- Samuel's house; he judges Israel there and builds an altar to Yahweh — 1 Samuel 7:17, [[Samuel Judges Israel at Mizpah]]
 - Elkanah's home; Samuel conceived after the return from Shiloh — 1 Samuel 1:1, 19
 - Elkanah returns home, leaving Samuel at Shiloh — 1 Samuel 2:11, [[The Song of Hannah]]
 - Named as an alternative lodging to Gibeah — Judges 19:13, [[The Levite's Concubine at Gibeah]]

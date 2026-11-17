@@ -278,7 +278,7 @@ The Philistine war that Samson *began* (Judges 13:5) is now Israel's open defeat
 - Joshua 7:6 — dust on the head before the ark
 - Judges 13:1; 13:5 — the Philistine oppression
 - Ezekiel 10:18 — *Yahweh's glory went out*
-- 1 Samuel 7:12 — Ebenezer named; 14:3 — Ichabod's nephew
+- 1 Samuel 7:12 — Ebenezer named — [[Samuel Judges Israel at Mizpah]]; 14:3 — Ichabod's nephew
 
 ## Notes
 

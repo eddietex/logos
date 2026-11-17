@@ -103,6 +103,26 @@ of Eli and his sons are the fulfilment of the word Samuel himself received (3:11
 
 Source: stored WEB 1 Samuel 3:11–14; 4:1–22; 7:3.
 
+### Judge at Mizpah — 1 Samuel 7:2–17
+
+After *twenty years* with the ark at Kiriath Jearim, Samuel speaks for the first time since his call: *If you
+are returning to Yahweh with all your heart, then put away the foreign gods and the Ashtaroth … and serve him
+only* (7:3). Israel does, and he gathers them to Mizpah: *I will pray to Yahweh for you* (7:5). They fast and
+confess, and *Samuel judged the children of Israel in Mizpah* (7:6), the first time *šāp̄aṭ* is used of him
+(WLC). When the Philistines come up, the people beg him *Don't stop crying to Yahweh our God for us* (7:8). He
+offers a suckling lamb as *a whole burnt offering*, *cried to Yahweh for Israel; and Yahweh answered him* with
+thunder (7:9–10). He names the stone of victory *Ebenezer*, *Yahweh helped us until now* (7:12). The chapter
+gives him every office at once: prophet, intercessor, priest at the altar, and judge. It is the first answer in
+the book to Eli's question, *who will intercede for him?* (2:25), and it ends with the notice of a judge's
+career: *Samuel judged Israel all the days of his life*, on a yearly circuit of Bethel, Gilgal, and Mizpah,
+from his house at Ramah, where *he built an altar to Yahweh* (7:15–17). He offers sacrifice in person here and
+the narrator raises no question of descent; see [[Elkanah (father of Samuel)]] for the Ephraimite-or-Levite
+question. See [[Samuel Judges Israel at Mizpah]],
+[[He Will Thunder Against Them - Hannah's Song and Mizpah]], and
+[[Between Ramah and Bethel - Deborah and Samuel as Judges]].
+
+Source: stored WEB 1 Samuel 2:25; 7:2–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -112,6 +132,7 @@ Source: stored WEB 1 Samuel 3:11–14; 4:1–22; 7:3.
 - Not named, but one common identification of the man of God's *faithful priest* — 2:35.
 - Called four times by Yahweh at night in the temple at Shiloh; receives and tells the word against Eli's house; known *from Dan even to Beersheba* as a prophet — 3:1–4:1a.
 - Absent from the narrative of the ark's capture, which fulfils the word given to him — 4:1b–22.
+- Calls Israel to put away the Baals and the Ashtaroth; prays at Mizpah; offers a whole burnt offering; Yahweh thunders; sets up Ebenezer; judges Israel all his life from Ramah — 7:2–17.
 
 ## Appears in
 
@@ -121,6 +142,7 @@ Source: stored WEB 1 Samuel 3:11–14; 4:1–22; 7:3.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35 (not named; a proposed identification).
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–22 (not present; the fulfilment of his first word).
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–17; prophet, intercessor, priest, and judge at Mizpah.
 
 ## Related people
 
@@ -131,6 +153,7 @@ Source: stored WEB 1 Samuel 3:11–14; 4:1–22; 7:3.
 - [[Samson]] — the other child of a barren mother whose head no razor would touch
 - [[Shemuel]] — the earlier bearer of the same Hebrew name
 - [[Man of God (of Eli's time)]] — whose word against Eli is repeated to him (3:11–14)
+- [[Deborah (prophetess)]] — the other prophet who *judged Israel*, between Ramah and Bethel (Judges 4:4–5)
 
 ## Themes associated
 
@@ -140,3 +163,5 @@ Source: stored WEB 1 Samuel 3:11–14; 4:1–22; 7:3.
 - [[Call and Election]]
 - [[Favor and Grace]]
 - [[Priesthood]]
+- [[Mediation and Advocacy]]
+- [[Sacrifice and Offering]]

@@ -14,6 +14,8 @@ tags: [connection]
   the River, in Egypt; and serve Yahweh."* Joshua 24:23: *"Now therefore put away the foreign gods
   which are among you, and incline your heart to Yahweh, the God of Israel."*
 - [[Israel's Repentance Under Ammon]] — Judges 10:16: *They put away the foreign gods from among them, and served Yahweh* (stored WEB).
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–4: *put away the foreign gods and the Ashtaroth from among you*; *the children of
+  Israel removed the Baals and the Ashtaroth, and served Yahweh only*.
 
 ## Analysis
 
@@ -74,3 +76,18 @@ reports one, but not where the gods went. This time it is not at Shechem; the ar
 Mizpah (10:17).
 
 Sources: stored WEB Genesis 35:2, 4; Joshua 24:23; Judges 10:16–17. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
+### 1 Samuel 7:3–4 — order and deed together, at Mizpah
+
+Samuel gives the order a fourth time: *hāsîrû ʾeṯ-ʾĕlōhê hannēḵār mittôḵəḵem wəhāʿaštārôṯ* (1 Samuel 7:3, WLC),
+*put away the foreign gods and the Ashtaroth from among you*. Its *mittôḵəḵem*, *from your midst*, is Jacob's
+noun (*bəṯōḵəḵem*, Genesis 35:2), where Joshua and Judges have *qereḇ* (WLC). It is the first time the order is
+made a condition: *If you are returning to Yahweh with all your heart* (7:3). The people carry it out in the next
+verse, *removed the Baals and the Ashtaroth, and served Yahweh only* (7:4), so 1 Samuel 7 has both the order of
+Genesis and Joshua and the deed of Judges. And like Judges 10:16–17, the putting away is followed by an assembly
+at a Mizpah, though not the same Mizpah: Judges' is in Gilead, Samuel's is filed on [[Mizpeh]]. In Judges, the
+deliverer came only after a refusal and a search for a leader; in 1 Samuel 7 the deliverance follows the same
+day, with Samuel's prayer. See [[Samuel Judges Israel at Mizpah]].
+
+Sources: stored WEB Genesis 35:2; Joshua 24:23; Judges 10:16–18; 1 Samuel 7:3–4. Hebrew from the Westminster
+Leningrad Codex (OpenScriptures morphhb), 2026-11-17.

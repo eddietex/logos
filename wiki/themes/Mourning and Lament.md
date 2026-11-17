@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Lamented after Yahweh* — 1 Samuel 7:2, 6
+
+Twenty years after the ark came to Kiriath Jearim, *all the house of Israel lamented after Yahweh* (7:2). The
+verb, *nāhâ* (lemma 5091), occurs only here in the WLC files searched (Genesis through 2 Kings, Ruth, Psalms), and
+*after Yahweh* is an unusual complement; the sense, mourning, longing, or turning to follow, is not settled.
+Samuel answers the lament with an *if* (7:3), and the lament becomes a fast and a confession at Mizpah (7:6). See
+[[Samuel Judges Israel at Mizpah]]. Source: stored WEB 1 Samuel 7:2–6. Hebrew WLC, 2026-11-17.
+
 ### *The people mourned* — 1 Samuel 6:19
 
 The day of the ark's return ends in mourning: *the people mourned, because Yahweh had struck the people with
@@ -353,6 +361,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2, 6; *lamented after Yahweh*; the fast at Mizpah.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:19; *the people mourned*.
 - [[The Ark Is Captured]] — 1 Samuel 4:12–13; the runner in mourning and the city's cry.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7–10, 18; weeping and not eating at the feast; *bitterness of soul*; the face no longer sad
