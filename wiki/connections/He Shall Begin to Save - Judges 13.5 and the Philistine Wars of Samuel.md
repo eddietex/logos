@@ -32,7 +32,7 @@ still ruled.
 
 **The book marks the beginning twice.** The verb *ḥālal*, *begin*, appears in the promise (13:5) and
 again in the last verse of the chapter, *Yahweh's Spirit began to move him* (13:25, *wattāḥel*). It
-returns at Samson's end, when Delilah *began to afflict him* (16:19) and his hair *began to grow again*
+returns at Samson's end, when Delilah *began to afflict him* (16:19, [[Samson and Delilah]]) and his hair *began to grow again*
 (16:22), all WLC. The chapter ends on a beginning, and his story ends on another.
 
 **Samuel's books finish the sentence.** The exact phrase of 13:5, *save … out of the hand of the

@@ -27399,3 +27399,58 @@ download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml`, 
 *laylâ* only at Exodus 12:29 and Judges 16:3; *ʾārab* (693) at Joshua 8, Judges 9; 16:2, 9, 12; 20–21, and
 Proverbs 1:11, 18; 7:12; 12:6; 23:28; 24:15; Joshua 2:1–2 shares *zônâ*, *bôʾ*, *šākab*, and *bāʾû hēnnâ*
 with Judges 16:1–3. No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 16.4-22 — Samson and Delilah
+
+Unattended run (`/ingest auto`). Samson *loved a woman in the valley of Sorek, whose name was Delilah*.
+The lords of the Philistines pay her eleven hundred pieces of silver each to *Entice him*. He lies three
+times (green cords, new ropes, the seven locks woven into the loom) and three times breaks free; pressed
+*daily* until *his soul was troubled to death*, he tells her *all his heart*, the razor and the Nazirite
+vow *from my mother's womb*. Shaved asleep on her knees, *he didn't know that Yahweh had departed from
+him*; the Philistines put out his eyes and set him grinding at the prison mill in Gaza. *The hair of his
+head began to grow again*.
+
+Created: [[Samson and Delilah]]; person [[Delilah]]; place [[The Valley of Sorek]]; connection
+[[Eleven Hundred Pieces of Silver - Delilah and Micah's Mother]].
+
+Revised: [[Judges]] (box checked, overview, key people, key places, key themes); [[Samson]];
+[[The Philistines]]; [[Gaza]]; themes [[Love]], [[Deception]], [[Wealth and Possessions]],
+[[The Spirit of God]], [[Holiness]], [[Seeing and Being Seen]], [[Slavery and Servitude]], [[Suffering]];
+connections [[Entice Him - The Timnite Wife and Delilah]],
+[[Bound to Be Handed Over - The Men of Judah and Delilah]],
+[[His Soul Was Short - Numbers 21.4, Judges 10.16, and Judges 16.16]],
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]],
+[[The Spirit Rushed on Him - Samson, Saul, and David]],
+[[Fallen Down Dead - Eglon's Upper Room and Jael's Tent]],
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]] (each now links the passage);
+passages [[The Announcement of Samson's Birth]], [[Samson's Riddle]],
+[[Samson Against the Philistines at Lehi]], [[Samson at Gaza]] (cross-references now link the passage).
+Also `wiki/books/index.md` (36 / 42), the places index, People Index A-E and N-Z, the themes index,
+Connections Index A-C, D-H, I-N, and O-S, and the dashboard counts. Frontmatter totals: 472 passages, 335
+people, 592 places, 88 themes, 896 connections.
+
+No contradictions with existing pages found. The passage holds two accounts of the strength's loss side by
+side, the cut hair (16:19) and Yahweh's departure (16:20); the wiki records both and does not reduce one to
+the other.
+
+Readings recorded, not resolved: (1) whether Delilah was a Philistine; (2) the vine etymology of *Sorek*
+(WLC lemma 7796 for the place, 8321 for *śōrēqâ* in Genesis 49:11); (3) the location of the valley (Wadi
+es-Sarar, reported, not checked); (4) the loom mechanics of 16:13–14; (5) the meaning of *Delilah*; (6)
+why the same sum, eleven hundred pieces of silver, opens Judges 17.
+
+Judgment calls: kept 16:4–22 as planned, ending at the regrowth of the hair. The man who shaves Samson and
+the ambushers get no page; *the lords of the Philistines* are filed on [[The Philistines]]. Gave the
+eleven hundred pieces of silver a connection page ahead of the Micah pericope; the Sorek–vine link and the
+Numbers 14:9 *sār … mēʿal* echo stay on the passage page only.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 15:13; 49:11;
+Exodus 11:5; 32:20; Numbers 6:3–5; 11:8; 14:9; 16:14; 21:4; 24:1; Deuteronomy 9:21; 23:13; Joshua 13:3.
+1 Samuel 16:14 checked against WEB at bible-api.com, not stored. Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml`, `Exod.xml`, `Lev.xml`, `Num.xml`,
+`Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml` on 2026-11-16. Verified in those files: *ʾāhab* (157) in
+Judges only at 5:31; 14:16; 16:4, 15; *ḥeder* (2315) in Judges at 3:24; 15:1; 16:9, 12; *maḥlāpâ* (4253)
+only at Judges 16:13, 19; *nāqar* (5365) only at Numbers 16:14 and Judges 16:21; *ṭāḥan* (2912) only at
+Exodus 32:20, Numbers 11:8, Deuteronomy 9:21, Judges 16:21; *yātēd* (3489) with *tāqaʿ* at Judges 4:21
+and 16:14; *kəpaʿam bəpaʿam* in Judges at 16:20; 20:30–31 and in Numbers 24:1; *ʾelep ûmēʾâ kesep* in
+Judges only at 16:5; 17:2, 3; *sûr* + *mēʿal* at 16:19, 20; 1 Samuel 16:14 *sārâ mēʿim*. No Greek text was
+consulted.

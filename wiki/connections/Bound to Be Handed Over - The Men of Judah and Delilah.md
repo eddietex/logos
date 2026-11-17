@@ -11,12 +11,11 @@ tags: [connection]
   (10); *We have come down to bind you, that we may deliver you into the hand of the Philistines* (12);
   *They bound him with two new ropes* (13); *the ropes that were on his arms became as flax that was
   burned with fire* (14). Stored WEB.
-- **Judges 16:5–13** — *that we may bind him to afflict him* (16:5); *If they only bind me with new ropes
+- [[Samson and Delilah]] — **Judges 16:5–13** — *that we may bind him to afflict him* (16:5); *If they only bind me with new ropes
   with which no work has been done, then shall I become weak* (16:11); *So Delilah took new ropes, and
-  bound him therewith … He broke them off his arms like a thread* (16:12). Stored WEB; not yet ingested,
-  see *Samson and Delilah* on [[Judges]].
-- **Judges 16:21** — *The Philistines laid hold on him, and put out his eyes; and they brought him down to
-  Gaza, and bound him with fetters of brass*. Stored WEB; not yet ingested.
+  bound him therewith … He broke them off his arms like a thread* (16:12). Stored WEB.
+- [[Samson and Delilah]] — **Judges 16:21** — *The Philistines laid hold on him, and put out his eyes; and they brought him down to
+  Gaza, and bound him with fetters of brass*. Stored WEB.
 
 ## Analysis
 

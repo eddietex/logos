@@ -32,7 +32,7 @@ into his body, and is found by people coming in from outside, *behold*, dead on 
 **The verb.** *Tāqaʿ* covers both thrusts. In the WLC files for Genesis, Exodus, Numbers, Joshua, and
 Judges, it is otherwise used mostly of blowing trumpets (Numbers 10; Joshua 6; Judges 3:27; 6:34; 7:18–22)
 and of pitching a tent (Genesis 31:25). Judges 16:14, Delilah fastening Samson's hair with the pin
-(*wattitqaʿ bayyātēd*), is the third use for driving something home in Judges, and has the same noun
+(*wattitqaʿ bayyātēd*; see [[Samson and Delilah]]), is the third use for driving something home in Judges, and has the same noun
 as 4:21.
 
 **The discovery clause.** *Wəhinnēh … nōpēl … mēt*: *behold*, the participle *fallen*, and *dead*, in

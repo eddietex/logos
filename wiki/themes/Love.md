@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### He loved a woman — Judges 16:4, 15
+
+*It came to pass afterward, that he loved a woman in the valley of Sorek, whose name was Delilah* (16:4),
+*wayyeʾĕhab ʾiššâ* (WLC). It is the first time Judges says Samson loved anyone; in the WLC of the book
+*ʾāhab* occurs only at 5:31, 14:16, and 16:4, 15. Delilah turns his love into leverage: *How can you say,
+'I love you,' when your heart is not with me?* (16:15), and presses him until he tells her *all his
+heart* (17). The text says he loved her; it never says she loved him. Love here is the door the enemy
+comes in by, as the Timnite wife's *you don't love me* was (14:16). See [[Samson and Delilah]] and
+[[Delilah]]. Source: stored WEB Judges 5:31; 14:16; 16:4, 15–17; Hebrew WLC (OpenScriptures morphhb),
+2026-11-16.
+
 ### You hate me, and don't love me — Judges 14:16
 
 The first words of Samson's wife are a complaint: *You just hate me, and don't love me* (14:16),
@@ -616,6 +627,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[Samson and Delilah]] — Judges 16:4, 15; *he loved a woman*; *How can you say, 'I love you'*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *that you love Yahweh your God* (11).
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

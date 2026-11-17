@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### He ground at the mill — Judges 16:21
+
+Blinded and bound *with fetters of brass*, Samson *ground at the mill in the prison* (16:21), literally
+*was grinding in the house of the bound* (WLC). Exodus 11:5 sets *the female servant who is behind the
+mill* at the bottom of Egypt's order, opposite Pharaoh on his throne. Israel's judge does that work in a
+Philistine prison. See [[Samson and Delilah]]. Source: stored WEB Exodus 11:5; Judges 16:21; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.
+
 ### "The house of bondage" — Judges 6:8
 
 *I brought you up from Egypt, and brought you out of the house of bondage* (6:8). *Mibbêt ʿăbādîm* is
@@ -493,6 +501,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 
 ## Key passages
 
+- [[Samson and Delilah]] — Judges 16:21; the prison mill.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8; *out of the house of bondage*.
 - [[Ehud and Eglon]] — Judges 3:14–18; eighteen years of service, and the tribute.
 - [[Othniel the First Judge]] — Judges 3:7–8; they served the Baals, then served Cushan Rishathaim.

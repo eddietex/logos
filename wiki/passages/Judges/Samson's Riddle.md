@@ -208,7 +208,7 @@ Philistines is thirty men at Ashkelon, struck to pay a debt, not to save Israel.
 - [[The Tribes That Did Not Drive Out]] — Judges 1; *yāraš*, *drive out*.
 - Judges 15:1–8 — the wife and her father burned *with fire* (15:6), the threat of 14:15 carried out
   (stored WEB; not yet ingested, see *Samson Against the Philistines at Lehi* on [[Judges]]).
-- Judges 16:4–22 — Delilah (stored WEB; not yet ingested).
+- [[Samson and Delilah]] — Judges 16:4–22; *Entice him*, *she pressed him daily*.
 - 1 Samuel 10:6, 10; 11:6; 16:13; 18:10; 17:34–35 — WEB at bible-api.com; not stored.
 
 ## Notes

@@ -136,8 +136,8 @@ darkness* (7:9), a woman *lurking at every corner* (7:12), and a man who goes *a
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18, 20; Gaza taken, Hebron given to Caleb.
 - [[Bound to Be Handed Over - The Men of Judah and Delilah]] — the bindings that follow (16:4–21).
 - [[Entice Him - The Timnite Wife and Delilah]] — the next woman (16:4–5).
-- Judges 16:4, 9, 12, 21, 23–30 — Delilah's ambush, Gaza's prison, and Dagon's house (stored WEB; not yet
-  ingested).
+- [[Samson and Delilah]] — Judges 16:4, 9, 12, 21; Delilah's ambush and Gaza's prison.
+- Judges 16:23–30 — Dagon's house (stored WEB; not yet ingested).
 
 ## Notes
 

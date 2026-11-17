@@ -10,10 +10,9 @@ tags: [connection]
 - [[Samson's Riddle]] — **Judges 14:15–17** — *Entice your husband, that he may declare to us the
   riddle, lest we burn you and your father's house with fire* (15); *You just hate me, and don't love
   me* (16); *she pressed him severely* (17). Stored WEB.
-- Judges 16:4–21 — *Entice him, and see in which his great strength lies* (16:5); *How can you say, 'I
+- [[Samson and Delilah]] — **Judges 16:4–21** — *Entice him, and see in which his great strength lies* (16:5); *How can you say, 'I
   love you,' when your heart is not with me?* (16:15); *When she pressed him daily with her words, and
-  urged him, his soul was troubled to death* (16:16). Stored WEB; not yet ingested, see *Samson and
-  Delilah* on [[Judges]].
+  urged him, his soul was troubled to death* (16:16). Stored WEB.
 
 ## Analysis
 

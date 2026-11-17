@@ -365,6 +365,16 @@ and carries them on his shoulders to the hill *before Hebron*. No Spirit is name
 him or by him. The scene of Rahab's house at Jericho (Joshua 2:1–7) is played again by one man for
 himself, and the city he takes the gate from is the city he will be brought back to blind (16:21).
 
+[[Samson and Delilah]] (16:4–22) is the fall the story has leaned toward. *He loved a woman in the valley
+of Sorek, whose name was Delilah*, the first time the book says he loved anyone, and the lords of the
+Philistines pay her *eleven hundred pieces of silver* each to *Entice him*. Three times he lies and three
+times breaks the bindings; pressed daily *to death*, he tells her *all his heart*, the razor and the
+Nazirite vow *from my mother's womb*. Shaved asleep on her knees, he wakes to go out *as at other times*,
+*But he didn't know that Yahweh had departed from him*. The Philistines put out his eyes, and he grinds at
+the prison mill in Gaza. The chapter's last word before Dagon's feast is a beginning: *the hair of his
+head began to grow again*. The sum paid for him reappears in the next chapter, stolen and made into an
+idol (17:2–3).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -422,7 +432,7 @@ merge, or reorder them freely.
 - [x] [[Samson's Riddle]] — Judges 14:1–20
 - [x] [[Samson Against the Philistines at Lehi]] — Judges 15:1–20
 - [x] [[Samson at Gaza]] — Judges 16:1–3
-- [ ] Samson and Delilah — Judges 16:4–22
+- [x] [[Samson and Delilah]] — Judges 16:4–22
 - [ ] The Death of Samson — Judges 16:23–31
 - [ ] Micah's Idol and Levite — Judges 17:1–13
 - [ ] The Danite Migration — Judges 18:1–31
@@ -444,7 +454,7 @@ merge, or reorder them freely.
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
 - [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32); Gideon's ephod, *a snare* (8:27); Baal Berith (8:33).
-- [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34).
+- [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34); *Yahweh had departed* from Samson (16:20).
 - [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19).
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3); Jephthah, *a man of strife*, fights it (12:1–6).
 - [[Language and Speech]] — *I have opened my mouth to Yahweh* (11:35); *Shibboleth* at the fords (12:5–6).
@@ -462,7 +472,9 @@ merge, or reorder them freely.
 - [[Oaths and Vows]] — Jephthah's vow, *I can't go back* (11:30–39).
 - [[Barrenness]] — Manoah's wife, *barren, and childless* (13:2–3).
 - [[Prayer]] — Samson calls on Yahweh in thirst, and the spring is opened (15:18–19).
-- [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7).
+- [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7); the razor at last (16:17–19).
+- [[Love]] — *he loved a woman in the valley of Sorek* (16:4).
+- [[Wealth and Possessions]] — eleven hundred pieces of silver, for Samson (16:5) and for Micah's idol (17:2–3).
 - [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31).
 - [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
 - [[Remembrance]] — the road from Egypt told as evidence (11:15–26).
@@ -503,9 +515,10 @@ merge, or reorder them freely.
 - [[King of Ammon (of Jephthah's time)]] — claims the land from the Arnon to the Jabbok (11:13).
 - [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
 - [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
-- [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25); kills a thousand at Lehi and judges twenty years (15:1–20); carries off the gate of Gaza (16:1–3).
+- [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25); kills a thousand at Lehi and judges twenty years (15:1–20); carries off the gate of Gaza (16:1–3); betrayed by Delilah, shaved, blinded, and imprisoned (16:4–22).
 - [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24); they object to his Philistine wife (14:3).
 - [[Samson's Timnite Wife]] — chosen by sight, pressed for the riddle, and given to his companion (14:1–20); burned with her father (15:6).
+- [[Delilah]] — loved by Samson, paid by the Philistine lords to learn his strength (16:4–20).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
@@ -542,4 +555,5 @@ merge, or reorder them freely.
 - [[Zorah]], [[Eshtaol]], and [[Mahaneh Dan]] — Manoah's town, and where the Spirit begins to move Samson (13:2, 25).
 - [[Timnah]] and [[Ashkelon]] — Samson's wedding town, and where he strikes thirty men (14:1, 19).
 - [[The Rock of Etam]], [[Lehi]], and [[En Hakkore]] — Samson's refuge, the jawbone, and the spring (15:8–19).
-- [[Gaza]] and [[Hebron]] — the gate Samson carries off, and the hill he carries it to (16:1–3).
+- [[Gaza]] and [[Hebron]] — the gate Samson carries off, and the hill he carries it to (16:1–3); Gaza's prison mill (16:21).
+- [[The Valley of Sorek]] — Delilah's home (16:4).

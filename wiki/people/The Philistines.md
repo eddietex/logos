@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The lords and Delilah — Judges 16:4–22
+
+*The lords of the Philistines*, *sarnê pəlištîm* (WLC), the five rulers of 3:3, come up to Delilah and
+offer her *eleven hundred pieces of silver* each to *Entice* Samson and learn how he may be bound *to
+afflict him* (16:5). They supply the cords, keep an ambush in her inner room, and come with *the money in
+their hand* when she sends for them (8–9, 12, 18). Then *The Philistines laid hold on him, and put out his
+eyes; and they brought him down to Gaza, and bound him with fetters of brass* (21). They never take him by
+strength; they buy him. See [[Samson and Delilah]] and [[Delilah]]. Source: stored WEB Judges 3:3;
+16:4–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The Gazites at the gate — Judges 16:1–3
 
 *The Gazites* hear that Samson is in their city with a prostitute, surround the place, and lie in wait all
@@ -75,8 +85,8 @@ who struck six hundred men of the Philistines with an ox goad. He also saved Isr
 oppression by them is described there, and no Philistine leader is named. See
 [[Shamgar and the Ox Goad]].
 
-The Philistines are the enemy of Samson's story (Judges 13–16, not yet ingested), where *the lords of
-the Philistines* come to Delilah (16:5).
+The Philistines are the enemy of Samson's story (Judges 13–16); his death in Dagon's house (16:23–31) is
+not yet ingested.
 
 This page covers the people. The region is [[The Land of the Philistines]]; the rulers of Genesis are
 [[Abimelech (of Abraham's time)]] and [[Abimelech (of Isaac's time)]].
@@ -97,6 +107,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Rule over Israel; the Timnah wedding and thirty struck at Ashkelon — [[Samson's Riddle]].
 - Burn Samson's wife, invade Judah, and lose a thousand at Lehi — [[Samson Against the Philistines at Lehi]].
 - The Gazites lie in wait for Samson and lose their city gate — [[Samson at Gaza]].
+- Their lords pay Delilah; they blind Samson and imprison him at Gaza — [[Samson and Delilah]].
 
 ## Appears in
 
@@ -115,10 +126,12 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Samson Against the Philistines at Lehi]] — Judges 15:1–20; the burned fields, the burned wife, Judah's surrender of Samson, and a
   thousand dead at Lehi.
 - [[Samson at Gaza]] — Judges 16:1–3; *the Gazites* lie in wait at the gate.
+- [[Samson and Delilah]] — Judges 16:5–21; the lords' silver, the ambush, the blinding, and the prison mill.
 
 ## Related people
 
 - [[Shamgar]] — the first in Judges to fight them (3:31).
+- [[Delilah]] — paid by their lords (16:5, 18).
 - [[The Avvim]] — named beside the five lords in Joshua 13:3.
 - [[The Caphtorim]] — named after the Casluhim in Genesis 10:14.
 - [[The Canaanites]] — Joshua 13:3 counts Philistine land *as Canaanite*.

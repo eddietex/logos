@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eleven hundred pieces of silver — Judges 16:5, 18
+
+The lords of the Philistines offer Delilah *eleven hundred pieces of silver* each to find Samson's
+strength (16:5), and come up *and brought the money in their hand* (18). The next chapter opens on the
+same sum, stolen by Micah from his mother and dedicated to make an idol (17:2–3); in Judges the figure
+occurs only in these places (WLC). Silver buys the judge's capture, and then the idol. See
+[[Samson and Delilah]] and [[Eleven Hundred Pieces of Silver - Delilah and Micah's Mother]]. Source:
+stored WEB Judges 16:5, 18; 17:2–3; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Three generations on seventy colts — Judges 12:14
 
 Abdon *had forty sons and thirty sons' sons, who rode on seventy donkey colts* (12:14). As with Jair's
@@ -940,6 +949,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Samson and Delilah]] — Judges 16:5, 18; eleven hundred pieces of silver from each lord.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; Ibzan's sixty marriages; Abdon's seventy riders on donkey colts.
 - [[Tola and Jair]] — Judges 10:4; thirty sons, thirty donkey colts, thirty cities.
 - [[Abimelech Made King at Shechem]] — Judges 9:4; seventy of silver from Baal Berith's house, and hired men.

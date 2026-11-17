@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### No razor has ever come on my head — Judges 16:17–19
+
+Samson tells Delilah *all his heart*: *No razor has ever come on my head; for I have been a Nazirite to God
+from my mother's womb* (16:17), in the angel's words of 13:5, turned from promise to report (WLC). The one
+rule the angel named is broken while he sleeps, by *a man* Delilah calls, and *his strength went from
+him* (19). The holiness was given, not chosen, and it is taken from him, not renounced; the text records
+that his hair *began to grow again* (22). See [[Samson and Delilah]] and
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]]. Source: stored WEB
+Judges 13:5; 16:17–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### A Nazirite to God from the womb — Judges 13:5, 7
 
 *The child shall be a Nazirite to God from the womb* (13:5), and his mother adds *to the day of his
@@ -805,6 +815,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Samson and Delilah]] — Judges 16:17–19, 22; the Nazirite's razor, and the hair that grows again.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *he is a holy God* (19).
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.

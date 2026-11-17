@@ -183,9 +183,9 @@ Danites set out *from Zorah and Eshtaol* to find another home (18:2, 11).
 - [[Israel's Repentance Under Ammon]] — Judges 10:6–18; the Philistines named with Ammon (10:7), and
   the last outcry.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:41; Zorah and Eshtaol in Dan's border.
-- Judges 16:17, 19, 22, 31 — the razor, *began to afflict him*, *began to grow*, the burial between
-  Zorah and Eshtaol (stored WEB; not yet ingested, see *Samson and Delilah* and *The Death of Samson*
-  on [[Judges]]).
+- [[Samson and Delilah]] — Judges 16:17, 19, 22; the razor, *began to afflict him*, *began to grow*.
+- Judges 16:31 — the burial between Zorah and Eshtaol (stored WEB; not yet ingested, see *The Death of
+  Samson* on [[Judges]]).
 - Judges 18:2, 11–12 — the Danites set out from Zorah and Eshtaol; Mahaneh Dan *behind Kiriath Jearim*
   (stored WEB; not yet ingested).
 - 1 Samuel 9:16 — *He will save my people out of the hand of the Philistines* (WEB at bible-api.com;

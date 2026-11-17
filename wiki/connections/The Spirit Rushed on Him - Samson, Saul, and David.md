@@ -58,7 +58,7 @@ for this page). The same two clauses carry a private grievance and a public resc
   clothes under the same clause. Saul prophesies and then is *turned into another man* (10:6). The text
   does not say the Spirit approved of what Samson did with it.
 - **The Spirit that rushes can leave.** Samson's ends with *he didn't know that Yahweh had departed from
-  him* (Judges 16:20, stored WEB); Saul's with *Yahweh's Spirit departed from Saul* (1 Samuel 16:14).
+  him* (Judges 16:20, stored WEB; [[Samson and Delilah]]); Saul's with *Yahweh's Spirit departed from Saul* (1 Samuel 16:14).
   David's is the one said to stay *from that day forward*.
 - **Samson is the forerunner of the Philistine wars of the kings.** *He shall begin to save Israel out of
   the hand of the Philistines* (Judges 13:5). The verb that empowers him is the verb that empowers Saul,

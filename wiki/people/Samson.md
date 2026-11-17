@@ -107,11 +107,34 @@ where he will be brought back blind (16:21). See [[Samson at Gaza]],
 Source: stored WEB Genesis 22:17; Joshua 2:1–7; Judges 14:1, 6, 19; 15:14; 16:1–3, 21; Hebrew WLC
 (OpenScriptures morphhb), 2026-11-16.
 
+### Delilah — Judges 16:4–22
+
+*He loved a woman in the valley of Sorek, whose name was Delilah* (16:4), the first time the book says he
+loved anyone. The lords of the Philistines pay her *eleven hundred pieces of silver* each to *Entice him*
+and find *in which his great strength lies* (5). He lies to her three times, seven green cords, new
+ropes, the seven locks woven into the loom, and three times breaks free at *The Philistines are on you,
+Samson!* (6–14). Pressed *daily* until *his soul was troubled to death*, he tells her *all his heart*: *No
+razor has ever come on my head; for I have been a Nazirite to God from my mother's womb* (15–17), the
+angel's words of 13:5. She has him shaved asleep on her knees, *and his strength went from him* (19). He
+wakes to go out *as at other times*, *But he didn't know that Yahweh had departed from him* (20). The
+Philistines put out his eyes, take him to Gaza in bronze fetters, and set him grinding at the prison mill
+(21). *However the hair of his head began to grow again* (22).
+
+The scene gathers every thread of his story: the woman *enticed* by the Philistines (14:15), the secret
+pressed out of him, Judah's *new ropes* (15:13), Gaza lying in wait (16:2), and the eyes he chose by
+(14:3). For the first time a binding holds. The text puts the cut hair and Yahweh's departure side by
+side, a verse apart, and does not explain how they relate. See [[Samson and Delilah]], [[Delilah]],
+[[Entice Him - The Timnite Wife and Delilah]],
+[[Bound to Be Handed Over - The Men of Judah and Delilah]], and
+[[Eleven Hundred Pieces of Silver - Delilah and Micah's Mother]].
+
+Source: stored WEB Judges 13:5; 14:3, 15; 15:13; 16:2, 4–22; Hebrew WLC (OpenScriptures morphhb),
+2026-11-16.
+
 ### Ahead
 
-His story runs to 16:31: Delilah (16:4–22), and his death in the temple of Dagon
-(16:23–31). The twenty years of 15:20 are repeated at 16:31, and he is buried *between Zorah and Eshtaol in the
-burial site of Manoah his father* (16:31). Hebrews 11:32 names him among the faithful. These pages are
+His story runs to 16:31: his death in the temple of Dagon (16:23–31). The twenty years of 15:20 are repeated at 16:31, and he is buried *between Zorah and Eshtaol in the
+burial site of Manoah his father* (16:31). Hebrews 11:32 names him among the faithful. That pericope is
 not yet ingested.
 
 ## Timeline / key events
@@ -125,6 +148,8 @@ not yet ingested.
 - Bound by the men of Judah and handed over; kills a thousand with a jawbone at Lehi (15:9–17).
 - Calls on Yahweh in thirst; given water at En Hakkore; judges Israel twenty years (15:18–20).
 - Goes in to a prostitute at Gaza; escapes the ambush at midnight and carries the city gate toward Hebron (16:1–3).
+- Loves Delilah; lies three times, then tells her of the razor; shaved, blinded, and set to grind in Gaza's prison (16:4–21).
+- His hair begins to grow again (16:22).
 
 ## Appears in
 - [[The Announcement of Samson's Birth]] — Judges 13:1–25; announced, born, named, blessed, and first
@@ -140,7 +165,10 @@ not yet ingested.
 - [[Samson at Gaza]] — Judges 16:1–3; the prostitute, the ambush, and the gate carried off.
 - [[The Prostitute and the City Gate - Rahab at Jericho and Samson at Gaza]] — Jericho and Gaza.
 - [[Possess the Gate of Those Who Hate Them]] — the gate of his enemies.
-- Judges 16:4–31 — not yet ingested.
+- [[Samson and Delilah]] — Judges 16:4–22; the four bindings, the razor, the blinding, and the mill.
+- [[Delilah]] — the woman of the valley of Sorek.
+- [[Eleven Hundred Pieces of Silver - Delilah and Micah's Mother]] — the price paid for him.
+- Judges 16:23–31 — not yet ingested.
 - Hebrews 11:32 — *Gideon, Barak, Samson, Jephthah* (WEB at bible-api.com; not stored).
 
 ## Related people
@@ -152,8 +180,10 @@ not yet ingested.
 - [[Shamgar]] — the first who *saved Israel* from the Philistines (3:31).
 - [[Samson's Timnite Wife]] — his wife for the week of the feast (14); burned by the Philistines (15:6).
 - [[Judah]] — the tribe that binds him and hands him over (15:9–13).
+- [[Delilah]] — the woman he loved, paid to betray him (16:4–20).
 
 ## Themes associated
 - [[Holiness]] · [[Barrenness]] · [[The Spirit of God]] · [[Redemption]] · [[Blessing]] ·
   [[Names and Naming]] · [[Marriage]] · [[Providence]] · [[Deception]] · [[Vengeance]] ·
-  [[Retribution]] · [[Prayer]] · [[War]] · [[Sexual Sin]] · [[Light and Darkness]]
+  [[Retribution]] · [[Prayer]] · [[War]] · [[Sexual Sin]] · [[Light and Darkness]] · [[Love]] · [[Seeing and Being Seen]] ·
+  [[Suffering]]

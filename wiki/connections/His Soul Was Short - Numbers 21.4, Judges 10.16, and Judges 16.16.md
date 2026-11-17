@@ -10,8 +10,8 @@ tags: [connection]
   journey* (stored WEB). Hebrew *wattiqṣar nepeš-hāʿām baddārek* (WLC).
 - [[Israel's Repentance Under Ammon]] — Judges 10:16. *His soul was grieved for the misery of Israel*
   (stored WEB). Hebrew *wattiqṣar napšô baʿămal yiśrāʾēl* (WLC).
-- **Judges 16:16** — *When she pressed him daily with her words, and urged him, his soul was troubled
-  to death* (stored WEB; not yet ingested, see *Samson and Delilah* on [[Judges]]). Hebrew
+- [[Samson and Delilah]] — **Judges 16:16** — *When she pressed him daily with her words, and urged him, his soul was troubled
+  to death* (stored WEB). Hebrew
   *wattiqṣar napšô lāmût* (WLC).
 
 ## Analysis

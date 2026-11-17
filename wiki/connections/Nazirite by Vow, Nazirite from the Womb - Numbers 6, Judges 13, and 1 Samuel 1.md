@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Nazirite Vow]] — Numbers 6:1–21.
 - [[The Announcement of Samson's Birth]] — Judges 13:4–5, 7, 14 — *"No razor shall come on his head; for the child shall be a Nazirite
   to God from the womb."* (stored WEB)
-- Judges 16:17 — *"I have been a Nazirite to God from my mother's womb."* *(same)*
+- [[Samson and Delilah]] — Judges 16:17 — *"I have been a Nazirite to God from my mother's womb."* *(same)*
 - 1 Samuel 1:11 — *"then I will give him to Yahweh all the days of his life, and no razor shall come on
   his head."* *(same)*
 - Amos 2:11–12 — *"But you gave the Nazirites wine to drink"* *(same)*

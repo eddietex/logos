@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### That we may bind him to afflict him — Judges 16:5, 19, 21
+
+The lords' purpose is *to afflict him*, *ləʿannōtô* (16:5, WLC, *ʿānâ*), Delilah asks how he might be
+bound *to afflict you* (6), and once he is shaved *she began to afflict him* (19). The verb is the one
+used of Egypt, *They will afflict them four hundred years* (Genesis 15:13). The affliction ends in
+blinding, fetters, and the mill (21), and the next verse is the only relief the text gives: *the hair
+of his head began to grow again* (22). See [[Samson and Delilah]]. Source: stored WEB Genesis 15:13;
+Judges 16:5–6, 19–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The threatened suffering includes bodily disease, loss of children, hunger, and unremitting fear (27–35, 53–67). Job 2:3 explicitly resists applying this explanation to every sufferer; similar bodily symptoms do not establish similar guilt.
@@ -314,6 +323,7 @@ the *"toil"* Joseph was made to forget (Genesis 41:51) (WLC). See
 
 ## Key passages
 
+- [[Samson and Delilah]] — Judges 16:5, 19, 21; *to afflict him*; blinded and bound.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 
 

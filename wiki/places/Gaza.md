@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Samson brought down blind — Judges 16:21
+
+*They brought him down to Gaza, and bound him with fetters of brass; and he ground at the mill in the
+prison* (16:21). The city whose gate Samson carried off (16:3) receives him back blind, as a prisoner
+grinding in *the house of the bound* (WLC). See [[Samson and Delilah]]. Source: stored WEB Judges
+16:3, 21; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The gate carried off — Judges 16:1–3
 
 Samson goes to Gaza for a prostitute (16:1). The Gazites lie in wait for him all night *in the gate of the
@@ -68,6 +75,7 @@ Named as the extent of the Avvim’s villages in the account of their displaceme
 Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
+- [[Samson and Delilah]] — Judges 16:21; Samson imprisoned at the mill.
 - [[Samson at Gaza]] — Judges 16:1–3; Samson carries off the city gate.
 - [[Midian's Oppression and the Prophet]] — Judges 6:4; the western limit of the Midianite raids.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
@@ -85,3 +93,4 @@ Source: stored WEB Deuteronomy 2:1–23.
 - Named in [[Around Seir and Past Moab and Ammon]]; see the distinction between the journey and the historical aside above.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]
 - Its gate carried off by Samson — Judges 16:1–3 — [[Samson at Gaza]]
+- Samson imprisoned blind, grinding at the mill — Judges 16:21 — [[Samson and Delilah]]

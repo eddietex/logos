@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### He didn't know that Yahweh had departed — Judges 16:20
+
+The Spirit *came mightily on* Samson at Timnah, Ashkelon, and Lehi (14:6, 19; 15:14). In the Delilah
+scene it is never named. He breaks cords, ropes, and loom with no word about the Spirit (16:9, 12, 14);
+then, shaved, he wakes saying *I will go out as at other times*, *But he didn't know that Yahweh had
+departed from him* (20). The verb is *sûr*, *turn aside*, the verb of *his strength went from him* (19,
+WLC): first the strength turns aside, then Yahweh. 1 Samuel 16:14 uses the same verb of Saul, *Yahweh's
+Spirit departed from Saul* (WEB at bible-api.com; WLC). The text does not say whether the Spirit left
+because the hair was cut, or the hair was the sign of what was already leaving. See
+[[Samson and Delilah]] and [[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB
+Judges 14:6, 19; 15:14; 16:9–20; Hebrew WLC (OpenScriptures morphhb, `Judg.xml`, `1Sam.xml`), 2026-11-16.
+
 ### The ropes like burned flax — Judges 15:14
 
 *Then Yahweh's Spirit came mightily on him, and the ropes that were on his arms became as flax that was
@@ -146,6 +158,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 
 ## Key passages
 
+- [[Samson and Delilah]] — Judges 16:20; *he didn't know that Yahweh had departed from him*.
 - [[Jephthah's Vow]] — Judges 11:29; the Spirit on Jephthah, followed by his vow.
 - [[The Fall of Abimelech]] — Judges 9:23; *God sent an evil spirit between Abimelech and the men of Shechem*.
 - [[The Fleece]] — Judges 6:34; *Yahweh's Spirit came on Gideon*, in Hebrew *clothed*.

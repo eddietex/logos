@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### You have mocked me, and told me lies — Judges 16:5–18
+
+The lords of the Philistines tell Delilah *Entice him* (16:5), the order given the Timnite wife (14:15).
+Samson lies to her three times, naming cords, ropes, and the loom, and three times she accuses him, *you
+have mocked me, and told me lies* (10, 13, 15), while she herself has an ambush waiting in the inner
+room. The deceiver complains of being deceived. When he tells the truth, *all his heart* (17), she acts
+on it at once, for silver. Both deceive; only one is paid. See [[Samson and Delilah]] and
+[[Entice Him - The Timnite Wife and Delilah]]. Source: stored WEB Judges 14:15; 16:5–18.
+
 ### Entice your husband — Judges 14:6, 9, 15–17
 
 Samson keeps two secrets from his parents, the lion (14:6) and the honey from its body (14:9), and turns
@@ -422,6 +431,7 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+- [[Samson and Delilah]] — Judges 16:5–18; *Entice him*; three lies; *you have mocked me, and told me lies*.
 - [[Ehud and Eglon]] — Judges 3:19–25; the secret message, the message from God, the locked doors.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 

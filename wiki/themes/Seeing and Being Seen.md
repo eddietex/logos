@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### They put out his eyes — Judges 16:21
+
+Samson's story was driven by his eyes: he *saw* the Timnite woman, *she is right in my eyes* (14:1–3,
+WLC), and *saw* the prostitute at Gaza (16:1). After Delilah, *The Philistines laid hold on him, and put
+out his eyes* (16:21), *wayənaqqərû ʾet-ʿênāyw* (WLC, *nāqar*), the verb of Dathan and Abiram's *Will you
+put out the eyes of these men?* (Numbers 16:14). The man who chose by sight ends blind. The wiki notes the
+arc; the text does not draw it. See [[Samson and Delilah]]. Source: stored WEB Numbers 16:14; Judges
+14:1–3; 16:1, 21; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Right in my eyes — Judges 14:1–3, 7
 
 *Samson went down to Timnah, and saw a woman* (14:1); *I have seen a woman* (14:2); *she pleases me
@@ -442,6 +451,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Samson and Delilah]] — Judges 16:21; *put out his eyes*.
 - [[The Call of Gideon]] — Judges 6:22–23; *I have seen Yahweh's angel face to face*.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Shown the land (1, 4).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
