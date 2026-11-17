@@ -28605,7 +28605,7 @@ the WEB's *one tenth*, *you shall be* corrected to *you will be*, and *the last 
 of its table), [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] (new section on 8:3), and
 [[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]] (8:20 added). Also
 `wiki/books/index.md`, People Index A-E and F-M (one new row each) and N-Z, Connections Index I-N (one new row)
-and A-C, T-Z, the places and themes indexes (the passage appended to each touched row), and the dashboard counts.
+and A-C, D-H, O-S, T-Z, the places and themes indexes (the passage appended to each touched row), and the dashboard counts.
 Frontmatter totals: 496 passages, 372 people, 601 places, 88 themes, 946 connections.
 
 Judgment calls: the boundary 8:1–22 stands; 9:1 opens a new scene with Kish. Joel and Abijah get pages, qualified
