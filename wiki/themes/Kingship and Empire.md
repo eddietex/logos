@@ -576,6 +576,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Danite Migration]] — Judges 18:1; the second *no king in Israel* refrain, without *right in his own eyes*.
 - [[Micah's Idol and Levite]] — Judges 17:6; the first *no king in Israel* refrain.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; large households and seventy riders, with no king.
 - [[Jephthah Called from Tob]] — Judges 11:6–11; *chief*, then *head over all the inhabitants of Gilead*; *head and chief*.

@@ -6,6 +6,7 @@ tags: [connection]
 # The Tent Established at Shiloh - Exodus 40 and Joshua 18
 
 ## Passages involved
+- [[The Danite Migration]] — Judges 18:31; *God's house … in Shiloh*, while Dan kept Micah's image.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:17–19.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

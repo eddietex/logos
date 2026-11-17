@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Laish *in the way of the Sidonians* — Judges 18:7, 28
+
+The Danite spies find Laish living *in safety, in the way of the Sidonians, quiet and secure … far from
+the Sidonians* (18:7); when it falls, *there was no deliverer, because it was far from Sidon* (28). The
+city lives by Sidon's customs and is out of Sidon's reach. See [[The Danite Migration]]. Source: stored
+WEB Judges 18:7, 28.
+
 ### The gods of Sidon — Judges 10:6, 12
 
 Israel serves *the gods of Sidon* (6), and Yahweh names *the Sidonians* among the peoples he saved Israel from (12). See [[The Sidonians]].
@@ -79,6 +86,7 @@ against it**; **and Jesus goes into its region and is met by a Syrophoenician wo
 Sidon which were done in you, they would have repented long ago"* (Matthew 11:21–22).
 
 ## Appears in
+- [[The Danite Migration]] — Judges 18:7, 28; Laish lives *in the way of the Sidonians*, and is too far from Sidon to be saved.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 12; its gods served; its people listed as former oppressors.
 - [[The Nations Left to Test Israel]] — Judges 3:3; the Sidonians left to test Israel.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:31; not driven out by Asher.

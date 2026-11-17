@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Danite Migration]] — Judges 18:19–20, 30; Micah's Levite becomes priest to a tribe at Dan.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:6–8, the Levite who comes from the towns
   to the chosen place.
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12, worship at one place and not on every high hill.
@@ -63,5 +64,14 @@ Deuteronomy 18:6's Levite comes *from any of your gates … where he lives as a 
 Micah's private shrine: ten pieces of silver a year, clothing, and food (17:10). Deuteronomy's *like
 portions to eat* (18:8) at the chosen place becomes a householder's maintenance at a house of gods. Judges
 does not cite Deuteronomy 18; the comparison is the wiki's. See [[Micah's Idol and Levite]] and
-[[Micah's Levite]]. Sources: stored WEB Deuteronomy 18:6–8; Judges 17:7–10. Hebrew from the Westminster
+[[Jonathan (son of Gershom)]]. Sources: stored WEB Deuteronomy 18:6–8; Judges 17:7–10. Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb), downloaded 2026-11-16.
+
+### Priest to a tribe — Judges 18
+
+The Levite who came to Micah's house instead of *the place* gets a larger post still: *Is it better for you
+to be priest to the house of one man, or to be priest to a tribe and a family in Israel?* (Judges 18:19).
+He and his sons serve the image at Dan *until the day of the captivity of the land* (18:30), while *God's
+house was in Shiloh* (31). Deuteronomy 18:6–7 gave a sojourning Levite a place at the chosen sanctuary;
+this one founds a rival one. See [[The Danite Migration]] and [[Jonathan (son of Gershom)]]. Source:
+stored WEB Deuteronomy 18:6–7; Judges 18:19–31.

@@ -6,11 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### An inheritance that had not fallen — Judges 18:1
+
+*The tribe of the Danites sought an inheritance to dwell in; for to that day, their inheritance had not
+fallen to them among the tribes of Israel* (18:1). Joshua 19:40–48 had drawn Dan's lot; Judges 1:34 had
+the Amorites press Dan into the hills. The tribe finds land at the far north, in a city *far from the
+Sidonians*, and takes it by the sword (18:7, 27–29). See [[The Danite Migration]] and
+[[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]]. Source: stored WEB Joshua 19:40–48;
+Judges 1:34; 18:1–29.
+
 ### A Levite looking for a place — Judges 17:7–9
 
 *A Levite … sojourning there*, *gār šām* (17:7, WLC), leaves Bethlehem Judah *to live where he could find
 a place* (17:8). Deuteronomy 18:6 sent the Levite *where he lives as a foreigner* to *the place which
-Yahweh shall choose*; this one finds Micah's house. See [[Micah's Idol and Levite]], [[Micah's Levite]], and
+Yahweh shall choose*; this one finds Micah's house. See [[Micah's Idol and Levite]], [[Jonathan (son of Gershom)]], and
 [[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]]. Source: stored WEB Deuteronomy
 18:6; Judges 17:7–9.
 
@@ -1089,6 +1098,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Danite Migration]] — Judges 18:1, 7–10, 27–29; a tribe without an inheritance takes Laish.
 - [[Micah's Idol and Levite]] — Judges 17:7–9; a sojourning Levite looking for a place to live.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:13–26; the claim to the land, answered from the road out of Egypt and Yahweh's gift.
 

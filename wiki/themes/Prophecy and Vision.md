@@ -259,6 +259,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[The Danite Migration]] — Judges 18:5–6; *ask counsel of God*, and the hired priest's *Go in peace … before Yahweh*.
 - [[The Dream of the Barley Loaf]] — Judges 7:13–14; a dream told and interpreted in Midian's camp.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–10; the unnamed prophet's speech.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

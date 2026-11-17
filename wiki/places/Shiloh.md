@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### God's house in Shiloh — Judges 18:31
+
+The Danites keep Micah's image at Dan *all the time that God's house was in Shiloh* (18:31). The
+chapter's last words set the house where the tent was set up (Joshua 18:1) beside the shrine a tribe made
+for itself. *Bêt-hāʾĕlōhîm*, with the article (WLC). See [[The Danite Migration]] and
+[[The Tent Established at Shiloh - Exodus 40 and Joshua 18]]. Source: stored WEB Joshua 18:1; Judges
+18:31.
+
 ### The altar of witness — Joshua 22:10–34
 
 The whole congregation gathers here to go to war over the eastern altar (12). Shiloh's tabernacle
@@ -43,6 +51,7 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:31; *God's house*, while Micah's image stood at Dan.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:40–48; Dan's cities, and Leshem taken (stored WEB).
 - [[The Tribes That Did Not Drive Out]] — Judges 1:34–35 (stored WEB, now ingested).
-- Judges 18:1 — the Danite migration; stored WEB, not yet ingested.
+- [[The Danite Migration]] — Judges 18:1, 7, 27–29; the migration and the taking of Laish.
 
 ## Analysis
 
@@ -42,6 +42,5 @@ Sources: stored WEB Joshua 19:40–48; Judges 1:34–35; 18:1. Hebrew of Joshua 
 
 ## Significance
 
-The chapter's last tribe is the one that loses its land. Judges 17–18 will follow Dan north and tell
-the migration in full. That account is not yet ingested, and this page will need to be revisited
-when it is.
+The chapter's last tribe is the one that loses its land. Judges 17–18 follow Dan north and tell
+the migration in full; see [[The Danite Migration]].

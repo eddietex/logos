@@ -26,8 +26,9 @@ Source: stored WEB Joshua 19:41; Judges 13:25; 18:11–12; Hebrew WLC (OpenScrip
 2026-11-16.
 
 ## Appears in
+- [[The Danite Migration]] — Judges 18:12; the camp of the six hundred, named *to this day*, *behind Kiriath Jearim*.
 - [[The Announcement of Samson's Birth]] — Judges 13:25; the Spirit begins to move Samson.
-- Judges 18:12 — the etiology, *behind Kiriath Jearim* (stored WEB; not yet ingested).
+- [[The Danite Migration]] — Judges 18:12; the etiology, *behind Kiriath Jearim*.
 
 ## Related places
 - [[Zorah]] · [[Eshtaol]] — *between Zorah and Eshtaol* (13:25).
@@ -35,4 +36,4 @@ Source: stored WEB Joshua 19:41; Judges 13:25; 18:11–12; Hebrew WLC (OpenScrip
 
 ## Events here
 - *Yahweh's Spirit began to move* Samson (Judges 13:25).
-- The Danites encamp on their migration and give it the name (18:12; not yet ingested).
+- The Danites encamp on their migration and give it the name (18:12, [[The Danite Migration]]).

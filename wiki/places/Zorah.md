@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Danites set out — Judges 18
+
+The five spies are sent *from Zorah, and from Eshtaol* (18:2), report back there (8), and the six hundred
+armed men set out from the same two towns (11). The town of Samson's birth and burial (13:2; 16:31) is
+the starting point of the tribe's departure. See [[The Danite Migration]]. Source: stored WEB Judges
+13:2; 16:31; 18:2, 8, 11.
+
 ### Samson's country — Judges 13:2, 25
 
 Manoah's town: *a certain man of Zorah, of the family of the Danites* (13:2). *Yahweh's Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol* (13:25). The pair that
@@ -30,6 +37,7 @@ Paired with [[Eshtaol]] here and again in Dan's border (19:41), so the same town
 Source: stored WEB Joshua 15:20–63. No modern site is assigned.
 
 ## Appears in
+- [[The Danite Migration]] — Judges 18:2, 8, 11; the spies and the six hundred set out.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Announcement of Samson's Birth]] — Judges 13:2, 25; Manoah’s town; *between Zorah and Eshtaol*.

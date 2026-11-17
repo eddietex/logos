@@ -27518,7 +27518,7 @@ confession, his mother's curse and blessing, the silver dedicated *to Yahweh* fo
 molten image*, the house of gods with ephod and teraphim, the first *no king in Israel* refrain (17:6),
 and the Levite of Bethlehem Judah hired as priest.
 
-Created: [[Micah's Idol and Levite]], [[Micah (of Ephraim)]], [[Micah's Mother]], [[Micah's Levite]],
+Created: [[Micah's Idol and Levite]], [[Micah (of Ephraim)]], [[Micah's Mother]], [[Jonathan (son of Gershom)]],
 [[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]],
 [[Filling the Hand - Aaron's Sons, the Levites at the Calf, and Micah's Priests]].
 
@@ -27564,3 +27564,71 @@ Judges 17:3, 4; 18:14, 18; *tərāpîm* (8655) only at Genesis 31:19, 34, 35 and
 *Mîkâ* thereafter. Reported, not checked: the meaning of *Micah*, the one-or-two-objects question for
 *pesel ûmassēkâ*, and what filled the priest's hand. Proverbs 29:24 and all Greek were not consulted in
 the original language.
+
+## [2026-11-17] ingest | Judges 18.1-31 — The Danite Migration
+
+Unattended ingest (`/ingest auto`). The second pericope of the epilogue: the second *no king in Israel*
+refrain (18:1, short form), the five Danite spies at Micah's house and their oracle, Laish *quiet and
+secure*, the six hundred at Mahaneh Dan, Micah's image, ephod, teraphim, and priest taken, Laish struck,
+burned, rebuilt, and renamed Dan, and the image set up with *Jonathan, the son of Gershom, the son of
+Moses* as priest while *God's house was in Shiloh*.
+
+Created: [[The Danite Migration]],
+[[The Land Is Very Good - The Spies of Numbers 13-14 and Judges 18]],
+[[Searched Out, Struck, and Burned - Deuteronomy 13 and Laish]].
+
+Renamed: `Micah's Levite` → [[Jonathan (son of Gershom)]], page rewritten for Judges 18, and every inbound
+wikilink fixed ([[Micah's Idol and Levite]], [[Judges]], [[Micah (of Ephraim)]], [[Gershom]], [[Levi]],
+[[Priesthood]], [[Land and Sojourning]], two connections, People Index F-M — the row moved to its J
+position — and the 2026-11-16 entry of this log, whose link was repointed mechanically so it would not
+dangle).
+
+Revised: people [[Micah (of Ephraim)]], [[Gershom]], [[Dan (person)]], [[Moses]], [[Jacob]]; places
+[[Dan (city)]], [[Zorah]], [[Eshtaol]], [[The Hill Country of Ephraim]], [[Sidon (city)]],
+[[Kiriath Jearim]], [[Mahaneh Dan]], [[Rehob]] (Beth Rehob recorded as an alias; the WLC lemmas differ
+from Numbers 13:21's Rehob, and the identification stays reported), [[Shiloh]]; themes [[Idolatry]],
+[[Priesthood]], [[Kingship and Empire]], [[Land and Sojourning]], [[War]], [[Theft and Restitution]],
+[[Redemption]], [[Names and Naming]], [[Prophecy and Vision]], [[The Dwelling of God]]; connections
+[[Leshem Becomes Dan - Joshua 19 and Judges 18]], [[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]],
+[[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]],
+[[The Teraphim - Household Gods in Genesis and After]],
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]],
+[[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]],
+[[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] (Judges 18:19 added),
+[[Twelve Spies and Two - Numbers 13 and Joshua 2]],
+[[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]],
+[[The Tent Established at Shiloh - Exodus 40 and Joshua 18]],
+[[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]]; passages [[Micah's Idol and Levite]]
+and [[Gideon's Ephod and Death]] ("not yet ingested" pointers to Judges 18 now link the passage);
+[[Judges]] (box checked, overview paragraph, key themes, people, places). Also `wiki/books/index.md`
+(39 / 42), the places and themes indexes, People Index A-E and F-M, Connections Index A-C, D-H, I-N,
+O-S, and T-Z, and the dashboard counts. Frontmatter totals: 475 passages, 339 people, 592 places, 88
+themes, 902 connections.
+
+No contradictions with existing pages found. Open questions recorded rather than resolved: *Moses* or
+*Manasseh* at 18:30; how a grandson of Moses fits this late in the book; which *captivity of the land* is
+meant, and whether it is the same limit as *all the time that God's house was in Shiloh*; how the spies
+knew the Levite's voice; whether the oracle of 18:6 was asked by ephod and teraphim; the two locations of
+Mahaneh Dan (13:25; 18:12); whether the molten image was a separate object.
+
+Judgment calls: kept 18:1–31 as one pericope as planned. Identified Micah's Levite with the Jonathan of
+18:30 and renamed the page, as the 17:1–13 entry left for this ingest to decide. No pages for the five
+spies, the six hundred, Micah's neighbors, or the people of Laish; no separate page for Laish (an alias
+on [[Dan (city)]]) or Beth Rehob (recorded on [[Rehob]]). The Deuteronomy 13 connection is the wiki's
+reading, built on the rare verb *ḥāqar* and the sword-fire-rebuilding sequence; the page says so.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 14:14; 27:23;
+30:6; 31:34–35; 34:21; 38:26; 49:16–17; Numbers 12:14; 13:2, 18–21, 28; 14:7, 9; 26:42–43; Deuteronomy
+1:24; 12:5; 13:12–16; 18:6–7; 27:15; 28:64; 33:22; Joshua 2:1; 18:1; 19:47; Judges 1:8, 22–26, 34;
+13:2, 25; 16:2, 31; 19:19–20; 20:28, 47–48; Job 21:5; 40:4; Proverbs 30:32. Hebrew from a fresh download
+of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml` through `Judg.xml` on 2026-11-17.
+Verified in those files: the suspended *nun* of *mənaššeh* at Judges 18:30 and its lemma (4519);
+*ḥāqar* (2713) only at Deuteronomy 13:15 (Hebrew) and Judges 18:2; *šāqaṭ* (8252) at Joshua 11:23; 14:15;
+Judges 3:11, 30; 5:31; 8:28; 18:7, 27; *ʿeṣer* only at 18:7; *kālam* only at Numbers 12:14 and Judges
+18:7; *raḥăḇat yāḏayim* only at Genesis 34:21 and Judges 18:10; *maḥsôr* at Deuteronomy 15:8 and Judges
+18:10; 19:19, 20; *rāgal* occurrences; *ṭôḇâ … məʾōḏ məʾōḏ* at Numbers 14:7; Deuteronomy 13:16–17
+(Hebrew) *ləp̄î-ḥāreḇ*, *śārap̄ bāʾēš*, *lōʾ tibbāneh*; Deuteronomy 27:15 *wəśām bassāter*. Reported, not
+checked: the scribal explanation of the suspended *nun* and the Greek and Latin readings, proposals for
+*the captivity of the land*, the identification of Beth Rehob with Numbers 13:21's Rehob, and 1 Kings
+12:29–30 on Jeroboam's calf at Dan (1 Kings not in raw; paraphrased, not quoted). The Hebrew of Job and
+Proverbs and all Greek were not consulted.

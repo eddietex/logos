@@ -7,8 +7,8 @@ tags: [connection]
 
 ## Passages involved
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:47; Leshem taken and renamed.
-- Judges 18:1, 27–29 — the Danites seek an inheritance and take Laish (not yet ingested).
-- Judges 1:34 — the Amorites confine Dan to the hill country (not yet ingested).
+- [[The Danite Migration]] — Judges 18:1, 27–29; the Danites seek an inheritance and take Laish.
+- [[The Tribes That Did Not Drive Out]] — Judges 1:34; the Amorites confine Dan to the hill country.
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14; Abram pursues *as far as Dan*, the name used before the renaming.
 
 ## Analysis
@@ -39,8 +39,7 @@ The two accounts agree on the outcome and the naming and differ in tone. Joshua 
 capture as an extension of the border, in the plain language of capture, with no comment.
 Judges sets it just after the Danites take *that which Micah had made, and the priest whom he
 had* (18:27), and stresses that the victims were quiet, unsuspecting, and without a
-deliverer (18:27–28). The wiki records both without choosing;
-Judges will be compared in full when it is ingested. Leshem and Laish are treated as two
+deliverer (18:27–28). The wiki records both without choosing. Leshem and Laish are treated as two
 names for one city because both texts name it Dan after the tribe’s ancestor; no claim about
 the Hebrew forms is made.
 
@@ -54,3 +53,13 @@ and it is the tribe whose name becomes the northern limit in *from Dan to Beersh
 presents the move as completion; Judges presents it as a tribe still looking for an
 inheritance in the days when *there was no king in Israel* (Judges 18:1). See
 [[Dan (city)]] and [[Dan (person)]].
+
+### Judges 18 ingested
+
+The full account adds what Joshua leaves out: spies sent *from Zorah, and from Eshtaol* (18:2); a camp
+named Mahaneh Dan (12); Micah's image, ephod, teraphim, and Levite taken on the way (14–20); a city with
+*no deliverer* (28); and the image set up at Dan with *Jonathan, the son of Gershom* as priest (30). Joshua
+19:47 names none of these. The two accounts still agree on the capture and the name, and still differ in
+what they choose to tell. See [[The Danite Migration]] and
+[[Searched Out, Struck, and Burned - Deuteronomy 13 and Laish]]. Source: stored WEB Joshua 19:47; Judges
+18:1–31.

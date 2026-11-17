@@ -110,7 +110,7 @@ divine element. Whether the shortening is meant, the text does not say.
   gates … where he lives as a foreigner*, *ʾăšer hûʾ gār šām*, is to come *to the place which Yahweh shall
   choose* (stored WEB; WLC). This Levite comes to Micah's house instead. The two words are also the sound
   of Gershom's name as the wiki reads it, *gēr šām*, *a sojourner there* (Exodus 2:22; see [[Gershom]]), and 18:30 will name the Danites' priest *Jonathan,
-  the son of Gershom, the son of Moses* (stored WEB; not yet ingested). The wiki records the sound and does
+  the son of Gershom, the son of Moses* (stored WEB; see [[The Danite Migration]]). The wiki records the sound and does
   not claim the narrator intended it. See
   [[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]] and [[Gershom]].
 - **To live where he could find a place.** *Lāgûr baʾăšer yimṣāʾ* (8, WLC). *Hammāqôm*, *the place*,
@@ -144,8 +144,8 @@ their hands filled for killing the calf's worshipers (32:29), where here a Levit
 an image. See [[Filling the Hand - Aaron's Sons, the Levites at the Calf, and Micah's Priests]].
 
 The story is not finished. Chapter 18 sends the Danites past Micah's house, where they recognize the
-Levite's voice, take the ephod, the teraphim, and the image, and make him priest to a tribe (18:3, 14–20,
-stored WEB; not yet ingested). The next pericope, [[Judges]] 18, carries it on. And chapter 19 opens with a
+Levite's voice, take the ephod, the teraphim, and the image, and make him priest to a tribe (18:3, 14–20);
+see [[The Danite Migration]], which also names him [[Jonathan (son of Gershom)]]. And chapter 19 opens with a
 second Levite in *the farther side of the hill country of Ephraim* and a concubine *out of Bethlehem
 Judah* (19:1, stored WEB; not yet ingested): the same two places, in the opposite direction.
 
@@ -167,7 +167,7 @@ Judah* (19:1, stored WEB; not yet ingested): the same two places, in the opposit
 - [[Micah (of Ephraim)]] — steals and returns his mother's silver, keeps a house of gods, and hires a
   Levite (1–13).
 - [[Micah's Mother]] — curses the thief, blesses her son, and has the image made (2–4).
-- [[Micah's Levite]] — a young Levite of Bethlehem Judah, hired as Micah's priest (7–13).
+- [[Jonathan (son of Gershom)]] — a young Levite of Bethlehem Judah, hired as Micah's priest (7–13).
 - [[Levi]] — the tribe the young man belongs to (7, 9–13).
 - [[Judah]] — *of the family of Judah* (7).
 - Micah's son, consecrated as priest before the Levite comes (5) — unnamed; no page.
@@ -206,7 +206,7 @@ Judah* (19:1, stored WEB; not yet ingested): the same two places, in the opposit
 - Exodus 15:11 — *Who is like you, Yahweh?* (stored WEB).
 - Exodus 32:4–5 — the molten calf and the feast *to Yahweh* (stored WEB).
 - Leviticus 6:2–5 — restitution with a fifth (stored WEB).
-- Judges 18:1–31 — the Danites take the shrine and the Levite (stored WEB; not yet ingested).
+- [[The Danite Migration]] — Judges 18:1–31; the Danites take the shrine and the Levite.
 - Judges 19:1 — a Levite of Ephraim and a concubine of Bethlehem Judah (stored WEB; not yet ingested).
 
 ## Notes
@@ -229,8 +229,8 @@ The wiki reads them as they stand.
 **The Levite's name.** He is not named in chapter 17. Judges 18:30 names the priest of Dan's image
 *Jonathan, the son of Gershom, the son of Moses* (stored WEB), and most readers identify him with this
 Levite, who goes with the Danites at 18:20. The Masoretic text writes the grandfather's name with a raised
-*nun*, so that it can be read *Manasseh*; that is recorded on [[Gershom]] and will be taken up when Judges
-18 is ingested. Until then the wiki files him as [[Micah's Levite]].
+*nun*, so that it can be read *Manasseh*; that is recorded on [[Gershom]]. The ingest of
+[[The Danite Migration]] identified the two and renamed his page [[Jonathan (son of Gershom)]].
 
 **Judgment calls.** Kept 17:1–13 as planned; 18:1 begins the Danites' search. The person page is
 [[Micah (of Ephraim)]], qualified because *Micah* is also a book (and its prophet) and the Bible has more

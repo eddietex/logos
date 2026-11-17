@@ -14,7 +14,12 @@ Hamath* (Numbers 13:21). The name means *broad place* or *open square*, and it i
 give the same number to towns in Asher (Joshua 19:28, 30; 21:31; Judges 1:31), an Aramean place (2
 Samuel 10:8), and two men (2 Samuel 8:3, 12; Nehemiah 10:12 Hebrew). Which one verse 21 means is not
 stated. Its link with Hamath points north. The usual proposal is the Beth-rehob of Judges 18:28,
-near Dan, which is recalled and not checked.
+near Dan; the WLC tags the two with different lemmas (*Rəḥōḇ*, 7340, at Numbers 13:21; *Bêt-rəḥôḇ*, 1050,
+at Judges 18:28), and the identification is reported, not checked.
+
+**Judges 18:28 — Beth Rehob.** Laish lay *in the valley that lies by Beth Rehob* (stored WEB). The wiki
+files the name here, as an alias, rather than on a page of its own. See [[The Danite Migration]] and
+[[The Land Is Very Good - The Spies of Numbers 13-14 and Judges 18]].
 
 **A collision is coming.** 2 Samuel 8:3 has *Hadadezer the son of Rehob*. When that man gets a page,
 this page and his both take qualifiers under the person-and-place rule in `AGENTS.md`, and the
@@ -24,6 +29,7 @@ inbound links are fixed in that pass.
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:28; Laish lay *in the valley that lies by Beth Rehob*.
 - [[The Twelve Spies]] — Numbers 13:21
 
 ## Related places

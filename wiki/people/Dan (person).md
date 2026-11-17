@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### The city named for him — Judges 18
+
+The tribe whose *inheritance had not fallen to them* (18:1) sends spies *from Zorah, and from Eshtaol*,
+takes Micah's image and priest, strikes Laish, and renames it *Dan, after the name of Dan their father,
+who was born to Israel* (18:29). The ancestor named *God has judged me* (Genesis 30:6) gives his name to
+the city of a tribe acting with no judge and *no king in Israel* (18:1). Jacob's *Dan will judge his
+people … a serpent on the trail* (Genesis 49:16–17) and Moses' *a lion's cub that leaps out of Bashan*
+(Deuteronomy 33:22) are not cited by the narrator. See [[The Danite Migration]], [[Dan (city)]], and
+[[Leshem Becomes Dan - Joshua 19 and Judges 18]]. Source: stored WEB Genesis 30:6; 49:16–17;
+Deuteronomy 33:22; Judges 18:1–31.
+
 ### Samson's family — Judges 13:2, 25
 
 Samson's father is *a certain man of Zorah, of the family of the Danites* (13:2), and the Spirit first
@@ -211,6 +222,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:1–31; the tribe migrates north, and Laish is named *after the name of Dan their father* (29).
 - [[The Tribes That Did Not Drive Out]] — Judges 1:34; pressed out of the valley by the Amorites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.

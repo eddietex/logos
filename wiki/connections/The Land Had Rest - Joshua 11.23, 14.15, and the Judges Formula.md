@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Danite Migration]] — Judges 18:7, 27; the two uses of *šāqaṭ* for Laish, now ingested.
 - [[The Whole Land Taken]] — **Joshua 11:23** — *So Joshua took the whole land … The land had rest
   from war.* (stored WEB)
 - [[Caleb Claims Hebron]] — **Joshua 14:15** — *Then the land had rest from war.* (stored WEB)

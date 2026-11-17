@@ -640,6 +640,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Danite Migration]] — Judges 18:31; *God's house … in Shiloh*, while Dan kept Micah's image.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

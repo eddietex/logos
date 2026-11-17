@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### A grandson at Dan — Judges 18:30
+
+*Jonathan, the son of Gershom, the son of Moses* is priest of the Danites' image *until the day of the
+captivity of the land* (Judges 18:30, stored WEB). The WLC writes *Manasseh*, with the *nun* suspended
+above the line over the consonants of *Moses*. The man whose law cursed *an engraved or molten image*
+(Deuteronomy 27:15) has a grandson serving one, in the WEB's reading. See [[Jonathan (son of Gershom)]],
+[[Gershom]], and [[The Danite Migration]].
+
 ### As Moses had said — Judges 1:16, 20
 
 Moses is named twice in Judges 1, both times as a past word or relation: the Kenite is *Moses'
@@ -2005,6 +2013,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:30; named as grandfather of Jonathan, the Danites' priest (WEB; the Masoretic suspended *nun* reads *Manasseh*).
 - [[The Nations Left to Test Israel]] — Judges 3:4; the commandments Yahweh *commanded their fathers by Moses*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16, 20; his *ḥōtēn* and his word about Hebron.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; sent to Egypt (5).

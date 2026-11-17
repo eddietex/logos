@@ -395,6 +395,17 @@ year. The narrator's only verdict is the first refrain, *In those days there was
 Everyone did that which was right in his own eyes* (17:6), and the chapter ends on Micah's certainty:
 *Now know I that Yahweh will do good to me, since I have a Levite as my priest* (17:13).
 
+[[The Danite Migration]] (18:1–31) carries the shrine north. The second refrain, *there was no king in
+Israel*, introduces a tribe whose *inheritance had not fallen to them* (18:1). Five spies from Zorah and
+Eshtaol lodge with Micah, recognize his Levite's voice, and get an oracle, *Go in peace … before Yahweh*;
+they find Laish *quiet and secure*, far from any help, and report in Caleb's words, *it is very good*.
+Six hundred armed men take Micah's image, ephod, and teraphim, and hire his priest away to be *priest to a
+tribe and a family in Israel*; Micah, robbed of *my gods which I made*, goes home. Laish is struck with the
+sword and burned, *there was no deliverer*, and rebuilt as Dan. The image stands there with *Jonathan, the
+son of Gershom, the son of Moses* — *Manasseh* in the Masoretic suspended *nun* — and his sons as priests,
+*all the time that God's house was in Shiloh* (18:30–31). It is the last conquest story in the book, told
+in the conquest's language against an undefended city.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -455,7 +466,7 @@ merge, or reorder them freely.
 - [x] [[Samson and Delilah]] — Judges 16:4–22
 - [x] [[The Death of Samson]] — Judges 16:23–31
 - [x] [[Micah's Idol and Levite]] — Judges 17:1–13
-- [ ] The Danite Migration — Judges 18:1–31
+- [x] [[The Danite Migration]] — Judges 18:1–31
 - [ ] The Levite's Concubine at Gibeah — Judges 19:1–30
 - [ ] The War Against Benjamin — Judges 20:1–48
 - [ ] Wives for Benjamin — Judges 21:1–25
@@ -473,7 +484,7 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
-- [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32); Gideon's ephod, *a snare* (8:27); Baal Berith (8:33); the Philistines' sacrifice to Dagon (16:23).
+- [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32); Gideon's ephod, *a snare* (8:27); Baal Berith (8:33); the Philistines' sacrifice to Dagon (16:23); Micah's image set up at Dan (18:30–31).
 - [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34); *Yahweh had departed* from Samson (16:20).
 - [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19); Samson's *avenged … for my two eyes* (16:28).
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3); Jephthah, *a man of strife*, fights it (12:1–6).
@@ -495,7 +506,7 @@ merge, or reorder them freely.
 - [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7); the razor at last (16:17–19).
 - [[Love]] — *he loved a woman in the valley of Sorek* (16:4).
 - [[Wealth and Possessions]] — eleven hundred pieces of silver, for Samson (16:5) and for Micah's idol (17:2–3); a priest for ten pieces a year (17:10).
-- [[Priesthood]] — Micah fills the hand of his son and of a hired Levite (17:5, 12).
+- [[Priesthood]] — Micah fills the hand of his son and of a hired Levite (17:5, 12); *priest to a tribe and a family in Israel* (18:19, 30).
 - [[Theft and Restitution]] — *I took it* (17:2).
 - [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31).
 - [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
@@ -541,7 +552,9 @@ merge, or reorder them freely.
 - [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24); they object to his Philistine wife (14:3).
 - [[Samson's Timnite Wife]] — chosen by sight, pressed for the riddle, and given to his companion (14:1–20); burned with her father (15:6).
 - [[Delilah]] — loved by Samson, paid by the Philistine lords to learn his strength (16:4–20).
-- [[Micah (of Ephraim)]], [[Micah's Mother]], and [[Micah's Levite]] — the silver, the image, and the hired priest (17:1–13).
+- [[Micah (of Ephraim)]], [[Micah's Mother]], and [[Jonathan (son of Gershom)]] — the silver, the image, and the hired priest (17:1–13); the image and priest taken by Dan (18:14–27).
+- [[Gershom]] and [[Moses]] — Jonathan's father and grandfather, *Moses* or *Manasseh* (18:30).
+- [[Dan (person)]] — *Dan their father, who was born to Israel*, for whom Laish is renamed (18:29).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
@@ -581,3 +594,4 @@ merge, or reorder them freely.
 - [[Gaza]] and [[Hebron]] — the gate Samson carries off, and the hill he carries it to (16:1–3); Gaza's prison mill (16:21).
 - [[The Valley of Sorek]] — Delilah's home (16:4).
 - [[The Hill Country of Ephraim]] and [[Bethlehem]] — Micah's home, and the Levite's *Bethlehem Judah* (17:1, 7–8).
+- [[Dan (city)]] — Laish, struck, burned, rebuilt, and renamed (18:7, 27–29); [[Kiriath Jearim]] and [[Mahaneh Dan]], the camp (18:12); [[Rehob]], *Beth Rehob* (18:28); [[Sidon (city)]] (18:7, 28); [[Shiloh]], *God's house* (18:31).

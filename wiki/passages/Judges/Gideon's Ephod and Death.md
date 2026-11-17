@@ -91,7 +91,7 @@ the weight. It does not say they went into the ephod.
 is first the high priest's garment of gold, blue, purple, and scarlet (Exodus 28:6), worn for inquiry,
 with the breastplate (28:15–30). Every occurrence of the word in the WLC of Exodus and Leviticus is the
 high priest's ephod. After this verse it occurs again only in Micah's shrine, *an ephod, and teraphim*
-(17:5, see [[Micah's Idol and Levite]]; 18:14–20, stored WEB, not yet ingested) (see the Notes). What Gideon's ephod looked like, and
+(17:5, see [[Micah's Idol and Levite]]; 18:14–20, see [[The Danite Migration]]) (see the Notes). What Gideon's ephod looked like, and
 whether it was worn or set up as an object, the text does not say. Seventeen hundred of gold is a great
 deal for a garment. The wiki does not decide between the readings.
 
@@ -272,7 +272,7 @@ has rest.
 - [[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]].
 - Judges 9:1–57 — Abimelech, the house of Baal Berith, Jotham's fable, and the seventy sons killed
   (stored WEB; not yet ingested).
-- [[Micah's Idol and Levite]] — Judges 17:5; Micah's ephod and teraphim. Also 18:14–20 (stored WEB; not yet ingested).
+- [[Micah's Idol and Levite]] — Judges 17:5; Micah's ephod and teraphim. Also [[The Danite Migration]], 18:14–20.
 - 1 Samuel 8:7; 12:12 — *they have rejected me as the king over them*; *when Yahweh your God was your
   king* (WEB checked at bible-api.com; not yet ingested).
 

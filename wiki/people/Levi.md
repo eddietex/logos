@@ -428,7 +428,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Related people
 
-- [[Micah's Levite]] — the first Levite of Judges, a priest for hire (Judges 17:7–13)
+- [[Jonathan (son of Gershom)]] — the first Levite of Judges, a priest for hire (Judges 17:7–13)
 - [[Leah]] — his mother, who names him for a wish about her husband
 - [[Simeon]] — his brother at Shechem and in the one shared curse of Genesis 49
 - [[Dinah]] — his full sister

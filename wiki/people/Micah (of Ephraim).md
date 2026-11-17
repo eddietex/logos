@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### Robbed of his gods — Judges 18
+
+The Danite spies lodge at his house and recognize his Levite's voice (18:2–3); the six hundred return, and
+while they stand at the gate the five take *the engraved image, the ephod, the teraphim, and the molten
+image*, and hire the priest away (18:14–20). Micah gathers his neighbors and overtakes them: *You have
+taken away my gods which I made, and the priest, and have gone away! What more do I have?* (24). Told
+*lest angry fellows fall on you*, and seeing *that they were too strong for him*, he goes home (25–26). In
+chapter 17 the silver was dedicated *to Yahweh*; here he calls the image *my gods* (*ʾĕlōhay*, WLC), and
+*which I made*. The thief of 17:2 is robbed, and the man who said *Yahweh will do good to me* (17:13)
+is left with nothing. The narrator calls the image *Micah's engraved image which he made* to the end
+(18:31). See [[The Danite Migration]] and [[Jonathan (son of Gershom)]]. Source: stored WEB Judges 17:2,
+13; 18:1–31.
+
 *A man of the hill country of Ephraim, whose name was Micah* (Judges 17:1, stored WEB). He opens the
 book's epilogue (Judges 17–21), the first chapters with no judge in them. He takes his mother's *eleven
 hundred pieces of silver*, hears her curse the thief, confesses *I took it*, and is blessed by her in
@@ -41,12 +54,13 @@ two apart, as the naming conventions require when a person shares a book's name.
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:2–3, 13–27, 31; robbed of his image, ephod, teraphim, and priest.
 - [[Micah's Idol and Levite]] — Judges 17:1–13; the silver, the image, the shrine, and the hired Levite.
 
 ## Related people
 
 - [[Micah's Mother]] — whose silver he took, and who had the image made
-- [[Micah's Levite]] — the priest he hires
+- [[Jonathan (son of Gershom)]] — the priest he hires
 - [[Gideon]] — the earlier maker of an ephod in his own town (8:27)
 - [[Aaron]] — the maker of the molten calf, proclaimed with a feast *to Yahweh* (Exodus 32:4–5)
 

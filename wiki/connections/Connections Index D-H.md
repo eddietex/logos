@@ -12,7 +12,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] | parallel | [[The Death of Samson]] (Judges 16:23–30) · 1 Samuel 5:1–7 |
-| [[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]] | narrative-tension | [[The Lots of Asher, Naphtali, and Dan]] · [[The Tribes That Did Not Drive Out]] |
+| [[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]] | narrative-tension | [[The Lots of Asher, Naphtali, and Dan]] · [[The Tribes That Did Not Drive Out]] · [[The Danite Migration]] |
 | [[Dan's Towns on Judah's Border - Joshua 15 and 19]] | parallel | [[The Lots of Asher, Naphtali, and Dan]] (Joshua 19:40–48) · [[The Borders of Judah]] (Joshua 15:1–12) · [[The Cities of Judah]] (Joshua 15:20–63) |
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
 | [[The Daughters Receive the Promised Inheritance]] | command-and-fulfillment | [[The Petition of Zelophehad's Daughters]] · [[The Inheritance of Manasseh]] — the commanded grant is made |

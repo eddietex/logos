@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *My gods which I made*, carried north — Judges 18
+
+The Danites take Micah's *engraved image, the ephod, the teraphim, and the molten image* (18:17–18) because
+they are there: *Now therefore consider what you have to do* (14). Micah's complaint names them *my gods
+which I made* (24); in chapter 17 they had been dedicated *to Yahweh*. The tribe *set up for themselves
+the engraved image* at Dan, *all the time that God's house was in Shiloh* (30–31): a household idol
+becomes a tribal sanctuary, opposite the one Israel already had. See [[The Danite Migration]] and
+[[Searched Out, Struck, and Burned - Deuteronomy 13 and Laish]]. Source: stored WEB Judges 17:3; 18:14–31.
+
 ### A carved image and a molten image, dedicated to Yahweh — Judges 17:3–5
 
 Micah's mother dedicates her silver *to Yahweh … to make a carved image and a molten image* (17:3), and
@@ -606,6 +615,7 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Danite Migration]] — Judges 18:14–20, 24, 30–31; Micah's image, ephod, and teraphim taken and set up at Dan.
 - [[Micah's Idol and Levite]] — Judges 17:3–5; the carved and molten image, ephod, and teraphim in Micah's house.
 - [[The Death of Samson]] — Judges 16:23–24, 30; the sacrifice to Dagon, and his fallen house.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:24; *Chemosh your god*.

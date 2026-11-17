@@ -916,6 +916,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Danite Migration]] — Judges 18:11, 16–17, 25–28; six hundred armed men, and an undefended city struck and burned.
 - [[Shibboleth]] — Judges 12:4–6; Gilead against Ephraim, forty-two thousand at the fords.
 - [[Jephthah's Vow]] — Judges 11:32–33; twenty cities struck, and Ammon subdued.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; the embassy before the war, and a defensive war argued.

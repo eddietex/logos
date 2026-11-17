@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The thief robbed — Judges 18:24
+
+Micah, who took his mother's silver (17:2), loses what it bought: *You have taken away my gods which I
+made, and the priest, and have gone away! What more do I have?* (18:24). No restitution is made, and none
+is asked; the Danites are *too strong for him* (26). See [[The Danite Migration]]. Source: stored WEB
+Judges 17:2; 18:24–26.
+
 ### *I took it* — Judges 17:2–4
 
 Micah confesses to taking his mother's eleven hundred pieces of silver and restores it (17:2–3). The law
@@ -229,6 +236,7 @@ participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pled
 
 ## Key passages
 
+- [[The Danite Migration]] — Judges 18:17–26; Micah's image and priest taken by force.
 - [[Micah's Idol and Levite]] — Judges 17:2–4; Micah's confessed theft from his mother.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

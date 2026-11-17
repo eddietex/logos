@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Danite Migration]] — Judges 18:1 — *"In those days there was no king in Israel."* The short form, without *right in his own eyes*.
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:8: *"You shall not do all the things that we
   do here today, every man whatever is right in his own eyes"*; set against *"that which is right
   in Yahweh's eyes"* (12:25) and *"good and right in Yahweh your God's eyes"* (12:28).
@@ -104,3 +105,11 @@ do good to me* (17:13): the practice Deuteronomy 12 forbids, done by someone who
 is forbidden. Judges does not cite Deuteronomy, and the reading remains the wiki's. See
 [[Micah's Idol and Levite]]. Sources: stored WEB Deuteronomy 12:8; Judges 17:3–13; 21:25. Hebrew from the
 Westminster Leningrad Codex (OpenScriptures morphhb, `Deut.xml`, `Judg.xml`), downloaded 2026-11-16.
+
+### The short refrain — Judges 18:1
+
+The second refrain is half of the first: *bayyāmîm hāhēm ʾên melek bəyiśrāʾēl* (18:1, WLC), with no *right
+in his own eyes*. It introduces a tribe that seeks an inheritance, takes a household's image and priest,
+and sets the image up *all the time that God's house was in Shiloh* (18:31). The two sanctuaries stand in
+one sentence, the chosen place and the one a tribe chose for itself. See [[The Danite Migration]]. Source:
+stored WEB Judges 18:1, 31; Hebrew WLC, 2026-11-17.

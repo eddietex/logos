@@ -40,6 +40,7 @@ No later sanctuary history or modern site identification is asserted by this cha
 Source: stored WEB Joshua 9:1–27.
 
 ## Appears in
+- [[The Danite Migration]] — Judges 18:12; the six hundred camp *in Kiriath Jearim, in Judah*, at Mahaneh Dan.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.

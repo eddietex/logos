@@ -6,6 +6,7 @@ tags: [connection]
 # The Spies at Jericho and at Bethel - Joshua 2 and Judges 1
 
 ## Passages involved
+- [[The Danite Migration]] — Judges 18:2–10; the Danite spies find a Levite, not a Rahab; see [[The Land Is Very Good - The Spies of Numbers 13-14 and Judges 18]].
 - [[Rahab and the Spies]] — Joshua 2:1–24 (stored WEB).
 - [[The Fall of Jericho]] — Joshua 6:22–25; Rahab's household saved (stored WEB).
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–26 (stored WEB, now ingested).

@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### Laish struck and renamed — Judges 18
+
+The Danite spies find Laish *quiet and secure*, with no one *possessing authority*, *far from the
+Sidonians* (18:7). The tribe strikes it *with the edge of the sword*, burns it, rebuilds it, *and called
+the name of the city Dan, after the name of Dan their father … however the name of the city used to be
+Laish* (27–29). There the Danites set up Micah's image, with Jonathan son of Gershom and his sons as
+priests *until the day of the captivity of the land* (30). The city that Genesis 14:14 named in advance,
+and that 1 Kings 12:29 will make a royal calf shrine (reported, not in raw), begins as the home of a
+stolen image. See [[The Danite Migration]],
+[[Searched Out, Struck, and Burned - Deuteronomy 13 and Laish]], and
+[[Leshem Becomes Dan - Joshua 19 and Judges 18]]. Source: stored WEB Judges 18:7, 27–31.
+
 ### Leshem taken — Joshua 19:24–48
 
 The Danites go beyond their lot, fight against Leshem, take it, strike it with the sword, live in it, and call it Dan *after the name of Dan their forefather* (47). Joshua uses the name Leshem; Judges 18:29 uses Laish. See [[Leshem Becomes Dan - Joshua 19 and Judges 18]].
@@ -51,6 +63,7 @@ See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:7–10, 27–31; Laish spied out, struck, burned, rebuilt, and renamed Dan.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Leshem captured and renamed (47).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The northern limit of the view (1).
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14; the limit of the pursuit

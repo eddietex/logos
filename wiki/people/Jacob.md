@@ -904,6 +904,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:29; *Dan their father, who was born to Israel*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; the buyer of the parcel where Joseph is buried (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; goes down into Egypt (4); his Shechem command repeated (23).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; Israel as the assembled nation.

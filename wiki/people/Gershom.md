@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### His son the priest at Dan — Judges 18:30
+
+*Jonathan, the son of Gershom, the son of Moses, and his sons were priests to the tribe of the Danites
+until the day of the captivity of the land* (Judges 18:30, stored WEB). The WLC writes the last name
+*mənaššeh* with a suspended *nun* and tags it *Manasseh*; the consonants without the raised letter are
+*mšh*, *Moses*. The wiki identifies Jonathan with Micah's Levite, who goes with the Danites at 18:20, and
+renamed that page [[Jonathan (son of Gershom)]] in this pass. See [[The Danite Migration]].
+
 **Moses' firstborn son, born in Midian to Zipporah, and named for his father's exile.** *"She bore a
 son, and he named him Gershom, for he said, 'I have lived as a foreigner in a foreign land'"*
 (Exodus 2:22; repeated at 18:3). ***Gēr hāyîtî bəʾereṣ nokriyyâ*** — the name is heard as ***gēr
@@ -35,8 +43,8 @@ deliverance.
 - **Judges 18:30** — *"Jonathan, the son of Gershom, the son of Moses, and his sons were priests to
   the tribe of the Danites"* at the image of Dan. **The Masoretic text writes *Moses* (*mšh*) with a
   suspended *nun* above the line, making it read *Manasseh* (*mnšh*)** — a scribal intervention
-  widely understood as shielding Moses' name from an idolatrous grandson. The WEB reads *Moses*. The
-  wiki records the textual fact and will take it up when Judges 18 is reached.
+  widely understood as shielding Moses' name from an idolatrous grandson (reported, not checked). The
+  WEB reads *Moses*. See [[The Danite Migration]] and [[Jonathan (son of Gershom)]].
 - **Gershom the son of Moses is distinct from *Gershon* the son of Levi** (Genesis 46:11; Exodus
   6:16–17), whose name is near-identical and whose clan, the Gershonites, is a Levitical division.
 
@@ -68,8 +76,9 @@ help"* (18:4). See [[Jethro's Counsel]] and [[Eliezer (son of Moses)]].
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:30; named as Jonathan's father, *son of Moses* (or, with the suspended *nun*, *Manasseh*).
 - [[Micah's Idol and Levite]] — Judges 17:7; not named, but the Levite *sojourning there*, *gār šām*, is the one 18:30 will
-  call *Jonathan, the son of Gershom* (stored WEB; Judges 18 not yet ingested)
+  call *Jonathan, the son of Gershom* (stored WEB; see [[The Danite Migration]])
 - [[Moses Flees to Midian]] — Exodus 2:22; **born and named in one verse**, the name a confession
   of exile and the first use by Abraham's offspring of the *gēr* of Genesis 15:13
 - [[Moses Returns to Egypt]] — Exodus 4:20, 25; **one of *"his sons"* on the donkey, and probably
@@ -81,7 +90,7 @@ help"* (18:4). See [[Jethro's Counsel]] and [[Eliezer (son of Moses)]].
 
 ## Related people
 
-- [[Micah's Levite]] — usually identified with Jonathan, named at Judges 18:30 as his son
+- [[Jonathan (son of Gershom)]] — his son, named at Judges 18:30; Micah's Levite
 - [[Moses]] — his father, who names him
 - [[Zipporah]] — his mother
 - [[Jethro]] — his maternal grandfather

@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Danite Migration]] — Judges 18:2–10; five Danite spies, and *the land … is very good*; see [[The Land Is Very Good - The Spies of Numbers 13-14 and Judges 18]].
 - [[Rahab and the Spies]] — Joshua 2:1–24 (now ingested).
 
 - [[The Twelve Spies]] — Numbers 13:1–33

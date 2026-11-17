@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The Danites set out — Judges 18
+
+The five spies are sent *from Zorah, and from Eshtaol* (18:2), report back there (8), and the six hundred
+armed men set out from the same two towns (11). Samson was buried *between Zorah and Eshtaol* (16:31).
+See [[The Danite Migration]]. Source: stored WEB Judges 16:31; 18:2, 8, 11.
+
 ### Samson's country — Judges 13:2, 25
 
 *Yahweh's Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol* (13:25). The pair that
@@ -30,6 +36,7 @@ Paired with [[Zorah]] here and again in Dan's border (19:41).
 Source: stored WEB Joshua 15:20–63. No modern site is assigned.
 
 ## Appears in
+- [[The Danite Migration]] — Judges 18:2, 8, 11; the spies and the six hundred set out.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Announcement of Samson's Birth]] — Judges 13:25; *between Zorah and Eshtaol*.

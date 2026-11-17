@@ -44,7 +44,7 @@ molten calf (Exodus 32:4, 29). In Judges 17 a Levite's hand is filled to serve a
 
 The phrase measures how far Micah's household has moved from the ordination of Exodus 29 and Leviticus 8
 while keeping its vocabulary. The priest is real in name and in form, and nothing in the law authorizes
-him. See [[Priesthood]], [[Micah's Levite]], and
+him. See [[Priesthood]], [[Jonathan (son of Gershom)]], and
 [[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]].
 
 Sources: stored WEB Exodus 28:41; 29:9, 22–24, 33, 35; 32:4, 29; Leviticus 8:25–28, 33; Numbers 3:3, 10;

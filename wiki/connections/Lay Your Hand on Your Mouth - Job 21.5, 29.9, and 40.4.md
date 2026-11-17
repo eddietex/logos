@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- **Judges 18:19** — *"Hold your peace, put your hand on your mouth, and go with us, and be to us a father and
+  a priest."* The Danites to Micah's Levite — [[The Danite Migration]]
 - **Job 2:13** — *"So they sat down with him on the ground seven days and seven nights, and no one
   spoke a word to him"*: the friends' silence before the gesture is named —
   [[Seven Days of Silence]]
@@ -93,3 +95,12 @@ be astonished.*
 Related pages: [[Why Do the Wicked Live]], [[The Months of Old]], [[Job's Oath of Innocence]], [[Seven Days of Silence]],
 [[Comforters Who Do Not Comfort]], [[Language and Speech]], [[The Fear of God]], and
 [[Job (person)]].
+
+### A command to a priest — Judges 18:19
+
+The earliest use in the stored text is narrative and coercive. The Danites tell Micah's priest *haḥărēš
+śîm-yādəḵā ʿal-pîḵā*, *be silent, put your hand on your mouth* (Judges 18:19, WLC), while six hundred armed
+men stand at the gate, and in the same breath offer him a better post. The gesture is not awe or shame
+but the price of a promotion; *the priest's heart was glad* (18:20). See [[The Danite Migration]] and
+[[Jonathan (son of Gershom)]]. Source: stored WEB Judges 18:19–20; Hebrew WLC (Judges only; Job and
+Proverbs not checked in Hebrew for this note), 2026-11-17.

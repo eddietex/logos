@@ -408,6 +408,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Danite Migration]] — Judges 18:12, 29–30; Mahaneh Dan; Laish renamed Dan; *Moses* or *Manasseh* in the suspended *nun*.
 - [[Micah's Idol and Levite]] — Judges 17:1, 4, 5; *Mîkāyəhû* shortened to *Mîkâ*.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:11–12; Elon bears his tribe's clan name and is buried in a place spelled like it.
 - [[Tola and Jair]] — Judges 10:1, 4; Tola and Puah repeat Issachar's sons' names; Havvoth Jair *to this day*.

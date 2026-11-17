@@ -79,6 +79,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[The Danite Migration]] — Judges 18:2, 13; the spies lodge at Micah's house, and the six hundred return to rob it.
 - [[Micah's Idol and Levite]] — Judges 17:1, 8; Micah's home, where the Levite of Bethlehem comes.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:15; Pirathon, *in the hill country of the Amalekites*.
 - [[Tola and Jair]] — Judges 10:1; Tola lives at Shamir.

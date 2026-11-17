@@ -385,6 +385,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[The Danite Migration]] — Judges 18:28; *there was no deliverer* (*ʾên maṣṣîl*, WLC) for Laish.
 - [[Israel's Repentance Under Ammon]] — Judges 10:11–15; *I saved you … I will save you no more*.
 - [[Tola and Jair]] — Judges 10:1; Tola *arose to save Israel*, from no named enemy.
 - [[Midian's Oppression and the Prophet]] — Judges 6:9; past deliverance recalled under a new oppressor.

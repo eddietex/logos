@@ -13,8 +13,8 @@ tags: [connection]
 - [[Micah's Idol and Levite]] — **Judges 17:3–4** — *I most certainly dedicate the silver to Yahweh from my
   hand for my son, to make a carved image and a molten image* (3); she *gave them to a silversmith, who made
   a carved image and a molten image out of it. It was in the house of Micah* (4). Stored WEB.
-- **Judges 18:14, 17–18, 20, 30–31** — the Danites take *the engraved image*, the molten image, the ephod,
-  and the teraphim, and set the image up in Dan (stored WEB; not yet ingested).
+- [[The Danite Migration]] — Judges 18:14, 17–18, 20, 30–31; the Danites take *the engraved image*, the
+  molten image, the ephod, and the teraphim, and set the image up in Dan.
 - [[The Ten Commandments]] — **Exodus 20:4** — *You shall not make for yourselves an idol, nor any image*
   (stored WEB); *pesel*, the first noun of the pair (WLC).
 - [[The Golden Calf]] — **Exodus 32:4** — *made it a molten calf*, *ʿēgel massēkâ* (stored WEB; WLC), the
@@ -57,3 +57,13 @@ Sources: stored WEB Exodus 20:4; 32:4; Deuteronomy 27:14–15; Judges 8:27; 17:2
 Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb, `Gen.xml` through `Judg.xml`) with
 its lemma data, downloaded 2026-11-16; the occurrence claims cover only those seven books. The question of
 one object or two is reported from the commentary tradition, not checked against a named source.
+
+### Set up at Dan — Judges 18
+
+Deuteronomy 27:15 curses the man who *sets it up in secret*, *wəśām bassāter* (WLC). Judges 18:31 says the
+Danites *set up for themselves Micah's engraved image*, *wayyāśîmû lāhem ʾet-pesel mîkâ* (WLC) — the same
+verb *śîm*, and no secrecy at all: a tribe's image in a named city, with a hereditary priest, *all the
+time that God's house was in Shiloh*. The four objects are listed together twice (18:14, 18), then three
+(20), then *the engraved image* alone (30–31); the shifting lists leave the one-or-two-objects question
+where it was. See [[The Danite Migration]]. Sources: stored WEB Deuteronomy 27:15; Judges 18:14–31; Hebrew
+WLC, 2026-11-17.
