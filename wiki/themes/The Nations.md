@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *These mighty gods* — 1 Samuel 4:6–9
+
+The Philistines hear Israel's shout and know it means the ark: *God has come into the camp … Who shall
+deliver us out of the hand of these mighty gods? These are the gods that struck the Egyptians* (4:7–8). They
+know the exodus story, as Rahab's Canaanites did (Joshua 2:10–11), and tell it as polytheists, in the plural
+and with the plagues *in the wilderness*. Unlike Rahab, they answer fear with resolve, *Be strong, and behave
+like men* (9), and win. See [[The Philistines]] and [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:6–10; Joshua 2:10–11. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### A Moabite mother, unnamed in the line — Ruth 4:18–22
 
 The genealogy that closes Ruth names only fathers, so the Moabite whose story the book tells is not in it:
@@ -667,6 +677,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Ark Is Captured]] — 1 Samuel 4:6–9; the Philistines fear Israel's *mighty gods*, and fight.
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10–11; *Ruth the Moabitess*, named twice and blessed like Rachel and Leah.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:10–12; *since I am a foreigner*; refuge under the wings of the God of Israel.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; *Ruth the Moabitess*, *who returned out of the country of Moab*.

@@ -9,9 +9,9 @@ tags: [connection]
 
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36 *(stored WEB)*
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:11–14, the word repeated to Samuel: *In that day I will perform against Eli all that I have
-  spoken concerning his house, from the beginning even to the end* (3:12) *(stored WEB; not yet ingested)*
-- 1 Samuel 4:11, 18 — *the two sons of Eli, Hophni and Phinehas, were slain*; Eli falls and dies *(stored
-  WEB; not yet ingested)*
+  spoken concerning his house, from the beginning even to the end* (3:12)
+- [[The Ark Is Captured]] — 1 Samuel 4:11, 18: *the two sons of Eli, Hophni and Phinehas, were slain*; Eli
+  falls and dies
 - 1 Samuel 22:18–20 — Doeg kills *eighty-five people who wore a linen ephod*; *One of the sons of
   Ahimelech, the son of Ahitub, named Abiathar, escaped* *(stored WEB; not yet ingested)*
 - 1 Kings 2:26–27, 35 — *So Solomon thrust Abiathar out from being priest to Yahweh, that he might fulfill
@@ -55,6 +55,12 @@ sons of Ithamar* (WEB checked). If Eli's house is Ithamar's, Abiathar's removal 
 Ithamar's line to Eleazar's, the line of Phinehas's *covenant of an everlasting priesthood* (Numbers
 25:13). Neither Samuel nor Kings draws that conclusion; it is assembled from Chronicles and reported as an
 inference.
+
+**The sign, as narrated.** At 4:11 the sign falls word for word: both sons die, and on one day. The chapter
+adds two details the oracle implied but did not state. Eli dies *for he was an old man, and heavy* (4:18):
+*zāqēn*, the *old man* that 2:31–32 said the house would not have after him, and *kāḇēḏ*, the root of *you
+honor your sons above me* (2:29, WLC). And the ark is lost with them, which neither oracle had named. 1 Samuel
+4 itself does not cite the oracle; the fulfilment is shown by sequence. See [[The Ark Is Captured]].
 
 ## Significance
 

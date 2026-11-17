@@ -93,6 +93,7 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
 - [[The Angel Sent Ahead]] — Exodus 23:31; *"the sea of the Philistines"* as the western border
 - [[Samson's Riddle]] — Judges 14:4; *at that time the Philistines ruled over Israel*
 - [[Samson Against the Philistines at Lehi]] — Judges 15:4–5; the burned fields.
+- [[The Ark Is Captured]] — 1 Samuel 4:1–11; the Philistine army at Aphek.
 
 ## Related places
 

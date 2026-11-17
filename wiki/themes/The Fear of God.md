@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Afraid of the ark, trembling for it — 1 Samuel 4:7, 13, 20
+
+Three fears in one chapter. *The Philistines were afraid, for they said, "God has come into the camp"* (4:7),
+*wayyirʾû* (WLC), and fight anyway. Eli sits by the road *for his heart trembled for God's ark* (13),
+*ḥārēḏ*, the fear of one who cares for the holy thing. And the women tell the dying mother *Don't be afraid*
+(20), *ʾal-tîrʾî*, a comfort she does not take. Israel itself, which sent for the ark, is never said to fear.
+See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:7, 13, 20. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### If you are afraid to go down — Judges 7:10
 
 *But if you are afraid to go down, go with Purah your servant down to the camp* (7:10). It is the same
@@ -583,6 +593,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[The Ark Is Captured]] — 1 Samuel 4:7, 13, 20; the Philistines afraid, Eli trembling for the ark, *Don't be afraid*.
 - [[The Dream of the Barley Loaf]] — Judges 7:10; *if you are afraid*, met with a sign, not a dismissal.
 - [[Gideon's Three Hundred]] — Judges 7:3; the fearful sent home, by the law of Deuteronomy 20:8.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:27; obedience by night out of fear of the town.

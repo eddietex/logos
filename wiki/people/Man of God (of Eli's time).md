@@ -38,6 +38,14 @@ against Eli all that I have spoken concerning his house, from the beginning even
 reaches back to 2:27–36. The second telling comes from inside the house, through the child Eli raised, and
 Eli has to ask for it. See [[Yahweh Calls Samuel]]. Source: stored WEB 1 Samuel 3:11–14.
 
+### His sign fulfilled — 1 Samuel 4:11, 17–18
+
+*This will be the sign to you … in one day they will both die* (2:34). At Aphek *the two sons of Eli, Hophni
+and Phinehas, were slain* (4:11), and Eli, *an old man*, dies the same day (18), as *there will not be an old
+man in your house* (2:31) had said. See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 2:31, 34; 4:11, 18.
+
 ## Timeline / key events
 
 - Comes to Eli with Yahweh's word against his house — 1 Samuel 2:27–36.
@@ -47,6 +55,7 @@ Eli has to ask for it. See [[Yahweh Calls Samuel]]. Source: stored WEB 1 Samuel 
 
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:12 (his word referred to; not present).
+- [[The Ark Is Captured]] — 1 Samuel 4:11, 17–18 (not present; his sign fulfilled).
 
 ## Related people
 

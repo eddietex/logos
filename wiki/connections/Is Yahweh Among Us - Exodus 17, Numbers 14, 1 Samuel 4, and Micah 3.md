@@ -14,7 +14,7 @@ tags: [connection]
 - [[The Defeat at Hormah]] — Numbers 14:42–44
 - Deuteronomy 31:17 — *our God is not among us* *(WEB checked, not yet ingested)*
 - Joshua 7:12 — *I will not be with you any more* *(WEB checked, not yet ingested)*
-- 1 Samuel 4:2–11 — the ark brought into battle *(WEB checked, not yet ingested)*
+- [[The Ark Is Captured]] — 1 Samuel 4:2–11, the ark brought into battle
 - Micah 3:11 — *Isn't Yahweh among us?* *(WEB checked, not yet ingested)*
 
 ## Analysis
@@ -47,6 +47,12 @@ not being among them, and 1 Samuel shows that presence cannot be fetched. That p
 **The same question, turned to confidence.** Exodus 17 asks it in doubt. Micah has it asked in
 security, by leaders who take bribes: *No disaster will come on us.* Numbers 14 has neither form. It
 has the answer *no*, from Moses, on the morning they are most sure.
+
+**Added with the ingest of 1 Samuel 4 (2026-11-17).** The chapter bears out the pairing above. The elders'
+*that it may come among us, and save us* (4:3) leaves the grammatical subject open, the ark or Yahweh through
+it (WLC). Nowhere does the chapter say Yahweh was among them or was not; it says only that the Philistines
+believed *God has come into the camp* (7), and that the ark was taken (11). The question of Exodus 17 is
+neither asked nor answered in words; the defeat answers it. See [[The Ark Is Captured]].
 
 ## Significance
 

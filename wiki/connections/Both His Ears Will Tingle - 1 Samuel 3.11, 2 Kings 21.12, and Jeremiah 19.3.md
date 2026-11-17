@@ -33,10 +33,11 @@ not in sense as the WEB renders them. 2 Kings 21:12 has the full *both his ears*
 Samuel does; Jeremiah 19:3 has *his ears* without *both*.
 
 **Shiloh as the pattern.** The first time the image is used, the object is the priestly house at the
-sanctuary of Shiloh, and the sentence falls when the ark is taken and Eli's sons die (1 Samuel 4:11, stored
-WEB; not yet ingested). The later two aim the same words at Jerusalem and its temple. Jeremiah elsewhere
-makes the comparison explicit, sending his hearers to *my place which was in Shiloh* (Jeremiah 7:12; cited
-by reference, not checked). The verbal echo and Jeremiah's explicit appeal to Shiloh are both on the page;
+sanctuary of Shiloh, and the sentence falls when the ark is taken and Eli's sons die (1 Samuel 4:11,
+[[The Ark Is Captured]]). The later two aim the same words at Jerusalem and its temple. Jeremiah elsewhere
+makes the comparison explicit, sending his hearers to *my place which was in Shiloh* (Jeremiah 7:12, WEB
+checked at bible-api.com, 2026-11-17; see
+[[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]]). The verbal echo and Jeremiah's explicit appeal to Shiloh are both on the page;
 whether 2 Kings 21 and Jeremiah 19 consciously quote 1 Samuel 3 is a reader's inference.
 
 **What hears.** In all three the hearer is general, *everyone who hears it*; the sentence is made public by

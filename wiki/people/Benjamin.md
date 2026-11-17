@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### *A man of Benjamin* runs to Shiloh — 1 Samuel 4:12
+
+The runner who brings the news of the ark's capture to Shiloh is *a man of Benjamin*, *ʾîš-binyāmin* (4:12,
+WLC), with torn clothes and dirt on his head; see [[Man of Benjamin (of Eli's time)]]. The same words
+introduce Saul's father Kish at 9:1 (stored WEB; not yet ingested). In the same chapter, Phinehas' wife dies
+in childbirth naming her son for her grief, as Rachel did when she named Benjamin *Benoni* (Genesis
+35:17–18); see [[Do Not Be Afraid, You Have a Son - Rachel and Phinehas' Wife]]. See
+[[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:12, 19–22; 9:1; Genesis 35:17–18. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Wives for the six hundred — Judges 21:1–25
 
 The war leaves Benjamin six hundred men at the rock of Rimmon, and Israel has sworn at Mizpah, *None of us
@@ -274,6 +285,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Ark Is Captured]] — 1 Samuel 4:12; *a man of Benjamin* brings the news to Shiloh.
 - [[Wives for Benjamin]] — Judges 21:1–25; the six hundred given wives from Jabesh Gilead and Shiloh.
 - [[The War Against Benjamin]] — Judges 20:1–48; the tribe refuses, fights, and is reduced to six hundred.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:14–25; Gibeah of Benjamin, where no one takes the travelers in.

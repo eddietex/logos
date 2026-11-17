@@ -28377,3 +28377,56 @@ stored WEB Genesis 22:11; 27:1; 35:7; 46:2; Exodus 3:4; 5:2; 27:21; 34:5; Leviti
 fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML, `Gen` through `Ruth`,
 `1Sam`, `2Sam`, `1Kgs`, `2Kgs`, and `Jer`, 2026-11-17; occurrence claims cover `Gen` through `1Kgs` unless
 stated. No Greek text, Septuagint, or rabbinic source was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 4.1b-22 — The Ark Is Captured
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+the capture of the ark, 4:1b–22, ingested as planned. 1 Samuel is now 6 / 47.
+
+Created: passage [[The Ark Is Captured]]; people [[Ichabod]], [[Phinehas' Wife]], and
+[[Man of Benjamin (of Eli's time)]]; place [[Ebenezer]]; connections
+[[Do Not Be Afraid, You Have a Son - Rachel and Phinehas' Wife]] and
+[[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes, people, and places); passage
+[[Yahweh Calls Samuel]] (forward reference now linked); people [[Eli]], [[Hophni]],
+[[Phinehas (son of Eli)]], [[Samuel]], [[Man of God (of Eli's time)]], [[Cherubim]], [[The Philistines]],
+[[Benjamin]], and [[Rachel]]; places [[Shiloh]], [[Aphek]], [[Egypt]], and [[The Land of the Philistines]];
+themes [[The Glory of God]], [[The Dwelling of God]], [[War]], [[Judgment]], [[Prophecy and Vision]],
+[[Life and Death]], [[Mourning and Lament]], [[Names and Naming]], [[The Nations]], and [[The Fear of God]];
+connections [[Is Yahweh Among Us - Exodus 17, Numbers 14, 1 Samuel 4, and Micah 3]],
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]],
+[[Struck Before Your Enemies - Leviticus 26, Numbers 14, Deuteronomy 28, and 1 Kings 8]],
+[[Two Priests Stop the Plague - Aaron and Phinehas]],
+[[Horns, a Shout, and a Fallen Enemy - Jericho and the Camp of Midian]],
+[[Abram the Hebrew - The First Use of the Name]],
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]],
+[[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]], and
+[[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]] (its Jeremiah 7:12, formerly
+"cited by reference, not checked", is now WEB-checked). Also `wiki/books/index.md`, People Index F-M and
+N-Z, Connections Index D-H and O-S (new rows) and every subindex row of a revised page, the places and themes
+indexes, and the dashboard counts. Frontmatter totals: 492 passages, 368 people, 599 places, 88 themes, 938
+connections.
+
+Judgment calls: the boundary 4:1b–22 stands. [[Ebenezer]] gets its page now, though the name is explained
+only at 7:12, because 4:1 and 5:1 use it; whether 4:1 and 7:12 name one site is left open. The runner is
+named *Man of Benjamin (of Eli's time)* on the model of *Man of God (of Eli's time)*, because 9:1 introduces
+Kish with the same words. The mother is *Phinehas' Wife*, the WEB's form, on the model of *Lot's Wife* and
+*Manoah's Wife*; Phinehas son of Eleazar has no wife in the text, so no qualifier is needed now. The women
+attending her (4:20) get no page. No contradiction with an existing page was found.
+
+Recorded, not resolved: whether the subject of *come … and save us* (4:3) is the ark or Yahweh; whether
+*in the wilderness* (4:8) is a Philistine error; the sense of *ʾî-* in *Ichabod*; whether the *kāḇēḏ* /
+*kāḇôḏ* and *gālâ* echoes (4:18, 21; 2:27, 29; 3:21) are intended; the Septuagint's reported *twenty years*
+at 4:18 (recalled, not checked); a late tradition naming the runner as Saul (recalled, not checked); and
+the archaeology of Shiloh's destruction (recalled, not checked).
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 5:1; 6:12–7:3, 12; 9:1, 21; 14:3; 31:9.
+Comparisons from stored WEB Genesis 35:16–19; Leviticus 26:17; Numbers 10:35; 14:42–45; 16:48–50; 25:8–11;
+Deuteronomy 28:25; Joshua 2:9–11; 6:5, 20; 7:6; Judges 12:7; 13:1, 5; 15:20; 16:31; 18:30; Ruth 1:19. 2 Samuel
+1:2; Psalm 78:60–64; Jeremiah 7:12–14; and Ezekiel 10:18 checked against the WEB at bible-api.com
+(`translation=web`), 2026-11-17; not stored in raw. Jeremiah 26:6 cited by reference only. Hebrew from a
+fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-17, including the
+ketiv/qere note at 4:13; occurrence claims cover `Gen` through `Ruth` and `1Sam`; 2 Samuel 1:2, Psalm
+78:60–64, Jeremiah 7:12, 14, and Ezekiel 10:18 checked in the same edition. No Greek text, Septuagint, or
+rabbinic source was consulted.

@@ -19,6 +19,7 @@ tags: [connection]
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:9: *the rest and … the inheritance*
 - Psalm 95:11 and Hebrews 4:9 — the rest refused and the rest remaining *(WEB checked, not yet ingested)*
 - Isaiah 66:1 — *Where will I rest?* *(WEB checked, not yet ingested)*
+- [[The Ark Is Captured]] — 1 Samuel 4:3–11; the ark sent into battle to *save us*, without the cry, and taken
 
 ## Analysis
 

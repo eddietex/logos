@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence carried out — 1 Samuel 4:11–22
+
+The judgment announced twice against Eli's house (2:27–36; 3:11–14) falls in one day: Hophni and Phinehas
+are slain, the ark is taken, and Eli dies at the news (4:11, 17–18), as *in one day they will both die*
+(2:34) and *there will not be an old man in your house* (2:31) had said. The chapter itself never names
+judgment or gives a reason; the elders' *Why has Yahweh defeated us?* (4:3) is answered only by what the
+reader already knows. The whole people shares the house's sentence: thirty thousand die (10). See
+[[The Ark Is Captured]] and [[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]].
+
+Source: stored WEB 1 Samuel 2:31, 34; 3:11–14; 4:3, 10–22.
+
 ### *Both the ears … will tingle* — 1 Samuel 3:11–14
 
 Yahweh repeats to the boy Samuel the sentence the man of God brought to Eli: *I will perform against Eli
@@ -1158,6 +1169,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sentence on Eli's house carried out in one day.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:11–18; the sentence on Eli's house confirmed, with its oath, and accepted.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the sentence on Eli's house, from its sign (2:34) to Abiathar (1 Kings 2:27).
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *God will judge him*; *Yahweh intended to kill them*.

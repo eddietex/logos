@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### The ark taken at Aphek — 1 Samuel 4:1b–11
+
+The Philistines camp at [[Aphek]] against Israel at [[Ebenezer]] and win the first battle (4:1–2). When Israel
+brings the ark into its camp, they hear the shout and are afraid: *God has come into the camp … Who shall
+deliver us out of the hand of these mighty gods? These are the gods that struck the Egyptians with all kinds
+of plagues in the wilderness* (7–8). They speak of Israel's God in the plural (*hāʾĕlōhîm hāʾaddîrîm
+hāʾēlleh*, WLC) and misplace the plagues *in the wilderness*. Then they rally one another, *Be strong, and
+behave like men … that you not be servants to the Hebrews, as they have been to you* (9), confirming the
+oppression of Judges 13:1, and win: thirty thousand Israelites fall, and they take the ark (10–11). See
+[[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:1–11; Judges 13:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The lords and Delilah — Judges 16:4–22
 
 *The lords of the Philistines*, *sarnê pəlištîm* (WLC), the five rulers of 3:3, come up to Delilah and
@@ -113,6 +126,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Burn Samson's wife, invade Judah, and lose a thousand at Lehi — [[Samson Against the Philistines at Lehi]].
 - The Gazites lie in wait for Samson and lose their city gate — [[Samson at Gaza]].
 - Their lords pay Delilah; they blind Samson and imprison him at Gaza — [[Samson and Delilah]].
+- Defeat Israel twice at Ebenezer and Aphek, kill Hophni and Phinehas, and take the ark — [[The Ark Is Captured]].
 
 ## Appears in
 
@@ -134,6 +148,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Samson and Delilah]] — Judges 16:5–21; the lords' silver, the ambush, the blinding, and the prison mill.
 - [[The Death of Samson]] — Judges 16:23–31; Dagon's feast and the fallen house.
 - [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] — Dagon's house in Judges 16 and 1 Samuel 5.
+- [[The Ark Is Captured]] — 1 Samuel 4:1b–11; the ark captured.
 
 ## Related people
 

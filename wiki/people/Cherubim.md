@@ -67,6 +67,15 @@ Moses hears the voice *from between the two cherubim*, as Exodus 25:22 promised.
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Yahweh of Armies, who sits above the cherubim — 1 Samuel 4:4
+
+The ark is fetched from Shiloh as *the ark of the covenant of Yahweh of Armies, who sits above the cherubim*,
+*yōšēḇ hakkərubîm* (4:4, WLC). The figures of the mercy seat (Exodus 25:18–22) are now named as a throne.
+The full title is given as the ark is carried into the battle where it is captured (4:11). See
+[[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:4, 11; Exodus 25:18–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Figures made on the curtains and inner veil (36:8, 35).
@@ -80,7 +89,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - The gold cherubim made by Bezalel — Exodus 37:7–9, [[The Furnishings Made]]
 - Moses hears the voice *"from between the two cherubim"* — Numbers 7:89, [[The Offerings of the Twelve Princes]]
 - Numbers 7:89 — The voice heard from between them. [[The Offerings of the Twelve Princes]]
-- God *"who sits above the cherubim"* — 1 Samuel 4:4; Psalm 80:1, *not yet ingested*
+- God *"who sits above the cherubim"* — 1 Samuel 4:4, [[The Ark Is Captured]]; Psalm 80:1, *not yet ingested*
 - *"Cherubim of glory overshadowing the mercy seat"* — Hebrews 9:5, *not yet ingested*
 
 ## Appears in
@@ -97,6 +106,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; represented on the inner curtains and the separating veil.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:89; the voice comes from between them.
+- [[The Ark Is Captured]] — 1 Samuel 4:4; *Yahweh of Armies, who sits above the cherubim*.
 
 ## Related people
 

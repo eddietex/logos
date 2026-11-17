@@ -14,6 +14,8 @@ tags: [connection]
   the pitchers, and shout *The sword of Yahweh and of Gideon!* (20); *They each stood in his place
   around the camp; and all the army ran* (21); *Yahweh set every man's sword against his fellow* (22)
   (stored WEB).
+- [[The Ark Is Captured]] — 1 Samuel 4:5–6. The ark comes into the camp and *all Israel shouted with a great
+  shout, so that the earth rang again*; the shout does not win the battle (stored WEB).
 
 ## Analysis
 
@@ -49,6 +51,12 @@ pattern of Joshua's first battle in the land is repeated in miniature. The first
 Bethel (Judges 1:22–26); see [[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]]. Gideon's
 night reconnaissance before this battle also follows Joshua 2; see
 [[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]].
+
+**The shout that failed.** 1 Samuel 4:5 has *tərûʿâ ḡəḏôlâ*, *a great shout* (WLC), the phrase of Joshua 6:5
+and 20, and again it is raised before the ark. At Jericho the shout came at Yahweh's command, after seven
+days of obedience; at Ebenezer it comes when the elders have fetched the ark on their own counsel. The
+Philistines hear it and are afraid (4:6–7), where Midian's camp had fled, and then they win. The comparison
+between Jericho and 1 Samuel 4 is a reader's; the shared phrase is the WLC's. See [[The Ark Is Captured]].
 
 ## Significance
 

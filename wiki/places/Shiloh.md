@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The ark sent for, and the news brought back — 1 Samuel 4:3–22
+
+After the first defeat at [[Ebenezer]], the elders say *Let us get the ark of Yahweh's covenant out of Shiloh*,
+and *the people sent to Shiloh*; Hophni and Phinehas go with it (4:3–4). The same day *a man of Benjamin* runs
+back *and came to Shiloh*, and *all the city cried out* (12–13). Eli dies at *the side of the gate* (18), and
+Phinehas' wife dies giving birth to Ichabod (19–22). The narrative never returns the ark to Shiloh: it comes
+back to Beth Shemesh and Kiriath Jearim (6:12–7:2, stored WEB; not yet ingested). Psalm 78:60 and Jeremiah
+7:12–14 read this as the day Yahweh *abandoned the tent of Shiloh*; see
+[[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]] and [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:3–22; 6:12–7:2. Psalm 78:60 and Jeremiah 7:12–14 WEB checked at bible-api.com, 2026-11-17.
+
 ### The lamp, the ark, and the doors — 1 Samuel 3:1–21
 
 Samuel lies *in Yahweh's temple, where God's ark was*, before *God's lamp* has gone out (3:3), and Yahweh
@@ -120,6 +132,7 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[The Ark Is Captured]] — 1 Samuel 4:3–4, 12–22; the ark taken out, the news brought back, Eli's death at the gate.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:3, 15, 21; the call by the ark, the doors opened, Yahweh appearing again.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; Yahweh's *habitation*; the word against Eli's house.
 
@@ -142,8 +155,10 @@ Source: stored WEB Joshua 18:1–10.
 - [[Ramah]] — Elkanah's home, from which the family goes up yearly (1 Samuel 1:3, 19).
 - [[The Jordan]] — separates the earlier eastern grants from the new western division.
 - [[Taanath Shiloh]] — named in Joshua 16:6; no identity with Shiloh is asserted here.
+- [[Ebenezer]] — the camp the ark is sent to (4:1–4).
 
 ## Events here
+- The ark is sent from here to the camp; the runner brings word of its capture; Eli dies at the gate; Ichabod is born — 1 Samuel 4:3–22, [[The Ark Is Captured]]
 - Eli's sons seize the sacrifices and lie with the women at the Tent's door; Samuel grows before Yahweh — 1 Samuel 2:12–26, [[The Sins of Eli's Sons]]
 - Elkanah's yearly sacrifice; Hannah's vow; Samuel given to Eli — 1 Samuel 1:3–28, [[Hannah Asks Yahweh for a Son]]
 - Hannah's song; the child serves Yahweh before Eli — 1 Samuel 2:1–11, [[The Song of Hannah]]

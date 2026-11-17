@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Ichabod* — 1 Samuel 4:21
+
+Phinehas' wife, dying, names her son *ʾÎ-ḵāḇôḏ*, *She named the child Ichabod, saying, "The glory has
+departed from Israel"* (4:21). The name's first element is disputed (*no glory* or *where is the glory?*);
+the explanation is the text's own. Like *Benoni* (Genesis 35:18) the name records the mother's loss, but
+no father survives to rename him. The book's first naming was Hannah's *Samuel*, *Because I have asked him of
+Yahweh* (1:20); its second records what was lost. See [[Ichabod]] and
+[[Do Not Be Afraid, You Have a Son - Rachel and Phinehas' Wife]].
+
+Source: stored WEB 1 Samuel 1:20; 4:21–22; Genesis 35:18. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Because I have asked him of Yahweh* — 1 Samuel 1:20, 28
 
 Hannah names her son *Samuel, saying, "Because I have asked him of Yahweh"* (1:20). The explanation turns
@@ -463,6 +474,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Ark Is Captured]] — 1 Samuel 4:21; *Ichabod*, *The glory has departed from Israel*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:20, 28; *Samuel*, *because I have asked him of Yahweh*; *šāʾûl*, *given*
 
 - [[Boaz Redeems at the Gate]] — Ruth 4:1, 5, 10–11; *so-and-so*; *the name of the dead may not be cut off*; *be famous* (*call a name*).

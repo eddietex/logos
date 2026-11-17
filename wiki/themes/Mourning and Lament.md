@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Torn clothes and dirt on the head — 1 Samuel 4:12–13
+
+The runner from the battle comes to Shiloh *with his clothes torn, and with dirt on his head* (4:12), *ʾăḏāmâ
+ʿal-rōʾšô* (WLC), as Joshua and the elders put dust on their heads after Ai (Joshua 7:6) and as the runner
+who brings David word of Saul's death will come (2 Samuel 1:2, WEB checked at bible-api.com). *All the city
+cried out* (13), *wattizʿaq* (WLC). Phinehas' wife does not mourn; she names her child for the loss and dies
+(19–22). See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:12–22; Joshua 7:6. 2 Samuel 1:2 WEB checked at bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Weeping at the feast — 1 Samuel 1:7–10, 18
 
 At the yearly feast, provoked by her rival, Hannah *wept, and didn't eat* (1:7). Elkanah asks *why do you
@@ -336,6 +346,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[The Ark Is Captured]] — 1 Samuel 4:12–13; the runner in mourning and the city's cry.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7–10, 18; weeping and not eating at the feast; *bitterness of soul*; the face no longer sad
 
 - [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *Call me Mara*; the complaint that ends chapter 1.

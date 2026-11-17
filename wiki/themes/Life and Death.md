@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three deaths and a birth — 1 Samuel 4:11–22
+
+Hophni and Phinehas die in battle (4:11); Eli dies falling from his seat, *for he was an old man, and heavy*
+(18); Phinehas' wife dies in childbirth, told *Don't be afraid; for you have given birth to a son*, and *she
+didn't answer, neither did she regard it* (20). The birth does not outweigh the deaths: the child is named
+for the loss, as Rachel's dying son was (Genesis 35:17–18). See [[The Ark Is Captured]] and
+[[Do Not Be Afraid, You Have a Son - Rachel and Phinehas' Wife]].
+
+Source: stored WEB 1 Samuel 4:11–22; Genesis 35:17–18.
+
 ### *He brings down to Sheol, and brings up* — 1 Samuel 2:6
 
 *Yahweh kills, and makes alive. He brings down to Sheol, and brings up* (2:6). The first line takes the two
@@ -992,6 +1002,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sons slain, Eli's fall, and a mother dying as her son is born.
 - [[The Song of Hannah]] — 1 Samuel 2:6; *Yahweh kills, and makes alive. He brings down to Sheol, and brings up*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10; *the wife of the dead*; *that the name of the dead may not be cut off*.
 - [[The Death of Samson]] — Judges 16:30; *Let me die with the Philistines!*

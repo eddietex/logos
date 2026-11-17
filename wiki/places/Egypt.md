@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### *The gods that struck the Egyptians* — 1 Samuel 4:8
+
+The Philistines, hearing that the ark has come into Israel's camp, remember the exodus: *These are the gods
+that struck the Egyptians with all kinds of plagues in the wilderness* (4:8). The plagues fell in Egypt, not
+*in the wilderness* (*bammiḏbār*, WLC); commentators read the phrase as a Philistine confusion or as a
+compression of the whole deliverance. Egypt's plagues are what the nations know of Israel's God; compare
+Rahab's *we have heard* (Joshua 2:10). See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:8; Joshua 2:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *In bondage to Pharaoh's house* — 1 Samuel 2:27
 
 The man of God opens his oracle against Eli by recalling where the priestly house was chosen: *Did I reveal
@@ -512,6 +522,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[The Ark Is Captured]] — 1 Samuel 4:8; the plagues remembered by the Philistines.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27; where Yahweh revealed himself to the house of Eli's father.
 
 - [[The Levite's Concubine at Gibeah]] — Judges 19:30; nothing like it since the Exodus.

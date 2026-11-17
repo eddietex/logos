@@ -20,6 +20,8 @@ tags: [connection]
 - 1 Samuel 9:16 — of Saul: *He will save my people out of the hand of the Philistines* (same)
 - 2 Samuel 8:1 — *After this, David struck the Philistines and subdued them* (same)
 - [[Samson's Riddle]] — Judges 14:4, 19; *he sought an occasion against the Philistines*, and thirty struck at Ashkelon.
+- [[The Ark Is Captured]] — 1 Samuel 4:1b–11; the Philistines still dominant: *that you not be servants to the
+  Hebrews, as they have been to you* (4:9), and the ark taken
 
 ## Analysis
 

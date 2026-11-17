@@ -6,6 +6,21 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The glory has departed from Israel* — 1 Samuel 4:21–22
+
+Phinehas' wife, dying in childbirth on the day the ark is taken, names her son *Ichabod*, *ʾî-ḵāḇôḏ*, and
+explains: *The glory has departed from Israel; for God's ark has been taken* (4:21–22). It is the first time
+in 1 Samuel that *kāḇôḏ* is tied to the ark; Hannah's *throne of glory* (2:8) was the only *kāḇôḏ* before it
+(WLC). *Departed* is *gālâ* (WLC), which at Judges 18:30 names *the captivity of the land*: the glory goes into
+exile. Two verses earlier Eli dies *an old man, and heavy*, *kāḇēḏ*, the same root, and the house had been
+charged with *honoring*, *kibbēḏ*, the sons above Yahweh (2:29–30). Psalm 78:61 later says Yahweh *delivered
+… his glory into the adversary's hand*, with a different word, *tip̄ʾeret* (WLC), and Ezekiel sees *Yahweh's
+glory* go out from the temple (Ezekiel 10:18) (WEB checked at bible-api.com). See [[Ichabod]] and
+[[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]].
+
+Source: stored WEB 1 Samuel 2:8, 29–30; 4:18–22; Judges 18:30. Psalm 78:61 and Ezekiel 10:18 WEB checked at
+bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Yahweh going out from Seir — Judges 5:4–5
 
 *Yahweh, when you went out of Seir, when you marched out of the field of Edom, the earth trembled,
@@ -213,6 +228,7 @@ makes having seen it the ground of the charge (22). See
 
 ## Key passages
 
+- [[The Ark Is Captured]] — 1 Samuel 4:21–22; *The glory has departed from Israel*, Ichabod named.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.

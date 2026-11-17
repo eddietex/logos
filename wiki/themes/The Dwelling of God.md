@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *That it may come among us* — 1 Samuel 4:3–11
+
+After the first defeat the elders send for *the ark of Yahweh's covenant … that it may come among us, and
+save us* (4:3), *bəqirbēnû* (WLC), the *among us* of Exodus 17:7 and Numbers 14:42. The ark comes *of Yahweh of
+Armies, who sits above the cherubim* (4), the Philistines say *God has come into the camp* (7), and Israel is
+routed and the ark taken (10–11). The narrative treats the ark as the place of the presence, and still lets
+it be captured: the presence cannot be fetched to order. See
+[[Is Yahweh Among Us - Exodus 17, Numbers 14, 1 Samuel 4, and Micah 3]] and [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:3–11; Exodus 17:7; Numbers 14:42. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The ark, the lamp, and the doors — 1 Samuel 3:3, 15, 21
 
 Samuel sleeps *in Yahweh's temple, where God's ark was*, while *God's lamp hadn't yet gone out* (3:3), and
@@ -687,6 +698,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Ark Is Captured]] — 1 Samuel 4:3–11; the ark sent for *that it may come among us*, and taken.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:3, 10, 15, 21; the temple with the ark, the lamp, and doors; Yahweh *came, and stood*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:18–22; the Tent of Meeting at Shiloh; the boy ministering, the priests defiling its door.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7, 9, 22, 24; *Yahweh's house* and *Yahweh's temple* at Shiloh; *appear before Yahweh … forever*

@@ -92,6 +92,26 @@ records the sentence without comment; readers take it as submission or as resign
 Source: stored WEB 1 Samuel 2:23–25; 3:1–18; Genesis 27:1; Deuteronomy 34:7. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
 
+### On his seat by the road — 1 Samuel 4:12–18
+
+When the ark is taken to the battle at [[Ebenezer]], Eli waits *sitting on his seat by the road watching;
+for his heart trembled for God's ark* (4:13). He is ninety-eight, and *his eyes were set, so that he could
+not see* (15): the dimming of 3:2 is complete, and he can only hear. He hears the city cry out and asks *What
+does the noise of this tumult mean?* (14), the Philistines' question about Israel's shout in the same form
+(4:6, *meh qôl*, WLC). The [[Man of Benjamin (of Eli's time)]] tells him Israel has fled, his two sons are dead,
+*and God's ark has been captured* (17). He survives the news of his sons: *When he made mention of God's
+ark, Eli fell from off his seat backward by the side of the gate; and his neck broke, and he died; for he
+was an old man, and heavy* (18). The *seat*, *kissēʾ*, is the one he sat on when the book opened (1:9), and
+the word of Hannah's *throne of glory* (2:8, WLC). *Old*, *zāqēn*, answers *there will not be an old man in
+your house* (2:31); *heavy*, *kāḇēḏ*, shares its root with *you honor your sons above me* (2:29) and with
+*glory*, *kāḇôḏ*, in his grandson's name three verses on (WLC; a widely noted wordplay the text does not
+comment on). The narrator then gives him the judges' formula for the first time: *He had judged Israel forty
+years* (18). The Septuagint is commonly reported to read *twenty* (recalled, not checked). His fear for the
+ark before his sons is the order the narrative keeps, and it is the one thing told in his favor at his
+death. See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 1:9; 2:8, 29–31; 3:2; 4:6, 12–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Priest at Shiloh, with his sons Hophni and Phinehas — 1 Samuel 1:3, 9.
@@ -101,6 +121,7 @@ morphhb), 2026-11-17.
 - Blesses Elkanah and Hannah; hears of his sons' sins and rebukes them; they do not listen — 2:20–25.
 - A man of God pronounces judgment on his house: no old man in it, his sons to die in one day, a faithful priest to replace it — 2:27–36.
 - Teaches the boy Samuel to answer Yahweh; hears from him the sentence on his house, and accepts it: *It is Yahweh* — 3:1–18.
+- Waits on his seat for news of the ark; at the word that it is taken, falls backward and dies, at ninety-eight; *He had judged Israel forty years* — 4:12–18.
 
 ## Appears in
 
@@ -109,6 +130,7 @@ morphhb), 2026-11-17.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:20–25.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:2–18.
+- [[The Ark Is Captured]] — 1 Samuel 4:13–18.
 
 ## Related people
 
@@ -118,6 +140,9 @@ morphhb), 2026-11-17.
 - [[Elkanah (father of Samuel)]]
 - [[Man of God (of Eli's time)]] — who pronounces the sentence on his house
 - [[Ithamar]] — his likely ancestor, by inference from 1 Chronicles 24:3
+- [[Phinehas' Wife]] — his daughter-in-law, who dies the same day
+- [[Ichabod]] — his grandson, named for the glory departed
+- [[Man of Benjamin (of Eli's time)]] — who brings him the news
 
 ## Themes associated
 
@@ -128,3 +153,6 @@ morphhb), 2026-11-17.
 - [[Blessing]]
 - [[Judgment]]
 - [[Prophecy and Vision]]
+- [[The Glory of God]]
+- [[Life and Death]]
+

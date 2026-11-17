@@ -67,6 +67,16 @@ not be removed with sacrifice or offering forever* (3:14); Eli, hearing it from 
 Yahweh* (3:18). Yahweh lets *none of his words fall to the ground*; *all Israel from Dan even to
 Beersheba* knows Samuel as *a prophet of Yahweh*; and *the word of Samuel came to all Israel* (3:19–4:1a).
 
+[[The Ark Is Captured]] (4:1b–22) carries the sentence out. Israel camps at Ebenezer against the Philistines
+at Aphek, loses four thousand men, and the elders, asking *Why has Yahweh defeated us?*, send to Shiloh for
+*the ark of Yahweh's covenant … that it may come among us, and save us* (4:3). Hophni and Phinehas come with
+it. Israel's *great shout* frightens the Philistines, who know these are *the gods that struck the
+Egyptians*, but they fight and win: thirty thousand fall, *God's ark was taken; and the two sons of Eli,
+Hophni and Phinehas, were slain* (4:11), the sign of 2:34 fulfilled. A Benjamite runner brings the news to
+Shiloh; at the mention of the ark Eli falls backward from his seat and dies, *an old man, and heavy*, having
+*judged Israel forty years* (4:18). Phinehas' wife dies in childbirth, naming her son Ichabod: *The glory has
+departed from Israel; for God's ark has been taken* (4:22). Samuel does not appear in the chapter.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -94,7 +104,7 @@ merge, or reorder them freely.
 - [x] [[The Sins of Eli's Sons]] — 1 Samuel 2:12–26
 - [x] [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36
 - [x] [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a
-- [ ] The Ark Is Captured — 1 Samuel 4:1b–22
+- [x] [[The Ark Is Captured]] — 1 Samuel 4:1b–22
 - [ ] The Ark Among the Philistines — 1 Samuel 5:1–12
 - [ ] The Ark Returns to Israel — 1 Samuel 6:1–7:1
 - [ ] Samuel Judges Israel at Mizpah — 1 Samuel 7:2–17
@@ -161,6 +171,8 @@ merge, or reorder them freely.
 - [[Atonement]] — iniquity *not removed with sacrifice or offering forever* (3:14)
 - [[Curse]] — *his sons brought a curse on themselves* (3:13)
 - [[Light and Darkness]] — *God's lamp hadn't yet gone out* (3:3)
+- [[The Glory of God]] — *The glory has departed from Israel* (4:21–22)
+- [[War]] — the defeats at Ebenezer and the ark taken (4:1b–11)
 
 ## Key people
 - [[Samuel]]
@@ -172,6 +184,10 @@ merge, or reorder them freely.
 - [[Phinehas (son of Eli)]]
 - [[Ministering Women (of Eli's time)]]
 - [[Man of God (of Eli's time)]]
+- [[The Philistines]]
+- [[Man of Benjamin (of Eli's time)]]
+- [[Phinehas' Wife]]
+- [[Ichabod]]
 - [[David]]
 
 ## Key places
@@ -180,3 +196,4 @@ merge, or reorder them freely.
 - [[The Hill Country of Ephraim]]
 - [[Egypt]] — where Yahweh revealed himself to the house of Eli's father (2:27)
 - [[Dan (city)]] and [[Beersheba]] — *all Israel from Dan even to Beersheba* (3:20)
+- [[Ebenezer]] and [[Aphek]] — the opposing camps of the battle where the ark is taken (4:1)

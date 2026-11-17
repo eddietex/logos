@@ -56,12 +56,23 @@ sacrifices cannot cover them. See [[Yahweh Calls Samuel]].
 
 Source: stored WEB 1 Samuel 2:13–17; 3:13–14. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Slain with the ark — 1 Samuel 4:4, 11, 17
+
+The brothers go with the ark from Shiloh to the camp: *the two sons of Eli, Hophni and Phinehas, were there
+with the ark of the covenant of God* (4:4). When Israel is routed, *God's ark was taken; and the two sons of
+Eli, Hophni and Phinehas, were slain* (11). The sign of 2:34, *in one day they will both die*, is fulfilled
+to the letter, and the runner reports it to Eli between the slaughter and the ark (17). See
+[[The Ark Is Captured]] and [[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]].
+
+Source: stored WEB 1 Samuel 2:34; 4:4, 11, 17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Priest at Shiloh with his brother — 1 Samuel 1:3.
 - With his brother, seizes the sacrifices and lies with the women at the Tent's door; ignores Eli's rebuke — 2:12–25.
 - Named in the sign of the man of God: both brothers to die in one day — 2:34.
 - Not named; the sons whose curse brings the sentence Yahweh repeats to Samuel — 3:13–14.
+- Goes with the ark into the camp, and is slain when it is taken, the same day as his brother — 4:4, 11.
 
 ## Appears in
 
@@ -69,6 +80,7 @@ Source: stored WEB 1 Samuel 2:13–17; 3:13–14. Hebrew WLC (OpenScriptures mor
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–17, 22–25.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:34.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:13 (not named).
+- [[The Ark Is Captured]] — 1 Samuel 4:4, 11, 17.
 
 ## Related people
 

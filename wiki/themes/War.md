@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two defeats at Ebenezer — 1 Samuel 4:1b–11
+
+Israel loses *about four thousand* in the first battle and *thirty thousand footmen* in the second, after the
+ark is brought into the camp (4:2, 10). The elders ask *Why has Yahweh defeated us?*, with the verb of the
+covenant curses, *nāḡap̄* (Leviticus 26:17; Deuteronomy 28:25; WLC), and answer by fetching the ark rather
+than inquiring. The ark's *great shout*, *tərûʿâ ḡəḏôlâ*, is the shout that brought down Jericho (Joshua
+6:5, 20; WLC), and here brings down nothing. The Philistines, afraid, rally with *Be strong, and behave like
+men* (4:9). *Each man fled to his tent* (10). See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:1–11; Leviticus 26:17; Deuteronomy 28:25; Joshua 6:5, 20. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### A war to supply wives — Judges 21:10–12
 
 *The congregation sent twelve thousand of the most valiant men there* (21:10) against Jabesh Gilead, an
@@ -935,6 +946,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Ark Is Captured]] — 1 Samuel 4:1b–11; two defeats before the Philistines, and the ark lost.
 - [[Wives for Benjamin]] — Judges 21:10–12; twelve thousand sent against Jabesh Gilead.
 - [[The War Against Benjamin]] — Judges 20:1–48; all the tribes against Benjamin.
 - [[The Danite Migration]] — Judges 18:11, 16–17, 25–28; six hundred armed men, and an undefended city struck and burned.

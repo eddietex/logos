@@ -15,7 +15,7 @@ tags: [connection]
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:17
 - [[The Defeat at Hormah]] — Numbers 14:42
 - Deuteronomy 1:42; 28:7, 25 (stored WEB; both blessing and curse now ingested)
-- 1 Samuel 4:2, 10 *(WEB checked, not yet ingested)*
+- [[The Ark Is Captured]] — 1 Samuel 4:2, 3, 10
 - 1 Kings 8:33; 2 Chronicles 6:24 *(WEB checked for 1 Kings, not yet ingested)*
 
 ## Analysis
@@ -42,6 +42,10 @@ prayer: when the people are *struck down before the enemy, because they have sin
 *turn again*, then let Yahweh hear. That is the path Numbers 14 did not take. The people named their
 sin and went up, and the prayer's sequence is to name it and turn. Deuteronomy 1:45 says the weeping
 afterward was not heard.
+
+**At Ebenezer (added 2026-11-17).** In 1 Samuel 4 the elders name the defeat as Yahweh's (4:3), but neither
+confess sin nor turn; they send for the ark, and the Niphal returns, *Israel was defeated*, *wayyinnāḡep̄*
+(4:10, WLC), with thirty thousand dead. See [[The Ark Is Captured]].
 
 ### Blessings now ingested — Deuteronomy 28:1–14
 

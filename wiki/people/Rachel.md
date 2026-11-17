@@ -301,6 +301,7 @@ over the killing of the infants at Bethlehem. See
   is overruled by his father in the same verse
 - [[Dan (person)]] and [[Naphtali]] — Bilhah's sons, borne for her and named by her as two rulings in
   her favour
+- [[Phinehas' Wife]] — who also dies in childbirth, told *Don't be afraid* and naming her son for her grief; see [[Do Not Be Afraid, You Have a Son - Rachel and Phinehas' Wife]]
 
 ## Themes associated
 

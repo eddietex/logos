@@ -14,7 +14,7 @@ tags: [connection]
   *"Yahweh, the God of the Hebrews"* — [[The Oppression in Egypt]]
 - Exodus 21:2 — *"If you buy a Hebrew servant"*: the word's first appearance in law —
   [[The Altar and the Hebrew Slave]]
-- 1 Samuel 4:6, 9; 13:3, 19; 14:11, 21; 29:3 — the Philistines' word for Israel
+- 1 Samuel 4:6, 9 ([[The Ark Is Captured]]); 13:3, 19; 14:11, 21; 29:3 — the Philistines' word for Israel
 - Jonah 1:9 — *"I am a Hebrew"*, said to sailors
 - Joshua 24:2–3 — *"beyond the River"*
 - 2 Corinthians 11:22; Philippians 3:5 — Paul, *"a Hebrew of Hebrews"*

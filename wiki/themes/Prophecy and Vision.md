@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sign fulfilled — 1 Samuel 4:11, 18
+
+The man of God's sign, *in one day they will both die* (2:34), is fulfilled at the ark's capture: *the two
+sons of Eli, Hophni and Phinehas, were slain* (4:11), and Eli dies the same day (18). The word Samuel
+received, *I will perform against Eli all that I have spoken* (3:12), begins to be performed without Samuel
+appearing. Yahweh *let none of his words fall to the ground* (3:19). See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 2:34; 3:12, 19; 4:11, 18.
+
 ### *There were not many visions* — 1 Samuel 3:1–4:1a
 
 The call of Samuel opens on scarcity: *Yahweh's word was precious in those days. There were not many
@@ -286,6 +295,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[The Ark Is Captured]] — 1 Samuel 4:11, 18; the sign of 2:34 fulfilled *in one day*.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a; the word *precious*, the boy called, the vision told, and a prophet known from Dan to Beersheba.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; an unnamed man of God's oracle, with a near sign and a far fulfilment.
 - [[The Danite Migration]] — Judges 18:5–6; *ask counsel of God*, and the hired priest's *Go in peace … before Yahweh*.

@@ -93,6 +93,16 @@ See [[Yahweh Calls Samuel]] and
 
 Source: stored WEB 1 Samuel 2:12; 3:1–4:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Absent from the battle — 1 Samuel 4:1b–22
+
+The verse that closes his call, *The word of Samuel came to all Israel* (4:1a), is followed at once by
+Israel going to war, and Samuel is not mentioned again until 7:3 (stored WEB). No one in chapter 4 asks
+Yahweh or his prophet before the elders send for the ark (4:3). The defeat, the ark's capture, and the deaths
+of Eli and his sons are the fulfilment of the word Samuel himself received (3:11–14). See
+[[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 3:11–14; 4:1–22; 7:3.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -101,6 +111,7 @@ Source: stored WEB 1 Samuel 2:12; 3:1–4:1. Hebrew WLC (OpenScriptures morphhb)
 - Ministers in a linen ephod; grows *with Yahweh and with men* beside Eli's sons — 2:18–26.
 - Not named, but one common identification of the man of God's *faithful priest* — 2:35.
 - Called four times by Yahweh at night in the temple at Shiloh; receives and tells the word against Eli's house; known *from Dan even to Beersheba* as a prophet — 3:1–4:1a.
+- Absent from the narrative of the ark's capture, which fulfils the word given to him — 4:1b–22.
 
 ## Appears in
 
@@ -109,6 +120,7 @@ Source: stored WEB 1 Samuel 2:12; 3:1–4:1. Hebrew WLC (OpenScriptures morphhb)
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:18–21, 26.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35 (not named; a proposed identification).
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a.
+- [[The Ark Is Captured]] — 1 Samuel 4:1b–22 (not present; the fulfilment of his first word).
 
 ## Related people
 

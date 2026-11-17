@@ -196,7 +196,8 @@ iniquity. The next pericope begins to carry it out at Aphek (4:11, 18; stored WE
   followed after* (Acts 3:24, WEB checked at bible-api.com).
 
 **How it connects.** The pericope confirms [[A Man of God Against the House of Eli]] and hands its
-fulfilment to the next pericope, *The Ark Is Captured* (4:1b–22, not yet ingested), where both sons die and Eli falls from his
+fulfilment to the next pericope,
+[[The Ark Is Captured]] (4:1b–22), where both sons die and Eli falls from his
 seat. It answers [[The Sins of Eli's Sons]], whose alternating scenes of the sons and the boy it resolves:
 the sons do not listen, and the boy says *your servant hears*. It continues the doubled-name call of
 Abraham, Jacob, and Moses, and the burning bush's *Here I am*, with a difference noted above. The prophet

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Philistine camp — 1 Samuel 4:1b
+
+*Israel … encamped beside Ebenezer; and the Philistines encamped in Aphek* (4:1). From here the Philistines
+defeat Israel twice and take the ark (4:2–11). The WLC gives the same lemma as the earlier Apheks; as with
+those notices, the shared name is not taken to establish one site. See [[The Ark Is Captured]].
+
+Source: stored WEB 1 Samuel 4:1–11. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Aphik — Judges 1:31
 
 Judges 1:31 names *Aphik* among Asher's cities not driven out. The WLC tags *ʾăpîq* with the same lemma as Joshua 19:30's *ʾăpēq*, which is also in Asher, so the notice is filed here. As with the other Aphek notices, the shared name is not taken to establish one site.
@@ -30,6 +38,7 @@ Royal city whose king is counted in Joshua 12:18. No battle is narrated. Joshua 
 Source: stored WEB Joshua 12–21 at the verses cited. No modern site is assigned.
 
 ## Appears in
+- [[The Ark Is Captured]] — 1 Samuel 4:1; the Philistine camp.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:31; as *Aphik*, not driven out by Asher.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Asher’s list.
 - [[The Land That Remains]] — Joshua 13:1–7.
@@ -37,6 +46,9 @@ Source: stored WEB Joshua 12–21 at the verses cited. No modern site is assigne
 
 ## Related places
 - [[Lassharon]] — named beside it in the list (12:18).
+- [[Ebenezer]] — Israel's camp facing it (1 Samuel 4:1).
 
 ## Events here
 - Its king is struck (12:18); no account of the battle is given.
+- The Philistines camp here, defeat Israel twice, and take the ark — 1 Samuel 4:1–11, [[The Ark Is Captured]]
+
