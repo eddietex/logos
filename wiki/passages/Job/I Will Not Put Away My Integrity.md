@@ -207,6 +207,8 @@ last time anyone in the dialogue recites it.
 
 ## Cross-references
 
+- [[Call Me Mara - Marah, Naomi, and Job 27.2]] — *the Almighty, who has made my soul bitter* (27:2) beside Naomi's *the Almighty has dealt very
+  bitterly with me* (Ruth 1:20); in the WLC files read, the only two places *Shaddai* is the subject of *hēmar*.
 - [[A Gentle Answer]] — Proverbs 15:11 draws the inference from 26:6: if Sheol and Abaddon are before Yahweh, so are human hearts.
 - [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]] — 27:16–17's silver divided by the innocent beside Proverbs 13:22.
 - [[Bildad's Third Speech]] — Job 25, the speech 26:2–4 mocks and 26:5–14 outbids; the hymn of 25:2–3

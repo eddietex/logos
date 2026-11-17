@@ -133,7 +133,7 @@ naming formula of Genesis** — *"Therefore its name was called Babel"* (*ʿal-k
 WLC). **Who named it is not said.** See [[Names and Naming]].
 
 **Ruth's Naomi will take the name for herself**: *"Don't call me Naomi. Call me Mara; for the Almighty has
-dealt very bitterly with me"* (Ruth 1:20; WEB; *not yet ingested*). **The WLC spells her name with a final
+dealt very bitterly with me"* (Ruth 1:20; WEB; [[Naomi Returns to Bethlehem]]). **The WLC spells her name with a final
 ʾālep (*mārāʾ*) and files it under a separate number from the place**; the root of her verb, *hēmar*, is the
 *mārar* of 1:14 (WLC). See [[Marah]].
 
@@ -422,7 +422,8 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
 - Deuteronomy 7:15; 28:60 — *"the diseases of Egypt"*, promised away and threatened back *(not yet ingested)*
 - Deuteronomy 8:2 — *"to prove you, to know what was in your heart"* *(not yet ingested)*
 - Deuteronomy 32:39 — *"I wound and I heal"* *(not yet ingested)*
-- Ruth 1:20 — *"Call me Mara"* *(not yet ingested)*
+- Ruth 1:20 — *"Call me Mara"* — [[Naomi Returns to Bethlehem]];
+  [[Call Me Mara - Marah, Naomi, and Job 27.2]]
 - 2 Kings 2:19–22 — Elisha throws salt into the spring: *"I have healed these waters"* —
   [[Bitter Water Made Sweet - Marah and Elisha's Spring]] *(not yet ingested)*
 - Psalm 81:7 — *"I tested you at the waters of Meribah"* *(not yet ingested)*

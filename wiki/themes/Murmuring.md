@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Complaint without rebuke — Ruth 1:21
+
+*Wəšadday hēraʿ lî*, *the Almighty has afflicted me* (Ruth 1:21, WLC). The hiphil of *rāʿaʿ* is the form of
+Moses' *why have you brought trouble on this people?* (Exodus 5:22) and *Why have you treated your servant
+so badly?* (Numbers 11:11). Naomi's complaint differs from the wilderness murmuring in where it goes: she
+names God as the cause to his face, before the town, and the narrator records no rebuke and no judgment.
+The page files it here for the verb, not to class her with the murmurers. See [[Naomi Returns to Bethlehem]]. Source: stored WEB Ruth 1:19–22; Exodus 5:22;
+Numbers 11:11; Hebrew WLC, 2026-11-17.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The congregation murmurs against the princes after the deception is discovered (18). The narrator
@@ -172,6 +181,7 @@ consequences for the whole people (15).
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[Naomi Returns to Bethlehem]] — Ruth 1:21; *hēraʿ lî*, the verb of Moses' complaints, unrebuked.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; *in your tents*: the exodus called an act of hatred.

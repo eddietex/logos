@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two widows arrive empty — Ruth 1:19–22
+
+Naomi says *Yahweh has brought me home again empty* (*rêqām*, 1:21). In the WLC files read, *rêqām* is the
+word of the laws that forbid sending a released slave or appearing before Yahweh *empty* (Deuteronomy 15:13;
+16:16), and of Eliphaz's charge against Job, *You have sent widows away empty* (Job 22:9). Two widows reach
+Bethlehem with nothing, *in the beginning of barley harvest* (1:22), the season of the gleaning laws. Boaz
+will refuse to send Ruth back to Naomi *empty* (3:17; not yet ingested). See [[Naomi Returns to Bethlehem]]. Source: stored WEB Ruth 1:19–22; Deuteronomy
+15:13; 16:16; Job 22:9; Ruth 3:17; Hebrew WLC, 2026-11-17.
+
 ### A widow left abroad — Ruth 1:3–5
 
 *The woman was bereaved of her two children and of her husband* (1:5). Naomi is a widow without sons, in
@@ -529,6 +538,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+- [[Naomi Returns to Bethlehem]] — Ruth 1:21–22; *brought me home again empty*; two widows at the start of harvest.
 - [[Famine and Death in Moab]] — Ruth 1:3–5; Naomi widowed and bereaved of her sons abroad.
 - [[Wives for Benjamin]] — Judges 21:10–23; the women and little ones of Jabesh, the daughters of Shiloh.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:24–29; the concubine, offered, put out, and never heard.

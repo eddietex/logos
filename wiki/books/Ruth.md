@@ -33,6 +33,14 @@ Deuteronomy's *cling to him*. Ruth's vow, *Your people will be my people, and yo
 in a self-curse oath in Yahweh's name that only death will part them (1:17). The chapter's key word is
 *šûb*, *return*, twelve times in the WLC of chapter 1.
 
+[[Naomi Returns to Bethlehem]] (1:19–22) closes the first act. The town is stirred, *Is this Naomi?*, and
+Naomi refuses her name: *Call me Mara; for the Almighty has dealt very bitterly with me* (1:20). *I went out
+full, and Yahweh has brought me home again empty* (1:21). She names God as the subject of four verbs, using
+*Shaddai*, the name Job will use, with the same verb, *hēmar* (Job 27:2). The narrator does not answer her.
+It lists Ruth beside her, *Ruth the Moabitess … who returned*, and dates the arrival *in the beginning of
+barley harvest* (1:22). The rest of the book answers the word *empty*: Boaz will not send Ruth back
+*empty* (3:17), and the child will be *a restorer of life* (4:15).
+
 ## Structure
 
 1. **Emptied** (1) — the losses in Moab, the parting on the road, and Naomi's return *empty*.
@@ -51,7 +59,7 @@ merge, or reorder them freely.
 
 - [x] [[Famine and Death in Moab]] — Ruth 1:1–5
 - [x] [[Ruth Clings to Naomi]] — Ruth 1:6–18
-- [ ] Naomi Returns to Bethlehem — Ruth 1:19–22
+- [x] [[Naomi Returns to Bethlehem]] — Ruth 1:19–22
 - [ ] Ruth Gleans in the Field of Boaz — Ruth 2:1–23
 - [ ] Ruth at the Threshing Floor — Ruth 3:1–18
 - [ ] Boaz Redeems at the Gate — Ruth 4:1–12

@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### *Call me Mara* — Ruth 1:19–22
+
+At Bethlehem the whole town is stirred, and the women ask, *Is this Naomi?* (1:19). She refuses the name:
+*Don't call me Naomi. Call me Mara; for the Almighty has dealt very bitterly with me* (1:20). *Mārāʾ*,
+*bitter*, is spelled in the WLC with a final *ʾālep* and occurs only here in the files read; the place Marah
+of Exodus 15:23 shares the root. *I went out full, and Yahweh has brought me home again empty. Why do you
+call me Naomi, since Yahweh has testified against me, and the Almighty has afflicted me?* (1:21). She makes
+God the subject of four verbs, using *Shaddai* twice and *Yahweh* twice. *Shaddai … hēmar*, *the Almighty
+has made bitter*, recurs in the WLC files read only in Job's oath (Job 27:2). She says she came back
+*empty*; the narrator's next words are *and Ruth the Moabitess, her daughter-in-law, with her* (1:22). The
+narrator keeps calling her Naomi. See [[Naomi Returns to Bethlehem]] and [[Call Me Mara - Marah, Naomi, and Job 27.2]]. Source:
+stored WEB Ruth 1:19–22; Exodus 15:23; Job 27:2; Hebrew WLC, 2026-11-17.
+
 ### *Go, return* — Ruth 1:6–18
 
 Hearing that *Yahweh had visited his people in giving them bread* (1:6), she sets out for Judah with her
@@ -30,7 +43,7 @@ laid him in her bosom* (4:16), and the women say *A son is born to Naomi* (4:17)
 word for *child*, *yeleḏ*, occurs only at 1:5, of her dead sons, and 4:16, of Obed.
 
 **The name.** *Noʿŏmî* is usually connected with *nʿm*, *pleasant*. She will refuse it on her return: *Don't
-call me Naomi. Call me Mara; for the Almighty has dealt very bitterly with me* (1:20; not yet ingested).
+call me Naomi. Call me Mara; for the Almighty has dealt very bitterly with me* (1:20; see above).
 
 See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:1–5, 20; 4:16–17; Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
@@ -43,10 +56,12 @@ morphhb), 2026-11-17.
 - Both sons die; she is *left* — Ruth 1:5
 - Hears that Yahweh has given bread; sets out for Judah — Ruth 1:6–7
 - Urges Orpah and Ruth to go back; Orpah goes, Ruth swears to stay — Ruth 1:8–18
+- Arrives in Bethlehem at the start of barley harvest; asks to be called Mara — Ruth 1:19–22
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:1–5; widowed and bereaved of both sons in Moab.
 - [[Ruth Clings to Naomi]] — Ruth 1:6–18; sends her daughters-in-law back; *Yahweh's hand has gone out against me*.
+- [[Naomi Returns to Bethlehem]] — Ruth 1:19–22; *Call me Mara*; *I went out full, and Yahweh has brought me home again empty*.
 
 ## Related people
 - [[Elimelech]] — her husband
@@ -62,3 +77,4 @@ morphhb), 2026-11-17.
 - [[Famine and Plenty]]
 - [[Suffering]]
 - [[Love]]
+- [[The Names of God]]

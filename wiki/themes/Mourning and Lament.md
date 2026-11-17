@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Bitterness in Bethlehem — Ruth 1:20–21
+
+The first act of Ruth ends in a complaint, not a funeral. Naomi tells the women of Bethlehem to call her
+*Mara*, *bitter*, and says God has brought her back *empty*. It is addressed to the town but names God
+throughout, in the language of Moses' complaints (*hēraʿ*, Exodus 5:22; Numbers 11:11) and of Job (*hēmar*,
+Job 27:2). See [[Naomi Returns to Bethlehem]]. Source: stored WEB Ruth 1:19–22; Hebrew WLC, 2026-11-17.
+
 ### Weeping on the road — Ruth 1:9, 14
 
 The deaths of 1:3–5 were told without mourning. The weeping comes at the parting: *they lifted up their
@@ -318,6 +325,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *Call me Mara*; the complaint that ends chapter 1.
 - [[Ruth Clings to Naomi]] — Ruth 1:9, 13–14; the widows weep at the parting, twice.
 - [[Famine and Death in Moab]] — Ruth 1:3, 5; three deaths reported, no mourning narrated.
 - [[Wives for Benjamin]] — Judges 21:2–3, 6, 15; weeping at Bethel, and grief for Benjamin.

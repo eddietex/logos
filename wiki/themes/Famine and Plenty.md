@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *In the beginning of barley harvest* — Ruth 1:22
+
+Chapter 1 opened with *a famine in the land* (1:1) and ends with the barley harvest beginning in Bethlehem,
+*the house of bread* (1:22). Barley ripens first (*the barley was in the ear*, Exodus 9:31), and the
+harvest of chapter 2 runs *to the end of barley harvest and of wheat harvest* (2:23). Against the season
+stands Naomi's *I went out full, and Yahweh has brought me home again empty* (1:21). See [[Naomi Returns to Bethlehem]]. Source: stored WEB Ruth 1:19–22; 2:23;
+Exodus 9:31.
+
 ### *Yahweh had visited his people* — Ruth 1:6
 
 *She had heard in the country of Moab how Yahweh had visited his people in giving them bread* (1:6). The
@@ -252,6 +260,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Naomi Returns to Bethlehem]] — Ruth 1:21–22; *empty*, and *the beginning of barley harvest*.
 - [[Ruth Clings to Naomi]] — Ruth 1:6; *Yahweh had visited his people in giving them bread*.
 - [[Famine and Death in Moab]] — Ruth 1:1; famine in Bethlehem, the clause of Genesis 12:10 and 26:1.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3–6; the increase of the land destroyed every harvest.

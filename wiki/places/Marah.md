@@ -38,12 +38,16 @@ eastern side of the Gulf of Suez have been proposed; they are reported, not chec
 is adopted.
 
 **Naomi borrows the name for herself**: *"Don't call me Naomi. Call me Mara; for the Almighty has dealt very
-bitterly with me"* (Ruth 1:20; WEB; *not yet ingested*). The WLC spells her *Mārāʾ*, with a final *ʾālep*,
-and files it under a separate number from the place; the meaning is the same.
+bitterly with me"* (Ruth 1:20; WEB), in [[Naomi Returns to Bethlehem]]. The WLC spells her *Mārāʾ*, with a
+final *ʾālep*, and files it under a separate number from the place; the meaning is the same. Her verb,
+*hēmar*, recurs with *Shaddai* as subject only at Job 27:2 in the WLC files read. See
+[[Call Me Mara - Marah, Naomi, and Job 27.2]].
 
 ## Appears in
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
+
+- [[Naomi Returns to Bethlehem]] — Ruth 1:20; not named, but behind Naomi's *Call me Mara*.
 
 - [[Bitter Water at Marah]] — Exodus 15:23–26; **the bitter water, the complaint, the tree, the sweet
   water, the statute, the test, and *"I am Yahweh who heals you"***

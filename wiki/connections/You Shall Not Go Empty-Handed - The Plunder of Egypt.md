@@ -34,6 +34,8 @@ tags: [connection]
   search, morphhb)
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:16–17; *"They shall not appear before Yahweh empty. Every man
   shall give as he is able, according to Yahweh your God's blessing which he has given you."*
+- [[Naomi Returns to Bethlehem]] — Ruth 1:21; *"I went out full, and Yahweh has brought me home again empty"* (*rêqām*).
+  The word recurs at Ruth 3:17, *"Don't go empty to your mother-in-law"* (not yet ingested)
 - **Exodus 25:2–3** — *"From everyone whose heart makes him willing you shall take my offering. This is the
   offering which you shall take from them: gold, silver, brass"* — [[The Offering for the Sanctuary]]. The
   source of the metals is not stated in the verse
@@ -113,3 +115,10 @@ Source: the cited verses checked in local raw WEB, 2026-10-24.
 
 See [[Four Hundred Years - The Sojourn and the Exodus]], [[Wealth and Possessions]],
 [[Slavery and Servitude]], and [[Favor and Grace]].
+
+**Ruth 1:21 is now ingested**, in [[Naomi Returns to Bethlehem]]. Naomi uses *rêqām* of her own return: *I went out
+full, and Yahweh has brought me home again empty*. The laws above forbid sending the released slave or the
+worshipper away *empty*; Naomi says Yahweh has done it to her. In Ruth the word comes back once more, when
+Boaz sends Ruth home with barley so she will not go *empty* to Naomi (3:17; not yet ingested). In the WLC
+files read (Genesis through Ruth, 1 Samuel, Job) *rêqām* occurs ten times, the other two outside the Torah
+being 1 Samuel 6:3 and Job 22:9.

@@ -13,6 +13,7 @@ tags: [connection]
 - 1 Timothy 6:6–10, 17–19 — contentment, empty-handed birth and departure, and generous use
   of God's provision.
 - Luke 12:16–21 — a rich man's planned enjoyment confronted by the end of his life.
+- [[Naomi Returns to Bethlehem]] — Ruth 1:21; *"I went out full, and Yahweh has brought me home again empty."*
 
 ## Analysis
 
@@ -68,3 +69,9 @@ limit on [[Wealth and Possessions]] can lead to worship, lament, reassurance, co
 or generosity. Ecclesiastes now contributes both [[Suffering]] and [[Joy and Enjoyment]],
 not a single negative verdict. [[Life and Death]] places an unavoidable boundary around
 ownership without settling every text's account of what follows death.
+
+**Ruth 1:21 is now ingested**, in [[Naomi Returns to Bethlehem]]. Naomi's *I went out full, and Yahweh has brought
+me home again empty* has the shape of Job 1:21: going out and coming back, with Yahweh as the one who acts.
+Both use *šûb* for the return (WLC). The response differs. Job blesses Yahweh's name; Naomi asks to be
+called *Mara* and says Yahweh has *testified against* her. Neither is rebuked by the narrator. Ruth does not
+cite Job, and the page claims a shared pattern, not borrowing. See [[Call Me Mara - Marah, Naomi, and Job 27.2]].

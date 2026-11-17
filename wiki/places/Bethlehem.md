@@ -124,6 +124,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
   **The man speaking has, four verses earlier, put [[Joseph]] under oath to bury him at [[Machpelah]]**
   (47:29–30), **where [[Leah]] is and she is not**
 - [[Ruth Clings to Naomi]] — Ruth 1:6–7; bread returns to Judah, and Naomi sets out for home.
+- [[Naomi Returns to Bethlehem]] — Ruth 1:19–22; *all the city was excited about them*; Naomi's *Call me Mara*; arrival *in the beginning of barley harvest*.
 
 ## Related places
 
@@ -145,7 +146,8 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 - Jacob retells the burial to Joseph, using the same obscure distance-word — Genesis 48:7,
   [[Jacob Blesses Ephraim and Manasseh]]
 - Elimelech's family leaves in a famine for Moab — Ruth 1:1–2, [[Famine and Death in Moab]]
-- Naomi and Ruth return; the elders bless Boaz's bride at the gate — Ruth 1:19–22; 4:11 (not yet ingested)
+- Naomi and Ruth return at the start of barley harvest; the town is stirred — Ruth 1:19–22, [[Naomi Returns to Bethlehem]]
+- The elders bless Boaz's bride at the gate — Ruth 4:11 (not yet ingested)
 - Samuel anoints David at Jesse's house — 1 Samuel 16:1–13
 - Three of David's men fetch water from the well by the gate, and he pours it out — 2 Samuel 23:15–17
 - *"But you, Bethlehem Ephrathah, being small among the clans of Judah…"* — Micah 5:2

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Don't call me Naomi. Call me Mara* — Ruth 1:20
+
+Naomi refuses her own name on the day she comes home. *Naomi* is usually connected with *pleasant*; she
+asks to be called *Mārāʾ*, *bitter*, spelled in the WLC with a final *ʾālep* and found nowhere else in the
+files read. Marah, the bitter water of Exodus 15:23, was named by the narrator for its problem; Naomi names
+herself for hers, and gives the reason: *the Almighty has dealt very bitterly with me*. The name does not
+stick. The narrator calls her Naomi in the next verse and throughout the book. See [[Naomi Returns to Bethlehem]] and
+[[Call Me Mara - Marah, Naomi, and Job 27.2]]. Source: stored WEB Ruth 1:19–22; Exodus 15:23; Hebrew WLC, 2026-11-17.
+
 ### Four names unexplained — Ruth 1:2–4
 
 Ruth 1 names a whole family, *Elimelech … Naomi … Mahlon and Chilion* (1:2), and two wives, *Orpah …
@@ -417,6 +426,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Naomi Returns to Bethlehem]] — Ruth 1:19–21; *Is this Naomi?*; *Call me Mara*, a self-given name the narrator never uses.
 - [[Famine and Death in Moab]] — Ruth 1:2–4; Elimelech, Naomi, Mahlon, Chilion, Orpah, and Ruth, none explained.
 - [[The Danite Migration]] — Judges 18:12, 29–30; Mahaneh Dan; Laish renamed Dan; *Moses* or *Manasseh* in the suspended *nun*.
 - [[Micah's Idol and Levite]] — Judges 17:1, 4, 5; *Mîkāyəhû* shortened to *Mîkâ*.
@@ -590,7 +600,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 - [[Bitter Water at Marah]] — Exodus 15:23; **a place named for its problem.** *"Therefore its name was called
   Marah"*, *bitter* — the impersonal formula of Babel (Genesis 11:9; WLC), with no namer given. **The water
   is made sweet two verses later, and the name stays.** Naomi takes it for herself: *"Call me Mara"* (Ruth
-  1:20; WEB; *not yet ingested*). See [[Marah]]
+  1:20; WEB), in [[Naomi Returns to Bethlehem]]. See [[Marah]]
 - [[Manna and Quail]] — Exodus 16:15, 31; **a food named by a question.** *"What is it?"* (*mān hûʾ*, which the
   WLC parses as an interrogative) — *"The house of Israel called its name Manna"*; **the first thing in
   Exodus that Israel names**, in the naming formula of Genesis

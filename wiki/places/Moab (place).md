@@ -386,6 +386,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; contextual setting.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Moabite excluded from Yahweh's assembly.
 - [[Ruth Clings to Naomi]] — Ruth 1:6–15; where the news of bread is heard, and where Orpah returns.
+- [[Naomi Returns to Bethlehem]] — Ruth 1:22; *Ruth the Moabitess … who returned out of the country of Moab*.
 
 ## Related places
 
@@ -413,3 +414,4 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - Sentenced to the fate of Sodom — Zephaniah 2:9
 - Its *"mighty men"* sung as trembling at the news of the sea — Exodus 15:15
 - [[Ruth Clings to Naomi]] — Naomi hears of bread in Judah and leaves with her daughters-in-law; Orpah turns back, Ruth stays with Naomi (Ruth 1:6–18).
+- [[Naomi Returns to Bethlehem]] — the country Naomi and *Ruth the Moabitess* have left behind (Ruth 1:22).

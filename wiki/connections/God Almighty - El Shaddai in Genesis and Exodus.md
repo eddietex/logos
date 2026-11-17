@@ -33,7 +33,9 @@ tags: [connection]
 - **Numbers 24:4, 16** — Balaam, a foreign seer, *"who sees the vision of the Almighty"*.
 - **Job** — thirty-one occurrences, more than the rest of the Bible combined; the standard name for
   God in the mouths of Job and his friends. See [[Job (person)]].
-- **Ruth 1:20–21; Psalm 68:14; 91:1; Isaiah 13:6; Joel 1:15; Ezekiel 1:24; 10:5** — the scattered
+- **Ruth 1:20–21** — [[Naomi Returns to Bethlehem]]: *"Call me Mara; for the Almighty has dealt very bitterly with me"*;
+  *"the Almighty has afflicted me"*. Naomi's two uses, paired with *Yahweh* — [[Call Me Mara - Marah, Naomi, and Job 27.2]]
+- **Psalm 68:14; 91:1; Isaiah 13:6; Joel 1:15; Ezekiel 1:24; 10:5** — the scattered
   later uses.
 - **2 Corinthians 6:18; Revelation 1:8 and eight more** — *pantokratōr*, the Septuagint's rendering,
   in the New Testament.
@@ -120,3 +122,10 @@ Genesis** (17:1; 28:3; 35:11; 43:14; 48:3; 49:25), **and the second spoken by [[
 (Corrected 2026-10-22 from *fifth*: the earlier count omitted 43:14, listed above. WLC lemma search.)
 **Like 48:3 it is a human being using the name rather than God announcing it**, and here it stands
 beside three further titles coined in the same two verses.
+
+**Ruth 1:20–21 is now ingested**, in [[Naomi Returns to Bethlehem]]. Naomi uses *Shaddai* twice, the only two
+occurrences in Ruth, and pairs it with *Yahweh* in parallel lines (1:21). **Of the uses before Job in the
+English canon, hers are the only ones that name *Shaddai* as the cause of a loss rather than the giver of a
+promise or blessing**, and its verb,
+*hēmar*, *has made bitter*, recurs with *Shaddai* as subject only at Job 27:2 in the WLC files read
+(Genesis through Ruth, 1 Samuel, Job). See [[Call Me Mara - Marah, Naomi, and Job 27.2]].

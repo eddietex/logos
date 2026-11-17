@@ -37,6 +37,11 @@ the line of David. See [[Moab and Ammon - The Two Nations Born in the Cave]].
 
 **The name.** The text does not explain it; proposed etymologies are uncertain and are not given here.
 
+**Arrival.** She says nothing in 1:19–22. Naomi tells the town she came home *empty* (1:21) with Ruth
+beside her; the narrator's summary names her at once, *Ruth the Moabitess, her daughter-in-law, with her,
+who returned out of the country of Moab* (1:22). *Haššāḇâ*, *who returned* (WLC), is the chapter's word for
+going home, used of a woman arriving for the first time. See [[Naomi Returns to Bethlehem]].
+
 See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:4–5, 22; 2:2, 10, 21; 4:5, 10, 17–22;
 Deuteronomy 23:3.
 
@@ -45,10 +50,12 @@ Deuteronomy 23:3.
 - Married to Mahlon (4:10) in Moab — Ruth 1:4
 - Widowed after about ten years, without a child reported — Ruth 1:4–5
 - Sets out with Naomi for Judah; refuses to go back and vows to stay with her — Ruth 1:6–18
+- Arrives in Bethlehem with Naomi, *Ruth the Moabitess … who returned*, at the start of barley harvest — Ruth 1:22
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:4–5; a Moabite wife, widowed.
 - [[Ruth Clings to Naomi]] — Ruth 1:14–18; *Ruth joined with her*; *Your people will be my people, and your God my God*.
+- [[Naomi Returns to Bethlehem]] — Ruth 1:22; silent; not counted in Naomi's *empty*, but listed by the narrator; first called *the Moabitess*.
 - [[Joseph in Potiphar's House]] — named in a comparison of women who take the initiative (Ruth 3).
 
 ## Related people

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Shaddai* in Naomi's mouth — Ruth 1:20–21
+
+Naomi calls God *Shaddai*, *the Almighty*, twice, and *Yahweh* twice, in parallel lines: *Yahweh has
+testified against me, and the Almighty has afflicted me* (1:21). These are the only uses of *Shaddai* in
+Ruth. In the WLC files read (Genesis through Ruth, 1 Samuel, Job), the name occurs six times in Genesis,
+once in Exodus, twice in Numbers, and thirty-one times in Job; Naomi, like Job, uses it of the God she holds
+responsible for her losses. See [[Naomi Returns to Bethlehem]] and [[God Almighty - El Shaddai in Genesis and Exodus]]. Source: stored WEB Ruth 1:19–22; Hebrew
+WLC, 2026-11-17.
+
 ### Yahweh is Peace — Judges 6:24
 
 Gideon's altar is named *YHWH šālôm*, *Yahweh is Peace* (6:24, WLC), from the word just spoken to
@@ -293,6 +302,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *Shaddai* and *Yahweh* paired in Naomi's complaint.
 - [[The Call of Gideon]] — Judges 6:24; the altar *Yahweh is Peace*.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

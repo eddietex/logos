@@ -27885,3 +27885,45 @@ the Westminster Leningrad Codex (OpenScriptures morphhb) `Ruth`, `Gen`, `Deut`, 
 XML on 2026-11-17; every occurrence claim covers those six files and is stated on the page that makes it.
 Rare-word glosses (*tēʿāgēnâ*) are conventional and not verified against a lexicon. Proverbs 18:24 cited
 from an existing page, not rechecked. No Greek text consulted.
+
+## [2026-11-17] ingest | Ruth 1.19-22 — Naomi Returns to Bethlehem
+
+Unattended run (`/ingest auto`). Ruth is the first `in-progress` book; the next unchecked box was 1:19–22.
+Ruth now 3 / 8.
+
+Created: [[Naomi Returns to Bethlehem]]; connection [[Call Me Mara - Marah, Naomi, and Job 27.2]].
+
+Revised: book [[Ruth]] (box checked, overview paragraph); people [[Naomi]], [[Ruth (person)]]; places
+[[Bethlehem]], [[Moab (place)]], [[Marah]]; passages [[Bitter Water at Marah]] (Ruth 1:20 no longer *not yet
+ingested*) and [[I Will Not Put Away My Integrity]] (cross-reference to the new connection); themes
+[[Names and Naming]], [[Suffering]], [[The Names of God]], [[Mourning and Lament]], [[Murmuring]],
+[[The Poor and the Vulnerable]], [[Famine and Plenty]], [[Festivals and First Fruits]], [[The Nations]];
+connections [[God Almighty - El Shaddai in Genesis and Exodus]],
+[[You Shall Not Go Empty-Handed - The Plunder of Egypt]], and
+[[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]]. Also `wiki/books/index.md`, People
+Index N-Z, the places and themes indexes, Connections Index A-C, I-N, and T-Z, and the dashboard counts.
+Frontmatter totals: 481 passages, 349 people, 598 places, 88 themes, 915 connections.
+
+Judgment calls: kept the planned boundary 1:19–22. No page for the women of Bethlehem, who speak as a group
+here and at 4:14–17. The Marah–Mara–Job connection rests on a shared root and on *Shaddai* as subject of
+*hēmar* in Ruth 1:20 and Job 27:2 only; the page says none of the texts cites another. The Festivals and
+First Fruits entry records the barley-harvest date and says the link to the first-fruits sheaf (Leviticus
+23:10) is the reader's inference. Murmuring takes Naomi for the verb *hēraʿ*, with a note that the text does
+not rebuke her.
+
+Correction made during the pass: a first draft said the hiphil of *mārar* (lemma 4843) occurs only in Ruth
+1:20 and Job 27:2; the WLC also tags Exodus 23:21 (*Don't provoke him*) under it. The pages now say *Shaddai*
+is the subject only in those two.
+
+No contradictions found. Readings recorded, not resolved: *ʿānâ ḇî* (1:21) as *testified against me* (WEB,
+and the lemma of Exodus 20:16) or *afflicted / humbled me* (reported from translation practice, not checked
+against the Septuagint or a lexicon); *haššāḇâ* (1:22) as said of Ruth, with the grammatical possibility
+that it describes Naomi noted.
+
+Sources: Ruth quoted from stored WEB. Comparisons from stored WEB Genesis 31:42; Exodus 3:21; 5:22; 9:31;
+15:23, 25; 20:16; 23:21; Leviticus 23:10; Numbers 11:11; 24:4; Deuteronomy 8:8; 15:13; 16:16; Job 1:21;
+22:9; 27:2; 42:10; Ruth 2:1, 6, 23; 3:17; 4:3, 14–17. 1 Samuel 4:5 checked against the WEB at bible-api.com
+(not stored in raw). Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb)
+`Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, and `Job` XML on 2026-11-17; every
+occurrence claim (lemmas 1949, 4125, 4755, 4785, 4843, 6030 b, 7387, 7489 a, 7706, 7725, 8462) covers those
+ten files and is stated on the page that makes it. No Greek text consulted.

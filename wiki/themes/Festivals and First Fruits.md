@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The beginning of barley harvest* — Ruth 1:22
+
+Naomi and Ruth arrive *in the beginning of barley harvest* (Ruth 1:22). Barley is the first grain of the
+year (Exodus 9:31), and Leviticus 23:10 commands *the sheaf of the first fruits of your harvest* when Israel
+reaps in the land. Ruth names no feast and connects the date to none; the link to the first-fruits sheaf is
+a reader's inference, recorded as such. See [[Naomi Returns to Bethlehem]]. Source: stored WEB Ruth 1:19–22; Exodus 9:31; Leviticus 23:10.
+
 ### *A feast of Yahweh from year to year in Shiloh* — Judges 21:19–21
 
 The only festival named in Judges is the occasion of an abduction. *Ḥaḡ-YHWH bəšilô miyyāmîm yāmîmâ* (21:19,
@@ -218,6 +225,7 @@ Yahweh, and in rejoicing with the Levite and the foreigner (10–11). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–11.
 
 ## Key passages
+- [[Naomi Returns to Bethlehem]] — Ruth 1:22; the arrival dated to the start of barley harvest; no feast named.
 - [[Wives for Benjamin]] — Judges 21:19–21; the yearly feast at Shiloh.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 

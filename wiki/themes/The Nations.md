@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Ruth the Moabitess … who returned* — Ruth 1:22
+
+The narrator's summary gives Ruth the tag she will carry through the book, *hammôʾăḇiyyâ*, *the Moabitess*
+(1:22; again 2:2, 21; 4:5, 10), and says she *returned out of the country of Moab* (*haššāḇâ*, WLC), though
+she has never been to Bethlehem. The overseer will call her *the Moabite lady who came back with Naomi*
+(2:6). The book's word for Israel's homecoming is used of a foreigner's first arrival. See [[Naomi Returns to Bethlehem]]. Source: stored WEB Ruth 1:19–22;
+2:2, 6, 21; 4:5, 10; Hebrew WLC, 2026-11-17.
+
 ### *Your people will be my people* — Ruth 1:15–16
 
 Naomi ties a people to its god: Orpah *has gone back to her people, and to her god* (1:15). Ruth's answer
@@ -638,6 +646,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Naomi Returns to Bethlehem]] — Ruth 1:22; *Ruth the Moabitess*, *who returned out of the country of Moab*.
 - [[Ruth Clings to Naomi]] — Ruth 1:15–16; *gone back to her people, and to her god*; *Your people will be my people*.
 - [[Famine and Death in Moab]] — Ruth 1:4; Moabite wives taken without comment.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:10–12; Jebus, *the city of a foreigner*, passed by.

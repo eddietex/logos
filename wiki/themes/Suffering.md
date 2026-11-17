@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The Almighty has dealt very bitterly with me* — Ruth 1:20–21
+
+Naomi's homecoming speech names God as the subject of four verbs: *Shaddai* has *dealt very bitterly*
+(*hēmar*) with her, Yahweh has *brought me home again empty*, Yahweh has *testified against me* (*ʿānâ ḇî*,
+the witness's verb of Exodus 20:16), and Shaddai has *afflicted me* (*hēraʿ*, the verb of Moses' complaints
+in Exodus 5:22 and Numbers 11:11). In the WLC files read, *Shaddai* is the subject of *hēmar* only here and
+in Job 27:2, *the Almighty, who has made my soul bitter*. The narrator neither confirms nor rebukes her, and
+lists Ruth beside her in the next verse. See [[Naomi Returns to Bethlehem]] and [[Call Me Mara - Marah, Naomi, and Job 27.2]].
+Source: stored WEB Ruth 1:19–22; Exodus 5:22; 20:16; Numbers 11:11; Job 27:2; Hebrew WLC, 2026-11-17.
+
 ### *Yahweh's hand has gone out against me* — Ruth 1:13
 
 Naomi interprets her losses: *Yahweh's hand has gone out against me* (1:13), and she will say it again at
@@ -338,6 +348,7 @@ the *"toil"* Joseph was made to forget (Genesis 41:51) (WLC). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:6–7; Exodus 3:7, 9; Genesis 41:51.
 
 ## Key passages
+- [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *I went out full, and Yahweh has brought me home again empty*.
 - [[Ruth Clings to Naomi]] — Ruth 1:13; Naomi's reading of her losses, *Yahweh's hand has gone out against me*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:25–28; the night at Gibeah, and the morning at the door.
 
