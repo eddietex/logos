@@ -69,3 +69,13 @@ sanctuary built to a commanded pattern. See [[Gold for the Calf and Gold for the
 
 Sources: stored WEB Genesis 24:22; 35:2–4; Judges 9:4, 6; Exodus 28:6; 32:1–4, 24; 35:22; Judges 8:23–27, 31, 33; 9:4.
 Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), Genesis–Judges, 2026-11-15.
+
+### Judges 17 — silver instead of gold
+
+The next ephod in Judges is Micah's (17:5), and it comes after silver, not gold: his mother's eleven
+hundred pieces, dedicated *to Yahweh* to make *a carved image and a molten image* (17:3). Aaron's calf was
+*a molten calf*, *ʿēgel massēkâ* (Exodus 32:4), and Micah's image is *pesel ûmassēkâ* (WLC); both were made
+in Yahweh's name (Exodus 32:5; Judges 17:3). Gideon's gold came from a victory, Micah's silver from a
+theft. See [[Micah's Idol and Levite]] and
+[[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]]. Sources: stored WEB Exodus
+32:4–5; Judges 8:27; 17:3–5. Hebrew from the Westminster Leningrad Codex, downloaded 2026-11-16.

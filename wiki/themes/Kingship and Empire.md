@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *There was no king in Israel* — Judges 17:6
+
+The first of the four refrains (17:6; 18:1; 19:1; 21:25): *In those days there was no king in Israel.
+Everyone did that which was right in his own eyes*. It comes directly after Micah's shrine is furnished, so
+the absence of a king is the narrator's frame for a private image and a private priest. See
+[[Micah's Idol and Levite]] and [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]].
+Source: stored WEB Judges 17:6.
+
 ### The Philistines are rulers over us — Judges 15:11
 
 *Don't you know that the Philistines are rulers over us?* (15:11). The men of Judah use *māšal*, the verb
@@ -568,6 +576,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Micah's Idol and Levite]] — Judges 17:6; the first *no king in Israel* refrain.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; large households and seventy riders, with no king.
 - [[Jephthah Called from Tob]] — Judges 11:6–11; *chief*, then *head over all the inhabitants of Gilead*; *head and chief*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:18; the headship of Gilead offered to whoever will fight.

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A carved image and a molten image, dedicated to Yahweh — Judges 17:3–5
+
+Micah's mother dedicates her silver *to Yahweh … to make a carved image and a molten image* (17:3), and
+Micah has *a house of gods*, *an ephod, and teraphim* (17:5). No other god is named; everything is done in
+Yahweh's name, as Aaron's molten calf was proclaimed with *a feast to Yahweh* (Exodus 32:4–5). The pair
+*pesel ûmassēkâ* is the object Deuteronomy 27:15 curses (WLC). See [[Micah's Idol and Levite]],
+[[Micah (of Ephraim)]], and
+[[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]]. Source: stored WEB Exodus
+32:4–5; Deuteronomy 27:15; Judges 17:3–5.
+
 ### A great sacrifice to Dagon — Judges 16:23–24
 
 *The lords of the Philistines gathered them together to offer a great sacrifice to Dagon their god, and to
@@ -596,6 +606,7 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Micah's Idol and Levite]] — Judges 17:3–5; the carved and molten image, ephod, and teraphim in Micah's house.
 - [[The Death of Samson]] — Judges 16:23–24, 30; the sacrifice to Dagon, and his fallen house.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:24; *Chemosh your god*.
 

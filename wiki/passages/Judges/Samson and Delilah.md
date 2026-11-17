@@ -242,7 +242,7 @@ Israelite family and made into an idol. See
 - Numbers 6:3–5; 14:9; 16:14; 21:4; 24:1 — the Nazirite rules, *their defense is removed*, *put out the
   eyes*, *his soul was short*, *as at other times* (stored WEB).
 - [[The Death of Samson]] — Judges 16:23–31; Dagon's feast, the regrown hair's sequel, and the burial.
-- Judges 17:1–6 — Micah's eleven hundred pieces of silver (stored WEB; not yet ingested).
+- [[Micah's Idol and Levite]] — Judges 17:2–4; Micah's eleven hundred pieces of silver.
 - 1 Samuel 16:14 — *Now Yahweh's Spirit departed from Saul* (WEB at bible-api.com; not stored).
 
 ## Notes

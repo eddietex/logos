@@ -79,6 +79,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Micah's Idol and Levite]] — Judges 17:1, 8; Micah's home, where the Levite of Bethlehem comes.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:15; Pirathon, *in the hill country of the Amalekites*.
 - [[Tola and Jair]] — Judges 10:1; Tola lives at Shamir.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24; Gideon sends messengers through it.
@@ -100,6 +101,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Events here
 
+- Micah keeps a house of gods with a carved and molten image and hires a Levite (Judges 17:1–13).
 - The geography of the request in [[The Children of Joseph Ask for More]]; no battle is narrated.
 - Tola of Issachar lives and is buried at Shamir (Judges 10:1–2).
 

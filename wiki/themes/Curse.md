@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The mother's curse — Judges 17:2
+
+*The eleven hundred pieces of silver that were taken from you, about which you uttered a curse, and also
+spoke it in my ears* (17:2). The verb *ʾālâ* occurs only here in the WLC files of Genesis through Judges;
+its noun is Leviticus 5:1's *voice of adjuration*. The thief, her son, confesses, and she answers with a
+blessing; the silver becomes the image Deuteronomy 27:15 curses. See [[Micah's Idol and Levite]],
+[[Micah's Mother]], and [[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]].
+Source: stored WEB Leviticus 5:1; Deuteronomy 27:15; Judges 17:2.
+
 ### The curse of Jotham — Judges 9:20, 57
 
 Jotham's curse has no curse-word in it (no *ʾārar* or *qəlālâ* in 9:20, WLC). It is a wish, *let fire
@@ -367,6 +376,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[Micah's Idol and Levite]] — Judges 17:2; a mother's curse on a thief, heard by her son.
 - [[The Fall of Abimelech]] — Judges 9:27, 57; Shechem *cursed Abimelech*, and *the curse of Jotham … came on them*.
 - [[Jotham's Fable]] — Judges 9:20, 57; fire both ways, spoken from Gerizim.
 

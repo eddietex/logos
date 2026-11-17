@@ -45,3 +45,13 @@ The earlier source note records the pre-ingestion verification; Leviticus is now
 [[Theft and Restitution]] includes accomplices, and [[Language and Speech]] includes what a witness withholds.
 [[Oaths and Vows]] can expose guilt rather than conceal it; loyalty to a wrongdoer does not make
 silence innocent.
+
+### Judges 17:2 — a curse heard by the thief
+
+Micah's mother *uttered a curse* over her stolen silver, *and also spoke it in my ears* (Judges 17:2).
+The verb is *ʾālâ*, the only verb occurrence in the WLC files of Genesis through Judges; Leviticus 5:1's
+*voice of adjuration* is the noun *ʾālâ* (WLC). Here the one who hears the curse is not a witness but
+the thief, and he confesses: *the silver is with me. I took it*. The text does not say the curse moved
+him. See [[Micah's Idol and Levite]]. Sources: stored WEB Leviticus 5:1; Judges 17:2. Hebrew from the
+Westminster Leningrad Codex (OpenScriptures morphhb), downloaded 2026-11-16; Proverbs 29:24 was not
+checked in Hebrew.

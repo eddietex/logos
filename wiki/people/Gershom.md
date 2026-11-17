@@ -68,6 +68,8 @@ help"* (18:4). See [[Jethro's Counsel]] and [[Eliezer (son of Moses)]].
 
 ## Appears in
 
+- [[Micah's Idol and Levite]] — Judges 17:7; not named, but the Levite *sojourning there*, *gār šām*, is the one 18:30 will
+  call *Jonathan, the son of Gershom* (stored WEB; Judges 18 not yet ingested)
 - [[Moses Flees to Midian]] — Exodus 2:22; **born and named in one verse**, the name a confession
   of exile and the first use by Abraham's offspring of the *gēr* of Genesis 15:13
 - [[Moses Returns to Egypt]] — Exodus 4:20, 25; **one of *"his sons"* on the donkey, and probably
@@ -79,6 +81,7 @@ help"* (18:4). See [[Jethro's Counsel]] and [[Eliezer (son of Moses)]].
 
 ## Related people
 
+- [[Micah's Levite]] — usually identified with Jonathan, named at Judges 18:30 as his son
 - [[Moses]] — his father, who names him
 - [[Zipporah]] — his mother
 - [[Jethro]] — his maternal grandfather

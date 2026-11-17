@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *May Yahweh bless my son!* — Judges 17:2
+
+Micah's mother answers her son's confession of theft with *Bārûk bənî laYHWH* (17:2, WLC), after cursing
+the thief, and dedicates the silver for an image (17:3). Micah's own last word is a blessing expected:
+*Yahweh will do good to me* (17:13). See [[Micah's Idol and Levite]] and [[Micah's Mother]]. Source:
+stored WEB Judges 17:2–3, 13.
+
 ### The child grew, and Yahweh blessed him — Judges 13:24
 
 *The woman bore a son, and named him Samson. The child grew, and Yahweh blessed him* (13:24). No
@@ -603,6 +610,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[Micah's Idol and Levite]] — Judges 17:2, 13; *May Yahweh bless my son!*, and *Yahweh will do good to me*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Balaam's curse refused, so *he blessed you still* (10).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; every good thing fulfilled (14).
 

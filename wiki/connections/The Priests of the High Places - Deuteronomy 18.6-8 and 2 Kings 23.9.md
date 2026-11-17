@@ -54,3 +54,14 @@ GitHub) for Deuteronomy 18:6–8 and 2 Kings 23:9, retrieved 2026-11-07.
 Deuteronomy's law of one place raises a practical question its own text answers: what becomes of the
 Levite of the towns. 2 Kings shows the question arising in history, among men who had served at other
 altars. See [[Priesthood]] and [[The Dwelling of God]].
+
+### Judges 17:7–13 — a Levite who did not go to the place
+
+Deuteronomy 18:6's Levite comes *from any of your gates … where he lives as a foreigner*, *ʾăšer hûʾ gār
+šām*. Judges 17:7 describes a young Levite of Bethlehem Judah with the same two words, *wəhûʾ gār šām*,
+*sojourning there* (WLC). He leaves *to live where he could find a place* (17:8) and takes a wage from
+Micah's private shrine: ten pieces of silver a year, clothing, and food (17:10). Deuteronomy's *like
+portions to eat* (18:8) at the chosen place becomes a householder's maintenance at a house of gods. Judges
+does not cite Deuteronomy 18; the comparison is the wiki's. See [[Micah's Idol and Levite]] and
+[[Micah's Levite]]. Sources: stored WEB Deuteronomy 18:6–8; Judges 17:7–10. Hebrew from the Westminster
+Leningrad Codex (OpenScriptures morphhb), downloaded 2026-11-16.

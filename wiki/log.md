@@ -27510,3 +27510,57 @@ in those files: *dāgôn* (1712) only at Judges 16:23 and 1 Samuel 5:2–5, 7; *
 9:2; 16:28; *nāqam* (5358) in Judges only at 15:7; 16:28; *kōaḥ* (3581) in Judges at 6:14 and in chapter
 16; *zābaḥ*/*zebaḥ* (2076/2077) in Judges only at 2:5; 16:23; *tāmôt napšî* only at Numbers 23:10 and
 Judges 16:30. No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 17.1-13 — Micah's Idol and Levite
+
+Unattended ingest (`/ingest auto`). The first pericope of the epilogue (Judges 17–21): Micah's theft and
+confession, his mother's curse and blessing, the silver dedicated *to Yahweh* for *a carved image and a
+molten image*, the house of gods with ephod and teraphim, the first *no king in Israel* refrain (17:6),
+and the Levite of Bethlehem Judah hired as priest.
+
+Created: [[Micah's Idol and Levite]], [[Micah (of Ephraim)]], [[Micah's Mother]], [[Micah's Levite]],
+[[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]],
+[[Filling the Hand - Aaron's Sons, the Levites at the Calf, and Micah's Priests]].
+
+Revised: people [[Levi]], [[Judah]], [[Gershom]], [[Delilah]]; places [[The Hill Country of Ephraim]],
+[[Bethlehem]]; themes [[Idolatry]], [[Priesthood]], [[Curse]], [[Blessing]], [[Theft and Restitution]],
+[[Wealth and Possessions]], [[Kingship and Empire]], [[Land and Sojourning]], [[Names and Naming]],
+[[Righteousness]]; connections [[Eleven Hundred Pieces of Silver - Delilah and Micah's Mother]],
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]] (the Hebrew of Deuteronomy 12:8 and
+Judges 17:6 now checked, and the provisional reading tested against the shrine),
+[[The Teraphim - Household Gods in Genesis and After]],
+[[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]],
+[[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]],
+[[The Accomplice Who Will Not Testify - Proverbs 29.24 and Leviticus 5.1]]; passages
+[[Samson and Delilah]], [[Ibzan, Elon, and Abdon]], [[Gideon's Ephod and Death]], [[Bitter Water at Marah]]
+(placeholders for Judges 17 now link the passage); [[Judges]] (box checked, overview paragraph, key
+themes, people, places). Also `wiki/books/index.md` (38 / 42), the places and themes indexes, People
+Index F-M, Connections Index A-C, D-H, O-S, and T-Z, and the dashboard counts. Frontmatter totals: 474
+passages, 339 people, 592 places, 88 themes, 900 connections.
+
+No contradictions with existing pages found. Open questions recorded rather than resolved: whether the
+image was meant as an image of Yahweh (*house of gods* or *house of God*); why the mother answers her curse
+with a blessing; what became of the nine hundred undelivered pieces; how a Levite is *of the family of
+Judah*; whether 17:3–4 are in their original order.
+
+Judgment calls: kept 17:1–13 as planned. The person page is `Micah (of Ephraim)`, not `Micah (person)`:
+the name collides with the book of Micah, but the Bible has several Micahs (the prophet among them), so a
+descriptive qualifier from the only identifier the text gives was used, as with `Jair (the Gileadite)`.
+The Levite is filed as `Micah's Levite` because chapter 17 does not name him; Judges 18:30 names the
+Danites' priest *Jonathan, the son of Gershom*, and the ingest of chapter 18 should decide whether to
+rename the page to `Jonathan (son of Gershom)` and fix its inbound links. Micah's son and the silversmith
+get no pages. `[[Micah]]` on the new person page points at the not-yet-created book page, inside the
+expected baseline.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 28:17; 31:19,
+34–35; Exodus 2:22; 15:11; 20:4; 28:41; 29:22–24; 32:4–5, 29; Leviticus 5:1, 15; 6:5; 8:27–28, 33;
+Numbers 3:10; Deuteronomy 12:5, 8; 18:6–8; 27:14–15; Proverbs 29:24. Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml` through `Judg.xml` on 2026-11-16. Verified
+in those files: *ʾālâ* verb (422) only at Judges 17:2; *pesel* with *massēkâ* only at Deuteronomy 27:15 and
+Judges 17:3, 4; 18:14, 18; *tərāpîm* (8655) only at Genesis 31:19, 34, 35 and Judges 17:5; 18:14, 17, 18,
+20; *ʾēpôd* in Judges only at 8:27; 17:5; 18:14, 17, 18, 20; *ṣārap* (6884) in Judges only at 7:4; 17:4;
+*millēʾ yād* at Exodus 28:41; 29:9, 33, 35; 32:29; Leviticus 8:33; 16:32; 21:10; Numbers 3:3; Judges 17:5,
+12; *gār šām* at Genesis 12:10; 35:27; Deuteronomy 18:6; 26:5; Judges 17:7; *Mîkāyəhû* at 17:1, 4 and
+*Mîkâ* thereafter. Reported, not checked: the meaning of *Micah*, the one-or-two-objects question for
+*pesel ûmassēkâ*, and what filled the priest's hand. Proverbs 29:24 and all Greek were not consulted in
+the original language.

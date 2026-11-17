@@ -463,6 +463,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Micah's Idol and Levite]] — Judges 17:7; the Levite *of the family of Judah*, from Bethlehem Judah.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:9–13; three thousand men bind Samson for the Philistines.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Jerusalem burned, the south taken, Simeon's lot kept, the valley not taken.

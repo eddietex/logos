@@ -10,8 +10,8 @@ tags: [connection]
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:8: *"You shall not do all the things that we
   do here today, every man whatever is right in his own eyes"*; set against *"that which is right
   in Yahweh's eyes"* (12:25) and *"good and right in Yahweh your God's eyes"* (12:28).
-- Judges 17:6 and 21:25 — *"In those days there was no king in Israel. Everyone did that which was
-  right in his own eyes."* WEB, verified from bible-api.com; Judges not yet ingested.
+- [[Micah's Idol and Levite]] — Judges 17:6, and 21:25 — *"In those days there was no king in Israel.
+  Everyone did that which was right in his own eyes."* Stored WEB; 21:25 not yet ingested.
 - [[Whoever Loves Correction]] — Proverbs 12:15: *"The way of a fool is right in his own eyes, but
   he who is wise listens to counsel."*
 - [[The King's Heart]] — Proverbs 21:2: *"Every way of a man is right in his own eyes, but Yahweh
@@ -89,3 +89,18 @@ What is right in Samson's eyes is being used by Yahweh, and the narrator does no
 right in Yahweh's eyes. Deuteronomy 12's contrast, *right in his own eyes* against *right in Yahweh's
 eyes* (12:8, 25), is left standing. See [[Samson's Riddle]]. Sources: stored WEB Deuteronomy 12:8, 25; Judges 14:3–7;
 17:6; 21:25. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-16.
+
+### Judges 17:6 now ingested — the Hebrew, and the shrine
+
+The Hebrew is now checked. Deuteronomy 12:8 reads *ʾîš kol-hayyāšār bəʿênāyw*, *every man whatever is
+right in his own eyes*; Judges 17:6 and 21:25 read *ʾîš hayyāšār bəʿênāyw yaʿăśeh*, *each man did what was
+right in his own eyes* (WLC). The same three words, *ʾîš … hayyāšār bəʿênāyw*, with *kol* in Deuteronomy
+and the verb in Judges.
+
+The provisional reading above can now be checked against the story. The refrain comes directly after
+Micah's *house of gods*, his carved and molten image, ephod, teraphim, and a son made priest (17:3–5), and
+before he hires a Levite (17:7–13). It is worship outside any chosen place, by a man who says *Yahweh will
+do good to me* (17:13): the practice Deuteronomy 12 forbids, done by someone who does not seem to know it
+is forbidden. Judges does not cite Deuteronomy, and the reading remains the wiki's. See
+[[Micah's Idol and Levite]]. Sources: stored WEB Deuteronomy 12:8; Judges 17:3–13; 21:25. Hebrew from the
+Westminster Leningrad Codex (OpenScriptures morphhb, `Deut.xml`, `Judg.xml`), downloaded 2026-11-16.

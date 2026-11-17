@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Silver for an image and a priest — Judges 17:2–4, 10
+
+The same *eleven hundred pieces of silver* as Delilah's (16:5) are stolen, returned, and dedicated; two
+hundred go to the silversmith (17:2–4). The Levite is hired for *ten pieces of silver per year, a suit of
+clothing, and your food* (17:10). See [[Micah's Idol and Levite]] and
+[[Eleven Hundred Pieces of Silver - Delilah and Micah's Mother]]. Source: stored WEB Judges 16:5; 17:2–4,
+10.
+
 ### Eleven hundred pieces of silver — Judges 16:5, 18
 
 The lords of the Philistines offer Delilah *eleven hundred pieces of silver* each to find Samson's
@@ -949,6 +957,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Micah's Idol and Levite]] — Judges 17:2–4, 10; the eleven hundred stolen and dedicated; a priest's yearly wage.
 - [[Samson and Delilah]] — Judges 16:5, 18; eleven hundred pieces of silver from each lord.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; Ibzan's sixty marriages; Abdon's seventy riders on donkey colts.
 - [[Tola and Jair]] — Judges 10:4; thirty sons, thirty donkey colts, thirty cities.

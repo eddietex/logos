@@ -14,7 +14,7 @@ tags: [connection]
   says whether Rachel's stolen *teraphim* were among them**, and never mentions them again —
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - **Judges 17:5; 18:14–20** — Micah's household shrine, with an ephod and *teraphim*, and the Danites
-  who carry the lot of it off
+  who carry the lot of it off — [[Micah's Idol and Levite]] (17:5; chapter 18 not yet ingested)
 - **1 Samuel 15:23** — *"stubbornness is as idolatry and teraphim"*
 - **1 Samuel 19:11–17** — Michal puts *teraphim* in David's bed and tells her father's men he is sick
 - **2 Kings 23:24** — Josiah purges *teraphim* along with mediums and household idols
@@ -92,3 +92,12 @@ enter Scripture as a woman's private theft and leave it as a category.**
 
 See [[Idolatry]], [[Divination in Genesis - Laban's Nahash and Joseph's Cup]],
 [[Prophecy and Vision]], [[Rachel]], and [[Laban (person)]].
+
+### Judges 17 now ingested
+
+In the WLC files of Genesis through Judges *tərāpîm* (lemma 8655) occurs only in Genesis 31:19, 34, 35 and
+Judges 17:5; 18:14, 17, 18, 20. Both stories begin inside a family with something taken: Rachel steals her
+father's teraphim (Genesis 31:19); Micah steals his mother's silver, from which the image is made, and
+then makes *an ephod, and teraphim* (Judges 17:2–5). The text does not connect them. See
+[[Micah's Idol and Levite]]. Sources: stored WEB Genesis 31:19; Judges 17:2–5. Hebrew from the
+Westminster Leningrad Codex (OpenScriptures morphhb), downloaded 2026-11-16.

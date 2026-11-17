@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A Levite looking for a place — Judges 17:7–9
+
+*A Levite … sojourning there*, *gār šām* (17:7, WLC), leaves Bethlehem Judah *to live where he could find
+a place* (17:8). Deuteronomy 18:6 sent the Levite *where he lives as a foreigner* to *the place which
+Yahweh shall choose*; this one finds Micah's house. See [[Micah's Idol and Levite]], [[Micah's Levite]], and
+[[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]]. Source: stored WEB Deuteronomy
+18:6; Judges 17:7–9.
+
 ### Who gave the land — Judges 11:12–28
 
 Ammon's king claims the land *from the Arnon even to the Jabbok* (11:13). Jephthah answers with whose it
@@ -1081,6 +1089,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Micah's Idol and Levite]] — Judges 17:7–9; a sojourning Levite looking for a place to live.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:13–26; the claim to the land, answered from the road out of Egypt and Yahweh's gift.
 
 - [[Another Generation Arose]] — Judges 2:6, 21–23; each to his inheritance, and the nations left.

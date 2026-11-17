@@ -59,6 +59,7 @@ See [[Samson and Delilah]]. Source: stored WEB Judges 4:21; 5:24; 14:15–17; 16
 - [[His Soul Was Short - Numbers 21.4, Judges 10.16, and Judges 16.16]] — her daily pressing.
 
 ## Related people
+- [[Micah's Mother]] — whose silver is the same sum (Judges 17:2).
 - [[Samson]] — who loved her.
 - [[The Philistines]] — their lords, who pay her.
 - [[Samson's Timnite Wife]] — the woman *enticed* before her (14:15).

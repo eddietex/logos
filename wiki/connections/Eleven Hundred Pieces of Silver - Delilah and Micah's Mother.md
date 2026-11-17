@@ -14,7 +14,7 @@ tags: [connection]
   uttered a curse, and also spoke it in my ears, behold, the silver is with me. I took it* (2); *He
   restored the eleven hundred pieces of silver to his mother, then his mother said, "I most certainly
   dedicate the silver to Yahweh from my hand for my son, to make a carved image and a molten image"* (3).
-  Stored WEB; not yet ingested, see *Micah's Idol and Levite* on [[Judges]].
+  Stored WEB; now ingested as [[Micah's Idol and Levite]].
 
 ## Analysis
 
@@ -59,3 +59,10 @@ Sources: stored WEB Judges 8:26; 16:5, 18; 17:1–3, 6. Hebrew from the Westmins
 (OpenScriptures morphhb, `Judg.xml`) with its lemma data, downloaded 2026-11-16; the *only here* claim
 covers Judges only. The interpretive suggestions in *Why the same number?* are reported from general
 knowledge of the commentary tradition, not checked against a named source.
+
+### Judges 17 now ingested — the two hundred
+
+The mother dedicates *the silver* to Yahweh (17:3) but gives only *two hundred pieces of silver* to the
+smith (17:4); the other nine hundred are not accounted for. The Philistine silver bought one thing; the
+Israelite silver is divided, and the text does not say why. See [[Micah's Idol and Levite]],
+[[Micah's Mother]], and [[Micah (of Ephraim)]]. Source: stored WEB Judges 17:3–4.

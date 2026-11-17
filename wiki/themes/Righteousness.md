@@ -669,7 +669,7 @@ See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deu
 - [[Bitter Water at Marah]] — Exodus 15:26; ***"that which is right in his eyes"*** — *hayyāšār bəʿênāyw*,
   the first *yāšār* in Scripture (WLC lemma search, Genesis–Deuteronomy). **The standard is set by God's
   sight, not by the doer's** — the formula Deuteronomy repeats and Judges inverts (*"right in his own
-  eyes"*, Judges 17:6; by reference, *not yet ingested*)
+  eyes"*, Judges 17:6, [[Micah's Idol and Levite]])
 - [[If You Seek Her as Silver]] — Proverbs 2:9, 20; righteousness, justice, and equity (1:3) understood; the paths of the righteous
 - [[Wisdom Calls at the Gates]] — Proverbs 8:8, 15–16, 18, 20; Wisdom's words in righteousness, her road of justice, and *ṣəḏāqâ* (WEB *"prosperity"*) among her gifts
 - [[Through Wisdom a House Is Built]] — Proverbs 24:15–16; The righteous man falls seven times and rises.

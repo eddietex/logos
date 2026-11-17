@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Micaiah becomes Micah — Judges 17:1–5
+
+The narrator calls Micah *Mîkāyəhû* in 17:1, 4 and *Mîkâ* from 17:5 on, as the image enters his house
+(WLC). The long form carries Yahweh's name, usually read *who is like Yahweh?* (reported, not argued). See
+[[Micah's Idol and Levite]] and [[Micah (of Ephraim)]]. Source: stored WEB Judges 17:1–5.
+
 ### Ramath Lehi and En Hakkore — Judges 15:17–19
 
 Two names in three verses. Samson throws the jawbone away, *and that place was called Ramath Lehi* (15:17,
@@ -402,6 +408,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Micah's Idol and Levite]] — Judges 17:1, 4, 5; *Mîkāyəhû* shortened to *Mîkâ*.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:11–12; Elon bears his tribe's clan name and is buried in a place spelled like it.
 - [[Tola and Jair]] — Judges 10:1, 4; Tola and Puah repeat Issachar's sons' names; Havvoth Jair *to this day*.
 - [[Gideon's Ephod and Death]] — Judges 8:31, 35; Abimelech named; *Jerubbaal Gideon*.

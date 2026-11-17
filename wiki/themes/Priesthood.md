@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A priest by hire — Judges 17:5, 10–13
+
+Micah *consecrated one of his sons, who became his priest* (17:5), then hires a Levite for *ten pieces of
+silver per year, a suit of clothing, and your food* and consecrates him (17:10, 12). *Consecrated* is
+*filled the hand*, the ordination idiom of Exodus 28:41 and Leviticus 8:33 (WLC); here a householder does
+it, for a shrine with an image. *Now know I that Yahweh will do good to me, since I have a Levite as my
+priest* (17:13). See [[Micah's Idol and Levite]], [[Micah's Levite]], and
+[[Filling the Hand - Aaron's Sons, the Levites at the Calf, and Micah's Priests]]. Source: stored WEB
+Exodus 28:41; Leviticus 8:33; Judges 17:5–13.
+
 ### An ephod outside the priesthood — Judges 8:27
 
 *Ephod*, *ʾēpôd*, is in Exodus and Leviticus always the high priest's garment of gold, blue, purple, and
@@ -818,6 +828,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[Micah's Idol and Levite]] — Judges 17:5, 10–13; Micah's son and then a hired Levite made priest.
 - [[Gideon's Ephod and Death]] — Judges 8:27; an ephod made by a judge and kept in Ophrah.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Eleazar's death; the hill of Phinehas (33).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

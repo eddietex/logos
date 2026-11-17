@@ -281,7 +281,7 @@ sight"* (6:18; also 12:25, 28; 13:18 WEB; 21:9) and *"just and right is he"* (32
 Genesis–Deuteronomy; *not yet
 ingested*). **The standard is not *what is right* but *what is right in his eyes*** — the formula that
 Deuteronomy repeats and Judges inverts, when *"everyone did that which was right in his own eyes"* (Judges
-17:6; 21:25; by reference, *not yet ingested*). See [[Righteousness]].
+17:6, [[Micah's Idol and Levite]]; 21:25, by reference, *not yet ingested*). See [[Righteousness]].
 
 ***"In his eyes"*** — ***bəʿênāyw***, from ***ʿayin***, *eye*. **The next verse uses the same word for
 *springs*** — *"twelve springs (ʿênōt) of water"* (15:27). The WLC files them as two senses of one lemma

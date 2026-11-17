@@ -385,6 +385,16 @@ killed in his life*. His brothers bury him *between Zorah and Eshtaol*, where th
 and the twenty years are repeated. The narrator does not name the Spirit, does not say Yahweh answered, and
 does not judge the death. No judge follows; the next chapter opens on Micah's silver.
 
+[[Micah's Idol and Levite]] (17:1–13) opens the epilogue with no judge and no enemy. *A man of the hill
+country of Ephraim, whose name was Micah*, confesses to his mother that he took her *eleven hundred pieces
+of silver*, the sum paid for Samson; she answers her own curse with *May Yahweh bless my son!* and
+dedicates the silver *to Yahweh … to make a carved image and a molten image*, the very object Deuteronomy
+27:15 curses. Micah has *a house of gods*, an ephod and teraphim, and *consecrates*, literally *fills the
+hand of*, first his son and then a wandering Levite of Bethlehem Judah, hired for ten pieces of silver a
+year. The narrator's only verdict is the first refrain, *In those days there was no king in Israel.
+Everyone did that which was right in his own eyes* (17:6), and the chapter ends on Micah's certainty:
+*Now know I that Yahweh will do good to me, since I have a Levite as my priest* (17:13).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -444,7 +454,7 @@ merge, or reorder them freely.
 - [x] [[Samson at Gaza]] — Judges 16:1–3
 - [x] [[Samson and Delilah]] — Judges 16:4–22
 - [x] [[The Death of Samson]] — Judges 16:23–31
-- [ ] Micah's Idol and Levite — Judges 17:1–13
+- [x] [[Micah's Idol and Levite]] — Judges 17:1–13
 - [ ] The Danite Migration — Judges 18:1–31
 - [ ] The Levite's Concubine at Gibeah — Judges 19:1–30
 - [ ] The War Against Benjamin — Judges 20:1–48
@@ -484,7 +494,9 @@ merge, or reorder them freely.
 - [[Prayer]] — Samson calls on Yahweh in thirst, and the spring is opened (15:18–19); *remember me, please, and strengthen me* (16:28).
 - [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7); the razor at last (16:17–19).
 - [[Love]] — *he loved a woman in the valley of Sorek* (16:4).
-- [[Wealth and Possessions]] — eleven hundred pieces of silver, for Samson (16:5) and for Micah's idol (17:2–3).
+- [[Wealth and Possessions]] — eleven hundred pieces of silver, for Samson (16:5) and for Micah's idol (17:2–3); a priest for ten pieces a year (17:10).
+- [[Priesthood]] — Micah fills the hand of his son and of a hired Levite (17:5, 12).
+- [[Theft and Restitution]] — *I took it* (17:2).
 - [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31).
 - [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
 - [[Remembrance]] — the road from Egypt told as evidence (11:15–26).
@@ -529,6 +541,7 @@ merge, or reorder them freely.
 - [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24); they object to his Philistine wife (14:3).
 - [[Samson's Timnite Wife]] — chosen by sight, pressed for the riddle, and given to his companion (14:1–20); burned with her father (15:6).
 - [[Delilah]] — loved by Samson, paid by the Philistine lords to learn his strength (16:4–20).
+- [[Micah (of Ephraim)]], [[Micah's Mother]], and [[Micah's Levite]] — the silver, the image, and the hired priest (17:1–13).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
@@ -567,3 +580,4 @@ merge, or reorder them freely.
 - [[The Rock of Etam]], [[Lehi]], and [[En Hakkore]] — Samson's refuge, the jawbone, and the spring (15:8–19).
 - [[Gaza]] and [[Hebron]] — the gate Samson carries off, and the hill he carries it to (16:1–3); Gaza's prison mill (16:21).
 - [[The Valley of Sorek]] — Delilah's home (16:4).
+- [[The Hill Country of Ephraim]] and [[Bethlehem]] — Micah's home, and the Levite's *Bethlehem Judah* (17:1, 7–8).

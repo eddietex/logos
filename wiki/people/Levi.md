@@ -322,6 +322,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Appears in
 
+- [[Micah's Idol and Levite]] — Judges 17:7–13; a young Levite of Bethlehem Judah, sojourning, hired as Micah's priest.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
@@ -427,6 +428,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Related people
 
+- [[Micah's Levite]] — the first Levite of Judges, a priest for hire (Judges 17:7–13)
 - [[Leah]] — his mother, who names him for a wish about her husband
 - [[Simeon]] — his brother at Shechem and in the one shared curse of Genesis 49
 - [[Dinah]] — his full sister

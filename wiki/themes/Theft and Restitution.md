@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *I took it* — Judges 17:2–4
+
+Micah confesses to taking his mother's eleven hundred pieces of silver and restores it (17:2–3). The law
+required a thief who confessed to *restore it even in full, and … add a fifth part more to it* (Leviticus
+6:5); no fifth is mentioned, and his mother blesses him and gives the silver back for an image. See
+[[Micah's Idol and Levite]] and [[Micah (of Ephraim)]]. Source: stored WEB Leviticus 6:5; Judges 17:2–4.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Achan stole (11) from what belonged to Yahweh, not to a neighbor, and no restitution is available:
@@ -222,6 +229,7 @@ participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pled
 
 ## Key passages
 
+- [[Micah's Idol and Levite]] — Judges 17:2–4; Micah's confessed theft from his mother.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

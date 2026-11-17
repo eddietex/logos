@@ -81,6 +81,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 
 ## Appears in
 
+- [[Micah's Idol and Levite]] — Judges 17:7–9; *Bethlehem Judah*, the home the young Levite leaves.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:8–10; Ibzan's town and grave, if this Bethlehem is meant.
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:19–20; **named only as a gloss on
   *Ephrath***, in the verse that buries [[Rachel]] on the road outside it and raises the last of
@@ -107,6 +108,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 
 ## Events here
 
+- A young Levite leaves *Bethlehem Judah* to find a place to live — Judges 17:7–9, [[Micah's Idol and Levite]]
 - Rachel dies on the road to Ephrath bearing [[Benjamin]], and is buried with a pillar over the grave
   — Genesis 35:16–20, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Jacob retells the burial to Joseph, using the same obscure distance-word — Genesis 48:7,
