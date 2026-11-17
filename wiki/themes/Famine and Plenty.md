@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Satisfied, with some left over — Ruth 2:14–18
+
+The chapter after *empty* (1:21) is full of food: Ruth eats *and was satisfied, and left some of it* (2:14),
+gleans *about an ephah of barley* (17), and gives Naomi *that which she had left after she had enough*
+(18). By Exodus 16:16, 36 an ephah is ten omers, ten days' manna for one person; the arithmetic is the
+reader's. See [[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 2:1–23; Exodus 16:16, 36.
+
 ### *In the beginning of barley harvest* — Ruth 1:22
 
 Chapter 1 opened with *a famine in the land* (1:1) and ends with the barley harvest beginning in Bethlehem,
@@ -260,6 +267,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:14–18; satisfied, with some left over; an ephah of barley.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:21–22; *empty*, and *the beginning of barley harvest*.
 - [[Ruth Clings to Naomi]] — Ruth 1:6; *Yahweh had visited his people in giving them bread*.
 - [[Famine and Death in Moab]] — Ruth 1:1; famine in Bethlehem, the clause of Genesis 12:10 and 26:1.

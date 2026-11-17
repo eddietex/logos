@@ -19,7 +19,7 @@ tags: [connection]
 - Compare **Song of Solomon 3:4** — [[Seeking Him by Night]]: the *mother's house* again, where the
   woman brings the man; see
   [[Into My Mother's House - Song of Solomon 3.4, 8.2, Genesis 24, and Ruth 1.8]]
-- Compare **Ruth 2:8–9** — the elements redistributed: the water is already drawn, and the man offers
+- Compare **Ruth 2:8–9** — [[Ruth Gleans in the Field of Boaz]]: the elements redistributed: the water is already drawn, and the man offers
   it to the woman
 
 ## Analysis

@@ -13,6 +13,8 @@ tags: [connection]
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:31, *as a man does bear his son*; the same verb, another picture. See
   [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]].
+- Compare [[Ruth Gleans in the Field of Boaz]] — Ruth 2:12; wings as a place of refuge rather than a means of carrying; see
+  [[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]].
 
 ## Analysis
 

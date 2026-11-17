@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Ḥeseḏ* to the living and the dead — Ruth 2:20
+
+Naomi's second use of *ḥeseḏ*: *May he be blessed by Yahweh, who has not abandoned his kindness to the
+living and to the dead* (2:20). Whether the kindness is Yahweh's or Boaz's the Hebrew leaves open. The words
+*ʾăšer lōʾ-ʿāzaḇ ḥasdô* are those of Abraham's servant at Genesis 24:27, where they are Yahweh's, and in the
+WLC files read (Genesis–Ruth, 1 Samuel, Job, Psalms, Proverbs, Ecclesiastes) *ʿāzaḇ* with *ḥeseḏ* occurs
+only in those two verses. See [[Ruth Gleans in the Field of Boaz]] and [[A Wife for Isaac]]. Source: stored WEB Ruth 2:1–23; Genesis 24:27; Hebrew WLC,
+2026-11-17.
+
 ### *Ḥeseḏ* to the dead, and Ruth's loyalty — Ruth 1:8, 14–17
 
 *May Yahweh deal kindly with you, as you have dealt with the dead, and with me* (1:8). Naomi's word is
@@ -636,6 +645,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; *who has not abandoned his kindness to the living and to the dead*.
 - [[Ruth Clings to Naomi]] — Ruth 1:8, 14–17; *ḥeseḏ* to the dead and the living; Ruth *joined with her*.
 - [[Samson and Delilah]] — Judges 16:4, 15; *he loved a woman*; *How can you say, 'I love you'*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *that you love Yahweh your God* (11).

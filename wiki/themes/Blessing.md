@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Harvest greetings — Ruth 2:4, 12, 19–20
+
+Boaz greets his reapers, *May Yahweh be with you*, and they answer, *May Yahweh bless you* (2:4), the first
+words of the priestly blessing (Numbers 6:24). He blesses Ruth by Yahweh's reward and wings (12); Naomi
+blesses the man who noticed her before she knows his name (19), and then blesses him by Yahweh (20). Four
+blessings in one chapter, all in daily speech. See [[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 2:1–23; Numbers 6:24.
+
 ### *May Yahweh bless my son!* — Judges 17:2
 
 Micah's mother answers her son's confession of theft with *Bārûk bənî laYHWH* (17:2, WLC), after cursing
@@ -610,6 +617,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:4, 12, 19–20; harvest greetings and three blessings in daily speech.
 - [[Micah's Idol and Levite]] — Judges 17:2, 13; *May Yahweh bless my son!*, and *Yahweh will do good to me*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Balaam's curse refused, so *he blessed you still* (10).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; every good thing fulfilled (14).

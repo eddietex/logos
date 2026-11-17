@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Since I am a foreigner* — Ruth 2:6, 10–12
+
+The overseer calls Ruth *a Moabite young woman* (2:6, WLC); she calls herself *noḵriyyâ*, *a foreigner*
+(10), the word Proverbs uses for the *strange woman* (2:16; 7:5). Boaz answers that she *left your father
+and your mother, and the land of your birth* and has *come to take refuge* under the wings of *Yahweh, the
+God of Israel* (11–12). See [[Ruth Gleans in the Field of Boaz]] and [[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]].
+Source: stored WEB Ruth 2:1–23; Proverbs 2:16; 7:5; Hebrew WLC, 2026-11-17.
+
 ### *Ruth the Moabitess … who returned* — Ruth 1:22
 
 The narrator's summary gives Ruth the tag she will carry through the book, *hammôʾăḇiyyâ*, *the Moabitess*
@@ -646,6 +654,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:10–12; *since I am a foreigner*; refuge under the wings of the God of Israel.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; *Ruth the Moabitess*, *who returned out of the country of Moab*.
 - [[Ruth Clings to Naomi]] — Ruth 1:15–16; *gone back to her people, and to her god*; *Your people will be my people*.
 - [[Famine and Death in Moab]] — Ruth 1:4; Moabite wives taken without comment.

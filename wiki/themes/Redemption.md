@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *One of our near kinsmen* — Ruth 2:20
+
+The book's first *gōʾēl*: Naomi says of Boaz, *The man is a close relative to us, one of our near kinsmen*,
+*miggōʾălēnû hûʾ* (2:20, WLC). *One of* leaves room for others, and a nearer one appears at 3:12. In the WLC
+the verb *gāʾal* occurs twenty-two times in Ruth, all between 2:20 and 4:14. The law behind it is
+Leviticus 25:25, the kinsman who buys back land a poor relative sold. See [[Ruth Gleans in the Field of Boaz]] and
+[[The Redeemer and the Avenger of Blood]]. Source: stored WEB Ruth 2:1–23; Leviticus 25:25; Hebrew WLC, 2026-11-17.
+
 ### This great deliverance — Judges 15:18
 
 *You have given this great deliverance by the hand of your servant* (15:18). *Təšûʿâ* (WLC lemma 8668,
@@ -385,6 +393,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; Naomi names Boaz *one of our near kinsmen* (*gōʾēl*), the book's first.
 - [[The Danite Migration]] — Judges 18:28; *there was no deliverer* (*ʾên maṣṣîl*, WLC) for Laish.
 - [[Israel's Repentance Under Ammon]] — Judges 10:11–15; *I saved you … I will save you no more*.
 - [[Tola and Jair]] — Judges 10:1; Tola *arose to save Israel*, from no named enemy.
@@ -468,6 +477,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[Atonement]]
 
 ## Related people
+- [[Boaz]] — the *gōʾēl* of Ruth 2–4
 - [[God]] — the redeemer of Israel
 - [[Jacob]] — the first to say *redeemed*
 - [[Joseph]] — who bought Egypt for Pharaoh

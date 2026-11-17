@@ -9,7 +9,8 @@ tags: [connection]
 
 - [[Whoever Loves Correction]] — Proverbs 12:4.
 - [[The Worthy Woman]] — Proverbs 31:10–31, especially 10, 28–31.
-- Ruth 3:11 — a verified cross-reference; the book is not yet ingested.
+- Ruth 3:11 — a verified cross-reference; Ruth 3 is not yet ingested.
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1; Boaz is *ʾîš gibbôr ḥayil*, *a mighty man of wealth* (WLC), the same noun.
 
 ## Analysis
 
@@ -41,3 +42,8 @@ The recurring description gives [[Marriage]] and [[Wisdom]] a positive female po
 alongside the warnings about domestic strife. Praise should follow demonstrated character;
 it cannot be reduced to appearance, prosperity, or an invented historical identification.
 See [[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
+
+**Ruth 2:1.** Before Boaz calls Ruth *ʾēšet ḥayil*, the narrator calls him *ʾîš gibbôr ḥayil* (Ruth 2:1, WLC;
+WEB *a mighty man of wealth*). The book uses *ḥayil* of both of them, so the man of worth and the woman of
+worth are matched; the WEB's two renderings, *wealth* and *worthy*, hide that. Source: stored WEB Ruth 2:1;
+3:11; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

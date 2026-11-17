@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### *Since I am a foreigner* — Ruth 2
+
+Ruth asks to glean *after him in whose sight I find favor* (2:2) and *happened to come* to Boaz's field (2:3).
+The overseer reports that she asked permission and has worked since morning (2:7). When Boaz tells her to stay
+in his field, she bows to the ground and asks, *Why have I found favor in your sight, that you should take
+knowledge of me, since I am a foreigner?* (2:10), putting *lǝhakkîrēnî*, *recognize me*, beside *noḵriyyâ*,
+*foreigner* (WLC). Boaz has heard what she did for Naomi and blesses her as one who has come to take refuge
+under the wings of the God of Israel (2:11–12). She eats until satisfied, saves what is left for Naomi, gleans
+an ephah of barley, and stays through the barley and wheat harvests, living with her mother-in-law (2:14–23).
+See [[Ruth Gleans in the Field of Boaz]] and [[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]]. Source: stored WEB
+Ruth 2:1–23; Hebrew WLC, 2026-11-17.
+
 ### *Where you go, I will go* — Ruth 1:6–18
 
 On the road to Judah, after Naomi has urged both widows three times to go back, Orpah goes, and *Ruth
@@ -28,8 +40,7 @@ name.
 She enters the book as a name in a list: *They took for themselves wives of the women of Moab. The name of
 the one was Orpah, and the name of the other was Ruth* (1:4). Her husband is not identified until 4:10,
 *Ruth the Moabitess, the wife of Mahlon*. After about ten years her husband dies, and no child is reported
-(1:4–5). She does nothing and says nothing in 1:1–5; her first words come at 1:10 and 1:16–17 (not yet
-ingested).
+(1:4–5). She does nothing and says nothing in 1:1–5; her first words come at 1:10 and 1:16–17.
 
 The narrator calls her *the Moabitess* repeatedly (1:22; 2:2, 21; 4:5, 10), and she calls herself *a
 foreigner* (2:10). Deuteronomy 23:3 bars *a Moabite* from Yahweh's assembly; Ruth 4:17–22 ends her story in
@@ -51,11 +62,13 @@ Deuteronomy 23:3.
 - Widowed after about ten years, without a child reported — Ruth 1:4–5
 - Sets out with Naomi for Judah; refuses to go back and vows to stay with her — Ruth 1:6–18
 - Arrives in Bethlehem with Naomi, *Ruth the Moabitess … who returned*, at the start of barley harvest — Ruth 1:22
+- Gleans in the field of Boaz through the barley and wheat harvests — Ruth 2:1–23
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:4–5; a Moabite wife, widowed.
 - [[Ruth Clings to Naomi]] — Ruth 1:14–18; *Ruth joined with her*; *Your people will be my people, and your God my God*.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; silent; not counted in Naomi's *empty*, but listed by the narrator; first called *the Moabitess*.
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23; gleans; *since I am a foreigner*; *under whose wings you have come to take refuge*.
 - [[Joseph in Potiphar's House]] — named in a comparison of women who take the initiative (Ruth 3).
 
 ## Related people
@@ -63,6 +76,7 @@ Deuteronomy 23:3.
 - [[Mahlon]] — her husband (4:10)
 - [[Orpah]] — her sister-in-law
 - [[Elimelech]] — her father-in-law
+- [[Boaz]] — her husband's kinsman, in whose field she gleans; later her husband (4:13)
 
 ## Themes associated
 - [[The Nations]]
@@ -70,4 +84,5 @@ Deuteronomy 23:3.
 - [[The Poor and the Vulnerable]]
 - [[Oaths and Vows]]
 - [[Love]]
+- [[Favor and Grace]]
 - [[Burial and the Grave]]

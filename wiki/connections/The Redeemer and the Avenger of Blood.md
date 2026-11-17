@@ -26,6 +26,8 @@ tags: [connection]
   [[The Poor Brother and Redemption from Service]]
 - **Numbers 35:12, 19–27; Deuteronomy 19:6, 12; Joshua 20:1–9** — the *gōʾēl haddām*, the avenger of
   blood, and the cities of refuge that limit him
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; Naomi names Boaz *one of our near kinsmen*, *miggōʾălēnû*, the book's first
+  *gōʾēl*
 - **Ruth 3:9–4:10** — Boaz as *gōʾēl*: land redeemed and a widow married *"to raise up the name of
   the dead on his inheritance"*
 - **Proverbs 23:10–11** — *"Don't move the ancient boundary stone. Don't encroach on the fields of

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *She happened to come* — Ruth 2:3
+
+The narrator says *chance*: *wayyiqer miqrehā*, literally *her chance chanced* (Ruth 2:3, WLC), and the
+next verse begins *Behold, Boaz*. The noun *miqreh* is Ecclesiastes' word for the *event* that comes to
+the wise and the fool alike (2:14; 9:2). Ruth 2 never says God led Ruth to the field; Naomi blesses one
+*who has not abandoned his kindness* (2:20), the words of Abraham's servant at Genesis 24:27. The chapter
+sets chance and blessing side by side and does not reconcile them. See [[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 2:1–23; Genesis 24:27;
+Hebrew WLC, 2026-11-17.
+
 ### It was of Yahweh — Judges 14:4
 
 *But his father and his mother didn't know that it was of Yahweh; for he sought an occasion against the
@@ -536,6 +545,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:3, 20; *she happened to come*; Naomi's blessing of a kindness not abandoned.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:22; *Yahweh set every man's sword against his fellow*.
 - [[The Dream of the Barley Loaf]] — Judges 7:11–14; Gideon arrives as the dream is told.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.

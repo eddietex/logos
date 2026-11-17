@@ -18,6 +18,9 @@ tags: [connection]
 - **Genesis Rabbah 39:9; 55:7** — the rabbinic pairing of the first trial and the last
 - Compare **Song of Solomon 2:10, 13** — [[Rise Up, My Love]]: *"Rise up, my love, my beautiful one,
   and come away"*, ending *ûləḵî-lāḵ*, the feminine form of the idiom
+- Compare **Ruth 2:11** — [[Ruth Gleans in the Field of Boaz]]: Boaz says Ruth *left your father and your mother, and the land of
+  your birth* (*ʾereṣ môlaḏtēḵ*), the pair *ʾereṣ* and *môleḏeṯ* of Genesis 12:1 (WLC); the text does not
+  say he is echoing Abram's call
 
 ## Analysis
 

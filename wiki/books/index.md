@@ -31,7 +31,7 @@ canonical order below. Edit this list to reprioritize.
 
 - [x] [[Joshua]] — complete (42 / 42 pericopes)
 - [x] [[Judges]] — complete (42 / 42 pericopes)
-- [ ] [[Ruth]] — in-progress (3 / 8 pericopes)
+- [ ] [[Ruth]] — in-progress (4 / 8 pericopes)
 - [ ] [[1 Samuel]] — not-started
 - [ ] [[2 Samuel]] — not-started
 - [ ] [[1 Kings]] — not-started

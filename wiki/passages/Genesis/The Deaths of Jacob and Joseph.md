@@ -367,7 +367,7 @@ made them, repeated verbatim on the day the reason for it died.**
 *spoke upon their heart*.** **Genesis has used the idiom once, of [[Shechem (son of Hamor)]] to
 [[Dinah]] after he had raped her** (34:3, in [[Dinah and the Massacre at Shechem]]) — **its one
 previous use in the book is an abuser's**. **Its future is better**: it is what Boaz does for Ruth
-(Ruth 2:13) and what God commands be done to Jerusalem at Isaiah 40:2. See
+(Ruth 2:13, with *comforted* beside it as here; see [[Ruth Gleans in the Field of Boaz]]) and what God commands be done to Jerusalem at Isaiah 40:2. See
 [[Compassion and Mercy]].
 
 ## A hundred and ten years

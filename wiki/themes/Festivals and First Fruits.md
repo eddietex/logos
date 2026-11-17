@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Barley harvest and wheat harvest — Ruth 2:23
+
+Ruth gleans *to the end of barley harvest and of wheat harvest* (2:23). Leviticus 23 sets the first-fruits
+sheaf at the start of the grain harvest and the new meal offering of two loaves fifty days later (23:15–17); Ruth names neither feast, and
+the link is the reader's. See [[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 2:1–23; Leviticus 23:10, 15–17.
+
 ### *The beginning of barley harvest* — Ruth 1:22
 
 Naomi and Ruth arrive *in the beginning of barley harvest* (Ruth 1:22). Barley is the first grain of the
@@ -225,6 +231,7 @@ Yahweh, and in rejoicing with the Levite and the foreigner (10–11). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–11.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:23; the whole grain season, barley to wheat; no feast named.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; the arrival dated to the start of barley harvest; no feast named.
 - [[Wives for Benjamin]] — Judges 21:19–21; the yearly feast at Shiloh.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.

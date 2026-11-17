@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *In whose sight I find favor* — Ruth 2:2, 10, 13
+
+*Ḥēn* comes three times in Ruth 2. Ruth goes out to glean *after him in whose sight I find favor* (2); she
+asks Boaz *Why have I found favor in your sight … since I am a foreigner?* (10); and she says *Let me find
+favor in your sight, my lord* (13). The chapter answers the question with Boaz's report of what she did for
+Naomi (11), so the favor is given to a known loyalty, not won by a request. See [[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 2:1–23.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Joseph receives the good will of the one who lived in the bush (16), and Naphtali is satisfied with
@@ -255,6 +262,7 @@ are identified on the passage and connection pages.
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 10, 13; *ḥēn* three times; *Why have I found favor … since I am a foreigner?*
 - [[The Call of Gideon]] — Judges 6:17; *If now I have found favor in your sight, then show me a sign*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
@@ -393,5 +401,6 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Related people
 
+- [[Boaz]] — who shows a Moabite gleaner favor (Ruth 2)
 - [[Noah]] — the first person in the Bible said to find favor
 - [[God]] — in whose *eyes* the favor is located, which is where the idiom puts it

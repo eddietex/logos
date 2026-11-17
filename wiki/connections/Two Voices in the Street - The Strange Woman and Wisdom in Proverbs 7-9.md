@@ -29,6 +29,8 @@ tags: [connection]
 - Compare **Song of Solomon 3:1–4** — a third woman in the streets and squares, seeking the man she
   loves, with no warning attached — [[Seeking Him by Night]]; see
   [[Seeking in the Streets and Squares - Song of Solomon 3.1-4 and Proverbs 1, 7, and 8]].
+- Compare **Ruth 2:10** — [[Ruth Gleans in the Field of Boaz]]: Ruth calls herself *noḵriyyâ*, *a foreigner*, the word Proverbs
+  uses for the strange woman (2:16; 7:5, WLC); in Ruth it describes a widow's loyalty, not a seduction
 
 ## Analysis
 

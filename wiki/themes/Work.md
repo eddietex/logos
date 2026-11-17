@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Where have you worked?* — Ruth 2:7, 12, 19
+
+The overseer reports that Ruth *has continued even from the morning until now* (2:7). Boaz blesses her
+*work* (*pōʿal*, 12), though by *work* he means what she did for Naomi (11). Naomi asks *Where have you
+worked?* and Ruth answers with the name of the man *with whom I worked* (19), the verb *ʿāśâ* (WLC). See
+[[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 2:1–23; Hebrew WLC, 2026-11-17.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 Joshua builds the city he receives and lives there (50). Gift and labor belong together; the verse does not specify whether the work is new construction, rebuilding, or fortification.
@@ -795,6 +802,7 @@ quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timoth
 [[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:7, 12, 19; a day's gleaning; *May Yahweh repay your work*.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 

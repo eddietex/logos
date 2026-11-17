@@ -252,6 +252,8 @@ truly … if not*). See [[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 
 
 ## Cross-references
 
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:12; the same verb *ḥāsâ*, *take refuge*, under Yahweh's wings rather than a bramble's
+  shade — [[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]]
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; the killing *on one stone*, *He is our brother*,
   and the house of Millo.
 - [[Gideon's Ephod and Death]] — Judges 8:23, 31, 35; *Yahweh shall rule over you*, the concubine, and

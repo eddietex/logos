@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The land of your birth* — Ruth 2:11
+
+Boaz says Ruth *left your father and your mother, and the land of your birth* (*ʾereṣ môlaḏtēḵ*, WLC) and
+came *to a people that you didn't know before* (2:11). *Land* and *môleḏeṯ* are the pair of Yahweh's
+command to Abram, *Leave your country, and your relatives* (Genesis 12:1). See [[Ruth Gleans in the Field of Boaz]] and
+[[Leave Your Country - The Two Lek-Lekha Commands]]. Source: stored WEB Ruth 2:1–23; Genesis 12:1; Hebrew WLC, 2026-11-17.
+
 ### A family of Judah sojourning in Moab — Ruth 1:1–4
 
 *A certain man of Bethlehem Judah went to live in the country of Moab* (Ruth 1:1): *lāgûr*, to sojourn, as
@@ -1123,6 +1130,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:11; *the land of your birth … a people that you didn't know*.
 - [[Famine and Death in Moab]] — Ruth 1:1–4; a man of Bethlehem Judah sojourns in Moab about ten years.
 - [[Wives for Benjamin]] — Judges 21:17, 23–24; an inheritance kept, and each man to his own.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16; the Levite and the old man, both *gār*.

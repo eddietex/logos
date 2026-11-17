@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### *One of our near kinsmen* — Ruth 2
+
+Naomi sends Ruth to glean, *Go, my daughter* (2:2), and at evening receives an ephah of barley and the food
+Ruth saved from the meal (2:18). She blesses the man before she knows his name (2:19), and when she hears it
+she blesses him by Yahweh, *who has not abandoned his kindness to the living and to the dead*, and says,
+*The man is a close relative to us, one of our near kinsmen* (2:20). It is her first blessing since the road
+(1:8–9) and the first *gōʾēl* in the book. The woman who said Yahweh had *testified against* her (1:21)
+now speaks of kindness that includes her dead. She tells Ruth to stay with Boaz's young women (2:22). See
+[[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 1:8–9, 21; 2:2, 18–22.
+
 ### *Call me Mara* — Ruth 1:19–22
 
 At Bethlehem the whole town is stirred, and the women ask, *Is this Naomi?* (1:19). She refuses the name:
@@ -57,11 +67,13 @@ morphhb), 2026-11-17.
 - Hears that Yahweh has given bread; sets out for Judah — Ruth 1:6–7
 - Urges Orpah and Ruth to go back; Orpah goes, Ruth swears to stay — Ruth 1:8–18
 - Arrives in Bethlehem at the start of barley harvest; asks to be called Mara — Ruth 1:19–22
+- Sends Ruth to glean; blesses Boaz and names him a near kinsman — Ruth 2:2, 18–22
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:1–5; widowed and bereaved of both sons in Moab.
 - [[Ruth Clings to Naomi]] — Ruth 1:6–18; sends her daughters-in-law back; *Yahweh's hand has gone out against me*.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:19–22; *Call me Mara*; *I went out full, and Yahweh has brought me home again empty*.
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 18–22; *who has not abandoned his kindness to the living and to the dead*; *one of our near kinsmen*.
 
 ## Related people
 - [[Elimelech]] — her husband
@@ -69,6 +81,7 @@ morphhb), 2026-11-17.
 - [[Chilion]] — her son
 - [[Ruth (person)]] — her daughter-in-law, Mahlon's widow
 - [[Orpah]] — her daughter-in-law
+- [[Boaz]] — her husband's kinsman, *one of our near kinsmen* (2:20)
 
 ## Themes associated
 - [[The Poor and the Vulnerable]]

@@ -546,7 +546,8 @@ interpret. **Genesis 24 is where the book learns to do that.**
 - Judges 6:36–40; 1 Samuel 14:8–10 — the other proposed signs, and the form the servant's prayer
   shares with them.
 - Ruth 2–4 — a foreign woman, a *ḥesed* vocabulary, a kinsman's initiative, and a marriage that
-  secures a line; the closest thing in Scripture to this chapter's temper.
+  secures a line; the closest thing in Scripture to this chapter's temper. Ruth 2:20 repeats 24:27's
+  *who has not abandoned his kindness* (*ʾăšer lōʾ-ʿāzaḇ ḥasdô*, WLC) — [[Ruth Gleans in the Field of Boaz]]
 - John 4:1–42 — a man, a well at an odd hour, a woman with a water jar, a conversation about drink
   that becomes about identity, and a town that comes out; the type-scene's last use.
 - Isaiah 65:24 — *"before they call, I will answer"*, which is what 24:15 narrates.

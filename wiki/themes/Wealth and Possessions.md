@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *A mighty man of wealth* — Ruth 2:1
+
+Boaz is *ʾîš gibbôr ḥayil* (2:1, WLC), the phrase used of Gideon (Judges 6:12) and Jephthah (11:1), where
+the WEB reads *valor*. *Ḥayil* is strength, wealth, or worth, and the book applies it to Ruth too, *a worthy
+woman* (3:11). His wealth is shown in the chapter by a field, reapers, an overseer, and grain he can leave
+on purpose (16). See [[Ruth Gleans in the Field of Boaz]] and [[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]]. Source: stored WEB Ruth 2:1–23;
+Judges 6:12; 11:1; Ruth 3:11; Hebrew WLC, 2026-11-17.
+
 ### Silver for an image and a priest — Judges 17:2–4, 10
 
 The same *eleven hundred pieces of silver* as Delilah's (16:5) are stolen, returned, and dedicated; two
@@ -957,6 +965,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1, 16; *a mighty man of wealth*; grain left on purpose.
 - [[Micah's Idol and Levite]] — Judges 17:2–4, 10; the eleven hundred stolen and dedicated; a priest's yearly wage.
 - [[Samson and Delilah]] — Judges 16:5, 18; eleven hundred pieces of silver from each lord.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; Ibzan's sixty marriages; Abdon's seventy riders on donkey colts.
@@ -1312,6 +1321,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Related people
 
+- [[Boaz]] — *a mighty man of wealth* (Ruth 2:1)
 - [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[Abraham]] — the first rich man in the covenant line, and the first to refuse a gift on principle

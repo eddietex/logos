@@ -27927,3 +27927,46 @@ Sources: Ruth quoted from stored WEB. Comparisons from stored WEB Genesis 31:42;
 `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, and `Job` XML on 2026-11-17; every
 occurrence claim (lemmas 1949, 4125, 4755, 4785, 4843, 6030 b, 7387, 7489 a, 7706, 7725, 8462) covers those
 ten files and is stated on the page that makes it. No Greek text consulted.
+
+## [2026-11-17] ingest | Ruth 2.1-23 — Ruth Gleans in the Field of Boaz
+
+Unattended run (`/ingest auto`). Ruth is the first `in-progress` book; the next unchecked box was 2:1–23.
+Ruth now 4 / 8.
+
+Created: [[Ruth Gleans in the Field of Boaz]]; person [[Boaz]]; connection
+[[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]].
+
+Revised: book [[Ruth]] (box checked, overview paragraph, Boaz and two themes added); people [[Naomi]],
+[[Ruth (person)]] (also dropped a stale *not yet ingested* on 1:10, 16–17), [[Elimelech]]; places
+[[Bethlehem]], [[Moab (place)]]; themes [[Providence]], [[Favor and Grace]], [[Love]], [[Redemption]],
+[[The Poor and the Vulnerable]], [[The Nations]], [[Blessing]], [[Hospitality]], [[Famine and Plenty]],
+[[Work]], [[Wealth and Possessions]], [[Festivals and First Fruits]], [[Land and Sojourning]]; connections
+[[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]],
+[[The Betrothal at the Well]], [[Leave Your Country - The Two Lek-Lekha Commands]],
+[[The Redeemer and the Avenger of Blood]], [[Go Back or Cling - Joshua 23.12 and Ruth 1.14-16]],
+[[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]],
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]], and
+[[On Eagles Wings - Exodus 19 and Deuteronomy 32]]; passages [[A Wife for Isaac]],
+[[The Deaths of Jacob and Joseph]], and [[Jotham's Fable]] (cross-references). Also `wiki/books/index.md`,
+People Index A-E and N-Z, the places and themes indexes, Connections Index A-C, D-H, I-N, O-S, and T-Z, and
+the dashboard counts. Frontmatter totals: 482 passages, 350 people, 598 places, 88 themes, 916 connections.
+
+Judgment calls: kept the planned boundary 2:1–23. Boaz gets a page; the overseer of the reapers, who speaks
+once, does not. The new wings connection quotes Psalms 36:7, 57:1, 61:4, and 91:4 from the WEB at
+bible-api.com without linking Psalms passages, since Psalms is not started. The ephah-to-manna arithmetic
+(Exodus 16:16, 36) is marked as the reader's, not the narrator's. Providence keeps the narrator's *chance*
+(*miqreh*, 2:3) apart from Naomi's blessing (2:20).
+
+No contradictions found. Readings recorded, not resolved: whose *ḥeseḏ* in 2:20 (Yahweh's or Boaz's; the
+verbal match with Genesis 24:27 recorded, not used to decide); the difficult last clause of 2:7; whether
+*šip̄ḥâ* (2:13) and *ʾāmâ* (3:9) mark different standing (reported as debated). The Ezekiel 16:8 *spread my
+garment* comparison and the Psalm 57 heading are given by reference only, not checked.
+
+Sources: Ruth 2:1–23; 3:2, 9–12, 17; 4:3, 9–10, 13, 21 from stored WEB. Comparisons from stored WEB Genesis
+2:24; 12:1; 24:27; 31:15; 34:3; 50:21; Exodus 9:31; 16:16, 36; Leviticus 23:10, 15–17; Deuteronomy 22:30;
+Judges 6:12; 9:15; 11:1; 19:3; Proverbs 2:16; 7:4. Psalms 36:7; 57:1; 61:4; 91:4 checked against the WEB at
+bible-api.com, 2026-11-17 (not stored). Hebrew from a fresh download of the Westminster Leningrad Codex
+(OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `Job`, `Ps`,
+`Prov`, and `Eccl` XML on 2026-11-17; every occurrence claim (lemmas 1350 a, 1353, 1368 + 2428, 1692, 2620,
+3671, 3950, 4129, 4138, 4745, 4909, 5237, 5800 a + 2617 a) covers those thirteen files and is stated on the
+page that makes it. No Greek text consulted.

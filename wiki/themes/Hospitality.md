@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Bread at the reapers' side — Ruth 2:9, 14
+
+Boaz gives the foreign gleaner water the young men have drawn (2:9) and calls her to the meal: *Come here,
+and eat some bread, and dip your morsel in the vinegar* (14). He hands her parched grain himself; *she ate,
+and was satisfied, and left some of it*, and she carries what was left home to Naomi (14, 18). See
+[[Ruth Gleans in the Field of Boaz]]. Source: stored WEB Ruth 2:1–23.
+
 ### Three hosts — Judges 19:3–24
 
 Judges 19 tells hospitality three times. At Bethlehem the concubine's father keeps the Levite five days,
@@ -225,6 +232,7 @@ Reuel's house took in Moses at Exodus 2:20, and here Moses invites Reuel's son i
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:9, 14; water and bread for the foreign gleaner.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:3–24; three hosts: five days at Bethlehem, none at Gibeah, an outsider at the door.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:5–8; bread refused to Gideon's faint men by Succoth and Penuel.
 - [[The Call of Gideon]] — Judges 6:18–21; *I will wait until you come back*; the guest's meal burned as an offering.
@@ -320,6 +328,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Related people
 
+- [[Boaz]] — feeds Ruth at the reapers' meal
 - [[Abraham]] — who ran, and served standing
 - [[Sarah]] — who made the bread and stayed in the tent
 - [[Lot]] — who does the same thing in a city that will not have it

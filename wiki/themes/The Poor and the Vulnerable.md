@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A widow gleaning — Ruth 2
+
+Ruth goes to glean as the poor, the foreigner, and the widow may under Leviticus 19:9–10, 23:22, and
+Deuteronomy 24:19–22, but she asks to glean *after him in whose sight I find favor* (2:2), as if the right
+depended on the owner. Boaz *commanded the young men not to touch you* (9) and Naomi is glad she will not
+be *met* in another field (22): a woman gleaning alone was exposed, though the text does not say how. Boaz
+goes past the law, and has grain pulled from the bundles and left for her (16). See [[Ruth Gleans in the Field of Boaz]] and
+[[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]]. Source: stored WEB Ruth 2:1–23.
+
 ### Two widows arrive empty — Ruth 1:19–22
 
 Naomi says *Yahweh has brought me home again empty* (*rêqām*, 1:21). In the WLC files read, *rêqām* is the
@@ -538,6 +547,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 9, 15–16, 22; a widow gleaning, protected and given more than the law requires.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:21–22; *brought me home again empty*; two widows at the start of harvest.
 - [[Famine and Death in Moab]] — Ruth 1:3–5; Naomi widowed and bereaved of her sons abroad.
 - [[Wives for Benjamin]] — Judges 21:10–23; the women and little ones of Jabesh, the daughters of Shiloh.
@@ -662,6 +672,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 
 ## Related people
 
+- [[Boaz]] — who goes past the gleaning laws for Ruth
 - [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].

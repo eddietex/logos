@@ -41,6 +41,15 @@ It lists Ruth beside her, *Ruth the Moabitess … who returned*, and dates the a
 barley harvest* (1:22). The rest of the book answers the word *empty*: Boaz will not send Ruth back
 *empty* (3:17), and the child will be *a restorer of life* (4:15).
 
+[[Ruth Gleans in the Field of Boaz]] (2:1–23) is the harvest. The narrator tells the reader at once that
+Naomi has a kinsman, Boaz, *a mighty man of wealth* (2:1), and then that Ruth *happened to come* to his field
+(2:3), *miqreh*, *chance*. Boaz greets his reapers in Yahweh's name, protects and feeds the foreign gleaner,
+has grain left for her on purpose, and blesses her as one who has come *under whose wings* to take refuge
+(2:12). Ruth asks why she has found favor, *since I am a foreigner* (2:10). At evening Naomi blesses him by
+Yahweh, *who has not abandoned his kindness to the living and to the dead*, and gives the book its key word:
+he is *one of our near kinsmen*, a *gōʾēl* (2:20). The woman who came home *empty* is fed from what Ruth
+*left* (2:14, 18).
+
 ## Structure
 
 1. **Emptied** (1) — the losses in Moab, the parting on the road, and Naomi's return *empty*.
@@ -60,7 +69,7 @@ merge, or reorder them freely.
 - [x] [[Famine and Death in Moab]] — Ruth 1:1–5
 - [x] [[Ruth Clings to Naomi]] — Ruth 1:6–18
 - [x] [[Naomi Returns to Bethlehem]] — Ruth 1:19–22
-- [ ] Ruth Gleans in the Field of Boaz — Ruth 2:1–23
+- [x] [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23
 - [ ] Ruth at the Threshing Floor — Ruth 3:1–18
 - [ ] Boaz Redeems at the Gate — Ruth 4:1–12
 - [ ] The Birth of Obed — Ruth 4:13–17
@@ -76,6 +85,8 @@ merge, or reorder them freely.
 - [[Marriage]] — levirate duty and redemption joined (4:5, 10)
 - [[Love]] — *ḥeseḏ* (1:8; 2:20; 3:10) and Ruth's loyalty
 - [[Oaths and Vows]] — Ruth's oath in Yahweh's name (1:17)
+- [[Favor and Grace]] — *ḥēn* in Boaz's field (2:2, 10, 13)
+- [[Providence]] — *she happened to come* (2:3), and a kindness not abandoned (2:20)
 
 ## Key people
 - [[Naomi]]
@@ -84,6 +95,7 @@ merge, or reorder them freely.
 - [[Mahlon]]
 - [[Chilion]]
 - [[Orpah]]
+- [[Boaz]]
 
 ## Key places
 - [[Bethlehem]]

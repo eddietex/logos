@@ -38,7 +38,8 @@ people and clings to Israel. The verbs are the same; the movement runs the other
 
 **And the verb is the marriage verb.** Genesis 2:24 says a man *will leave his father and his mother, and
 will join with his wife* (*dābaq*). Boaz will say of Ruth that she *left your father and your mother, and
-the land of your birth* (2:11; not yet ingested). The leaving of Genesis 2:24 is a man's leaving for his
+the land of your birth* (2:11). In the same chapter the verb comes back three times for Ruth staying
+close to Boaz's young women (*tiḏbāqîn*, 2:8, 21; *wattiḏbaq*, 2:23; see [[Ruth Gleans in the Field of Boaz]]). The leaving of Genesis 2:24 is a man's leaving for his
 wife; Ruth leaves for her mother-in-law. Deuteronomy uses the same verb for Israel's loyalty to Yahweh
 (10:20; 11:22; 13:4; 30:20), and so does Joshua 23:8. In Ruth 1 the verb of marriage and the verb of
 covenant loyalty describe one widow's attachment to another.
@@ -60,7 +61,7 @@ reverses both halves. She leaves her own people, and she clings, in words that b
 (*Your people will be my people, and your God my God*, 1:16). The book of [[Ruth]] ends with her in David's
 line (4:17–22). See [[The Nations]], [[Marriage]], and [[Moab and Ammon - The Two Nations Born in the Cave]].
 
-Sources: stored WEB Genesis 2:24; Deuteronomy 10:20; 30:20; Joshua 23:8, 12; Ruth 1:14–16. Ruth 2:11
-quoted from stored WEB Ruth (not yet ingested). Hebrew from the Westminster Leningrad Codex (OpenScriptures
+Sources: stored WEB Genesis 2:24; Deuteronomy 10:20; 30:20; Joshua 23:8, 12; Ruth 1:14–16. Ruth 2:8, 11,
+21, 23 quoted from stored WEB Ruth. Hebrew from the Westminster Leningrad Codex (OpenScriptures
 morphhb) `Gen`, `Deut`, `Josh`, `Judg`, `Ruth`, and `1Sam` XML, downloaded 2026-11-17; the occurrence count
 covers those six files. Proverbs 18:24 is cited from the linked page, not rechecked here.

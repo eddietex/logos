@@ -17,7 +17,7 @@ tags: [connection]
   and the vineyard, each *"for the foreigner, for the fatherless, and for the widow"*.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:24–25; the passer-by who
   eats from a neighbor's field and vineyard.
-- Ruth 2:2, 15–16 *(not yet ingested; WEB checked at bible-api.com)* — Ruth asks, *"Let me now go to the
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 15–16; Ruth asks, *"Let me now go to the
   field, and glean among the ears of grain after him in whose sight I find favor"*; Boaz commands his
   young men, *"Let her glean even among the sheaves … Also pull out some for her from the bundles, and
   leave it."*
@@ -50,8 +50,11 @@ Deuteronomy's three classes; she asks to glean *"after him in whose sight I find
 suggests gleaning depended on the owner's goodwill in practice (an inference from her words, not a
 statement of law). Boaz goes past both laws. He lets her glean *"even among the sheaves"* and has his
 men *"pull out some for her from the bundles, and leave it"* (2:15–16): grain left on purpose, where
-Deuteronomy required only what was forgotten. Ruth does not cite Leviticus or Deuteronomy. The book has
-not been ingested; the rest of Ruth 2 was not checked.
+Deuteronomy required only what was forgotten. Ruth does not cite Leviticus or Deuteronomy. The rest of
+the chapter shows what the laws do not cover: the overseer reports that she asked leave to glean (2:7),
+Boaz has *commanded the young men not to touch you* (2:9), and Naomi is glad she will not be *met* in
+another field (2:22). The laws gave the gleaner a share; the chapter shows she also needed a protector. In
+the WLC the verb *lāqaṭ*, *glean*, occurs twelve times in Ruth 2.
 
 **The passer-by.** Deuteronomy 23:24–25 gives a different right: anyone may eat grapes and pluck ears in a
 neighbor's field, but not carry them away. The gleaning laws give the poor what they can gather after the
@@ -67,6 +70,7 @@ ends in the line of David (Ruth 4:17–22, reported by reference and not checked
 [[The Poor and the Vulnerable]], [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]],
 and [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
 
-Sources: stored WEB Leviticus 19:9–10; 23:22; Deuteronomy 6:12; 23:24–25; 24:19–22. Ruth 2:2, 15–16 checked
-at bible-api.com (`translation=web`), 2026-11-09; Ruth is not stored. Hebrew of Leviticus 19:10; 23:22;
+Sources: stored WEB Leviticus 19:9–10; 23:22; Deuteronomy 6:12; 23:24–25; 24:19–22. Ruth 2:2, 15–16 first
+checked at bible-api.com (`translation=web`), 2026-11-09; Ruth 2:1–23 rechecked against stored WEB Ruth and
+the WLC lemma 3950 count added, 2026-11-17. Hebrew of Leviticus 19:10; 23:22;
 Deuteronomy 24:19–21 from WLC (morphhb), 2026-11-09, with lemma searches for 5953, 6041, and 7911.

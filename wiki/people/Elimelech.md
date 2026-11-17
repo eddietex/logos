@@ -28,16 +28,19 @@ See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:1–3; 2:1, 3; 4:3, 
 
 - Leaves Bethlehem Judah in a famine to sojourn in Moab with his wife and sons — Ruth 1:1–2
 - Dies in Moab — Ruth 1:3
+- His kinsman Boaz introduced as *of the family of Elimelech* — Ruth 2:1, 3
 - Named as the owner of the land Naomi sells and Boaz redeems — Ruth 4:3, 9 (not yet ingested)
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:1–3; the man who leaves in the famine and dies in Moab.
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1, 3; Boaz is *of the family of Elimelech*.
 
 ## Related people
 - [[Naomi]] — his wife
 - [[Mahlon]] — his son, Ruth's husband
 - [[Chilion]] — his son
 - [[Ruth (person)]] — his daughter-in-law
+- [[Boaz]] — his kinsman (2:1, 3)
 
 ## Themes associated
 - [[Famine and Plenty]]

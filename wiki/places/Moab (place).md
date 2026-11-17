@@ -387,6 +387,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Moabite excluded from Yahweh's assembly.
 - [[Ruth Clings to Naomi]] — Ruth 1:6–15; where the news of bread is heard, and where Orpah returns.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; *Ruth the Moabitess … who returned out of the country of Moab*.
+- [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 6, 21; *the Moabite lady who came back with Naomi out of the country of Moab*.
 
 ## Related places
 
