@@ -28106,3 +28106,47 @@ Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`
 `Ruth`, and `1Sam` XML on 2026-11-17; every occurrence claim (lemmas 157, 539, 1350 a, 1732, 2032, 2436,
 3206, 3557, 7725, 7872, 7934) covers those nine files and is stated on the page that makes it. No Greek text
 consulted.
+
+## [2026-11-17] ingest | Ruth 4.18-22 — The Generations of Perez
+
+Unattended run (`/ingest auto`). Ruth is the first `in-progress` book; the last unchecked box was 4:18–22.
+Ruth is now 8 / 8 and marked `complete`. With no book `in-progress`, the next run opens the first
+not-complete book in `## Priority`, or the first `not-started` book in canonical order if every priority
+book is complete. Proverbs, Ecclesiastes, and Song of Solomon are already complete, so that is 1 Samuel.
+
+Created: [[The Generations of Perez]]; people [[Ram (son of Hezron)]], [[Amminadab]], and [[Salmon]];
+connection [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]].
+
+Revised: book [[Ruth]] (box checked, status complete, overview paragraph, key people, two key-theme lines);
+people [[Perez]], [[Hezron (son of Perez)]], [[Nahshon]], [[Boaz]], [[Obed]], [[Jesse]], [[David]],
+[[Rahab]], [[Tamar]], [[Judah]], [[Ruth (person)]], [[Elisheba]]; themes [[Kingship and Empire]],
+[[The Nations]], [[Names and Naming]], [[Call and Election]], [[Providence]]; connections
+[[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]],
+[[The Generations of Aaron and Moses - Toledot Outside Genesis]],
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]], and
+[[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]]. Also `wiki/books/index.md`, People Index
+A-E, F-M, and N-Z, Connections Index D-H, I-N, and T-Z, and the dashboard counts. Frontmatter totals: 486
+passages, 356 people, 598 places, 88 themes, 922 connections.
+
+Correction: [[Obed]] said the genealogy places him *tenth from Perez*; he is eighth of the ten names. Fixed
+on the page, with a dated correction note.
+
+Judgment calls: kept the planned boundary 4:18–22. Ram, Amminadab, and Salmon get pages as links in the line
+that four books repeat. Ram takes the qualifier `(son of Hezron)` because Elihu is *of the family of Ram*
+(Job 32:2) and 1 Chronicles 2:25, 27 has another Ram. Amminadab stays bare, though 1 Chronicles 6 and 15
+name a Levite Amminadab; both will need qualifiers when that man gets a page. The seventh and tenth places
+(Boaz and David), the four-hundred-thirty-year gap between Perez and Nahshon, and the *younger* pattern
+under [[Call and Election]] are marked on the pages as readings, not as the text's claims.
+
+No contradictions found. Readings recorded, not resolved: whether the list is complete or selective;
+whether Matthew's Rahab is the woman of Jericho (the usual reading, assumed on [[Rahab]] with that
+qualification).
+
+Sources: Ruth 4:18–22 and Ruth 1:1; 2:3; 3:18; 4:5, 10, 12, 17 from stored WEB. Comparisons from stored
+WEB Genesis 5:1; 11:10, 26; 38:27–30; 46:12; Exodus 6:23; 12:40; Numbers 1:7; 2:3; 7:12, 17; 10:14;
+Joshua 6:25; Judges 21:25. 1 Chronicles 2:9–15, Matthew 1:3–6, and Luke 3:31–33 checked against the WEB at
+bible-api.com (`translation=web`), 2026-11-17; not stored in raw. Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Num`, `Josh`, `Judg`, `Ruth`, `1Sam`,
+and `1Chr` XML on 2026-11-17; the occurrence claims (lemmas 3205, 5177, 5992, 7410, 8007, 8009, 8012) cover
+those eight files only. The Luke 3:33 manuscript variation is recalled and marked unverified on the pages; no
+Greek text was consulted.

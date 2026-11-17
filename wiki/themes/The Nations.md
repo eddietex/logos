@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### A Moabite mother, unnamed in the line — Ruth 4:18–22
+
+The genealogy that closes Ruth names only fathers, so the Moabite whose story the book tells is not in it:
+*Boaz became the father of Obed* (4:21). Matthew 1:5 names her, *by Ruth*, beside *Rahab* as Salmon's wife
+(WEB at bible-api.com, 2026-11-17). See [[The Generations of Perez]] and [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Ruth the Moabitess*, at the gate — Ruth 4:1–12
 
 Boaz names her *Ruth the Moabitess* twice before the elders (4:5, 10), and the town at once blesses her
@@ -1005,6 +1011,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; Amalek's memory to be blotted out from under the sky.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16, 21; the Kenites settle with Judah, and the Jebusites stay in Jerusalem.
 - [[Samson's Riddle]] — Judges 14:3–4; *the uncircumcised Philistines*; *the Philistines ruled over Israel*.
+- [[The Generations of Perez]] — Ruth 4:18–22; the line to David passes through a Moabite mother whom it does not name.
 
 ## Related themes
 

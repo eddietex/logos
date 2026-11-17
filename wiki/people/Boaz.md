@@ -69,11 +69,10 @@ wife* (9–10). The town blesses him: *treat you worthily in Ephrathah, and be f
 bring about the refusal is a question readers ask; the text reports the words and not his intent. See
 [[Boaz Redeems at the Gate]] and [[The Nearer Kinsman (Ruth)]]. Source: stored WEB Ruth 4:1–12; Hebrew WLC, 2026-11-17.
 
-**Ahead.** *So Boaz took Ruth, and she became his wife* (4:13). Not yet ingested.
-
 **Traditions recorded elsewhere.** A later Jewish tradition identifies the judge [[Ibzan]] of Bethlehem
 with Boaz (Bava Batra 91a; recalled, not verified); Judges makes no such link. 1 Chronicles 2:11–12 and
-Matthew 1:5 also list him in the line of David (by reference; not yet ingested, and not checked here).
+Matthew 1:5 also list him in the line of David, Matthew adding *by Rahab* and *by Ruth* (WEB at
+bible-api.com, 2026-11-17; not yet ingested). See [[The Generations of Perez]].
 
 Source: stored WEB Ruth 2:1–23; 3:9–12; 4:9–10, 13, 21; Judges 6:12; 11:1. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
@@ -85,6 +84,14 @@ narrative. In the rest of the scene he is not named: the women credit the child 
 genealogy says *Boaz became the father of Obed* (4:21). The blessing at the gate, *be famous in Bethlehem*
 (4:11), passes to the son: *Let his name be famous in Israel* (4:14). See [[The Birth of Obed]]. Source:
 stored WEB Ruth 4:11, 13–17, 21.
+
+### Seventh in the generations of Perez — Ruth 4:21
+
+*Salmon became the father of Boaz, and Boaz became the father of Obed* (Ruth 4:21). The man the book followed
+through three chapters is one link among ten in its last verses, with the same clause as Ram, of whom
+nothing is known. Here alone the book names his father, [[Salmon]], and his grandfather, [[Nahshon]], the
+prince of Judah in the wilderness. The genealogy gives Obed as his son, where the women had said *A son is
+born to Naomi* (4:17). See [[The Generations of Perez]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Timeline / key events
 
@@ -100,6 +107,7 @@ stored WEB Ruth 4:11, 13–17, 21.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *a worthy woman*; *a kinsman nearer than I*; *as Yahweh lives*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:1–12; gives the nearer kinsman the first right; *You are witnesses today*; blessed *like the house of Perez*.
 - [[The Birth of Obed]] — Ruth 4:13; takes Ruth as his wife; the father, not named again in the scene.
+- [[The Generations of Perez]] — Ruth 4:21; son of Salmon, father of Obed; seventh of ten.
 
 ## Related people
 - [[Ruth (person)]] — gleans in his field; asks him at the threshing floor to spread his garment over her (3:9); later his wife (4:13)
@@ -108,6 +116,7 @@ stored WEB Ruth 4:11, 13–17, 21.
 - [[Ibzan]] — identified with him by a later tradition (recalled, not verified)
 - [[The Nearer Kinsman (Ruth)]] — first in line; declines and gives Boaz his right (3:12; 4:1–8)
 - [[Obed]] — his son (4:13, 21)
+- [[Salmon]] — his father (4:21)
 
 ## Themes associated
 - [[Redemption]]

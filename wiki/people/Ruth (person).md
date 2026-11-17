@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Absent from the genealogy — Ruth 4:18–22
+
+The book ends on ten names, all fathers, and hers is not among them: *Boaz became the father of Obed* (4:21).
+Matthew 1:5 puts her back, *Boaz became the father of Obed by Ruth* (WEB at bible-api.com, 2026-11-17). See
+[[The Generations of Perez]] and [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Better to you than seven sons* — Ruth 4:13–17
 
 *So Boaz took Ruth, and she became his wife; and he went in to her, and Yahweh enabled her to conceive, and
@@ -113,6 +119,7 @@ Deuteronomy 23:3.
 - [[Joseph in Potiphar's House]] — named in a comparison of women who take the initiative (Ruth 3).
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10–12; *Ruth the Moabitess, the wife of Mahlon, I have purchased to be my wife*; silent.
 - [[The Birth of Obed]] — Ruth 4:13, 15; bears a son; *who loves you, who is better to you than seven sons*; silent.
+- [[The Generations of Perez]] — Ruth 4:18–22; not named in the line that ends her book.
 
 ## Related people
 - [[Naomi]] — her mother-in-law

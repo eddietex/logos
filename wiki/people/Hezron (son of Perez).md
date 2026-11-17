@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Second in the generations of Perez — Ruth 4:18–19
+
+*Perez became the father of Hezron, and Hezron became the father of Ram* (Ruth 4:18–19). He is the second
+link of the ten, and Genesis 46:12 has already placed him among those who went down into Egypt. See [[The Generations of Perez]].
+Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The second census — Numbers 26:1–65
 
 His family appears under Perez in Judah (21), distinct from Reuben’s Hezronites in verse 6.
@@ -57,6 +63,7 @@ Reuben's Hezron has no page; he is named again at Exodus 6:14, in
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **the fourth generation, in a clause about his
   father's sons**
+- [[The Generations of Perez]] — Ruth 4:18–19; second in the line from Perez to David.
 
 ## Related people
 
@@ -66,6 +73,7 @@ Reuben's Hezron has no page; he is named again at Exodus 6:14, in
 - [[Zerah]] — his uncle, the other twin
 - [[Er]], [[Onan]], [[Shelah (son of Judah)]] — his father's half-brothers
 - [[Nahshon]], [[Elisheba]] — his descendants through Ram and Amminadab, on the line of Ruth 4:19–20
+- [[Ram (son of Hezron)]] — his son (Ruth 4:19)
 
 ## Themes associated
 

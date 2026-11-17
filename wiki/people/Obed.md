@@ -25,10 +25,18 @@ book records all three without harmonizing them. See
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]].
 
 **The line.** *He is the father of Jesse, the father of David* (4:17), so [[David]]'s grandfather. The
-genealogy of 4:18–22 places him tenth from Perez (4:18–22, the next pericope, not yet ingested).
+genealogy of 4:18–22 places him eighth of its ten names, counting Perez as first.
 
 See [[The Birth of Obed]]. Source: stored WEB Ruth 4:5, 10, 13–17, 21; Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
+
+### Eighth in the generations of Perez — Ruth 4:21–22
+
+*Boaz became the father of Obed, and Obed became the father of Jesse* (Ruth 4:21–22). The genealogy credits
+him to Boaz, the third of the book's three attributions of the child. See [[The Generations of Perez]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+**Correction.** An earlier version of this page said the genealogy places Obed *tenth from Perez*; the
+list has him eighth of ten names (WEB and WLC, Ruth 4:18–22). Corrected 2026-11-17.
 
 ## Timeline / key events
 
@@ -40,6 +48,7 @@ morphhb), 2026-11-17.
 
 ## Appears in
 - [[The Birth of Obed]] — Ruth 4:13–17; born, blessed over, named; *the father of Jesse, the father of David*.
+- [[The Generations of Perez]] — Ruth 4:21–22; *Boaz became the father of Obed*.
 
 ## Related people
 - [[Boaz]] — his father (4:21)

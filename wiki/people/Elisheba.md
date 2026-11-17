@@ -29,6 +29,7 @@ the name of the priest's wife in Luke 1:5** (from memory, not checked).
 ## Appears in
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:23; **daughter of Amminadab, sister of Nahshon**
+- [[The Generations of Perez]] — Ruth 4:19–20; not named, but her father and brother are links four and five in the line to David.
 
 ## Related people
 
@@ -37,6 +38,7 @@ the name of the priest's wife in Luke 1:5** (from memory, not checked).
 - [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], [[Ithamar]] — her sons
 - [[Phinehas (son of Eleazar)]] — her grandson
 - [[Hezron (son of Perez)]] — her ancestor, on the line of Ruth 4:19
+- [[Amminadab]] — her father
 
 ## Themes associated
 

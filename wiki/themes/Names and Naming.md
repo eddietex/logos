@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Ten names and nothing else — Ruth 4:18–22
+
+The book ends on a list of names joined by one verb, *became the father of*, nine times. One of them is
+spelled two ways in consecutive clauses: *śalmâ* (4:20) and *śalmôn* (4:21) in the WLC, both *Salmon* in
+the WEB; Chronicles has a third form, *Salma* (1 Chronicles 2:11). See [[The Generations of Perez]] and [[Salmon]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Named by the neighbors — Ruth 4:17
 
 *The women, her neighbors, gave him a name, saying, "A son is born to Naomi". They named him Obed* (Ruth
@@ -651,6 +657,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 - [[The Announcement of Samson's Birth]] — Judges 13:6, 17–18, 24; the visitor's name refused; Samson named by his mother.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:17–19; Ramath Lehi and En Hakkore.
 - [[The Birth of Obed]] — Ruth 4:14, 17; *let his name be famous in Israel*; the neighbor women name Obed, *A son is born to Naomi*.
+- [[The Generations of Perez]] — Ruth 4:18–22; a genealogy of ten names; *Salmah* and *Salmon*.
 
 ## Related themes
 

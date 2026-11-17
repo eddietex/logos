@@ -44,6 +44,14 @@ wiki's narrative reading reaches his name in his own family line. His father is 
 great-grandparents [[Boaz]] and [[Ruth (person)]]; the genealogy of 4:18–22 traces the line back to Perez.
 Nothing of his life is narrated here. Source: stored WEB Ruth 4:17, 22.
 
+### The last word of Ruth — Ruth 4:22
+
+*Jesse became the father of David* (Ruth 4:22). The genealogy of [[The Generations of Perez]] ends the book
+on his name, tenth from [[Perez]], without the word *king*; Judges had ended *there was no king in Israel*
+(Judges 21:25). Matthew 1:6 supplies the title, *King David* (WEB at bible-api.com, 2026-11-17). See
+[[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22;
+Judges 21:25.
+
 ## Timeline / key events
 
 - 1 Samuel 16:13 *(not yet ingested)* — anointed by Samuel, and *"Yahweh's Spirit came mightily on David
@@ -67,6 +75,7 @@ Nothing of his life is narrated here. Source: stored WEB Ruth 4:17, 22.
 - [[The Bread of the Presence - David's Hunger and Matthew 12]]
 - [[Sin Against God - Joseph at 39.9 and David at Psalm 51]]
 - [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David*; the book's first mention of him.
+- [[The Generations of Perez]] — Ruth 4:22; tenth of ten, and the last word of the book.
 
 ## Related people
 

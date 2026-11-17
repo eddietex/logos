@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The family story inside the generations — Ruth 4:18–22
+
+A book that set its turns down to *chance* (*she happened to come*, 2:3) and to *until you know what will
+happen* (3:18; literally *how the matter will fall*, WLC) ends on a *tôlədôṯ*, the Genesis heading for a line of descent, running ten names to David. The
+narrator does not say that the line was guided; it places the story inside it and stops. See [[The Generations of Perez]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Behold, the near kinsman … came by* — Ruth 4:1
 
 Naomi said *how the matter will fall* (3:18); the next morning Boaz sits down at the gate *and behold*,
@@ -763,6 +769,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Song of Deborah]] — Judges 5:20–21; the stars and the Kishon fight.
 - [[Samson's Riddle]] — Judges 14:4; *it was of Yahweh; for he sought an occasion against the Philistines*.
 - [[The Birth of Obed]] — Ruth 4:13; *Yahweh enabled her to conceive*, the narrator's second act of Yahweh after the bread of 1:6.
+- [[The Generations of Perez]] — Ruth 4:18–22; the story of one family closed inside the line to David.
 
 ## Related themes
 

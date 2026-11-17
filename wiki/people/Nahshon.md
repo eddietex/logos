@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Fifth in the generations of Perez — Ruth 4:20
+
+*Amminadab became the father of Nahshon, and Nahshon became the father of Salmon* (Ruth 4:20). He is the
+only name between Perez and Boaz to whom the earlier books give an office, and Ruth gives him none; 1
+Chronicles 2:10 does, *Nahshon, prince of the children of Judah* (WEB at bible-api.com, 2026-11-17). The
+line to David thus passes through the wilderness prince of Judah and the brother of Aaron's wife. See [[The Generations of Perez]]
+and [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 **The brother of Aaron's wife, and the head of the tribe of Judah in the wilderness.**
 
 > **23** Aaron took Elisheba, the daughter of Amminadab, the sister of Nahshon, as his wife … (Exodus
@@ -60,6 +68,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; prince of Judah in the east camp.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:12–17; first of the twelve to give.
 - [[The March from Sinai]] — Numbers 10:14; over the army that sets out first.
+- [[The Generations of Perez]] — Ruth 4:20; fifth in the line; *the father of Salmon*.
 
 ## Related people
 
@@ -68,6 +77,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Hezron (son of Perez)]] — his ancestor, on the line of Ruth 4:19
 - [[Judah]] — his tribe
 - [[The Twelve Tribal Princes]] — the group he belongs to
+- [[Amminadab]] — his father
+- [[Salmon]] — his son (Ruth 4:20)
 
 ## Themes associated
 

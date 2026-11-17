@@ -12,8 +12,7 @@ tags: [connection]
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:20–42; *their generations*, tribe by tribe
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16, 19; *according to their generations*
 - [[The Priestly Garments]] — Exodus 28:10; the names on the stones
-- Ruth 4:18 — *the history of the generations of Perez* *(not yet ingested; WEB verified at
-  bible-api.com)*
+- [[The Generations of Perez]] — Ruth 4:18; *the history of the generations of Perez*, ten names to David
 - 1 Chronicles 1:29 — the same phrase with a suffix, of Ishmael's line *(not yet ingested; Hebrew
   checked in the WLC only)*
 

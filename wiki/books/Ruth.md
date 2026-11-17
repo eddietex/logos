@@ -5,7 +5,7 @@ genre: Historical narrative — a short family story set in the days of the judg
 author: Anonymous; the book names no author. A rabbinic tradition (Bava Batra 14b, recalled not verified) assigns it to Samuel
 canonical_order: 8
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Ruth
 
@@ -80,6 +80,15 @@ for Ruth, *who loves you, who is better to you than seven sons*, bore him (4:14�
 her bosom; the neighbor women name him Obed, *A son is born to Naomi*; and the last words are *He is the
 father of Jesse, the father of David* (4:16–17).
 
+[[The Generations of Perez]] (4:18–22) ends the book on a list. Under the Genesis heading *this is the
+history of the generations of Perez*, ten names run from Perez, the son Tamar bore to Judah, to David, each
+joined by the same clause, *became the father of*. The list names no woman, so Ruth is absent from the line
+that ends her book, and it gives Obed as Boaz's son, where the women had said *A son is born to Naomi*. It
+answers the elders' blessing, *Let your house be like the house of Perez* (4:12): Boaz's house is that
+house. Nahshon, the prince of Judah in the wilderness, stands fifth; the last word of the book is *David*,
+whom Judges, ending *there was no king in Israel*, never named. 1 Chronicles 2, Matthew 1, and Luke 3 give
+the same line, Matthew naming Ruth in it.
+
 ## Structure
 
 1. **Emptied** (1) — the losses in Moab, the parting on the road, and Naomi's return *empty*.
@@ -103,7 +112,7 @@ merge, or reorder them freely.
 - [x] [[Ruth at the Threshing Floor]] — Ruth 3:1–18
 - [x] [[Boaz Redeems at the Gate]] — Ruth 4:1–12
 - [x] [[The Birth of Obed]] — Ruth 4:13–17
-- [ ] The Generations of Perez — Ruth 4:18–22
+- [x] [[The Generations of Perez]] — Ruth 4:18–22
 
 ## Key themes
 - [[Famine and Plenty]] — famine in the house of bread, and bread restored
@@ -119,7 +128,8 @@ merge, or reorder them freely.
 - [[Providence]] — *she happened to come* (2:3), a kindness not abandoned (2:20), and *how the matter will fall* (3:18)
 - [[Nakedness and Covering]] — *uncover his feet*; *spread the corner of your garment* (3:4, 9)
 - [[Barrenness]] — *Yahweh enabled her to conceive* (4:13), after ten childless years in Moab
-- [[Kingship and Empire]] — *the father of Jesse, the father of David* (4:17)
+- [[Kingship and Empire]] — *the father of Jesse, the father of David* (4:17); the generations of Perez end on *David* (4:22)
+- [[Call and Election]] — the line from Perez, the younger-born twin, to David (4:18–22)
 
 ## Key people
 - [[Naomi]]
@@ -133,6 +143,12 @@ merge, or reorder them freely.
 - [[Obed]]
 - [[Jesse]]
 - [[David]]
+- [[Perez]]
+- [[Hezron (son of Perez)]]
+- [[Ram (son of Hezron)]]
+- [[Amminadab]]
+- [[Nahshon]]
+- [[Salmon]]
 
 ## Key places
 - [[Bethlehem]]

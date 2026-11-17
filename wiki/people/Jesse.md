@@ -19,12 +19,19 @@ says nothing else about him. His household at Bethlehem and the anointing of his
 
 Source: stored WEB Ruth 4:17, 22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Ninth in the generations of Perez — Ruth 4:22
+
+*Obed became the father of Jesse, and Jesse became the father of David* (Ruth 4:22). 1 Chronicles 2:12–15
+names his seven sons in order, Eliab the firstborn to *David the seventh* (WEB at bible-api.com,
+2026-11-17; not yet ingested). See [[The Generations of Perez]] and [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Named as Obed's son and David's father — Ruth 4:17, 22
 
 ## Appears in
 - [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David*.
+- [[The Generations of Perez]] — Ruth 4:22; ninth of ten; *Jesse became the father of David*.
 
 ## Related people
 - [[Obed]] — his father

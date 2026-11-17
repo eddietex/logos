@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Head of the line — Ruth 4:18
+
+*Now this is the history of the generations of Perez: Perez became the father of Hezron* (Ruth 4:18). The
+book of Ruth closes on a *tôlədôṯ* headed with his name, the Genesis formula, and runs ten names from him to
+[[David]]. It starts at Perez, not at Judah. See [[The Generations of Perez]] and [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The second census — Numbers 26:1–65
 
 The Perezites are subdivided into Hezronite and Hamulite families (20–21).
@@ -82,6 +88,7 @@ this and does not celebrate it either.**
   to David from exactly this point.** [[Hezron (son of Perez)]] carries the line to David and into both
   Gospel genealogies; [[Hamul]] carries a clan and stops
 - [[Boaz Redeems at the Gate]] — Ruth 4:12; *Let your house be like the house of Perez, whom Tamar bore to Judah*.
+- [[The Generations of Perez]] — Ruth 4:18; *the history of the generations of Perez*; first of ten names, ending at David.
 
 ## Related people
 

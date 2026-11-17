@@ -27,6 +27,8 @@ tags: [connection]
 - **Genesis 46:12; Numbers 26:19–22; 1 Chronicles 2:3–5** — the resulting clans
 - [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the gate, the nearer kinsman's refusal, the shoe, *the name of the dead*.
 - [[The Birth of Obed]] — Ruth 4:13–17; the son born, credited to Naomi.
+- [[The Generations of Perez]] — Ruth 4:21; *Boaz became the father of Obed*, not Mahlon; the levirate name of the dead is not
+  the name in the line.
 
 ## Analysis
 

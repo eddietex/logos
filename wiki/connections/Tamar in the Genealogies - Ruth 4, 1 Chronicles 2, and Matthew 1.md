@@ -10,7 +10,9 @@ tags: [connection]
 - **Genesis 38:27–30** — Perez and Zerah born to Tamar — [[Judah and Tamar]]
 - **Genesis 46:12; Numbers 26:19–22** — the five sons of Judah, and the clans counted
 - **Ruth 4:12** — *"let your house be like the house of Perez, whom Tamar bore to Judah"* — [[Boaz Redeems at the Gate]]
-- **Ruth 4:18–22** — *"this is the history of the generations of Perez"*, ending on David
+- **Ruth 4:18–22** — *"this is the history of the generations of Perez"*, ending on David — [[The Generations of Perez]].
+  The list names no woman: Tamar is behind its heading, and Ruth is absent from the line that ends her
+  book. See [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]
 - **1 Chronicles 2:3–5** — Judah's line restated, with *Bath-shua the Canaanitess* and Er's verdict
 - **Matthew 1:3** — *"Judah became the father of Perez and Zerah by Tamar"*
 - **Luke 3:33** — Perez in the other genealogy, with no woman named

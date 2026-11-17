@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The king's name without the word — Ruth 4:18–22
+
+Ruth ends on ten generations from Perez to David, and the last word of the book is *David* (4:22). Judges
+had ended *In those days there was no king in Israel* (Judges 21:25); Ruth names the king and never uses
+the word. 1 Chronicles 2:15 and Matthew 1:6 give the same line, Matthew adding *King David* (WEB at
+bible-api.com, 2026-11-17). See [[The Generations of Perez]] and [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The fourth refrain — Judges 21:25
 
 *In those days there was no king in Israel. Everyone did that which was right in his own eyes* (21:25). The
@@ -828,6 +835,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Judah Goes Up First]] — Judges 1:1–7; no successor to Joshua, and a Canaanite king of seventy maimed kings.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:11; *the Philistines are rulers over us*.
 - [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David* — the book's turn toward the king.
+- [[The Generations of Perez]] — Ruth 4:18–22; ten generations from Perez, ending on *David*.
 
 ## Related themes
 

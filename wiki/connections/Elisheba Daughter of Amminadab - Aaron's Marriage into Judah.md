@@ -12,8 +12,8 @@ tags: [connection]
 - **Numbers 1:7; 2:3; 7:12; 10:14** — Nahshon son of Amminadab, head of Judah in the census
   ([[The Census in the Wilderness of Sinai]]), the camp, the dedication offerings ([[The Offerings of the Twelve Princes]]), and the march (10:14 by
   reference; Hebrew checked, not yet ingested)
-- **Ruth 4:19–20; 1 Chronicles 2:10–11** — Amminadab and Nahshon in the line from Perez to David
-  (by reference; not yet ingested) —
+- **Ruth 4:19–20; 1 Chronicles 2:10–11** — [[Amminadab]] and Nahshon in the line from Perez to David —
+  [[The Generations of Perez]]; Chronicles not yet ingested. See [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]] and
   [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]]
 - **Matthew 1:4; Luke 3:32–33** — the same two names in both genealogies of Jesus (by reference; not
   yet ingested)
@@ -37,7 +37,7 @@ the camp of Judah, which marches first (10:14). (Hebrew checked in the WLC; rend
 wiki's.) **Judah leads the camp, Nahshon leads Judah, and his sister is married to the high priest.**
 
 **The same two men stand in the royal genealogy.** Ruth closes with the line *Perez → Hezron → Ram →
-Amminadab → Nahshon → Salmon → Boaz → Obed → Jesse → David* (Ruth 4:18–22, by reference), and
+Amminadab → Nahshon → Salmon → Boaz → Obed → Jesse → David* (Ruth 4:18–22), and
 Chronicles repeats it (1 Chronicles 2:10–15). **So Aaron's brother-in-law is David's
 great-great-great-grandfather on the face of that list** — five generations by its count, which is
 short for the span it covers, and the list is usually read as selective.

@@ -576,6 +576,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The March from Sinai]] — Numbers 10:14; first of the twelve to move, under Nahshon.
 - [[The Twelve Spies]] — Numbers 13:6; Caleb goes for Judah, and Nahshon does not
 - [[Boaz Redeems at the Gate]] — Ruth 4:12; *whom Tamar bore to Judah*, in the blessing at Bethlehem's gate.
+- [[The Generations of Perez]] — Ruth 4:18–22; the line of his son Perez to David.
 
 ## Related people
 

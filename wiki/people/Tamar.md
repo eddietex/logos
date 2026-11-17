@@ -121,6 +121,7 @@ schema's instruction is to state that rather than resolve it.
   declared righteous. See [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]]
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — not named; Deuteronomy 23:17 is the only other Torah use of *qǝdēšâ*, Hirah's word for her (Genesis 38:21–22).
 - [[Boaz Redeems at the Gate]] — Ruth 4:12; the town blesses Boaz's house *like the house of Perez, whom Tamar bore to Judah*.
+- [[The Generations of Perez]] — Ruth 4:18; not named in the list, but its heading is her son's name.
 
 ## Related people
 

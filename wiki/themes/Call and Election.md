@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### From the younger twin — Ruth 4:18–22
+
+The line to David starts at Perez, the twin who came out second by the thread and first by the birth
+(Genesis 38:27–30), and 1 Chronicles 2:15 ends it at *David the seventh* son of Jesse (WEB at
+bible-api.com, 2026-11-17). Ruth names no choosing and gives no reason; the pattern of the younger is the
+reader's observation. See [[The Generations of Perez]] and [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Chosen by the elders — Judges 11:5–11
 
 Every judge before Jephthah was *raised up* by Yahweh (3:9, 15) or called by him (4:6; 6:11–14).
@@ -473,6 +480,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[A Holy People and Its Food]] — Deuteronomy 14:2; election repeated as the ground of the food law.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king *"whom Yahweh your God chooses"* (15).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priest *"chosen … out of all your tribes"* (5).
+- [[The Generations of Perez]] — Ruth 4:18–22; the line from Perez, the younger-born twin, to David.
 
 ## Related themes
 
