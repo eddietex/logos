@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Entice your husband — Judges 14:6, 9, 15–17
+
+Samson keeps two secrets from his parents, the lion (14:6) and the honey from its body (14:9), and turns
+them into a riddle for strangers. The companions answer deceit with force: *Entice your husband … lest
+we burn you and your father's house with fire* (14:15). *Entice*, *pattî* (WLC), is the word the
+Philistine lords will say to Delilah (16:5). The wife's weapon is tears, seven days of them (14:17). See
+[[Samson's Riddle]] and [[Entice Him - The Timnite Wife and Delilah]]. Source: stored WEB Judges 14:6–17; 16:5; Hebrew
+WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Turn in, don't be afraid — Judges 4:17–22
 
 Jael's *don't be afraid* (4:18) and the milk and covering that follow are the forms of safety, and the
@@ -647,6 +656,7 @@ See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1�
 - [[Answer a Fool]] — Proverbs 26:18–19, 23–26, 28; The prankster's excuse, the glazed pot, the hater disguised by his lips.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:16–19; the *"unrighteous witness"* who *"testified falsely against his brother"*.
 - [[Jael and Sisera]] — Judges 4:18–20; the host's welcome, and Sisera's scripted *No*.
+- [[Samson's Riddle]] — Judges 14:6, 9, 15–17; the parents not told, and *Entice your husband*.
 
 ## Related themes
 

@@ -31,6 +31,7 @@ tags: [connection]
   cannot listen; nations and Israel alike uncircumcised in heart *(not yet ingested; paraphrased)*
 - **Acts 7:51; Romans 2:28–29** — Stephen's *"uncircumcised in heart and ears"*; Paul's circumcision
   of the heart, by the Spirit *(not yet ingested; paraphrased)*
+- [[Samson's Riddle]] — Judges 14:3; *the uncircumcised Philistines*, the literal use beside the figurative.
 
 ## Analysis
 
@@ -70,3 +71,11 @@ a promise (God will do it). Paul and Stephen take it into the New Testament.
   uncircumcised lips are never healed. They are given a partner.**
 - See [[Circumcision]], [[Language and Speech]], and
   [[Who Am I - The Objections of the Called]].
+
+### The literal word in Judges 14:3
+
+Beside the figurative *uncircumcised* lips, ears, and heart, Judges uses the word plainly, as a name for a
+people: *a wife of the uncircumcised Philistines*, *hāʿărēlîm* (14:3, WLC; again 15:18). In Judges the
+word is used only of the Philistines. It marks them as outside the covenant sign, as Genesis 34:14 did the
+Shechemites. See [[Samson's Riddle]]. Sources: stored WEB Genesis 34:14; Judges 14:3; 15:18; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-16.

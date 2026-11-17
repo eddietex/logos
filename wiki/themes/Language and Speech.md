@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A riddle at a wedding — Judges 14:12–18
+
+*Let me tell you a riddle now*, *ʾāḥûdâ-nnāʾ lākem ḥîdâ* (14:12, WLC). *Out of the eater came out food.
+Out of the strong came out sweetness* (14:14). The riddle depends on what only Samson saw, and it is
+answered by two questions, *What is sweeter than honey? What is stronger than a lion?* (14:18), and
+Samson's reply is another figure, *If you hadn't plowed with my heifer*. *Ḥîdâ* occurs in the WLC of
+Genesis through Judges only in this chapter and at Numbers 12:8, where Yahweh speaks to Moses *not in
+riddles*. See [[Samson's Riddle]] and [[Not in Riddles - Numbers 12.8 and 1 Corinthians 13.12]]. Source: stored WEB
+Numbers 12:8; Judges 14:12–18; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### *Shibboleth* — Judges 12:4–6
 
 A war started by words is decided by a word. Ephraim's insult, *You are fugitives of Ephraim, you
@@ -1084,6 +1094,7 @@ in the book written by one person for another. See
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–19; the husband's *"bad name"* and the father's answer.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:23; *"that which has gone out of your lips"*.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–3; the bill of divorce written and put in her hand.
+- [[Samson's Riddle]] — Judges 14:12–18; the riddle, the counter-riddle, and *plowed with my heifer*.
 
 ## Related themes
 

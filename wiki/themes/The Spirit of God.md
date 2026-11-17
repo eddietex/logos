@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Spirit came mightily — Judges 14:6, 19
+
+The Spirit that *began to move him* (13:25) now *came mightily on him*, *wattiṣlaḥ ʿālāyw rûaḥ YHWH*
+(14:6, 19, WLC), first to tear a lion bare-handed, then to strike thirty men of Ashkelon for their
+clothes. The verb *ṣālaḥ*, elsewhere *prosper*, is used of the Spirit in Judges only for Samson (14:6,
+19; 15:14) and in 1 Samuel for Saul and David. The Spirit's coming does not make Samson's purposes
+good: the second rush pays a gambling debt, and *His anger burned* (14:19). See [[Samson's Riddle]] and
+[[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB Judges 13:25; 14:6, 19;
+15:14; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The Spirit began to move him — Judges 13:25
 
 *Yahweh's Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol* (13:25). On Othniel and
@@ -146,6 +156,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 - **Numbers 24:2; 27:18** — Balaam, and Joshua *(not yet ingested)*
 - **Joel 2:28–29; Acts 2:17–18** — on all flesh *(not yet ingested)*
 - [[The Announcement of Samson's Birth]] — Judges 13:25; *Yahweh's Spirit began to move him*.
+- [[Samson's Riddle]] — Judges 14:6, 19; *Yahweh's Spirit came mightily on him*.
 
 ## Related themes
 

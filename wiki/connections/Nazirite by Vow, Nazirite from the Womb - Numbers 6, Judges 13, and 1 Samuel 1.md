@@ -15,6 +15,7 @@ tags: [connection]
   his head."* *(same)*
 - Amos 2:11–12 — *"But you gave the Nazirites wine to drink"* *(same)*
 - Luke 1:15 — of John: *"he will drink no wine nor strong drink."* *(same)*
+- [[Samson's Riddle]] — Judges 14:8–10; honey from a lion's carcass, and a seven-day *mišteh*.
 
 ## Analysis
 
@@ -67,3 +68,15 @@ See [[Oaths and Vows]] and [[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges
 
 Sources: stored WEB Numbers; Judges, 1 Samuel, Amos, and Luke at bible-api.com; Hebrew from WLC
 (morphhb) by Strong's tags, 2026-10-31.
+
+### Judges 14 — the carcass and the feast
+
+The first chapter of Samson's adult life puts him beside two of the Nazirite's boundaries without saying
+he crossed either. He takes honey *out of the lion's body* (14:9). Numbers 6:6 forbids the Nazirite to
+*go near a dead body*, and the WLC there reads *nepeš mēt*, a dead person; Leviticus 11:27 makes the
+carcass of *Whatever goes on its paws* unclean to whoever touches it, *until the evening*. He holds a
+*mišteh*, a feast (14:10, WLC), the noun commonly derived from *šātâ*, *to drink* (reported, not
+checked), and the chapter does not say he drank. The razor, the rule chapter 13 stated first (13:5), is
+not touched until 16:19. The text records two silences, *he didn't tell* his parents (14:6, 9), and
+leaves the verdict out. See [[Samson's Riddle]]. Sources: stored WEB Leviticus 11:27; Numbers 6:6; Judges 13:5; 14:6–10;
+16:19. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-16.

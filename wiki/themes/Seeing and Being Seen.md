@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Right in my eyes — Judges 14:1–3, 7
+
+*Samson went down to Timnah, and saw a woman* (14:1); *I have seen a woman* (14:2); *she pleases me
+well*, *hîʾ yāšərâ bəʿênāy*, *she is right in my eyes* (14:3), and again *she pleased Samson well*,
+*wattîšar bəʿênê šimšôn* (14:7, WLC). It is the root of the refrain *Everyone did that which was right in
+his own eyes* (17:6; 21:25). The narrator sets beside it what the parents could not see, *that it was of
+Yahweh* (14:4). See [[Samson's Riddle]] and
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]]. Source: stored WEB Judges
+14:1–7; 17:6; 21:25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### We have seen God — Judges 13:20–23
 
 *Manoah and his wife watched* (13:19–20, *rōʾîm*, WLC), and then *Manoah knew that he was Yahweh's
@@ -782,6 +792,7 @@ glory appears to all Israel (10). See [[The People Refuse the Land]].
 - [[The People Refuse the Land]] — Numbers 14:10, 14, 22–23; those who saw will not see
 - [[The Song of Deborah]] — Judges 5:28; Sisera's mother at the window.
 - [[The Announcement of Samson's Birth]] — Judges 13:20–23; *we have seen God*, and *he wouldn't have shown us*.
+- [[Samson's Riddle]] — Judges 14:1–3, 7; *saw a woman*; *she is right in my eyes*.
 
 ## Related themes
 

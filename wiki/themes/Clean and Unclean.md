@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Honey from a carcass — Judges 14:8–9
+
+Samson takes honey from *the body of the lion*, eats it, and gives it to his parents, *but he didn't tell
+them that he had taken the honey out of the lion's body* (14:9). His mother had been told to eat
+*nothing unclean* (13:4, 14). Leviticus 11:27 makes *Whatever goes on its paws* unclean, and *Whoever
+touches their carcass shall be unclean until the evening*. The Nazirite law forbids going *near a dead
+body* (Numbers 6:6), which the WLC there phrases as *nepeš mēt*, a human dead. The text states no breach;
+it states the silence. See [[Samson's Riddle]]. Source: stored WEB Leviticus 11:27; Numbers 6:6; Judges 13:4, 14;
+14:8–9; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Nothing unclean, for the mother — Judges 13:4, 7, 14
 
 *Don't eat any unclean thing* (13:4), said to Samson's mother three times (4, 7, 14). Numbers 6's
@@ -703,6 +713,7 @@ said. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deutero
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:8–9; leprosy left to the priests' teaching, and Miriam remembered.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:14; the holy tithe not eaten unclean or *"given … for the dead"*.
 - [[The Announcement of Samson's Birth]] — Judges 13:4, 7, 14; *don't eat any unclean thing*, laid on the mother.
+- [[Samson's Riddle]] — Judges 14:8–9; honey taken from the lion's carcass, and not explained.
 
 ## Related themes
 

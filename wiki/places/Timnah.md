@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Samson's wedding town — Judges 14:1–20
+
+*Samson went down to Timnah, and saw a woman in Timnah of the daughters of the Philistines* (14:1).
+Listed for Dan (Joshua 19:43) and on Judah's border (Joshua 15:10), it is here a Philistine town:
+Philistine daughters, *the vineyards of Timnah* where a young lion meets Samson (14:5), and *the men of
+the city* who solve his riddle (14:18). Samson always goes *down* to it (14:1, 5, 7, 10). The marriage,
+the feast, and the lost riddle all happen here. See [[Samson's Riddle]] and [[Samson's Timnite Wife]].
+
+Source: stored WEB Joshua 15:10; 19:43; Judges 14:1–20.
+
 ### The last three lots — Joshua 19:24–48
 
 Listed in Dan’s inheritance with Elon and Ekron (43). Judah’s border *passed along by Timnah* (15:10); the double notice is recorded at [[Dan's Towns on Judah's Border - Joshua 15 and 19]].
@@ -40,7 +50,7 @@ road and the date**, which is what makes the gate of [[Enaim]] a plan rather tha
 
 **Most likely the Timnah of the Sorek valley**, on the border between Judah and Philistine country
 (Joshua 15:10; and in Dan's list at Joshua 19:43) — **the Timnah Samson goes down to and marries
-into** at Judges 14:1–5, in another story about an Israelite, a woman outside the line, and a young
+into** at Judges 14:1–5 (now ingested, [[Samson's Riddle]]), in another story about an Israelite, a woman outside the line, and a young
 goat (Judges 15:1). It is generally identified with **Tel Batash**, about four miles north-west of Beth
 Shemesh. 2 Chronicles 28:18 records the Philistines taking it back under Ahaz.
 
@@ -59,6 +69,7 @@ requalifying the other is renamed in the same pass**, per `AGENTS.md`.
 ## Appears in
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
 - [[The Borders of Judah]] — Joshua 15:1–12.
+- [[Samson's Riddle]] — Judges 14:1–20; the woman, the vineyards, the feast.
 
 - [[Judah and Tamar]] — Genesis 38:12–14; the destination that puts Judah on the road past
   [[Enaim]], and the festival that supplies the occasion
@@ -73,4 +84,4 @@ requalifying the other is renamed in the same pass**, per `AGENTS.md`.
 ## Events here
 
 - Judah's sheep-shearing, with [[Hirah the Adullamite]] — Genesis 38:12
-- Samson's marriage and the riddle — Judges 14 *(not yet ingested)*
+- Samson's marriage and the riddle — Judges 14 — [[Samson's Riddle]]

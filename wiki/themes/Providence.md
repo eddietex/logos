@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### It was of Yahweh — Judges 14:4
+
+*But his father and his mother didn't know that it was of Yahweh; for he sought an occasion against the
+Philistines* (14:4). *Mēyhwh hîʾ* (WLC) stands beside Laban and Bethuel's *The thing proceeds from
+Yahweh* (Genesis 24:50) and Joshua 11:20's *it was of Yahweh to harden their hearts*. The marriage
+the parents oppose and Samson wants for his own eyes is the means of a purpose neither knows. The *he* who
+*sought an occasion* can be read as Yahweh or as Samson, and the text does not settle it. See [[Samson's Riddle]].
+Source: stored WEB Genesis 24:50; Joshua 11:20; Judges 14:4; Hebrew WLC (OpenScriptures morphhb),
+2026-11-16.
+
 ### Every man's sword against his fellow — Judges 7:22
 
 The dream said a barley loaf would knock the tent flat (7:13). It happens by the tent's own people:
@@ -725,6 +735,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The March from Sinai]] — Numbers 10:29–34; God's leading and Hobab's knowledge in one paragraph.
 - [[Jael and Sisera]] — Judges 4:11, 17–23; Heber's tent and treaty, and *God subdued Jabin*.
 - [[The Song of Deborah]] — Judges 5:20–21; the stars and the Kishon fight.
+- [[Samson's Riddle]] — Judges 14:4; *it was of Yahweh; for he sought an occasion against the Philistines*.
 
 ## Related themes
 

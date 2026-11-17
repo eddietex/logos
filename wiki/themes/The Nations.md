@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Philistines who rule — Judges 14:3–4
+
+*Now at that time the Philistines ruled over Israel* (14:4). The chapter shows the rule from inside a
+Philistine town at peace with its Israelite visitor: a marriage, a feast, thirty companions. The parents'
+objection names the Philistines *uncircumcised* (14:3), though they are not among the seven peoples of
+Deuteronomy 7:1–3; the narrator says Yahweh *sought an occasion against* them (14:4). Judges 3:6 had
+reported intermarriage with the land's peoples as apostasy; here the marriage is the means of the
+conflict. See [[Samson's Riddle]] and [[Not from the Daughters of the Canaanites]]. Source: stored WEB Deuteronomy
+7:1–3; Judges 3:6; 14:1–4.
+
 ### Each nation and its god — Judges 11:15–24
 
 Jephthah's history moves through Edom, Moab, the Amorites, and Ammon, each with its border (11:15–22), and
@@ -938,6 +948,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; interest permitted from the *nokrî*.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; Amalek's memory to be blotted out from under the sky.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16, 21; the Kenites settle with Judah, and the Jebusites stay in Jerusalem.
+- [[Samson's Riddle]] — Judges 14:3–4; *the uncircumcised Philistines*; *the Philistines ruled over Israel*.
 
 ## Related themes
 

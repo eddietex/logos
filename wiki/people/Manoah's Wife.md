@@ -40,16 +40,29 @@ Later tradition is reported to give her a name; that is recalled, not verified, 
 
 Source: stored WEB Genesis 18:9–15; 25:21; 30:22; Judges 13:2–24.
 
+### The mother who is not told — Judges 14:2–9
+
+She appears in chapter 14 only as *his mother*, joined with *his father* in every line: the objection to
+a wife *of the uncircumcised Philistines* (14:3), the ignorance that *it was of Yahweh* (14:4), the
+journey to Timnah (14:5), and the honey (14:9). She was bound at his conception to *eat no unclean
+thing* (13:4, 14). In 14:9 her son gives her honey he took *out of the lion's body* and *didn't tell
+them*. Whether that honey was unclean under Leviticus 11:27 the text does not say. See
+[[Samson's Riddle]].
+
+Source: stored WEB Leviticus 11:27; Judges 13:4, 14; 14:2–9.
+
 ## Timeline / key events
 - Barren; visited by the angel of Yahweh and promised a son (Judges 13:2–5).
 - Reports the visit to her husband (13:6–7).
 - Visited again in the field; brings Manoah (13:9–10).
 - Answers her husband's fear of death (13:23).
 - Bears and names Samson (13:24).
+- Objects to Samson's Philistine wife; eats the honey unknowing (14:3–9).
 
 ## Appears in
 - [[The Announcement of Samson's Birth]] — Judges 13:1–25.
 - [[The Barren Matriarchs]] — among the barren women whose sons are announced.
+- [[Samson's Riddle]] — Judges 14:2–9; *his mother*.
 
 ## Related people
 - [[Manoah]] — her husband.

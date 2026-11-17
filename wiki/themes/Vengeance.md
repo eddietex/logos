@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Thirty men for a riddle — Judges 14:19
+
+*He went down to Ashkelon, and struck thirty men of them, and took their plunder, then gave the
+changes of clothing to those who declared the riddle. His anger burned* (14:19). The word *vengeance*
+is not used; the act is a payment and an outburst, and the narrator sets it under *Yahweh's Spirit came
+mightily on him* and under the *occasion against the Philistines* (14:4). The next chapter makes the
+reprisals explicit (15:7, not yet ingested). See [[Samson's Riddle]]. Source: stored WEB Judges 14:4, 19; 15:7.
+
 ### Yahweh has taken vengeance for you — Judges 11:36
 
 The daughter tells her father to keep his vow *because Yahweh has taken vengeance for you on your
@@ -315,6 +323,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Glory of Kings]] — Proverbs 25:21–22; Food for the enemy; Yahweh the one who repays.
 - [[The War Against Midian]] — Numbers 31:1–54; vengeance commanded, *Yahweh's vengeance on Midian*.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:19; *"you shall blot out the memory of Amalek"*, where Exodus 17:14 had *"I will"*.
+- [[Samson's Riddle]] — Judges 14:19; thirty struck at Ashkelon; *His anger burned*.
 
 ## Related themes
 

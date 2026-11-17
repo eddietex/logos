@@ -42,6 +42,7 @@ tags: [connection]
   by [[Shua's Daughter]] are listed without the note**; **[[Asenath]] is given her father's name and
   his priestly office.** **The prohibition of 24:3 and 28:1 is nowhere in sight**, and the wiki records
   that Genesis states the pedigrees and passes no verdict
+- [[Samson's Riddle]] — Judges 14:3; *Isn't there a woman among your brothers' daughters …?*
 
 ## Analysis
 
@@ -209,3 +210,17 @@ your mother's brother"* — **and it is plural.** At 29:23–30 both daughters a
 the brief did not specify and by a route nobody intended. **The endogamy requirement is satisfied
 exactly; everything else about the marriage is a disaster**, and Genesis reports the two facts in the
 same sentences without ranking them. See [[Jacob, Leah, and Rachel]].
+
+### Judges 14:3 — Samson's parents restate the rule
+
+*Isn't there a woman among your brothers' daughters, or among all my people, that you go to take a wife of
+the uncircumcised Philistines?* (14:3). Samson's parents argue as Abraham and Isaac did, by kin, *your
+brothers' daughters*, rather than by Deuteronomy's law; they cite neither Deuteronomy 7:3 nor any reason
+of worship. The Philistines are not among the seven nations of Deuteronomy 7:1, and the parents name them
+by the word Jacob's sons used at Shechem, *uncircumcised* (Genesis 34:14). Samson's answer is *she pleases
+me well* (14:3). The narrator adds the one sentence Genesis never adds to any of its marriages: *his father
+and his mother didn't know that it was of Yahweh; for he sought an occasion against the Philistines*
+(14:4). Genesis 24:50 had said of Rebekah *The thing proceeds from Yahweh*, of a marriage inside the
+family. Judges 14:4 says it of a marriage outside, and for the purpose of a war. The rule is not
+revoked; the marriage lasts a week (14:20). See [[Samson's Riddle]]. Sources: stored WEB Genesis 24:3, 50; 28:1; 34:14;
+Deuteronomy 7:1–3; Judges 14:1–20.

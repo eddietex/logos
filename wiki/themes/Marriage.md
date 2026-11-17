@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A wife given away in a week — Judges 14:1–20
+
+Samson chooses a wife by sight, *she pleases me well* (14:3), over his parents' plea for *a woman among
+your brothers' daughters* (14:3), the plea of Genesis 24:3 and 28:1. His father *went down to the woman*
+to arrange it (14:10), and the wedding is a seven-day *feast*, *mišteh* (14:10, 12, 17, WLC), the word of
+Laban's feast for Jacob (Genesis 29:22). The bride is threatened, presses her husband, and before the
+chapter ends *was given to his companion who had been his friend* (14:20). The narrator calls the
+marriage *of Yahweh* (14:4) and does not call it good. See [[Samson's Riddle]] and [[Samson's Timnite Wife]]. Source:
+stored WEB Genesis 24:3; 28:1; 29:22; Judges 14:1–20; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Thirty sent out, thirty brought in — Judges 12:9
 
 Ibzan *had thirty sons; and thirty daughters he sent outside his clan, and thirty daughters he brought in
@@ -765,6 +775,7 @@ connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levir
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5; the bill of divorce, no return after a second marriage, and the newlywed's year.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–10; the levirate law and the ceremony of refusal.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:12–15; Achsah given for Kiriath Sepher, then speaking for herself.
+- [[Samson's Riddle]] — Judges 14:1–20; a wife chosen by sight, a wedding week, and the bride given to the companion.
 
 ## Related themes
 

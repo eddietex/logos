@@ -27226,3 +27226,64 @@ single verses, not stored. Hebrew from a fresh download of the Westminster Lenin
 20:31, 39, 40; *kānaʿ* (3665) in Judges only of Moab, Jabin, Midian, and Ammon (3:30; 4:23; 8:28;
 11:33); *ʿăqārâ* (6135) in Genesis and Judges at Genesis 11:30; 25:21; 29:31; Judges 13:2, 3;
 *wəhôšîaʿ … miyyad pəlištîm* at 1 Samuel 9:16. Isaiah 9:6 not checked. No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 14.1-20 — Samson's Riddle
+
+Unattended run (`/ingest auto`). Samson sees a Philistine woman at Timnah and chooses her because *she
+pleases me well*, *she is right in my eyes*, over his parents' objection. The narrator adds *it was of
+Yahweh; for he sought an occasion against the Philistines* (14:4). Samson tears a lion when the Spirit
+comes on him, takes honey from its carcass, and tells his parents neither thing. He sets a riddle at the
+seven-day feast, loses it when the companions threaten his wife and she presses him, and strikes thirty
+men of Ashkelon to pay the wager. His wife is given to his companion.
+
+Created: [[Samson's Riddle]]; [[Samson's Timnite Wife]];
+[[Entice Him - The Timnite Wife and Delilah]];
+[[The Spirit Rushed on Him - Samson, Saul, and David]].
+
+Revised: [[Judges]] (box checked, overview, key people and places); [[Samson]]; [[Manoah]];
+[[Manoah's Wife]]; [[The Philistines]]; [[Timnah]]; [[Ashkelon]]; [[The Land of the Philistines]];
+themes [[Marriage]], [[Providence]], [[Seeing and Being Seen]], [[Circumcision]], [[The Spirit of God]],
+[[Clean and Unclean]], [[Language and Speech]], [[Deception]], [[Love]], [[Vengeance]], [[The Nations]];
+connections [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]],
+[[Not from the Daughters of the Canaanites]],
+[[The Spirit Came on Him - Balaam, Othniel, and Jephthah]],
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]],
+[[Not in Riddles - Numbers 12.8 and 1 Corinthians 13.12]],
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]],
+[[Uncircumcised Lips, Ears, and Heart]]. Also `wiki/books/index.md` (33 / 42), People Index F-M and N-Z,
+the places and themes indexes, Connections Index D-H, I-N, O-S, and T-Z, and the dashboard counts.
+Frontmatter totals: 469 passages, 334 people, 588 places, 88 themes, 892 connections.
+
+Readings recorded, not resolved: (1) whether the *he* who *sought an occasion* (14:4) is Yahweh or
+Samson; (2) whether the honey from the carcass (14:9) or the *mišteh* (14:10) broke the Nazirite rules.
+Numbers 6:6 speaks of a human dead body, so the wiki states no breach. (3) The days of 14:14–17 (three
+days, *the seventh day*, *the seven days*); an ancient reading *fourth day* at 14:15 is reported, not
+checked. (4) *Yāraš* in *to impoverish us* (14:15), the lemma of Judges 1's *drive out*, noted only.
+(5) *Ḥeres* for *sun* (14:18) in place of *šemeš*, the word usually connected with Samson's name; noted
+only. (6) Whom *plowed with my heifer* insults.
+
+No contradictions with existing pages found. [[Timnah]]'s identification note (*the Timnah Samson goes
+down to*) now points at the passage page; its open question about Genesis 38 is untouched.
+
+Judgment calls: kept 14:1–20 as one pericope; 14:20 closes it, though the wife's story runs into
+15:1–6. The wife gets a page, [[Samson's Timnite Wife]], following [[Manoah's Wife]] and
+[[Jephthah's Daughter]]. The companion of 14:20, the thirty companions, and the lion get no page. Delilah
+is not linked yet; her page arrives with 16:4–22. Two new connections: the Timnah week and Delilah share
+*pattî* (14:15; 16:5) and *ṣûq* (14:17; 16:16), and the Spirit's *ṣālaḥ* was already named in passing on
+[[The Spirit Came on Him - Balaam, Othniel, and Jephthah]] and now has its own page.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 24:3, 21, 50; 28:1;
+29:22, 27; 34:14; 39:2; Exodus 22:16; Leviticus 11:27; Numbers 6:6; 12:8; Deuteronomy 7:1–3; 11:16; 12:8,
+25; 21:15; 28:53; 33:22; Joshua 1:8; 11:20; 15:10; 19:43. 1 Samuel 10:6, 10; 11:6; 16:13, 14; 17:34–35;
+18:10 checked against WEB at bible-api.com, single verses, not stored. 1 Samuel 11:7 not checked, only
+paraphrased. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb)
+`Gen.xml`, `Exod.xml`, `Lev.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml` on
+2026-11-16. Verified in those files: *tōʾănâ* (8385) only at Judges 14:4; *ḥîdâ* (2420) only at Numbers
+12:8 and Judges 14:12–19, *ḥûd* (2330) only at Judges 14:12, 13, 16; *ṣālaḥ* (6743) with *rûaḥ* as
+subject only at Judges 14:6, 19; 15:14 and 1 Samuel 10:6, 10; 11:6; 16:13; 18:10; *wayyiḥar ʾappô* after
+it at Judges 14:19 and 1 Samuel 11:6; *pātâ* (6601) at Judges 14:15 and 16:5, beside Exodus 22:15
+(WLC numbering), Deuteronomy 11:16, and a homonym at Genesis 9:27; *ṣûq* (6693) only at Deuteronomy
+28:53, 55, 57 and Judges 14:17; 16:16; *ḥeres* (2775) in Judges only at 8:13 and 14:18; *ʿārēl* (6189) in
+Judges only at 14:3; 15:18; *yāšaʿ* (3467) absent from Judges 14; *mišteh* (4960) at Genesis 29:22 among
+others. Reported, not checked: the derivation of *mišteh* from *šātâ*; Ashkelon's distance from Timnah;
+whether *ṣālaḥ* is one verb or two homonyms. No Greek text was consulted.

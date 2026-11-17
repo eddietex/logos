@@ -38,9 +38,21 @@ behind his wife at every turn, the reverse of the man-first order the opening ve
 
 Source: stored WEB Genesis 25:21; Judges 13:2–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
+### The objecting father — Judges 14:2–10
+
+In chapter 14 he is never named, only *his father*. With his wife he objects to Samson's choice in the
+words of the patriarchs: *Isn't there a woman among your brothers' daughters, or among all my people,
+that you go to take a wife of the uncircumcised Philistines?* (14:3); compare Genesis 24:3 and 28:1 (stored
+WEB). Samson answers him alone, *Get her for me* (14:3). The narrator says *his father and his mother
+didn't know that it was of Yahweh* (14:4). He goes down to Timnah, eats the honey from the lion's carcass
+without being told where it came from (14:9), and *went down to the woman* to arrange the marriage
+(14:10). The man who asked what the child's *way of life* would be (13:12) is twice kept from knowing what
+his son is doing. See [[Samson's Riddle]].
+
+Source: stored WEB Genesis 24:3; 28:1; Judges 13:12; 14:1–10.
+
 ### Ahead
 
-He and his wife object to Samson's Philistine wife (14:2–3) and go down with him to Timnah (14:5).
 Samson is buried *in the burial site of Manoah his father* (16:31). Not yet ingested.
 
 ## Timeline / key events
@@ -48,12 +60,14 @@ Samson is buried *in the burial site of Manoah his father* (16:31). Not yet inge
 - Prays for the man of God to return (13:8).
 - Meets the angel, asks about the child and the visitor's name, offers on the rock (13:11–20).
 - Fears death for having seen God; answered by his wife (13:22–23).
+- Objects to Samson's Philistine wife, then arranges the marriage (14:2–10).
 
 ## Appears in
 - [[The Announcement of Samson's Birth]] — Judges 13:1–25.
 - [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] — the name refused.
 - [[They Saw God - Exodus 24, Exodus 33, and John 1.18]] — *we have seen God*.
 - [[Entertaining Angels Unawares]] — the meal refused.
+- [[Samson's Riddle]] — Judges 14:2–10; *his father*, unnamed, objects and goes down to Timnah.
 
 ## Related people
 - [[Manoah's Wife]] — his wife, who sees and reasons first.
@@ -63,6 +77,7 @@ Samson is buried *in the burial site of Manoah his father* (16:31). Not yet inge
 - [[Gideon]] — who also offered a goat to the angel and feared death (Judges 6:19–23).
 - [[Jacob]] — who also asked a divine visitor's name and was refused (Genesis 32:29).
 - [[Dan (person)]] — his tribe.
+- [[Samson's Timnite Wife]] — the daughter-in-law he objected to.
 
 ## Themes associated
 - [[Prayer]] · [[Sacrifice and Offering]] · [[Seeing and Being Seen]] · [[Names and Naming]] ·

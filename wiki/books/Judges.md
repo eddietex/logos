@@ -335,6 +335,18 @@ offering if he meant to kill them. She bears and names Samson, *Yahweh blessed h
 Spirit began to move him … between Zorah and Eshtaol*. He is the only judge whose birth is told, and
 the only one promised a beginning rather than rest.
 
+[[Samson's Riddle]] (14:1–20) begins his work with a look: *Samson went down to Timnah, and saw a woman
+… of the daughters of the Philistines*. His parents plead for *a woman among your brothers' daughters*
+rather than *the uncircumcised Philistines*; he answers *she pleases me well*, in Hebrew *she is right in
+my eyes*, the words the book will close on (21:25). The narrator adds that *it was of Yahweh; for he
+sought an occasion against the Philistines. Now at that time the Philistines ruled over Israel*. On the
+way the Spirit *came mightily on him* and he tears a young lion bare-handed; later he eats honey from its
+carcass and tells his parents neither thing. At the seven-day wedding feast he sets thirty Philistine
+companions a riddle, *Out of the eater came out food. Out of the strong came out sweetness*. They threaten
+to burn his bride and her father's house; she weeps the seven days until he tells her, and she tells
+them. The Spirit comes again, he strikes thirty men of Ashkelon to pay the wager, *His anger burned*, and
+he goes home. His wife is given to his companion. The pressing and the *Entice* return with Delilah.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -389,7 +401,7 @@ merge, or reorder them freely.
 - [x] [[Shibboleth]] — Judges 12:1–7
 - [x] [[Ibzan, Elon, and Abdon]] — Judges 12:8–15
 - [x] [[The Announcement of Samson's Birth]] — Judges 13:1–25
-- [ ] Samson's Riddle — Judges 14:1–20
+- [x] [[Samson's Riddle]] — Judges 14:1–20
 - [ ] Samson Against the Philistines at Lehi — Judges 15:1–20
 - [ ] Samson at Gaza — Judges 16:1–3
 - [ ] Samson and Delilah — Judges 16:4–22
@@ -473,7 +485,8 @@ merge, or reorder them freely.
 - [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
 - [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
 - [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25).
-- [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24).
+- [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24); they object to his Philistine wife (14:3).
+- [[Samson's Timnite Wife]] — chosen by sight, pressed for the riddle, and given to his companion (14:1–20).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
@@ -508,3 +521,4 @@ merge, or reorder them freely.
 - [[Bethlehem]] or [[Bethlehem (Zebulun)]], [[Aijalon (Zebulun)]], [[Pirathon]] — the towns and graves of Ibzan, Elon, and Abdon (12:8–15).
 - [[The Jordan]] — its fords held by Ehud against Moab (3:28) and by Gilead against Ephraim (12:5–6).
 - [[Zorah]], [[Eshtaol]], and [[Mahaneh Dan]] — Manoah's town, and where the Spirit begins to move Samson (13:2, 25).
+- [[Timnah]] and [[Ashkelon]] — Samson's wedding town, and where he strikes thirty men (14:1, 19).

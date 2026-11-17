@@ -91,6 +91,7 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
 - [[The Song of the Sea]] — Exodus 15:14; **named as a land, and trembling.** *"Pangs have taken hold on the inhabitants of
   Philistia"*
 - [[The Angel Sent Ahead]] — Exodus 23:31; *"the sea of the Philistines"* as the western border
+- [[Samson's Riddle]] — Judges 14:4; *at that time the Philistines ruled over Israel*
 
 ## Related places
 

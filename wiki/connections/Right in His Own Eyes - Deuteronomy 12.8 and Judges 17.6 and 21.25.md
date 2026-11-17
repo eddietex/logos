@@ -17,6 +17,7 @@ tags: [connection]
 - [[The King's Heart]] — Proverbs 21:2: *"Every way of a man is right in his own eyes, but Yahweh
   weighs the hearts."*
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 15 — *evil in Yahweh's sight*; *whatever seems good to you* (stored WEB).
+- [[Samson's Riddle]] — Judges 14:3, 7; *she pleases me well*, literally *she is right in my eyes* (stored WEB; WLC).
 
 ## Analysis
 
@@ -73,3 +74,18 @@ good to you*, *kəkol-haṭṭôb bəʿênêkā*, *all that is good in your eyes
 judgment by Deuteronomy's standard, *that which is right in Yahweh's eyes* (12:25). The refrain of 17:6
 and 21:25 moves the eyes from Yahweh to each man. Sources: stored WEB Judges 3:7; 4:1; 10:6, 15; 13:1;
 17:6; Deuteronomy 12:25. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
+### Judges 14:3, 7 — the first judge ruled by his own eyes
+
+The English phrase does not appear in Judges 14, but the Hebrew does. Samson asks for the Philistine
+woman *kî-hîʾ yāšərâ bəʿênāy*, which the WEB renders *for she pleases me well* (14:3), and the narrator
+repeats it, *wattîšar bəʿênê šimšôn*, *she pleased Samson well* (14:7). Both use the verb *yāšar*
+(lemma 3474) with *bəʿênê*, *in the eyes of*. The refrain of 17:6 and 21:25 uses the adjective of the
+same root, *ʾîš hayyāšār bəʿênāyw yaʿăśeh* (lemma 3477). All WLC. So the formula that will close the book
+first describes one man's choice of a wife, three chapters before it describes the nation.
+
+The next verse complicates it: *his father and his mother didn't know that it was of Yahweh* (14:4).
+What is right in Samson's eyes is being used by Yahweh, and the narrator does not say it is therefore
+right in Yahweh's eyes. Deuteronomy 12's contrast, *right in his own eyes* against *right in Yahweh's
+eyes* (12:8, 25), is left standing. See [[Samson's Riddle]]. Sources: stored WEB Deuteronomy 12:8, 25; Judges 14:3–7;
+17:6; 21:25. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-16.

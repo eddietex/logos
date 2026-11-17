@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### You hate me, and don't love me — Judges 14:16
+
+The first words of Samson's wife are a complaint: *You just hate me, and don't love me* (14:16),
+*raq-śənēʾtanî wəlōʾ ʾăhabtānî* (WLC), the pair of verbs of Deuteronomy 21:15's *the one beloved, and the
+other hated*. The chapter has said only that she *pleased* him (14:3, 7). Judges 16 will say *he loved*
+Delilah (16:4), and Delilah will use the charge in the other direction, *How can you say, 'I love you,'
+when your heart is not with me?* (16:15). See [[Samson's Riddle]] and
+[[Entice Him - The Timnite Wife and Delilah]]. Source: stored WEB Deuteronomy 21:15; Judges 14:3, 7,
+16; 16:4, 15; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 The charge comes to its centre in *love Yahweh your God* (11), set beside *hold fast to Yahweh* (8). In the WEB the same verb, *hold fast*, describes the wrong loyalty in verse 12: holding fast to the remnant of the nations.
@@ -767,6 +777,7 @@ Source: stored WEB Song 8:13–14.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant who stays *"because he loves you and your house"* (16).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:15–17; *"the one beloved, and the other hated"*, and the protected firstborn.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:5; *"because Yahweh your God loved you"*.
+- [[Samson's Riddle]] — Judges 14:16; *You just hate me, and don't love me*.
 
 ## Related themes
 

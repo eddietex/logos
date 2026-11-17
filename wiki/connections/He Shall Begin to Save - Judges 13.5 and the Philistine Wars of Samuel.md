@@ -18,6 +18,7 @@ tags: [connection]
   stored)
 - 1 Samuel 9:16 — of Saul: *He will save my people out of the hand of the Philistines* (same)
 - 2 Samuel 8:1 — *After this, David struck the Philistines and subdued them* (same)
+- [[Samson's Riddle]] — Judges 14:4, 19; *he sought an occasion against the Philistines*, and thirty struck at Ashkelon.
 
 ## Analysis
 
@@ -67,3 +68,14 @@ Sources: stored WEB Judges 3:30–31; 4:23; 8:28; 11:33; 13:5, 25; 15:20; 16:19,
 Samuel 7:13; 9:16; 2 Samuel 8:1 checked against WEB at bible-api.com, 2026-11-16, not stored. Hebrew
 from the Westminster Leningrad Codex (OpenScriptures morphhb), `Judg.xml`, `1Sam.xml`, `2Sam.xml`,
 downloaded 2026-11-16; the claim that *kānaʿ* is never used of the Philistines covers Judges only.
+
+### Judges 14 — the first blow
+
+The beginning promised at 13:5 starts at 14:4: Yahweh *sought an occasion against the Philistines. Now at
+that time the Philistines ruled over Israel*. The occasion is a marriage, and the first blow is thirty men
+of Ashkelon struck to pay a wager (14:19). The word *save*, *yāšaʿ*, does not occur in the chapter. The
+Spirit verb of 14:6, 19, *ṣālaḥ*, is the verb later used of Saul, whom 1 Samuel 9:16 promises will *save
+my people out of the hand of the Philistines*; see
+[[The Spirit Rushed on Him - Samson, Saul, and David]]. See [[Samson's Riddle]]. Sources: stored WEB Judges 13:5; 14:4,
+19; 1 Samuel 9:16 as cited above. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb),
+2026-11-16.

@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### They ruled over Israel — Judges 14:1–20
+
+*Now at that time the Philistines ruled over Israel* (14:4). The book shows the rule only from inside a
+Philistine town: [[Timnah]] has *daughters of the Philistines* (14:1), a feast, thirty young men, and
+*the men of the city* (14:11, 18). Samson's parents call them *the uncircumcised* (14:3), the word of
+Genesis 34:14. The thirty companions threaten to burn his wife *and your father's house with fire*
+(14:15), and ask *Have you called us to impoverish us?*, a verb, *yāraš* (WLC), that Judges 1 uses for
+Israel driving out the land's people. Samson strikes thirty men of [[Ashkelon]] for their clothes
+(14:19). The narrator says Yahweh *sought an occasion against the Philistines* (14:4). See [[Samson's Riddle]].
+
+Source: stored WEB Genesis 34:14; Judges 1:19–33; 14:1–20; Hebrew WLC (OpenScriptures morphhb),
+2026-11-16.
+
 ### Forty years, and only a beginning — Judges 13:1, 5
 
 *Yahweh delivered them into the hand of the Philistines forty years* (13:1), the longest oppression
@@ -63,6 +76,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Their five lords head the nations left to test Israel — [[The Nations Left to Test Israel]].
 - Six hundred struck by Shamgar with an ox goad — [[Shamgar and the Ox Goad]].
 - Israel sold into their hand with Ammon — [[Israel's Repentance Under Ammon]].
+- Rule over Israel; the Timnah wedding and thirty struck at Ashkelon — [[Samson's Riddle]].
 
 ## Appears in
 
@@ -77,6 +91,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred struck with an ox goad.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6–7, 11; their gods served; Israel sold into their hand.
 - [[The Announcement of Samson's Birth]] — Judges 13:1, 5; forty years of oppression; Samson to *begin* to save Israel from them.
+- [[Samson's Riddle]] — Judges 14:1–20; *the uncircumcised*; the thirty companions; thirty men of Ashkelon.
 
 ## Related people
 

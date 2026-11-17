@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Thirty men for their clothes — Judges 14:19
+
+*Yahweh's Spirit came mightily on him, and he went down to Ashkelon, and struck thirty men of them, and
+took their plunder* (14:19). The city is Philistine; Judah's taking of it at 1:18 has not held. Samson
+pays the solvers of his riddle with the garments of the dead. The text does not say why Ashkelon was
+chosen; it lies some distance from Timnah, toward the coast (reported, not checked). See [[Samson's Riddle]].
+
+Source: stored WEB Judges 1:18; 14:19.
+
 ### Taken by Judah — Judges 1:18
 
 *Also Judah took Gaza with its border, and Ashkelon with its border, and Ekron with its border* (18).
@@ -24,6 +33,7 @@ Source: stored WEB Joshua 13:1–7.
 ## Appears in
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
 - [[The Land That Remains]] — Joshua 13:1–7.
+- [[Samson's Riddle]] — Judges 14:19; thirty men struck by Samson.
 
 ## Related places
 - [[Gaza]] · [[Ashdod]] · [[Gath]] · [[Ekron]]
@@ -31,3 +41,4 @@ Source: stored WEB Joshua 13:1–7.
 ## Events here
 - Named in the inventory of land remaining; no new conquest narrated.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]
+- Thirty men struck by Samson — Judges 14:19 — [[Samson's Riddle]]

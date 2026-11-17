@@ -15,6 +15,7 @@ tags: [connection]
   (stored WEB)
 - [[The Fleece]] — **Judges 6:34** — *But Yahweh's Spirit came on Gideon, and he blew a trumpet* (stored WEB). A
   different verb, kept here for contrast.
+- [[Samson's Riddle]] — **Judges 14:6, 19** — *Yahweh's Spirit came mightily on him* (stored WEB); the verb *ṣālaḥ*, kept here for contrast.
 
 ## Analysis
 
@@ -64,3 +65,10 @@ WEB Judges 6:33–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 Sources: stored WEB Numbers 24:1–3; 27:18; Judges 3:10; 6:34; 11:29–31; 14:6. Hebrew of Numbers
 24:2 and Judges 3:10; 6:34; 11:29; 14:6 read from the Westminster Leningrad Codex (OpenScriptures
 morphhb), 2026-11-13.
+
+### Samson's verse now ingested
+
+[[Samson's Riddle]] confirms the third verb: *wattiṣlaḥ ʿālāyw rûaḥ YHWH* (Judges 14:6, 19, WLC). The
+thread of *ṣālaḥ* into Saul and David is followed on its own page,
+[[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB Judges 14:6, 19; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.

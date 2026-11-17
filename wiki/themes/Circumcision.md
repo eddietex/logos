@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The uncircumcised Philistines — Judges 14:3
+
+Samson's parents object to *a wife of the uncircumcised Philistines*, *mippəlištîm hāʿărēlîm* (14:3,
+WLC). The word marks the people as outside, as Jacob's sons used it at Shechem: *to give our sister to
+one who is uncircumcised* (Genesis 34:14). The Philistines are the one neighbour Judges names this way;
+the narrator does not comment on the objection, and adds that the marriage *was of Yahweh* (14:4). See
+[[Samson's Riddle]] and [[Uncircumcised Lips, Ears, and Heart]]. Source: stored WEB Genesis 34:14; Judges 14:3–4;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The second circumcision is national renewal across generations, not a second operation on already circumcised men (2–7). The departing generation had the sign; the wilderness-born children did not. The text gives no reason for the wilderness omission.
@@ -215,6 +224,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
   [[One Law for the Native and the Stranger]] and [[Uncircumcised Lips, Ears, and Heart]]
 - [[Laws of Holiness and Compassion]] — Exodus 22:30; the firstborn animal given on the eighth day
 - [[The Passover in the Second Year]] — Numbers 9:14; the rule of Exodus 12:48 not repeated.
+- [[Samson's Riddle]] — Judges 14:3; *a wife of the uncircumcised Philistines*.
 
 ## Related themes
 

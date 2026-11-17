@@ -11,6 +11,7 @@ tags: [connection]
 - **1 Corinthians 13:12** — *For now we see in a mirror, dimly, but then face to face* (WEB) *(not yet ingested)*
 - [[The Purpose of the Proverbs]] — Proverbs 1:6; riddles as the wise man's study
 - **Psalm 78:2** — *I will utter dark sayings of old* (WEB) *(not yet ingested)*
+- [[Samson's Riddle]] — Judges 14:12–19; *ḥîdâ* eight times, the riddle at Samson's wedding.
 
 ## Analysis
 
@@ -25,3 +26,13 @@ tags: [connection]
 The verse gives a scale for revelation, from dark to plain. Paul, if he uses it, moves the top of the scale to the end of the age. See [[Prophecy and Vision]] and [[Wisdom]].
 
 Sources: WEB of Numbers from `raw/bible/`; Psalms and 1 Corinthians at bible-api.com (`translation=web`), 2026-11-02. Hebrew word locations from WLC (morphhb); Rahlfs from the eliranwong LXX-Rahlfs-1935 repository; 1 Corinthians from SBLGNT.
+
+### Judges 14 — a riddle no one could solve
+
+The noun of Numbers 12:8, *ḥîdâ* (lemma 2420), occurs in the WLC of Genesis through Judges only there and
+in Judges 14:12–19, eight times, with its verb *ḥûd* (2330) three times (14:12, 13, 16). Samson's riddle,
+*Out of the eater came out food. Out of the strong came out sweetness* (14:14), is unsolvable by design,
+because it depends on a sight only he had. It is solved only by force and tears (14:15–18). Numbers 12:8
+sets riddles below plain speech, *mouth to mouth*; Judges 14 shows a riddle as a closed thing that only
+its maker can open. See [[Samson's Riddle]]. Sources: stored WEB Numbers 12:8; Judges 14:12–19. Hebrew from the
+Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-16.
