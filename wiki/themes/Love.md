@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Ḥeseḏ* to the dead, and Ruth's loyalty — Ruth 1:8, 14–17
+
+*May Yahweh deal kindly with you, as you have dealt with the dead, and with me* (1:8). Naomi's word is
+*ḥeseḏ*, loyal kindness, and she credits two Moabite women with having shown it to her dead sons and to
+her. In the WLC of Ruth *ḥeseḏ* occurs three times (1:8; 2:20; 3:10). Ruth's vow (1:16–17) never uses the
+word *love*, but it is the book's clearest picture of loyalty that goes beyond obligation: she *clung* to
+Naomi (14), the verb of Genesis 2:24. See [[Ruth Clings to Naomi]] and [[Go Back or Cling - Joshua 23.12 and Ruth 1.14-16]].
+Source: stored WEB Ruth 1:8, 14–17; Genesis 2:24; Hebrew WLC, 2026-11-17.
+
 ### He loved a woman — Judges 16:4, 15
 
 *It came to pass afterward, that he loved a woman in the valley of Sorek, whose name was Delilah* (16:4),
@@ -627,6 +636,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[Ruth Clings to Naomi]] — Ruth 1:8, 14–17; *ḥeseḏ* to the dead and the living; Ruth *joined with her*.
 - [[Samson and Delilah]] — Judges 16:4, 15; *he loved a woman*; *How can you say, 'I love you'*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *that you love Yahweh your God* (11).
 

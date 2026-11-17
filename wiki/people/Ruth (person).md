@@ -7,6 +7,20 @@ tags: [person]
 
 ## Overview
 
+### *Where you go, I will go* — Ruth 1:6–18
+
+On the road to Judah, after Naomi has urged both widows three times to go back, Orpah goes, and *Ruth
+joined with her* (14), *dāḇəqâ*, the verb of Genesis 2:24 and of Deuteronomy's *cling to him*. Her first
+words of her own follow: *Where you go, I will go; and where you stay, I will stay. Your people will be my
+people, and your God my God. Where you die, I will die, and there I will be buried* (16–17). She seals it
+with a self-curse oath in Yahweh's name, *May Yahweh do so to me, and more also, if anything but death parts
+you and me* (17), the only such oath in the books the wiki has read spoken by a woman. Naomi sees she is
+*determined*, *mitʾammeṣeṯ* (18), from the verb of *Be strong and courageous*. The text describes a vow of
+belonging to a people and its God; it uses no word for conversion. See [[Ruth Clings to Naomi]],
+[[Go Back or Cling - Joshua 23.12 and Ruth 1.14-16]], and
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]]. Source: stored WEB Ruth 1:6–18; Genesis
+2:24; Deuteronomy 10:20; 31:6–7; Hebrew WLC, 2026-11-17.
+
 A Moabite woman who marries into a family of Bethlehem Judah sojourning in Moab (Ruth 1:4), and the
 figure the book of [[Ruth]] is named for. The page carries `(person)` because the book holds the bare
 name.
@@ -30,9 +44,11 @@ Deuteronomy 23:3.
 
 - Married to Mahlon (4:10) in Moab — Ruth 1:4
 - Widowed after about ten years, without a child reported — Ruth 1:4–5
+- Sets out with Naomi for Judah; refuses to go back and vows to stay with her — Ruth 1:6–18
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:4–5; a Moabite wife, widowed.
+- [[Ruth Clings to Naomi]] — Ruth 1:14–18; *Ruth joined with her*; *Your people will be my people, and your God my God*.
 - [[Joseph in Potiphar's House]] — named in a comparison of women who take the initiative (Ruth 3).
 
 ## Related people
@@ -45,3 +61,6 @@ Deuteronomy 23:3.
 - [[The Nations]]
 - [[Marriage]]
 - [[The Poor and the Vulnerable]]
+- [[Oaths and Vows]]
+- [[Love]]
+- [[Burial and the Grave]]

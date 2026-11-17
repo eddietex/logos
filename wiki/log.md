@@ -27848,3 +27848,40 @@ and 17:12 checked against the WEB at bible-api.com (not stored in raw). Hebrew f
 Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Judg`, `Ruth`, and `1Sam` XML on 2026-11-17;
 occurrence claims cover those files. Name meanings are conventional glosses, qualified on each page and not
 verified against a lexicon. Nehemiah 13 paraphrased by reference, not verified. No Greek text consulted.
+
+## [2026-11-17] ingest | Ruth 1.6-18 — Ruth Clings to Naomi
+
+Unattended run (`/ingest auto`). Ruth is the first `in-progress` book; the next unchecked box was 1:6–18.
+Ruth now 2 / 8.
+
+Created: [[Ruth Clings to Naomi]]; connections [[Go Back or Cling - Joshua 23.12 and Ruth 1.14-16]] and
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]].
+
+Revised: book [[Ruth]] (box checked, overview paragraph, two key themes added); people [[Naomi]],
+[[Ruth (person)]], [[Orpah]], [[Chemosh]]; places [[Moab (place)]], [[Bethlehem]]; themes
+[[Famine and Plenty]], [[Love]], [[Oaths and Vows]], [[The Nations]], [[Hope]], [[Mourning and Lament]],
+[[Marriage]], [[Suffering]], [[Burial and the Grave]]; connections
+[[Into My Mother's House - Song of Solomon 3.4, 8.2, Genesis 24, and Ruth 1.8]] (Ruth 1:8 now ingested,
+Hebrew re-read in the WLC) and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Also
+`wiki/books/index.md`, People Index A-E and N-Z, the places and themes indexes, Connections Index D-H and
+I-N, and the dashboard counts. Frontmatter totals: 480 passages, 349 people, 598 places, 88 themes, 914
+connections.
+
+Judgment calls: kept the planned boundary 1:6–18. Chemosh is linked from the passage though the text says
+only *her god* (1:15); the page says the identification is the reader's. No place page for *the land of
+Judah* (1:7); the wiki has no Judah territory page and the destination is [[Bethlehem]]. No new person pages.
+The Joshua 23:12 connection rests on two shared common verbs; the page says the text does not cite Joshua.
+
+No contradictions found. Readings recorded, not resolved: *mar-lî məʾōḏ mikkem* (1:13) as *for your sakes*
+or *more than you*; Naomi's *Yahweh's hand has gone out against me* kept apart from the narrator, who
+ascribes to Yahweh only the bread (1:6); Orpah not judged; Ruth 1:16 as conversion, which the text does not
+name.
+
+Sources: Ruth quoted from stored WEB. Comparisons from stored WEB Genesis 2:24; 13:9, 11; 19:37; 21:1; 24:28;
+38:8–11; 47:29–30; 50:24–25; Numbers 21:29; Deuteronomy 10:20; 11:22; 13:4, 17; 25:5–9; 28:60; 30:20;
+31:6–7; Joshua 1:6–9; 23:8, 12; Judges 11:24; Ruth 2:11; 3:1. 1 Samuel 3:17–18; 14:44–45; 20:13, 17;
+25:22, 32–34 checked against the WEB at bible-api.com (not stored in raw). Hebrew from a fresh download of
+the Westminster Leningrad Codex (OpenScriptures morphhb) `Ruth`, `Gen`, `Deut`, `Josh`, `Judg`, and `1Sam`
+XML on 2026-11-17; every occurrence claim covers those six files and is stated on the page that makes it.
+Rare-word glosses (*tēʿāgēnâ*) are conventional and not verified against a lexicon. Proverbs 18:24 cited
+from an existing page, not rechecked. No Greek text consulted.

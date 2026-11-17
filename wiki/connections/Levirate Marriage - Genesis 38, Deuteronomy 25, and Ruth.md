@@ -19,6 +19,7 @@ tags: [connection]
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–10; the law, with the refusal ceremony attached.
 - **Leviticus 18:16; 20:21** — *"you shall not uncover the nakedness of your brother's wife"*, with
   childlessness as the penalty
+- [[Ruth Clings to Naomi]] — Ruth 1:11–15; Naomi's argument from the levirate custom.
 - **Ruth 1:11–13; 3:1–13; 4:1–12** — Naomi's argument, the threshing floor, and the redemption at the
   gate
 - **Matthew 22:23–33 · Mark 12:18–27 · Luke 20:27–40** — the Sadducees' seven brothers
@@ -142,6 +143,18 @@ ingested). The law's purpose, *that his name not be blotted out of Israel* (Deut
 stake from the fifth verse, and Ruth 4:10 will answer it in nearly the same terms: *that the name of the
 dead may not be cut off*. See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:3–5, 11–13; 4:10;
 Genesis 38:11; Deuteronomy 25:5–6.
+
+### Ruth 1:6–18 now ingested
+
+Naomi makes the argument the previous section anticipated. *Do I still have sons in my womb, that they may
+be your husbands?* (1:11). She takes the custom further than Genesis 38 did: Judah told Tamar to wait for
+Shelah to grow up (Genesis 38:11); Naomi asks whether her daughters-in-law would wait for sons not yet
+conceived, and answers no (1:12–13). Her word for Orpah is *yəḇimtēḵ*, *your sister-in-law* (1:15, WLC),
+the noun *yəḇēmeṯ* that Deuteronomy 25:7, 9 uses for the widow of the levirate law; in the WLC files read
+(Genesis, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel) it occurs only in those three verses. On Naomi's
+reasoning the levirate road is closed, and the book reopens it through a more distant kinsman (2:20;
+4:5, 10). See [[Ruth Clings to Naomi]]. Source: stored WEB Ruth 1:11–15; Genesis 38:11; Deuteronomy 25:7, 9; Hebrew WLC,
+2026-11-17.
 
 ## Significance
 

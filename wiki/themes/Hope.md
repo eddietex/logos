@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *If I should say, "I have hope"* — Ruth 1:12
+
+*If I should say, 'I have hope,' if I should even have a husband tonight, and should also bear sons; would
+you then wait until they were grown?* (1:12–13). *Tiqwâ*, *hope* (WLC), is named only to be ruled out:
+Naomi argues that even an impossible hope would come too late for her daughters-in-law. The book answers her
+argument with a kinsman she has not thought of (2:20) and a son born to Ruth (4:13–17). See [[Ruth Clings to Naomi]]. Source:
+stored WEB Ruth 1:12–13; 2:20; 4:13–17; Hebrew WLC, 2026-11-17.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Deuteronomy's fullest promise of return after exile, spoken before Israel has entered the land (1–10). It extends 4:29–31 with return to the land and a changed heart.
@@ -175,6 +183,7 @@ are identified on the passage and connection pages.
 
 ## Key passages
 
+- [[Ruth Clings to Naomi]] — Ruth 1:12; hope named only to be ruled out.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

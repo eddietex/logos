@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Left behind — Ruth 1:6–18
+
+*She had heard in the country of Moab how Yahweh had visited his people in giving them bread* (1:6). The
+news reaches Naomi in Moab, and the book's movement reverses: the family went out to Moab for food, and the
+survivor goes home for it. On the road Moab becomes a choice. Orpah *has gone back to her people, and to
+her god* (15); Ruth takes Naomi's people and God instead (16). Moab is not judged in the passage; it is
+what Orpah returns to and what Ruth leaves. See [[Ruth Clings to Naomi]]. Source: stored WEB Ruth 1:6–16.
+
 ### A refuge in famine — Ruth 1:1–5
 
 *A certain man of Bethlehem Judah went to live in the country of Moab* (Ruth 1:1). After Eglon's
@@ -377,6 +385,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; contextual setting.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; contextual setting.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Moabite excluded from Yahweh's assembly.
+- [[Ruth Clings to Naomi]] — Ruth 1:6–15; where the news of bread is heard, and where Orpah returns.
 
 ## Related places
 
@@ -403,3 +412,4 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - Mesha rebels against Israel after Ahab's death and commemorates it on the Mesha Stele — 2 Kings 3
 - Sentenced to the fate of Sodom — Zephaniah 2:9
 - Its *"mighty men"* sung as trembling at the news of the sea — Exodus 15:15
+- [[Ruth Clings to Naomi]] — Naomi hears of bread in Judah and leaves with her daughters-in-law; Orpah turns back, Ruth stays with Naomi (Ruth 1:6–18).

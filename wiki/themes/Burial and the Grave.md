@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *There I will be buried* — Ruth 1:17
+
+*Where you die, I will die, and there I will be buried* (1:17). Ruth's vow ends with her grave. Jacob and
+Joseph asked to be buried in the land of their fathers (Genesis 47:29–30; 50:25); Ruth asks to be buried in
+the land of her mother-in-law, among a people not her own by birth. The book never narrates her death or
+burial. See [[Ruth Clings to Naomi]]. Source: stored WEB Ruth 1:17; Genesis 47:29–30; 50:25.
+
 ### Between Zorah and Eshtaol — Judges 16:31
 
 *Then his brothers and all the house of his father came down, and took him, and brought him up, and
@@ -268,6 +275,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Ruth Clings to Naomi]] — Ruth 1:17; *there I will be buried*, Ruth's grave chosen in Naomi's land.
 - [[The Death of Samson]] — Judges 16:31; buried in Manoah's tomb between Zorah and Eshtaol.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:10, 12, 15; buried at Bethlehem, Aijalon, and Pirathon.
 - [[Shibboleth]] — Judges 12:7; *buried in the cities of Gilead*.

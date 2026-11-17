@@ -15,7 +15,7 @@ tags: [connection]
   these words."* (*lǝḇêt ʾimmāh*)
 - **Genesis 24:67** — [[A Wife for Isaac]]: *"Isaac brought her into his mother Sarah's tent, and
   took Rebekah, and she became his wife. He loved her."* (*wayǝḇiʾehā yiṣḥāq hāʾōhĕlâ śārâ ʾimmô*)
-- **Ruth 1:8** *(not yet ingested; WEB checked at bible-api.com)* — Naomi: *"Go, return each of you
+- **Ruth 1:8** — [[Ruth Clings to Naomi]]: Naomi: *"Go, return each of you
   to her mother's house."* (*lǝḇêt ʾimmāh*)
 
 Hebrew of all read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
@@ -67,6 +67,14 @@ apple tree associated with conception and birth. The WEB does not label this
 speaker; the scene is not an additional house visit or a narrated wedding.
 Source for this addition: stored WEB Song 8:5–7 and Proverbs 6:27–35;
 no new source-language claim. See [[Love Beyond Purchase - Song of Solomon 8.6-7 and Proverbs 6.30-35]].
+
+**Ruth 1:8 now ingested.** In [[Ruth Clings to Naomi]] the WLC confirms *ləḇêṯ ʾimmāh* (1:8). A widow
+would ordinarily be sent to her *father's* house, as Judah sent Tamar: *Remain a widow in your father's
+house* (Genesis 38:11). Naomi's *mother's house* is paired with a second house in the next verse, *rest
+… in the house of her husband* (*bêṯ ʾîšāh*, 1:9). One daughter-in-law goes back; the other goes with
+Naomi, and her *rest* becomes the plan of chapter 3. Ruth later learns that Boaz praises her for leaving
+*your father and your mother* (2:11), so the book names both parents. Source: stored WEB Ruth 1:8–9; 2:11;
+Genesis 38:11; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

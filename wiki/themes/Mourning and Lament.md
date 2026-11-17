@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Weeping on the road — Ruth 1:9, 14
+
+The deaths of 1:3–5 were told without mourning. The weeping comes at the parting: *they lifted up their
+voices, and wept* (1:9), and *They lifted up their voices, and wept again* (14). The three widows weep for
+the separation ahead of them, and Naomi adds her own lament: *it grieves me seriously for your sakes, for
+Yahweh's hand has gone out against me* (13). See [[Ruth Clings to Naomi]]. Source: stored WEB Ruth 1:3–5, 9, 13–14.
+
 ### Three deaths, no mourning told — Ruth 1:3, 5
 
 *Elimelech, Naomi's husband, died* (1:3); *Mahlon and Chilion both died* (1:5). No burial, weeping, or
@@ -311,6 +318,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[Ruth Clings to Naomi]] — Ruth 1:9, 13–14; the widows weep at the parting, twice.
 - [[Famine and Death in Moab]] — Ruth 1:3, 5; three deaths reported, no mourning narrated.
 - [[Wives for Benjamin]] — Judges 21:2–3, 6, 15; weeping at Bethel, and grief for Benjamin.
 - [[The War Against Benjamin]] — Judges 20:23, 26; weeping, and the first fast in Genesis–Judges.

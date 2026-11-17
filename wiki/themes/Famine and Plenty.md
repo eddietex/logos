@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh had visited his people* — Ruth 1:6
+
+*She had heard in the country of Moab how Yahweh had visited his people in giving them bread* (1:6). The
+famine of 1:1 ends in one clause, and it is the first thing Ruth's narrator says Yahweh did. The verb is
+*pāqaḏ*, *visit* or *attend to*, as in *Yahweh visited Sarah* (Genesis 21:1) and *God will surely visit
+you* (Genesis 50:24). *Lāṯēṯ lāhem lāḥem* (WLC), *to give them bread*, brings bread back to the house of
+bread. The narrator does not say who sent the famine. See [[Ruth Clings to Naomi]]. Source: stored WEB Ruth 1:1, 6; Genesis
+21:1; 50:24; Hebrew WLC, 2026-11-17.
+
 ### Famine in the house of bread — Ruth 1:1
 
 *In the days when the judges judged, there was a famine in the land* (Ruth 1:1). *Wayhî rāʿāb bāʾāreṣ* is
@@ -243,6 +252,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Ruth Clings to Naomi]] — Ruth 1:6; *Yahweh had visited his people in giving them bread*.
 - [[Famine and Death in Moab]] — Ruth 1:1; famine in Bethlehem, the clause of Genesis 12:10 and 26:1.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3–6; the increase of the land destroyed every harvest.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

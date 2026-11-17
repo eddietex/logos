@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### *Her god* — Ruth 1:15
+
+Ruth does not name him. Naomi says Orpah *has gone back to her people, and to her god* (1:15), *ʾĕlōheyhā*,
+a plural form that may mean one god or several; the WEB has *her god*. Numbers 21:29 calls Moab *people of
+Chemosh*, so the reference is usually taken as his, but the identification is the reader's. Ruth's answer
+sets the gods of peoples side by side: *Your people will be my people, and your God my God* (16). See [[Ruth Clings to Naomi]].
+Source: stored WEB Ruth 1:15–16; Numbers 21:29; Hebrew WLC, 2026-11-17.
+
 ### *Chemosh your god* — Judges 11:24
 
 *Won't you possess that which Chemosh your god gives you to possess? So whoever Yahweh our God has
@@ -38,6 +46,7 @@ not an independent assertion that Chemosh acts alongside Yahweh.
 ## Appears in
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:24; *Chemosh your god*, said to Ammon's king.
 - [[Sihon and Og]] — Numbers 21:21–35
+- [[Ruth Clings to Naomi]] — Ruth 1:15; unnamed, *her god*, to whom Orpah goes back.
 
 ## Related people
 - [[Jephthah]] and [[King of Ammon (of Jephthah's time)]] — *Chemosh your god* (Judges 11:24).

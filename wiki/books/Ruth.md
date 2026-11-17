@@ -25,6 +25,14 @@ children. The narrator gives no cause and no judgment. Every loss in these verse
 the book: bread returns to Bethlehem, a kinsman redeems the dead man's field and name, and Naomi takes
 *the child* in her lap (4:16).
 
+[[Ruth Clings to Naomi]] (1:6–18) is the first dialogue and the first turn. *Yahweh had visited his people in
+giving them bread* (1:6), and Naomi sets out for home. On the road she sends her daughters-in-law back three
+times, blessing them with *ḥeseḏ* and arguing from the levirate custom that she has no sons to give them.
+Orpah *kissed her mother-in-law*; Ruth *joined with her* (1:14), *dābaq*, the verb of Genesis 2:24 and of
+Deuteronomy's *cling to him*. Ruth's vow, *Your people will be my people, and your God my God* (1:16), ends
+in a self-curse oath in Yahweh's name that only death will part them (1:17). The chapter's key word is
+*šûb*, *return*, twelve times in the WLC of chapter 1.
+
 ## Structure
 
 1. **Emptied** (1) — the losses in Moab, the parting on the road, and Naomi's return *empty*.
@@ -42,7 +50,7 @@ unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional �
 merge, or reorder them freely.
 
 - [x] [[Famine and Death in Moab]] — Ruth 1:1–5
-- [ ] Ruth Clings to Naomi — Ruth 1:6–18
+- [x] [[Ruth Clings to Naomi]] — Ruth 1:6–18
 - [ ] Naomi Returns to Bethlehem — Ruth 1:19–22
 - [ ] Ruth Gleans in the Field of Boaz — Ruth 2:1–23
 - [ ] Ruth at the Threshing Floor — Ruth 3:1–18
@@ -58,6 +66,8 @@ merge, or reorder them freely.
 - [[Names and Naming]] — Naomi and Mara; *the name of the dead*
 - [[Redemption]] — the near kinsman (2:20; 3–4)
 - [[Marriage]] — levirate duty and redemption joined (4:5, 10)
+- [[Love]] — *ḥeseḏ* (1:8; 2:20; 3:10) and Ruth's loyalty
+- [[Oaths and Vows]] — Ruth's oath in Yahweh's name (1:17)
 
 ## Key people
 - [[Naomi]]

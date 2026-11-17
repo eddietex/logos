@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *May Yahweh do so to me* — Ruth 1:17
+
+Ruth seals her vow to Naomi with a self-curse: *May Yahweh do so to me, and more also, if anything but death
+parts you and me* (1:17), *kōh yaʿăśeh YHWH lî wəḵōh yōsîp* (WLC). The penalty is left unnamed. In the WLC
+files the wiki has read, the full formula occurs only here and four times in 1 Samuel (3:17; 14:44; 20:13;
+25:22); Ruth is the only woman to use it, and with Jonathan the only speaker to name *Yahweh*. A Moabite
+binds herself by the God of Israel's name. See [[Ruth Clings to Naomi]] and
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]]. Source: stored WEB Ruth 1:17; 1 Samuel
+verses checked at bible-api.com; Hebrew WLC, 2026-11-17.
+
 ### Two oaths kept, one by killing, one by its letter — Judges 21
 
 The last chapter of Judges is driven by oaths sworn at Mizpah and first reported here. *None of us will
@@ -579,6 +589,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Ruth Clings to Naomi]] — Ruth 1:16–17; Ruth's vow, and the self-curse oath in Yahweh's name.
 - [[Wives for Benjamin]] — Judges 21:1, 5, 7, 18, 22; the oath not to give daughters, and *the great oath* against those who did not come.
 - [[Jephthah's Vow]] — Judges 11:30–39; the vow before the battle, *I can't go back*, and the vow done.
 - [[Jephthah Called from Tob]] — Judges 11:10–11; *Yahweh will be witness between us*; words spoken before Yahweh at Mizpah.

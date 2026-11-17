@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Rest … in the house of her husband* — Ruth 1:9–13
+
+Naomi's blessing assumes that a widow's future is a second marriage: *May Yahweh grant you that you may find
+rest, each of you in the house of her husband* (1:9). *Mənûḥâ*, *rest* (WLC), returns as Naomi's plan in
+3:1. Her argument against their coming is the levirate custom with no brother left: *Do I still have sons in
+my womb, that they may be your husbands?* (11). Ruth's *dāḇəqâ*, *joined with* (14), is the marriage verb of
+Genesis 2:24, used here of a daughter-in-law. See [[Ruth Clings to Naomi]] and
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Ruth 1:9–14; 3:1;
+Genesis 2:24; Hebrew WLC, 2026-11-17.
+
 ### Two marriages in Moab — Ruth 1:4–5
 
 *They took for themselves wives of the women of Moab … They lived there about ten years* (1:4). The verb is
@@ -573,6 +583,7 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Ruth Clings to Naomi]] — Ruth 1:9–13; *rest … in the house of her husband*; no sons left for a levirate marriage.
 - [[Famine and Death in Moab]] — Ruth 1:4–5; two Moabite marriages, about ten years, no children reported.
 - [[Wives for Benjamin]] — Judges 21:1–23; wives supplied by massacre and by abduction.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–3, 26–27; a concubine treated as a wife, *her husband* become *her lord*.

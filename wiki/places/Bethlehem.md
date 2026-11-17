@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Bread again — Ruth 1:6–7
+
+*Yahweh had visited his people in giving them bread* (1:6), *lāṯēṯ lāhem lāḥem* (WLC), *to give them
+bread*: the bread returns to *Bêt Leḥem*, the house of bread. Naomi sets out *to return to the land of
+Judah* (7); the town is not named again until 1:19. See [[Ruth Clings to Naomi]]. Source: stored WEB Ruth 1:6–7, 19; Hebrew WLC,
+2026-11-17.
+
 ### Famine in the house of bread — Ruth 1:1–2
 
 *In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went
@@ -116,6 +123,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
   grandsons**, and the wiki reads the verse as the premise of that adoption rather than as a digression.
   **The man speaking has, four verses earlier, put [[Joseph]] under oath to bury him at [[Machpelah]]**
   (47:29–30), **where [[Leah]] is and she is not**
+- [[Ruth Clings to Naomi]] — Ruth 1:6–7; bread returns to Judah, and Naomi sets out for home.
 
 ## Related places
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh's hand has gone out against me* — Ruth 1:13
+
+Naomi interprets her losses: *Yahweh's hand has gone out against me* (1:13), and she will say it again at
+Bethlehem: *the Almighty has dealt very bitterly with me* (1:20). The narrator does not say that Yahweh
+caused the deaths of 1:3–5; the only act the narrator ascribes to Yahweh in the chapter is giving bread
+(1:6). The book lets Naomi's complaint stand without correcting or endorsing it. See [[Ruth Clings to Naomi]]. Source: stored
+WEB Ruth 1:3–6, 13, 20.
+
 ### Her hands on the threshold — Judges 19:25–28
 
 *They … abused her all night until the morning* (19:25); *wayyiṯʿallǝlû-ḇāh*, a rare form used of making
@@ -330,6 +338,7 @@ the *"toil"* Joseph was made to forget (Genesis 41:51) (WLC). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:6–7; Exodus 3:7, 9; Genesis 41:51.
 
 ## Key passages
+- [[Ruth Clings to Naomi]] — Ruth 1:13; Naomi's reading of her losses, *Yahweh's hand has gone out against me*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:25–28; the night at Gibeah, and the morning at the door.
 
 - [[Samson and Delilah]] — Judges 16:5, 19, 21; *to afflict him*; blinded and bound.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Your people will be my people* — Ruth 1:15–16
+
+Naomi ties a people to its god: Orpah *has gone back to her people, and to her god* (1:15). Ruth's answer
+keeps the tie and changes the people: *Your people will be my people, and your God my God* (16). Joshua
+23:12 warned Israel against *going back* and *holding fast* to the nations by marriage; here a Moabite
+widow turns from her own nation and *clings* to an Israelite (1:14). The text uses no word for conversion
+and describes no rite; it records a vow and an oath in Yahweh's name. See [[Ruth Clings to Naomi]] and
+[[Go Back or Cling - Joshua 23.12 and Ruth 1.14-16]]. Source: stored WEB Ruth 1:14–17; Joshua 23:12.
+
 ### Moabite wives — Ruth 1:4
 
 *They took for themselves wives of the women of Moab* (1:4). The narrator gives no comment. Deuteronomy
@@ -629,6 +638,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Ruth Clings to Naomi]] — Ruth 1:15–16; *gone back to her people, and to her god*; *Your people will be my people*.
 - [[Famine and Death in Moab]] — Ruth 1:4; Moabite wives taken without comment.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:10–12; Jebus, *the city of a foreigner*, passed by.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15–24; Edom, Moab, the Amorites, and Ammon, and *Chemosh your god*.
