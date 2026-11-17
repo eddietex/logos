@@ -81,6 +81,15 @@ rather than achieved.
 
 ## Development across Scripture
 
+### The gate carried off — Judges 16:1–3
+
+Gaza's men hold their gate all night against one man, and he takes *the doors of the gate of the city, and
+the two posts … bar and all* away on his shoulders (16:2–3). The gate is the city's defence and its meeting
+place; taking it leaves the city open, though the text says nothing of what Gaza did next. Genesis 22:17
+promised Abraham's offspring *the gate of his enemies*; see
+[[Possess the Gate of Those Who Hate Them]] and [[Samson at Gaza]]. Source: stored WEB Genesis 22:17;
+Judges 16:1–3.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 Walls mark a legal distinction: a walled-city house can be sold permanently after its
@@ -271,6 +280,7 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; cities as measures of beauty.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; pools, gate, and towers.
+- [[Samson at Gaza]] — Judges 16:2–3; the city gate held in ambush, and carried away.
 
 ## Related themes
 

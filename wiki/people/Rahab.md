@@ -28,6 +28,7 @@ Source: stored WEB Joshua 2:1–24.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
+- [[The Prostitute and the City Gate - Rahab at Jericho and Samson at Gaza]] — Joshua 2:1–7 beside Judges 16:1–3.
 
 ## Related people
 - [[Joshua (son of Nun)]]

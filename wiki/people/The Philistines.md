@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The Gazites at the gate — Judges 16:1–3
+
+*The Gazites* hear that Samson is in their city with a prostitute, surround the place, and lie in wait all
+night *in the gate of the city*, quiet, saying *Wait until morning light, then we will kill him* (16:2). He
+rises at midnight and carries off the doors, posts, and bar of their gate (3). The Hebrew does not say who
+told them (*to the Gazites, saying*, WLC). Gaza, which Judah took in 1:18, is a Philistine city here, and
+it is where they will later bring Samson blind (16:21). See [[Samson at Gaza]]. Source: stored WEB Judges
+1:18; 16:1–3, 21; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The fields, the wife, and Lehi — Judges 15:1–20
 
 Samson burns their standing grain, shocks, and olive groves (15:4–5). They burn his wife and her father in
@@ -86,6 +95,8 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Six hundred struck by Shamgar with an ox goad — [[Shamgar and the Ox Goad]].
 - Israel sold into their hand with Ammon — [[Israel's Repentance Under Ammon]].
 - Rule over Israel; the Timnah wedding and thirty struck at Ashkelon — [[Samson's Riddle]].
+- Burn Samson's wife, invade Judah, and lose a thousand at Lehi — [[Samson Against the Philistines at Lehi]].
+- The Gazites lie in wait for Samson and lose their city gate — [[Samson at Gaza]].
 
 ## Appears in
 
@@ -103,6 +114,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Samson's Riddle]] — Judges 14:1–20; *the uncircumcised*; the thirty companions; thirty men of Ashkelon.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:1–20; the burned fields, the burned wife, Judah's surrender of Samson, and a
   thousand dead at Lehi.
+- [[Samson at Gaza]] — Judges 16:1–3; *the Gazites* lie in wait at the gate.
 
 ## Related people
 

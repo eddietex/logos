@@ -13,6 +13,7 @@ tags: [connection]
 - Compare **Genesis 22:17a** — *"like the stars of the heavens, and like the sand which is on the
   seashore"* — [[Dust, Stars, and Sand - The Offspring Promises]]
 - Downstream: **Genesis 24:60b** in **Ruth 4:11–12** and **Genesis 28:14** in the Jacob cycle
+- Compare **Judges 16:3** — Samson carries off *the doors of the gate of the city* of Gaza — [[Samson at Gaza]]
 
 ## Analysis
 
@@ -88,6 +89,15 @@ she has met her husband, by people outside the covenant, and the narrator does n
 says to Abraham in the Bible. The next time those words are heard, a man is holding a camel's rein
 outside a house in Mesopotamia. **The covenant's continuation is voiced by people who are not in it,
 in a chapter where God does not speak at all** — which is the whole method of [[A Wife for Isaac]].
+
+### A gate carried, not possessed — Judges 16:3
+
+The promise is a phrase about taking cities; in Judges 16:3 an Israelite physically takes an enemy
+city's gate. Samson pulls up the doors, posts, and bar of Gaza's gate
+(*daltôt šaʿar-hāʿîr*, WLC) and carries them to the hill before Hebron. He does not *possess* the gate in
+the sense of 22:17: the verb *yāraš* is not used, Gaza stays Philistine, and he is brought back to it in
+fetters (16:21). The episode is the promise's words acted out by one man without its substance. Judges
+does not refer to Genesis here; the comparison is the wiki's. See [[Samson at Gaza]].
 
 ## Significance
 

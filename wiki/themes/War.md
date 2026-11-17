@@ -577,6 +577,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### An ambush at the gate — Judges 16:2–3
+
+The Gazites *laid wait for him all night in the gate of the city* (16:2), *ʾārab*, the verb of the ambushes
+at Ai (Joshua 8), of Abimelech (Judges 9), and of Delilah's inner room (16:9, 12) (WLC). The ambush fails
+because it waits for daylight: Samson leaves at midnight and takes the gate. No battle is fought and no one
+is said to die. See [[Samson at Gaza]]. Source: stored WEB Judges 16:2–3, 9, 12; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-16.
+
 ### The law of war — Deuteronomy 20:1–20
 
 The law code's only chapter on war is a series of limits. The priest forbids fear because Yahweh fights
@@ -1123,6 +1131,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[Jael and Sisera]] — Judges 4:17–24; Sisera killed in a tent; Jabin subdued and destroyed.
 - [[The Song of Deborah]] — Judges 5:1–31; the muster of the tribes, the stars and the river.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:4–16; the foxes, the slaughter, and the jawbone.
+- [[Samson at Gaza]] — Judges 16:2–3; an ambush at the city gate, escaped at midnight.
 
 ## Related themes
 

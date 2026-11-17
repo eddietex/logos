@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The mountain before Hebron — Judges 16:3
+
+Samson carries the doors, posts, and bar of Gaza's gate *up to the top of the mountain that is before
+Hebron* (16:3). *ʿAl-pənê ḥebrôn* (WLC) can mean *facing* Hebron or *east of* it; which is meant is not
+settled here. Hebron is Caleb's city in Judah (1:20), and Judah is the tribe that had just bound Samson and
+handed him over (15:9–13). The text gives no reason for Hebron. See [[Samson at Gaza]].
+
+Source: stored WEB Judges 1:20; 15:9–13; 16:3; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Hebron in Judges 1 — Judges 1:10, 20
 
 Judah goes *against the Canaanites who lived in Hebron. (The name of Hebron before that was Kiriath
@@ -121,6 +130,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 
 ## Appears in
 
+- [[Samson at Gaza]] — Judges 16:3; the gate of Gaza carried to *the mountain that is before Hebron*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:10, 20; Judah strikes the three, and the city is given to Caleb.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

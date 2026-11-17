@@ -27358,3 +27358,44 @@ Judges 15:7 and 16:28; *māšal* (4910) at Judges 8:22–23; 9:2; 14:4; 15:11 an
 (5585), and *šûʿāl* (7776) only in Judges 15; *wattāšāb rûḥô* at Judges 15:19 and 1 Samuel 30:12.
 Reported, not checked: the derivation of *təšûʿâ* from *yāšaʿ*; the renderings and proposals listed
 above. No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 16.1-3 — Samson at Gaza
+
+Unattended run (`/ingest auto`). Samson goes to Gaza, *saw there a prostitute, and went in to her*. The
+Gazites surround the place and lie in wait all night in the city gate, quiet, *Wait until morning light,
+then we will kill him*. He rises at midnight, pulls up the doors, posts, and bar of the gate, and carries
+them on his shoulders to the top of the mountain *before Hebron*. No Spirit, no speech, and no word from
+the narrator about the woman or the act.
+
+Created: [[Samson at Gaza]]; connection
+[[The Prostitute and the City Gate - Rahab at Jericho and Samson at Gaza]].
+
+Revised: [[Judges]] (box checked, overview, key people, key places); [[Samson]]; [[The Philistines]];
+[[Rahab]]; [[Gaza]]; [[Hebron]]; [[Rahab and the Spies]] (cross-reference); themes [[Sexual Sin]],
+[[Light and Darkness]], [[City and Civilization]], [[War]]; connection
+[[Possess the Gate of Those Who Hate Them]] (a section on Judges 16:3). Also `wiki/books/index.md`
+(35 / 42), the places index, People Index N-Z, the themes index, Connections Index O-S, and the dashboard
+counts. Frontmatter totals: 471 passages, 334 people, 591 places, 88 themes, 895 connections.
+
+No contradictions with existing pages found. Gaza's page already records that Judah *took* it (1:18) and
+that it is Philistine by 16:1; that tension is restated, not resolved.
+
+Readings recorded, not resolved: (1) whether *ʿal-pənê ḥebrôn* means *facing* Hebron or *east of* it;
+(2) whether lemma 2790's senses *be silent* (16:2) and *plow* (14:18) are one root; (3) the Gaza–Hebron
+distance (about sixty kilometres is the usual figure; not checked); (4) why Hebron. The match of *baḥăṣî
+hallaylâ* and *məzûzôt* with the Passover night (Exodus 12) is recorded as vocabulary only.
+
+Judgment calls: kept 16:1–3 as its own pericope, as planned, though it is three verses. The prostitute gets
+no page; *the Gazites* are filed on [[The Philistines]]; *the mountain that is before Hebron* is filed on
+[[Hebron]]. Filed the act under [[Sexual Sin]] on the Torah's and Proverbs' terms, with a note that Judges
+gives no verdict. The Genesis 22:17 echo went onto the existing gate connection rather than a new page.
+The WEB's *The Gazites were told* is noted against the WLC, which has no verb.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 22:17; 38:15;
+Exodus 12:7, 29; Deuteronomy 23:17; Joshua 2:1–15; Proverbs 7:9, 12, 22; 23:27–28. Hebrew from a fresh
+download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml`, `Exod.xml`, `Josh.xml`,
+`Judg.xml`, `Prov.xml` on 2026-11-16. Verified in those files: *məzûzâ* (4201) only at Exodus 12:7, 22,
+23; 21:6 and Judges 16:3; *bərîaḥ* (1280) otherwise only in Exodus 26; 35–36; 39–40; *ḥăṣî* (2677) with
+*laylâ* only at Exodus 12:29 and Judges 16:3; *ʾārab* (693) at Joshua 8, Judges 9; 16:2, 9, 12; 20–21, and
+Proverbs 1:11, 18; 7:12; 12:6; 23:28; 24:15; Joshua 2:1–2 shares *zônâ*, *bôʾ*, *šākab*, and *bāʾû hēnnâ*
+with Judges 16:1–3. No Greek text was consulted.

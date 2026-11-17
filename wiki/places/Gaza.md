@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The gate carried off — Judges 16:1–3
+
+Samson goes to Gaza for a prostitute (16:1). The Gazites lie in wait for him all night *in the gate of the
+city*, and he rises at midnight and takes *the doors of the gate of the city, and the two posts … bar and
+all* up to the hill before Hebron (2–3). The city Judah *took … with its border* (1:18) is a Philistine city
+here, and the ambush is laid by *the Gazites*, with no ruler named. It is
+where Samson will be brought back blind to grind in the prison (16:21), and where the house of Dagon falls
+(16:23–30). See [[Samson at Gaza]] and
+[[The Prostitute and the City Gate - Rahab at Jericho and Samson at Gaza]].
+
+Source: stored WEB Judges 1:18; 16:1–3, 21, 23–30.
+
 ### "Until you come to Gaza" — Judges 6:4
 
 The Midianite raiders *destroyed the increase of the earth, until you come to Gaza* (6:4). Gaza, which
@@ -56,6 +68,7 @@ Named as the extent of the Avvim’s villages in the account of their displaceme
 Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
+- [[Samson at Gaza]] — Judges 16:1–3; Samson carries off the city gate.
 - [[Midian's Oppression and the Prophet]] — Judges 6:4; the western limit of the Midianite raids.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
 - [[The Cities of Judah]] — Joshua 15:20–63.
@@ -71,3 +84,4 @@ Source: stored WEB Deuteronomy 2:1–23.
 ## Events here
 - Named in [[Around Seir and Past Moab and Ammon]]; see the distinction between the journey and the historical aside above.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]
+- Its gate carried off by Samson — Judges 16:1–3 — [[Samson at Gaza]]

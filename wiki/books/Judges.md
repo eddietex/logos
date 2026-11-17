@@ -358,6 +358,13 @@ thirsty, he prays for the first time, calling it *this great deliverance* that Y
 the hollow place, and the spring is named En Hakkore. *He judged Israel twenty years in the days of the
 Philistines*, a closing formula that 16:31 will repeat.
 
+[[Samson at Gaza]] (16:1–3) goes on as if the formula had not been said. Samson goes to Gaza, *saw there a
+prostitute, and went in to her*. The Gazites lie in wait all night in the city gate, saying *Wait until
+morning light, then we will kill him*; he rises at midnight, pulls up the doors, posts, and bar of the gate,
+and carries them on his shoulders to the hill *before Hebron*. No Spirit is named, and no word is spoken to
+him or by him. The scene of Rahab's house at Jericho (Joshua 2:1–7) is played again by one man for
+himself, and the city he takes the gate from is the city he will be brought back to blind (16:21).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -414,7 +421,7 @@ merge, or reorder them freely.
 - [x] [[The Announcement of Samson's Birth]] — Judges 13:1–25
 - [x] [[Samson's Riddle]] — Judges 14:1–20
 - [x] [[Samson Against the Philistines at Lehi]] — Judges 15:1–20
-- [ ] Samson at Gaza — Judges 16:1–3
+- [x] [[Samson at Gaza]] — Judges 16:1–3
 - [ ] Samson and Delilah — Judges 16:4–22
 - [ ] The Death of Samson — Judges 16:23–31
 - [ ] Micah's Idol and Levite — Judges 17:1–13
@@ -496,7 +503,7 @@ merge, or reorder them freely.
 - [[King of Ammon (of Jephthah's time)]] — claims the land from the Arnon to the Jabbok (11:13).
 - [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
 - [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
-- [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25); kills a thousand at Lehi and judges twenty years (15:1–20).
+- [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25); kills a thousand at Lehi and judges twenty years (15:1–20); carries off the gate of Gaza (16:1–3).
 - [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24); they object to his Philistine wife (14:3).
 - [[Samson's Timnite Wife]] — chosen by sight, pressed for the riddle, and given to his companion (14:1–20); burned with her father (15:6).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
@@ -535,3 +542,4 @@ merge, or reorder them freely.
 - [[Zorah]], [[Eshtaol]], and [[Mahaneh Dan]] — Manoah's town, and where the Spirit begins to move Samson (13:2, 25).
 - [[Timnah]] and [[Ashkelon]] — Samson's wedding town, and where he strikes thirty men (14:1, 19).
 - [[The Rock of Etam]], [[Lehi]], and [[En Hakkore]] — Samson's refuge, the jawbone, and the spring (15:8–19).
+- [[Gaza]] and [[Hebron]] — the gate Samson carries off, and the hill he carries it to (16:1–3).

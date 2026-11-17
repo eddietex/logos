@@ -33,6 +33,13 @@ hardest.
 
 ## Development across Scripture
 
+### Morning light and midnight — Judges 16:2–3
+
+The Gazites wait *until morning light* to kill Samson (16:2); he rises *at midnight* and is gone with their
+gate (3). The men who wait for the light lose to the man who moves in the dark. *Baḥăṣî hallaylâ*, *at
+midnight*, is the phrase of Exodus 12:29 (WLC); Judges does not refer to it. See [[Samson at Gaza]].
+Source: stored WEB Exodus 12:29; Judges 16:2–3; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Torches in the jars — Judges 7:16–20
 
 Gideon's battle is fought in the dark, *in the beginning of the middle watch* (7:19), and its weapon is
@@ -517,6 +524,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:25; light as the turned face of Yahweh.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4; Aaron lights the seven lamps.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–16; the appearance of fire over the tabernacle by night.
+- [[Samson at Gaza]] — Judges 16:2–3; *until morning light*, and Samson gone *at midnight*.
 
 ## Related themes
 

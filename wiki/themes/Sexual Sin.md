@@ -70,6 +70,16 @@ which Genesis treats as ordinary and which belong to [[Marriage]], nor the speci
 
 ## Development across Scripture
 
+### A prostitute at Gaza — Judges 16:1–3
+
+*Samson went to Gaza, and saw there a prostitute, and went in to her* (16:1). The narrator passes no
+judgment, as Genesis usually does not; the act is filed here because the Torah (Deuteronomy 23:17–18) and
+Proverbs (7; 23:27–28) treat it as sin, not because Judges says so. The Nazirite rules of Numbers 6 do not
+mention it. What follows is an ambush: the city *laid wait for him all night* (*ʾārab*, WLC), the verb
+Proverbs uses of the prostitute herself, *she lies in wait like a robber* (23:28). See [[Samson at Gaza]].
+Source: stored WEB Deuteronomy 23:17–18; Judges 16:1–3; Proverbs 7; 23:27–28; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-16.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 The prohibition of adultery (18) stands beside the prohibition of coveting a neighbor’s wife (21). Conduct and desire are both addressed in this law, without waiting for a later interpretation.
@@ -408,6 +418,7 @@ See [[Divorce, Remarriage, and the Newlywed]] and [[Because of the Hardness of Y
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the bride's virginity, adultery, the pledged woman in city and field, the seized virgin, the father's wife.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:17–18; no *qǝdēšâ* or *qādēš*, and no prostitute's hire for a vow.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; the return to the first husband as *"abomination before Yahweh"*.
+- [[Samson at Gaza]] — Judges 16:1; *saw there a prostitute, and went in to her*; no verdict from the narrator.
 
 ## Related themes
 
