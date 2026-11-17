@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The first district of Saul's search — 1 Samuel 9:4
+
+Saul and his servant begin the search for Kish's donkeys here: *He passed through the hill country of Ephraim, and
+passed through the land of Shalishah, but they didn't find them* (9:4). It is the district of Elkanah's
+*Ramathaim Zophim* (1:1), and the search ends in *the land of Zuph* (9:5), the name of Elkanah's ancestor. See
+[[Saul Comes to the Seer]].
+
+Source: stored WEB 1 Samuel 1:1; 9:4–5.
+
 ### Ramathaim Zophim — 1 Samuel 1:1
 
 1 Samuel opens as Judges 17 and 19 did, with a man of this hill country: *a certain man of Ramathaim
@@ -94,6 +103,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Saul Comes to the Seer]] — 1 Samuel 9:4; the first district Saul searches.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1; Elkanah's region.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16–18; the Levite's home, and his host's origin.
 - [[The Danite Migration]] — Judges 18:2, 13; the spies lodge at Micah's house, and the six hundred return to rob it.
@@ -112,6 +122,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Related places
 
+- [[The Land of Shalishah]] · [[The Land of Zuph]] — the next districts of Saul's search (9:4–5)
 - [[Deborah's Palm Tree]] — Deborah's seat (Judges 4:5).
 - [[Beth Shean]] · [[The Valley of Jezreel]]
 - [[Shamir (Ephraim)]] — Tola's town (Judges 10:1–2).
@@ -119,6 +130,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Events here
 
+- Saul and his servant search it for Kish's donkeys — 1 Samuel 9:4, [[Saul Comes to the Seer]]
 - The Levite's home on its far side; his host at Gibeah an Ephraimite — Judges 19:1, 16, [[The Levite's Concubine at Gibeah]]
 - Micah keeps a house of gods with a carved and molten image and hires a Levite (Judges 17:1–13).
 - The geography of the request in [[The Children of Joseph Ask for More]]; no battle is narrated.

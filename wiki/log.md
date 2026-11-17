@@ -28629,3 +28629,52 @@ Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-17, files `Gen
 `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `2Kgs`, and `Ps`; occurrence claims cover those files
 only. Glosses of the names Joel and Abijah and the range of *mišpāṭ* are general knowledge, not checked against
 a lexicon, and are flagged where made. No Greek text, Septuagint, or Targum was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 9.1-25 — Saul Comes to the Seer
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+Saul Comes to the Seer, 9:1–25, ingested as planned. 1 Samuel is now 11 / 47.
+
+Created: passage [[Saul Comes to the Seer]]; people [[Saul]], [[Kish (father of Saul)]], and
+[[Saul's Servant (of the lost donkeys)]]; places [[The Land of Shalishah]], [[The Land of Shaalim]], and
+[[The Land of Zuph]]; connection [[The Least in My Father's House - Judges 6.15 and 1 Samuel 9.21]].
+
+Revised: book [[1 Samuel]] (box checked, overview paragraph, Saul linked in the opening paragraph, key themes,
+people, and places); people [[Samuel]] (new section, timeline, appears in, related people, themes), [[Benjamin]], and
+[[The Philistines]]; places [[Ramah]] and [[The Hill Country of Ephraim]]; themes [[Kingship and Empire]],
+[[Prophecy and Vision]], [[Providence]], [[Hospitality]], [[Sacrifice and Offering]], [[Seeing and Being Seen]], and
+[[Call and Election]]; connections [[The Betrothal at the Well]] (new section on 9:11–13 as an uncompleted
+betrothal scene), [[Asked of Yahweh - Samuel's Name and Saul's]] (9:2 now ingested; *šāʾal* does not occur in
+chapter 9), [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] (new section on 9:16 and Exodus 3:7,
+9), and [[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]] (new section on the thigh served to Saul).
+Also `wiki/books/index.md`, People Index F-M (one new row) and N-Z (two), Connections Index I-N (one new row) and
+A-C, D-H (the passage appended to touched rows), the places index (three new rows; Ramah and the hill country of
+Ephraim rows extended), the themes index, and the dashboard counts. Frontmatter totals: 497 passages, 375 people,
+604 places, 88 themes, 947 connections.
+
+Judgment calls: the boundary 9:1–25 stands; 9:26 opens the next morning and belongs with the anointing at 10:1.
+Saul gets a bare-name page; [[Shaul (son of Simeon)]] already carries the same Hebrew name under its WEB spelling,
+and the New Testament Saul is expected to be filed as Paul. Kish is qualified because another Kish appears at
+Esther 2:5 (cited by reference only). The servant is qualified by his errand, since Saul's servants recur from 16:15.
+Abiel, Zeror, Becorath, and Aphiah get no pages, as Elkanah's ancestors did not at 1:1; nor do the young women at
+the water or the cook. The three districts of 9:4–5 are titled *The Land of …*; *The Land of Zuph* is so titled
+partly so that a later page for Elkanah's ancestor Zuph will not collide with it. The seer's unnamed city is linked
+to [[Ramah]] only as a common identification, stated as such on both pages.
+
+Recorded, not resolved: Kish's father (Abiel at 9:1, consistent with 14:51; Ner at 1 Chronicles 8:33 and 9:39),
+written out on the passage, [[Saul]], and [[Kish (father of Saul)]] pages; how Yahweh's sending (9:16) relates to
+the people's choosing (8:18); how 9:16's Philistine oppression fits 7:13, already noted at 7:13; whether the thigh
+is the priest's portion; the sense of *nāḡîḏ*, *təšûrâ*, and *ʿāṣar*; the syntax of 9:24's last clause; and
+the placement of the gloss at 9:9. No contradiction with an existing page was found.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 9:26–27; 10:2, 9, 14, 21–23, 26; 12:13; 14:51;
+15:17; 16:7, 15. Comparisons from stored WEB Genesis 16:2; 24:13; 25:22–23; 43:33–34; Exodus 2:16; 3:7, 9, 11; 9:18;
+29:26; Leviticus 7:32–33; 26:30; Numbers 33:52; Deuteronomy 17:15; Joshua 6:26; 19:42; Judges 6:12, 14–16; 9:8, 15;
+11:1; 21:3; Ruth 2:1; 4:4. 1 Chronicles 8:33 and 9:39 checked against the WEB at bible-api.com (`translation=web`),
+2026-11-17; not stored in raw. Esther 2:5, 2 Kings 4:42, and 1 Chronicles 6 cited by reference only, not quoted.
+Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-17, files
+`Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, and `2Sam`; occurrence claims cover those files
+only. The glosses of *nāḡîḏ* and *təšûrâ*, the range of *gibbôr ḥayil*, the harmonizations of Kish's genealogy, the
+proposed link of Shalishah with Baal Shalishah, the reading of 9:11–13 as an aborted betrothal scene, and the report
+of ancient versions at 9:25–26 are general knowledge, not checked, and are flagged where made. No Greek text,
+Septuagint, or Targum was consulted.

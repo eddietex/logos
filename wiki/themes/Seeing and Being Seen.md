@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The seer, and the God who has looked — 1 Samuel 9:9–19
+
+The chapter is built on sight. The prophet's old name is *hārōʾeh*, *the seer*, from *rāʾâ*, *see* (9:9, WLC).
+Yahweh sends Saul because *I have looked upon my people*, *rāʾîṯî ʾeṯ-ʿammî* (9:16, WLC), the verb of the burning
+bush (Exodus 3:7). *When Samuel saw Saul*, *rāʾâ ʾeṯ-šāʾûl*, Yahweh says *Behold, the man* (9:17). Saul, who is seen,
+does not see: he asks the seer where the seer's house is, and is told *I am the seer* (9:18–19). What is seen of Saul
+is his height and his looks (9:2); when the next king is chosen, Yahweh will say *man looks at the outward appearance,
+but Yahweh looks at the heart* (16:7, stored WEB; not yet ingested). See [[Saul Comes to the Seer]].
+Source: stored WEB 1 Samuel 9:2–19; 16:7; Exodus 3:7. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Look at the affliction of your servant* — 1 Samuel 1:11–13
 
 Hannah's vow asks God to see: *if you will indeed look at the affliction of your servant*, *rāʾōh tirʾeh
@@ -471,6 +481,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Saul Comes to the Seer]] — 1 Samuel 9:9–19; the seer; *I have looked upon my people*; *when Samuel saw Saul*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11–13; *look at the affliction of your servant*; Eli *saw her mouth*
 
 - [[The Death of Samson]] — Judges 16:24–28; seen by the crowd, feeling for the pillars, *my two eyes*.

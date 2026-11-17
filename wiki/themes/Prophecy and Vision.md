@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The man of God whose word comes true; prophet and seer — 1 Samuel 9:6–20
+
+Saul's servant knows of *a man of God* who is *held in honor. All that he says surely happens* (9:6), *bôʾ yāḇôʾ*
+(WLC), the reputation 3:19 gave Samuel when Yahweh *let none of his words fall to the ground*. The narrator glosses an
+old word: *he who is now called a prophet was before called a seer*, *hārōʾeh* (9:9, WLC); in the WLC files searched
+(Genesis through 2 Samuel, Ruth) *rōʾeh* occurs only in this chapter. The consultation is for a lost animal, and the
+servant offers a quarter shekel of silver as a present (9:7–8). Yahweh's word comes to Samuel privately, *he
+uncovered Samuel's ear*, a day before it is fulfilled (9:15–17), and the seer then tells Saul what he has not asked:
+the donkeys are found, and *all that is desirable in Israel* is for him (9:20). See [[Saul Comes to the Seer]].
+Source: stored WEB 1 Samuel 3:19; 9:6–20. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The sign fulfilled — 1 Samuel 4:11, 18
 
 The man of God's sign, *in one day they will both die* (2:34), is fulfilled at the ark's capture: *the two
@@ -295,6 +306,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[Saul Comes to the Seer]] — 1 Samuel 9:6–20; *all that he says surely happens*; *a prophet was before called a seer*.
 - [[The Ark Is Captured]] — 1 Samuel 4:11, 18; the sign of 2:34 fulfilled *in one day*.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a; the word *precious*, the boy called, the vision told, and a prophet known from Dan to Beersheba.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; an unnamed man of God's oracle, with a near sign and a far fulfilment.

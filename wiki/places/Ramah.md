@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### The seer's unnamed city — 1 Samuel 9:5–25
+
+Saul's search ends in *the land of Zuph*, where his servant knows of *a man of God* in *this city* (9:5–6). Samuel is
+found there, at a sacrifice on the high place, and has a house with a housetop in it (9:12–25). The chapter never
+names the city. Samuel's home is Ramah (7:17; 8:4), Elkanah's town is *Ramathaim Zophim* (1:1), and Zuph is the
+name of Elkanah's ancestor (1:1), so the city is often identified with Ramah; but the text does not say so, and some
+place the episode elsewhere because the route of chapter 10 runs past Rachel's tomb (10:2, stored WEB; not yet
+ingested). The identification is recorded, not asserted. See [[Saul Comes to the Seer]] and [[The Land of Zuph]].
+
+Source: stored WEB 1 Samuel 1:1; 7:17; 8:4; 9:5–25; 10:2.
+
 ### The elders come to Ramah — 1 Samuel 8:4
 
 *All the elders of Israel gathered themselves together and came to Samuel to Ramah* (8:4), *hārāmāṯâ* (WLC),
@@ -63,6 +74,7 @@ come *to Samuel to Ramah* to ask for a king (8:4, stored WEB; not yet ingested).
 Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Saul Comes to the Seer]] — 1 Samuel 9:6–25; often identified with the seer's unnamed city (not named in the text).
 - [[Israel Asks for a King]] — 1 Samuel 8:4; the elders ask Samuel for a king.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:17; Samuel's house, his judging, and his altar.
 - [[The Song of Hannah]] — 1 Samuel 2:11; *Elkanah went to Ramah to his house*.
@@ -72,6 +84,7 @@ Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptur
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 
 ## Related places
+- [[The Land of Zuph]] — the district where the seer's city lies (9:5)
 - [[Shiloh]] — where Elkanah's family goes up yearly from Ramah (1 Samuel 1:3, 19).
 - [[The Hill Country of Ephraim]] — the region 1 Samuel 1:1 places Ramathaim in.
 - [[Gibeah (Benjamin)]] — the other town named at Judges 19:13.
@@ -80,6 +93,7 @@ Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptur
 - [[Mizpeh]] · [[Gilgal]] · [[Bethel]] — the towns of Samuel's circuit, with Ramah his return (1 Samuel 7:16–17).
 
 ## Events here
+- Possibly the city where Samuel meets Saul and hosts him at the high place — 1 Samuel 9:6–25, [[Saul Comes to the Seer]] (identification not made by the text)
 - Samuel's house; he judges Israel there and builds an altar to Yahweh — 1 Samuel 7:17, [[Samuel Judges Israel at Mizpah]]
 - Elkanah's home; Samuel conceived after the return from Shiloh — 1 Samuel 1:1, 19
 - Elkanah returns home, leaving Samuel at Shiloh — 1 Samuel 2:11, [[The Song of Hannah]]

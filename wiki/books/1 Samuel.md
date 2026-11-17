@@ -13,7 +13,7 @@ status: in-progress
 
 1 Samuel takes Israel from the last of the judges to its first king. It opens on a barren woman at Shiloh
 and closes on a dead king on the wall of Beth Shan. Three lives fill it, overlapping: [[Samuel]], the
-prophet and last judge, asked of Yahweh and given back to him; Saul, the king the people ask for; and
+prophet and last judge, asked of Yahweh and given back to him; [[Saul]], the king the people ask for; and
 [[David]], the shepherd anointed while Saul still reigns. In the English canon it follows [[Ruth]], which
 ended on the name *David* (Ruth 4:22). Judges had ended *In those days there was no king in Israel*
 (Judges 21:25). This book narrates how one came, and at what cost. In the Hebrew Bible, 1 and 2 Samuel are
@@ -121,6 +121,19 @@ chosen*, *and Yahweh will not answer you* (8:11–18), the reverse of Mizpah's *
 people refuse: *we will have a king … that our king may judge us, and go out before us, and fight our battles*
 (8:19–20). Yahweh says *make them a king*, and Samuel sends everyone home (8:22).
 
+[[Saul Comes to the Seer]] (9:1–25) brings the king in from Benjamin, looking for donkeys. Kish, *a mighty man of
+valor*, has a son, Saul, *an impressive young man*, taller than all the people (9:1–2). Sent after his father's lost
+donkeys, Saul searches four districts and is ready to turn back when his servant proposes *a man of God* in the city:
+*All that he says surely happens* (9:6). The narrator explains that *he who is now called a prophet was before called
+a seer* (9:9). Young women going out to draw water, as at the wells of Genesis, send them on to the sacrifice at the
+high place (9:11–13). The day before, Yahweh had told Samuel: *Tomorrow about this time I will send you a man out of
+the land of Benjamin, and you shall anoint him to be prince over my people Israel … for I have looked upon my people,
+because their cry has come to me* (9:16), the words of the burning bush (Exodus 3:7, 9). Saul asks Samuel where the
+seer lives; Samuel tells him the donkeys are found and *all that is desirable in Israel* is for him. Saul answers as
+Gideon did: *Am I not a Benjamite, of the smallest of the tribes of Israel?* (9:21; Judges 6:15). Samuel seats him at
+the head of thirty guests and gives him the portion *kept for you* (9:22–24). The king the people asked for is also
+the one Yahweh sends, and the chapter does not say how the two fit.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -153,7 +166,7 @@ merge, or reorder them freely.
 - [x] [[The Ark Returns to Israel]] — 1 Samuel 6:1–7:1
 - [x] [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2–17
 - [x] [[Israel Asks for a King]] — 1 Samuel 8:1–22
-- [ ] Saul Comes to the Seer — 1 Samuel 9:1–25
+- [x] [[Saul Comes to the Seer]] — 1 Samuel 9:1–25
 - [ ] Samuel Anoints Saul — 1 Samuel 9:26–10:16
 - [ ] Saul Chosen by Lot at Mizpah — 1 Samuel 10:17–27
 - [ ] Saul Rescues Jabesh Gilead — 1 Samuel 11:1–15
@@ -233,6 +246,10 @@ merge, or reorder them freely.
 - [[Tithing]] — the king's tenth (8:15, 17)
 - [[Slavery and Servitude]] — *you will be his servants* (8:17)
 - [[Call and Election]] — *your king whom you will have chosen for yourselves* (8:18)
+- [[Prophecy and Vision]] — *he who is now called a prophet was before called a seer* (9:9)
+- [[Providence]] — lost donkeys, and a meeting set the day before (9:3–17)
+- [[Seeing and Being Seen]] — *I have looked upon my people*; *I am the seer* (9:16, 19)
+- [[Hospitality]] — the best place and the reserved portion (9:22–24)
 
 ## Key people
 - [[Samuel]]
@@ -255,11 +272,14 @@ merge, or reorder them freely.
 - [[Baal (deity)]] and [[Ashtoreth (deity)]] — *the Baals and the Ashtaroth*, put away (7:3–4)
 - [[The Amorites]] — at peace with Israel (7:14)
 - [[Joel (son of Samuel)]] and [[Abijah (son of Samuel)]] — Samuel's sons, judges at Beersheba (8:2–3)
+- [[Saul]] — son of Kish, the first king; enters looking for donkeys (9:2)
+- [[Kish (father of Saul)]] — his father, a Benjamite (9:1–3)
+- [[Saul's Servant (of the lost donkeys)]] — who proposes the seer (9:3–10)
 
 ## Key places
 - [[Shiloh]]
-- [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home; Samuel's house and altar (7:17); the elders' request (8:4)
-- [[The Hill Country of Ephraim]]
+- [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home; Samuel's house and altar (7:17); the elders' request (8:4); often identified with the seer's unnamed city (9:6)
+- [[The Hill Country of Ephraim]] — Elkanah's region (1:1); the first district of Saul's search (9:4)
 - [[Egypt]] — where Yahweh revealed himself to the house of Eli's father (2:27)
 - [[Dan (city)]] and [[Beersheba]] — *all Israel from Dan even to Beersheba* (3:20); Samuel's sons judge at Beersheba (8:2)
 - [[Ebenezer]] and [[Aphek]] — the opposing camps of the battle where the ark is taken (4:1); Ebenezer named at 7:12
@@ -271,3 +291,4 @@ merge, or reorder them freely.
 - [[Mizpeh]] — the assembly, fast, and victory under Samuel (7:5–11)
 - [[Beth Kar]] and [[Shen]] — the end of the pursuit, and the stone's position (7:11–12)
 - [[Bethel]] and [[Gilgal]] — with Mizpah, the towns of Samuel's circuit (7:16)
+- [[The Land of Shalishah]], [[The Land of Shaalim]], and [[The Land of Zuph]] — the districts of Saul's search (9:4–5)

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The oppressor Saul is sent against — 1 Samuel 9:16
+
+Yahweh tells Samuel the man from Benjamin *will save my people out of the hand of the Philistines; for I have looked
+upon my people, because their cry has come to me* (9:16). The verse assumes Philistine pressure on Israel, after 7:13
+said they *were subdued* and *Yahweh's hand was against the Philistines all the days of Samuel*. The tension is
+recorded here as it was at 7:13, not resolved; the Philistine garrisons and wars of chapters 10, 13, and 14 (stored
+WEB; not yet ingested) bear on it. See [[Saul Comes to the Seer]].
+
+Source: stored WEB 1 Samuel 7:13; 9:16. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Subdued under Samuel — 1 Samuel 7:7–14
 
 Hearing that Israel has gathered at Mizpah, *the lords of the Philistines went up against Israel* (7:7). While
@@ -195,9 +205,11 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[The Ark Among the Philistines]] — 1 Samuel 5:1–12; Dagon fallen, the three cities struck, the lords' two councils.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:1–18; the priests' counsel, the trespass offering, the cart test, the lords at the border.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder at Mizpah, the Philistines subdued.
+- [[Saul Comes to the Seer]] — 1 Samuel 9:16; the people Saul is to save Israel from.
 
 ## Related people
 
+- [[Saul]] — sent to *save my people out of the hand of the Philistines* (1 Samuel 9:16).
 - [[Shamgar]] — the first in Judges to fight them (3:31).
 - [[Delilah]] — paid by their lords (16:5, 18).
 - [[The Avvim]] — named beside the five lords in Joshua 13:3.

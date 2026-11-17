@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Looking for donkeys — 1 Samuel 9:3–17
+
+No one in chapter 9 is looking for a king. The donkeys are lost (9:3), the search fails in four districts (9:4–5),
+Saul is ready to go home, his servant happens to know of a seer and happens to have silver (9:6–8), young women at the
+water happen to know the seer has just arrived (9:11–13), and Samuel happens to be coming out of the gate as they come
+in (9:14). Then the narrator turns the coincidences over: *Now Yahweh had revealed to Samuel a day before Saul came*
+(9:15). The chapter is told from inside the chance and then from above it, as [[The Ark Returns to Israel]] tested
+whether the cows' road was Yahweh's hand or *a chance* (6:9). See [[Saul Comes to the Seer]].
+Source: stored WEB 1 Samuel 6:9; 9:3–17.
+
 ### His hand, or a chance — 1 Samuel 6:9–12
 
 The Philistine priests set *his hand* against *chance*, *miqreh* (6:9, WLC), and build a test to tell
@@ -573,6 +583,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Saul Comes to the Seer]] — 1 Samuel 9:3–17; lost donkeys and a meeting arranged the day before.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:9–12; Yahweh's hand or *a chance*, and the cows that go straight.
 - [[Boaz Redeems at the Gate]] — Ruth 4:1; *Behold, the near kinsman … came by*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:18; *how the matter will fall*.

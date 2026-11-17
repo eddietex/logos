@@ -14,6 +14,7 @@ tags: [connection]
 - [[The Ordination of the Priests]] — Exodus 29:22–28.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:28–36.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:3–4.
+- Compare [[Saul Comes to the Seer]] — 1 Samuel 9:23–24; the thigh served to Saul as *the portion*.
 
 ## Analysis
 
@@ -81,6 +82,18 @@ not obviously apply here, since both laws describe continuing provision.
 
 Source: stored WEB Leviticus 7:31–34; Numbers 6:19–20; Deuteronomy 12:15, 21; 18:3. Hebrew from WLC
 (morphhb), lemma searches for 2220, 3895, 6896 across Genesis–Deuteronomy, retrieved 2026-11-07.
+
+### The thigh at Samuel's table — 1 Samuel 9:23–24
+
+At the sacrificial meal on the high place, Samuel tells the cook to bring *the portion*, *hammānâ*, he had set aside,
+and *the cook took up the thigh, and that which was on it, and set it before Saul* (9:23–24). *Mānâ* is the word of
+Exodus 29:26 and Leviticus 7:33 (*shall have the right thigh for a portion*); *šôq* is the thigh of Leviticus 7:32–34
+(WLC). Three things differ: the verse says *the thigh*, not *the right thigh*; the sacrifice is not called a peace
+offering; and the one served is a Benjamite, not a son of Aaron, at the direction of Samuel, an Ephraimite by 1:1 and
+a Levite by later genealogy (1 Chronicles 6, not quoted here). Whether this is the priest's portion given to the
+king-designate as an honor, an ordinary choice cut, or evidence of a practice the Levitical law does not describe, the
+text does not say. See [[Saul Comes to the Seer]]. Sources: stored WEB Exodus 29:26; Leviticus 7:32–34; 1 Samuel 1:1;
+9:23–24; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

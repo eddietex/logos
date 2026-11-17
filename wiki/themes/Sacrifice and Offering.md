@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sacrifice at the high place, blessed before it is eaten — 1 Samuel 9:12–24
+
+*The people have a sacrifice today in the high place*, and *will not eat until he come, because he blesses the
+sacrifice. Afterwards those who are invited eat* (9:12–13). The high place, *bāmâ* (WLC), had appeared before this
+chapter only in poetry and in commands to destroy the high places of Canaan (Leviticus 26:30; Numbers 33:52, among
+the WLC files searched); here it is where Samuel presides, with no comment from the narrator. The meal is a
+sacrificial feast, and Samuel gives Saul *the thigh* as his *portion*, *mānâ* (9:23–24, WLC), the word for the
+priest's share of the ordination ram and the peace offering (Exodus 29:26; Leviticus 7:33) and for Elkanah's portions
+at Shiloh (1:4–5). The law gives the right thigh to the priest (Leviticus 7:32); whether this thigh is that portion the
+text does not say. See [[Saul Comes to the Seer]] and
+[[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]].
+Source: stored WEB 1 Samuel 1:4–5; 9:12–24; Exodus 29:26; Leviticus 7:32–33; 26:30; Numbers 33:52. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
+
 ### A suckling lamb at Mizpah, an altar at Ramah — 1 Samuel 7:9–10, 17
 
 Samuel *took a suckling lamb, and offered it for a whole burnt offering to Yahweh*, *ʿôlâ kālîl* (7:9, WLC), the
@@ -915,6 +929,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Saul Comes to the Seer]] — 1 Samuel 9:12–24; the sacrifice at the high place, blessed by Samuel; the thigh as Saul's portion.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:9–10, 17; a suckling lamb as a whole burnt offering; an altar at Ramah.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:14–15; the cart for wood, the cows a burnt offering.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:14; *not removed with sacrifice or offering forever*.

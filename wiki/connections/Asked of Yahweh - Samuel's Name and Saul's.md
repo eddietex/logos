@@ -13,7 +13,7 @@ tags: [connection]
   long as he lives he is given to Yahweh* (27–28). Stored WEB.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:20 — Eli blesses Elkanah and Hannah *for the petition which was asked of
   Yahweh*. Stored WEB.
-- 1 Samuel 9:2 — *He had a son, whose name was Saul*. Stored WEB; not yet ingested.
+- [[Saul Comes to the Seer]] — 1 Samuel 9:2 — *He had a son, whose name was Saul*. Stored WEB.
 - [[Israel Asks for a King]] — 1 Samuel 8:10 — *Samuel told all Yahweh's words to the people who asked him for a king*. Stored
   WEB.
 - [[The Song of Hannah]] — 1 Samuel 2:10, *his king … his anointed*, sung before any king is asked for.
@@ -74,6 +74,11 @@ the Hannah story (1:17, 20, 27, 28; 2:20). See [[Israel Asks for a King]].
 Between the two askings stands Hannah's song, which names *his king* and *his anointed* (2:10) before the
 people ask for anyone. The king there is given by Yahweh, not demanded. See [[The Song of Hannah]] and
 [[His King and His Anointed - Hannah's Song and David's]].
+
+**What 1 Samuel 9 shows, now ingested.** The name *šāʾûl* first appears at 9:2, *ûšəmô šāʾûl* (WLC), with no
+gloss: the narrator, who explained Samuel's name at 1:20, does not explain Saul's or play on it, and *šāʾal* does not
+occur in chapter 9 at all (WLC). The asking is left to the reader to hear. What chapter 9 adds instead is the other
+side of the request: Yahweh *sends* the man (9:16). See [[Saul Comes to the Seer]].
 
 Sources: stored WEB 1 Samuel 1:17, 20, 27–28; 2:20; 8:5–6, 10; 9:2; 12:13, 17, 19; Exodus 2:10. Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb) `1Sam` XML, downloaded 2026-11-17. The scholarly proposals about

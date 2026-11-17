@@ -7,6 +7,21 @@ tags: [person]
 
 ## Overview
 
+### The smallest of the tribes supplies the king — 1 Samuel 9:1–21
+
+*There was a man of Benjamin, whose name was Kish* (9:1): the opening words of the Benjamite runner of 4:12 return
+for Saul's father. In the WLC the ketiv divides the tribal name, *mbn ymyn*, and the qere reads *mibbinyāmîn*; Kish's
+ancestor is *ʾîš yəmînî*, *a Benjamite*, and Saul calls himself *ben-yəmînî* (9:1, 21, WLC). Yahweh tells Samuel he
+will send *a man out of the land of Benjamin* to be anointed prince (9:16), and Saul objects that he is *of the
+smallest of the tribes of Israel*, his family *the least of all the families of the tribe of Benjamin* (9:21). The
+smallness has a history: the tribe was reduced to six hundred men in Judges 20 and rebuilt by the wives of Judges
+21. Benjamin, the youngest son, was seated *according to his youth* at Joseph's table and given *five times as much*
+(Genesis 43:33–34); Saul, of the least family, is seated at the head of the guests and given the reserved portion
+(9:22–24). See [[Saul Comes to the Seer]], [[Saul]], and
+[[The Least in My Father's House - Judges 6.15 and 1 Samuel 9.21]].
+
+Source: stored WEB Genesis 43:33–34; Judges 20–21; 1 Samuel 4:12; 9:1–24. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *A man of Benjamin* runs to Shiloh — 1 Samuel 4:12
 
 The runner who brings the news of the ark's capture to Shiloh is *a man of Benjamin*, *ʾîš-binyāmin* (4:12,
@@ -285,6 +300,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Saul Comes to the Seer]] — 1 Samuel 9:1, 4, 16, 21; Kish's tribe; *the smallest of the tribes of Israel*.
 - [[The Ark Is Captured]] — 1 Samuel 4:12; *a man of Benjamin* brings the news to Shiloh.
 - [[Wives for Benjamin]] — Judges 21:1–25; the six hundred given wives from Jabesh Gilead and Shiloh.
 - [[The War Against Benjamin]] — Judges 20:1–48; the tribe refuses, fights, and is reduced to six hundred.
@@ -376,6 +392,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Related people
 
+- [[Saul]] and [[Kish (father of Saul)]] — the Benjamite king and his father (1 Samuel 9:1–2)
 - [[Rachel]] — his mother, who dies bearing him and names him with her last breath; he is the *another
   son* she asked for when she named [[Joseph]] (30:24)
 - [[Jacob]] — his father, the only one of the twelve to name a son, and the man who will refuse to let

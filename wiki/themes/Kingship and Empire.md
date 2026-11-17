@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### A prince sent from Benjamin — 1 Samuel 9:1–25
+
+The king asked for in chapter 8 arrives in chapter 9 as someone Yahweh sends. *Tomorrow about this time I will send
+you a man out of the land of Benjamin, and you shall anoint him to be prince over my people Israel. He will save my
+people out of the hand of the Philistines* (9:16). Yahweh's title is *nāḡîḏ*, not the *meleḵ* of the people's
+request; in the WLC files searched (Genesis through 2 Samuel, Ruth) *nāḡîḏ* first occurs here, and next at 10:1;
+13:14; 25:30 and 2 Samuel 5:2; 6:21; 7:8, of Saul and then of David (lemma 5057). Its precise sense is debated
+(general knowledge, not checked against a lexicon). The reason given is the Exodus reason, *I have looked upon my
+people, because their cry has come to me* (Exodus 3:7, 9). Chapter 8 said the people would cry out *because of your
+king whom you will have chosen* (8:18); chapter 9 makes the king the answer to their cry. Both stand in the text, and
+the wiki does not reconcile them. Samuel's first words of kingship to Saul are not *king* but *all that is desirable
+in Israel* (9:20). See [[Saul Comes to the Seer]] and [[Saul]].
+Source: stored WEB 1 Samuel 8:18; 9:16–20; Exodus 3:7, 9. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Israel asks for a king — 1 Samuel 8:1–22
 
 The demand comes from *all the elders of Israel*, with two reasons: Samuel is old, and his sons, judges at
@@ -647,6 +661,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Saul Comes to the Seer]] — 1 Samuel 9:16–20; Yahweh sends *a man out of the land of Benjamin* to be anointed *prince*.
 - [[Israel Asks for a King]] — 1 Samuel 8:1–22; the elders ask for a king *like all the nations*; *they have rejected me*; the way of the king.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:13–17; the Philistines subdued under a judge, on the eve of the demand for a king.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35; the faithful priest *will walk before my anointed*, before Israel has a king.

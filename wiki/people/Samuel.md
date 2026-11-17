@@ -143,6 +143,21 @@ not yet ingested). He ends the assembly without naming a king: *Everyone go to y
 
 Source: stored WEB 1 Samuel 2:22; 8:1–22; 12:3. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### The seer who was told the day before — 1 Samuel 9:1–25
+
+Samuel enters chapter 9 through other people's words: *a man of God … held in honor. All that he says surely
+happens* (9:6), and *the seer*, the old name, the narrator explains, for a prophet (9:9). He has come to the city
+for a sacrifice at the high place, which the people will not eat until he blesses it (9:12–13). Yahweh had
+*uncovered his ear* the day before, *gālâ ʾeṯ-ʾōzen šəmûʾēl* (9:15, WLC): tomorrow a man from Benjamin will come,
+and Samuel is to *anoint him to be prince over my people Israel*, because *I have looked upon my people, because
+their cry has come to me* (9:16). When Saul comes, *Behold, the man* (9:17). Samuel, who was displeased at the
+request for a king (8:6), now does more than he is told: he invites Saul to the meal, tells him the donkeys are
+found, promises to tell him *all that is in your heart*, speaks of *all that is desirable in Israel*, seats him at
+the head of the guests, and serves him the thigh he had told the cook to set aside (9:19–24). The chapter does not
+say what Samuel thinks of it. His first act as kingmaker is hospitality. See [[Saul Comes to the Seer]].
+
+Source: stored WEB 1 Samuel 8:6; 9:1–25. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -154,6 +169,7 @@ Source: stored WEB 1 Samuel 2:22; 8:1–22; 12:3. Hebrew WLC (OpenScriptures mor
 - Absent from the narrative of the ark's capture, which fulfils the word given to him — 4:1b–22.
 - Calls Israel to put away the Baals and the Ashtaroth; prays at Mizpah; offers a whole burnt offering; Yahweh thunders; sets up Ebenezer; judges Israel all his life from Ramah — 7:2–17.
 - Old, appoints his sons judges at Beersheba; the elders ask for a king; he prays, is told to listen, warns of *the way of the king*, and sends the people home — 8:1–22.
+- Told by Yahweh the day before to anoint a man from Benjamin; meets Saul as *the seer*, hosts him at the high place, and gives him the reserved portion — 9:1–25.
 
 ## Appears in
 
@@ -165,9 +181,11 @@ Source: stored WEB 1 Samuel 2:22; 8:1–22; 12:3. Hebrew WLC (OpenScriptures mor
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–22 (not present; the fulfilment of his first word).
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–17; prophet, intercessor, priest, and judge at Mizpah.
 - [[Israel Asks for a King]] — 1 Samuel 8:1–22; his sons' corruption, the elders' request, and the way of the king.
+- [[Saul Comes to the Seer]] — 1 Samuel 9:6–25; the seer, told the day before, hosts the man he is to anoint.
 
 ## Related people
 
+- [[Saul]] — the man from Benjamin he is told to anoint *prince* (9:16)
 - [[Joel (son of Samuel)]] and [[Abijah (son of Samuel)]] — his sons, corrupt judges at Beersheba (8:2–3)
 - [[Hannah]] — his mother
 - [[Elkanah (father of Samuel)]] — his father
@@ -189,3 +207,5 @@ Source: stored WEB 1 Samuel 2:22; 8:1–22; 12:3. Hebrew WLC (OpenScriptures mor
 - [[Mediation and Advocacy]]
 - [[Sacrifice and Offering]]
 - [[Kingship and Empire]]
+- [[Prophecy and Vision]]
+- [[Hospitality]]

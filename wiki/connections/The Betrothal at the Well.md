@@ -12,7 +12,7 @@ tags: [connection]
 - **Exodus 2:15–21** — Moses and Zipporah at the well in Midian — [[Moses Flees to Midian]]
 - **John 4:1–42** — Jesus and the Samaritan woman at Jacob's well
 - Compare **1 Samuel 9:11–13** — Saul meets young women drawing water, and the scene declines to
-  become this one
+  become this one — [[Saul Comes to the Seer]]
 - Compare **Song of Solomon 1:7–8** — [[Dark and Lovely]]: a woman among the flocks who seeks the
   shepherd herself; see
   [[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]]
@@ -105,6 +105,19 @@ Messiah instead.
 The Gospel writer's fondness for nuptial imagery is not incidental: John the Baptist has already
 called himself *"the friend of the bridegroom"* two chapters earlier (3:29), which is precisely the
 office [[Abraham's Servant]] holds in Genesis 24.
+
+### 1 Samuel 9 — the scene that is not completed
+
+[[Saul Comes to the Seer]] opens the pattern and leaves it. A young man far from home, *going up the ascent to the
+city*, finds *young maidens going out to draw water*, *nəʿārôṯ yōṣəʾôṯ lišʾōḇ māyim* (1 Samuel 9:11, WLC) — the
+words of Genesis 24:13, *the daughters of the men of the city are coming out to draw water*, *yōṣəʾōṯ lišʾōḇ māyim*
+(WLC; stored WEB). He speaks to them; they answer at length and tell him to hurry (9:11–13). Then nothing: no water
+is drawn for him, no one runs home, there is no betrothal. What waits in the city is the seer, a sacrificial meal,
+and a place at the head of the table. A reader who knows the pattern expects a wife and is given a kingdom. The
+reading of 9:11–13 as an aborted betrothal scene is a literary-critical proposal, made from the shared wording and
+setting; the narrator does not mark it.
+
+Sources: stored WEB Genesis 24:13; 1 Samuel 9:11–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

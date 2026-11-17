@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Saul Comes to the Seer]] — 1 Samuel 9:16; *I have looked upon my people, because their cry has come to me*, the words of Exodus 3:7, 9.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:12; *the cry of the city went up to heaven*, *šawʿâ*, the noun of Exodus 2:23.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; tears without comfort, compared with the heard cry in Exodus.
 
@@ -114,4 +115,15 @@ Exodus 2:23 is the motif's *šawʿâ* outlier. The noun's only other occurrence 
 through 1 Samuel is 1 Samuel 5:12, *the cry of the city went up to heaven*, with the same verb, *ʿālâ*
 (lemma search). It is the cry of Ekron under Yahweh's hand: the oppressor in Israel's old place. See
 [[Their Cry Went Up - Exodus 2.23 and 1 Samuel 5.12]]. Sources: stored WEB Exodus 2:23; 1 Samuel 5:12;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+### The cry answered with a king — 1 Samuel 9:16
+
+*I have looked upon my people, because their cry has come to me*, *kî rāʾîṯî ʾeṯ-ʿammî kî bāʾâ ṣaʿăqāṯô ʾēlāy* (1
+Samuel 9:16, WLC). It is Exodus 3 compressed: *I have surely seen the affliction of my people* (3:7) and *the cry of
+the children of Israel has come to me*, *ṣaʿăqaṯ bənê-yiśrāʾēl bāʾâ ʾēlāy* (3:9, WLC). The noun *ṣəʿāqâ*, the verb
+*bôʾ*, and the preposition *ʾēlāy* are the same. At the bush the answer was Moses; here it is Saul, *to save my
+people out of the hand of the Philistines*. A chapter earlier Samuel had warned, *You will cry out in that day because
+of your king … and Yahweh will not answer you* (8:18, *zāʿaq*). The book now sets the cry the king answers beside the
+cry the king will cause. See [[Saul Comes to the Seer]]. Sources: stored WEB Exodus 3:7, 9; 1 Samuel 8:18; 9:16;
 Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

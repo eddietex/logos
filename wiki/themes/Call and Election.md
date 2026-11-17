@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Behold, the man* — 1 Samuel 9:15–21
+
+Yahweh designates the king before the king knows he is wanted: *I will send you a man out of the land of Benjamin*
+(9:16), and, when Samuel sees him, *Behold, the man of whom I spoke to you!* (9:17). The law had required *whom Yahweh
+your God chooses* (Deuteronomy 17:15), and chapter 8 had the people choosing (8:18); here Yahweh sends. The one sent
+answers as Gideon did: *Am I not a Benjamite, of the smallest of the tribes of Israel? And my family the least …?*
+(9:21; Judges 6:15). See [[Saul Comes to the Seer]] and
+[[The Least in My Father's House - Judges 6.15 and 1 Samuel 9.21]].
+Source: stored WEB 1 Samuel 8:18; 9:15–21; Deuteronomy 17:15; Judges 6:15.
+
 ### *Your king whom you will have chosen* — 1 Samuel 8:18
 
 The law of the king required *whom Yahweh your God chooses*, *ʾăšer yiḇḥar YHWH* (Deuteronomy 17:15, WLC).
@@ -344,6 +354,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Saul Comes to the Seer]] — 1 Samuel 9:15–21; *Behold, the man*; the least family of the smallest tribe.
 - [[Israel Asks for a King]] — 1 Samuel 8:18; *your king whom you will have chosen for yourselves*.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–10, 19–20; the boy called four times, taught to answer by Eli, and established as a prophet.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–35; *Didn't I choose him out of all the tribes*; the chosen house displaced.
