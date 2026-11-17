@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *For you are a near kinsman* — Ruth 3:9–13
+
+Ruth asks Boaz to spread his garment over her *for you are a near kinsman*, *kî gōʾēl ʾāttâ* (3:9, WLC),
+and so joins the redeemer's duty to marriage, which the Torah keeps apart (Leviticus 25:25; Deuteronomy
+25:5–10). Boaz accepts, but *there is a kinsman nearer than I* (12): the right goes by nearness, and he
+swears by Yahweh's life to redeem her if the other will not (13). *Gāʾal* occurs seven times in the
+chapter (WLC). The redemption is now of a woman as well as of land. See [[Ruth at the Threshing Floor]],
+[[The Redeemer and the Avenger of Blood]], and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]].
+Source: stored WEB Ruth 3:1–18; Leviticus 25:25; Deuteronomy 25:5–10; Hebrew WLC, 2026-11-17.
+
 ### *One of our near kinsmen* — Ruth 2:20
 
 The book's first *gōʾēl*: Naomi says of Boaz, *The man is a close relative to us, one of our near kinsmen*,
@@ -393,6 +403,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Ruth at the Threshing Floor]] — Ruth 3:9–13; *for you are a near kinsman*; *a kinsman nearer than I*; Boaz's oath to redeem.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; Naomi names Boaz *one of our near kinsmen* (*gōʾēl*), the book's first.
 - [[The Danite Migration]] — Judges 18:28; *there was no deliverer* (*ʾên maṣṣîl*, WLC) for Laish.
 - [[Israel's Repentance Under Ammon]] — Judges 10:11–15; *I saved you … I will save you no more*.

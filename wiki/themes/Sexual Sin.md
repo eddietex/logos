@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The edge not crossed — Ruth 3
+
+The threshing-floor scene is told in the words the Bible uses elsewhere for sex — *uncover*, *lie down*,
+*came*, *know* — and repeats the four verbs of Lot's daughters' night (Genesis 19:33; WLC). It narrates
+nothing but sleep: Ruth asks for marriage in words, and Boaz blesses her, swears to redeem her, and sends
+her home before dawn to protect her name (3:9–14). The marriage and the conception come after the gate
+(4:10, 13). See [[Ruth at the Threshing Floor]] and
+[[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]]. Source: stored WEB Ruth 3:1–18; Genesis 19:33; Ruth 4:10, 13;
+Hebrew WLC, 2026-11-17.
+
 ### The crime retold — Judges 20:5–6
 
 In his account the Levite names the crime as *they raped my concubine*, *ʿinnû* (20:5, WLC), and as
@@ -364,6 +374,7 @@ husband's taking her back after it (4). Matthew 5:32 later calls the second marr
 See [[Divorce, Remarriage, and the Newlywed]] and [[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
 
 ## Key passages
+- [[Ruth at the Threshing Floor]] — Ruth 3:4–14; the language of sex used of a night that narrates only sleep.
 - [[The War Against Benjamin]] — Judges 20:5–6; the night at Gibeah as the Levite tells it.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:22–25; the demand at the door and the rape of the concubine.
 

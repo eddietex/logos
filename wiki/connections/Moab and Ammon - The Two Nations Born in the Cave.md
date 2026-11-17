@@ -198,3 +198,13 @@ who was one; **Ruth the Moabitess**; and *"her who had been the wife of Uriah"*.
 are foreign and all four are attached to a scandal. **The list is not embarrassed, and the cave is
 in it.** See [[Lot and His Daughters]] and
 [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]].
+
+### Ruth 3 now ingested
+
+The threshing-floor night of [[Ruth at the Threshing Floor]] uses the four verbs of the night that produced
+Moab — *came*, *lay down*, *rose*, *know* (Genesis 19:33; Ruth 3:7, 14; WLC) — with a man who has drunk and a
+woman acting for a family line. The Moabite woman asks openly, the man is awake, and the child comes after a
+marriage (Ruth 3:9–13; 4:13). Ruth 3 does not call her *the Moabitess* and never mentions Lot; the
+comparison is a reading, set out with its limits in
+[[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]]. Source: stored WEB Genesis 19:33;
+Ruth 3:7–14; 4:13; Hebrew WLC, 2026-11-17.

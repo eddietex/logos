@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *How the matter will fall* — Ruth 3:18
+
+Naomi, who planned the night, ends it by telling Ruth to wait, *until you know what will happen*, literally
+*how the matter will fall* (*ʾêḵ yippōl dāḇār*, 3:18, WLC). The book does not name God in its account of
+the plan or the night; Boaz swears by him (13) and blesses by him (10). The outcome now lies with the
+nearer kinsman's choice and Boaz's haste: *the man will not rest until he has settled this today*. See
+[[Ruth at the Threshing Floor]]. Source: stored WEB Ruth 3:1–18; Hebrew WLC, 2026-11-17.
+
 ### *She happened to come* — Ruth 2:3
 
 The narrator says *chance*: *wayyiqer miqrehā*, literally *her chance chanced* (Ruth 2:3, WLC), and the
@@ -545,6 +553,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Ruth at the Threshing Floor]] — Ruth 3:18; *how the matter will fall*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:3, 20; *she happened to come*; Naomi's blessing of a kindness not abandoned.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:22; *Yahweh set every man's sword against his fellow*.
 - [[The Dream of the Barley Loaf]] — Judges 7:11–14; Gideon arrives as the dream is told.

@@ -271,6 +271,8 @@ about disappears from the book without their meeting again. The two of them last
   world-ending judgment, wine, a father uncovered, a child who acts, and a people explained by it.
 - [[The Drunkenness of Noah and the Drunkenness of Lot]] — the two scenes set side by side, and the
   one difference that matters: Noah wakes and knows; Lot never does.
+- [[Ruth at the Threshing Floor]] — Ruth 3:7, 14; a Moabite woman at night beside a man who has drunk, told with the verbs of 19:33 — see
+  [[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]].
 - [[Moab and Ammon - The Two Nations Born in the Cave]] — what the canon does with these two peoples
   afterwards, from Deuteronomy 2:9's land grant to Matthew 1:5.
 - [[Naked and Ashamed - Genesis 3 and Genesis 9]] — the third scene of the group, which that page

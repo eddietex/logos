@@ -22,6 +22,7 @@ tags: [connection]
 - [[Ruth Clings to Naomi]] — Ruth 1:11–15; Naomi's argument from the levirate custom.
 - **Ruth 1:11–13; 3:1–13; 4:1–12** — Naomi's argument, the threshing floor, and the redemption at the
   gate
+- [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *spread the corner of your garment … for you are a near kinsman*
 - **Matthew 22:23–33 · Mark 12:18–27 · Luke 20:27–40** — the Sadducees' seven brothers
 - **Genesis 46:12; Numbers 26:19–22; 1 Chronicles 2:3–5** — the resulting clans
 
@@ -181,3 +182,15 @@ these two verses. Whether
 Judges echoes the law deliberately the text does not say; the wording is shared. The levirate keeps a dead
 brother's name by a wife the family provides; Judges 21 keeps a brother tribe by wives the family takes. See
 [[Wives for Benjamin]]. Source: stored WEB Deuteronomy 25:6; Judges 21:17; Hebrew WLC, 2026-11-17.
+
+### Ruth 3:1–18 now ingested
+
+Ruth's request at the threshing floor, *spread the corner of your garment over your servant; for you are a
+near kinsman* (3:9), is where the levirate idea and the *gōʾēl* first meet in one sentence. Boaz is not a
+brother, so Deuteronomy 25:5's *her husband's brother shall go in to her* does not bind him; Ruth appeals to
+the redeemer's duty instead, and Boaz treats it as a duty with an order of precedence, *there is a kinsman
+nearer than I* (3:12). Tamar's widowhood garments came off and a veil went on (Genesis 38:14); Ruth washes,
+anoints herself, and dresses (3:3), and gives her name (3:9). Both women go to a man by their own act; Judah
+does not know who she is, and Boaz asks and is told. See [[Ruth at the Threshing Floor]] and
+[[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]]. Source: stored WEB Ruth 3:1–18; Genesis
+38:14–16; Deuteronomy 25:5; Hebrew WLC, 2026-11-17.

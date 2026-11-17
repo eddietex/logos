@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:12; Boaz to Ruth: *"May Yahweh repay your work, and a full
   reward be given to you from Yahweh, the God of Israel, under whose wings you have come to take refuge."*
-- **Ruth 3:9** *(not yet ingested; stored WEB)* — Ruth to Boaz at the threshing floor: *"I am Ruth your
+- [[Ruth at the Threshing Floor]] — Ruth 3:9; Ruth to Boaz at the threshing floor: *"I am Ruth your
   servant. Therefore spread the corner of your garment over your servant; for you are a near kinsman."*
 - **Psalm 36:7** *(Psalms not yet ingested; WEB checked at bible-api.com)* — *"How precious is your loving
   kindness, God! The children of men take refuge under the shadow of your wings."*
@@ -38,8 +38,9 @@ means of the blessing he spoke. That is an inference from the shared noun, but t
 word for either.
 
 **Covering and marriage.** Spreading a garment over a woman is elsewhere language of marriage: Yahweh
-says to Jerusalem in Ezekiel 16:8 that he *spread my garment over you* (reported by reference; Ezekiel is
-not stored and the verse was not checked here). Deuteronomy 22:30 (23:1 in Hebrew) forbids a man to
+says to Jerusalem in Ezekiel 16:8, *I spread my skirt over you, and covered your nakedness* (WEB at
+bible-api.com, checked 2026-11-17; Ezekiel is not stored); the Hebrew is *wāʾep̄rōś kənāp̄î*, the verb and
+noun of Ruth 3:9 (WLC). Deuteronomy 22:30 (23:1 in Hebrew) forbids a man to
 *uncover his father's skirt*, and *skirt* there is *kənap̄*, the same noun (WLC). See [[Marriage]] and
 [[Nakedness and Covering]].
 
@@ -66,3 +67,15 @@ checked against the WEB at bible-api.com (`translation=web`), 2026-11-17; not st
 the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`,
 `Judg`, `Ruth`, `1Sam`, `Job`, `Ps`, `Prov`, and `Eccl` XML, downloaded 2026-11-17; occurrence claims for
 lemmas 2620 and 3671 cover those thirteen files only.
+
+### Ruth 3 now ingested
+
+The request of 3:9 is now on its own page, [[Ruth at the Threshing Floor]]. In the WLC files read (Genesis–Ruth,
+1 Samuel, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Ezekiel), the verb *pāraś* (lemma 6566) and
+the noun *kānāp̄* (lemma 3671) occur in the same verse at Exodus 25:20 and 37:9 (the cherubim *spread out
+their wings* over the mercy seat), Deuteronomy 32:11 (the eagle), Ruth 3:9, Job 39:26 (the hawk), and
+Ezekiel 16:8. Ruth 3:9 and Ezekiel 16:8 are the two where the *kānāp̄* is a garment and the one spreading
+it is taking a woman as his own; Ezekiel continues *Yes, I swore to you, and entered into a covenant with
+you … and you became mine* (WEB). Boaz also swears (3:13). Whether Ezekiel knew Ruth, or both drew on a
+custom, is not argued here. Source: stored WEB Ruth 3:9, 13; Exodus 25:20; Deuteronomy 32:11; Ezekiel 16:8
+at bible-api.com; Hebrew WLC (adding `Song` and `Ezek`), 2026-11-17.

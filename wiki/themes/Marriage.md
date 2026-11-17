@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Spread the corner of your garment* — Ruth 3
+
+Naomi had prayed that each widow would *find rest … in the house of her husband* (1:9); now she says *shall
+I not seek rest for you* (3:1) and sends Ruth to the threshing floor. Ruth's request, *spread the corner of
+your garment over your servant* (3:9), uses the image Yahweh uses of his covenant with Jerusalem, *I spread
+my skirt over you … and you became mine* (Ezekiel 16:8, WEB at bible-api.com; the same verb and noun,
+WLC). Boaz praises her for not going after *young men, whether poor or rich* (3:10) and promises to marry
+her if the nearer kinsman will not. See [[Ruth at the Threshing Floor]] and
+[[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]]. Source: stored WEB Ruth 3:1–18; 1:9; Hebrew WLC, 2026-11-17.
+
 ### *Rest … in the house of her husband* — Ruth 1:9–13
 
 Naomi's blessing assumes that a widow's future is a second marriage: *May Yahweh grant you that you may find
@@ -583,6 +593,7 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Ruth at the Threshing Floor]] — Ruth 3:1–13; *seek rest for you*; *spread the corner of your garment over your servant*.
 - [[Ruth Clings to Naomi]] — Ruth 1:9–13; *rest … in the house of her husband*; no sons left for a levirate marriage.
 - [[Famine and Death in Moab]] — Ruth 1:4–5; two Moabite marriages, about ten years, no children reported.
 - [[Wives for Benjamin]] — Judges 21:1–23; wives supplied by massacre and by abduction.

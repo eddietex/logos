@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Shall I not seek rest for you?* — Ruth 3:1
+
+Two widows with no son and no land of their own working can glean only through a harvest. When it is over,
+Naomi looks for *rest* for Ruth, *that it may be well with you* (3:1): a husband's house (1:9). The way she
+chooses depends on a kinsman's duty and a woman's risk at night, and Boaz takes care that the risk costs
+Ruth nothing in the town's eyes (3:14). See [[Ruth at the Threshing Floor]]. Source: stored WEB Ruth 3:1–18; 1:9.
+
 ### A widow gleaning — Ruth 2
 
 Ruth goes to glean as the poor, the foreigner, and the widow may under Leviticus 19:9–10, 23:22, and
@@ -547,6 +554,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+- [[Ruth at the Threshing Floor]] — Ruth 3:1, 14; Naomi seeks *rest* for a widow; Boaz guards her name.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 9, 15–16, 22; a widow gleaning, protected and given more than the law requires.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:21–22; *brought me home again empty*; two widows at the start of harvest.
 - [[Famine and Death in Moab]] — Ruth 1:3–5; Naomi widowed and bereaved of her sons abroad.

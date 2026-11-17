@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### *As Yahweh lives* — Ruth 3:13
+
+Boaz promises to redeem Ruth if the nearer kinsman will not, and seals it: *I will do the duty of a kinsman
+for you, as Yahweh lives* (3:13), *ḥay-YHWH* (WLC), the oath Gideon swears at Judges 8:19. It is the book's
+second oath; the first was Ruth's self-curse (1:17). See [[Ruth at the Threshing Floor]]. Source: stored WEB Ruth 3:1–18; 1:17; Judges 8:19; Hebrew WLC, 2026-11-17.
+
 ### *May Yahweh do so to me* — Ruth 1:17
 
 Ruth seals her vow to Naomi with a self-curse: *May Yahweh do so to me, and more also, if anything but death
@@ -589,6 +595,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Ruth at the Threshing Floor]] — Ruth 3:13; *as Yahweh lives* — Boaz's oath to redeem.
 - [[Ruth Clings to Naomi]] — Ruth 1:16–17; Ruth's vow, and the self-curse oath in Yahweh's name.
 - [[Wives for Benjamin]] — Judges 21:1, 5, 7, 18, 22; the oath not to give daughters, and *the great oath* against those who did not come.
 - [[Jephthah's Vow]] — Judges 11:30–39; the vow before the battle, *I can't go back*, and the vow done.

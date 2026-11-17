@@ -244,6 +244,7 @@ kingship, the text does not say; readers propose each.
 - [[The Dwelling of God]] — *I am going to Yahweh's house* (18).
 
 ## Cross-references
+- [[Ruth at the Threshing Floor]] — Ruth 3:7; *his heart was merry*, the phrase of 19:6 and 22, at a night that ends in a blessing — see [[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]].
 - [[Micah's Idol and Levite]] — Judges 17:7–9; a Levite, Bethlehem Judah, the hill country of Ephraim.
 - [[The Danite Migration]] — Judges 18:1, 10; the refrain, and *no lack of anything*.
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–11, the scene this chapter retells.

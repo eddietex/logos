@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *More kindness in the latter end* — Ruth 3:10
+
+Boaz tells Ruth, *You have shown more kindness in the latter end than at the beginning, because you didn't
+follow young men, whether poor or rich* (3:10). It is the book's third *ḥeseḏ* (1:8; 2:20; WLC); at 1:8 Naomi had
+credited both daughters-in-law with it, *as you have dealt with the dead, and with me*. The *beginning* is usually taken as her loyalty to Naomi (2:11)
+and the *latter* as her choice of the family's redeemer over a husband of her own choosing; the text does
+not spell out which acts it means. See [[Ruth at the Threshing Floor]]. Source: stored WEB Ruth 3:1–18; 1:8; 2:11, 20; Hebrew WLC, 2026-11-17.
+
 ### *Ḥeseḏ* to the living and the dead — Ruth 2:20
 
 Naomi's second use of *ḥeseḏ*: *May he be blessed by Yahweh, who has not abandoned his kindness to the
@@ -645,6 +653,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[Ruth at the Threshing Floor]] — Ruth 3:10; *more kindness in the latter end than at the beginning*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; *who has not abandoned his kindness to the living and to the dead*.
 - [[Ruth Clings to Naomi]] — Ruth 1:8, 14–17; *ḥeseḏ* to the dead and the living; Ruth *joined with her*.
 - [[Samson and Delilah]] — Judges 16:4, 15; *he loved a woman*; *How can you say, 'I love you'*.

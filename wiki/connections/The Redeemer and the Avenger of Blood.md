@@ -28,6 +28,7 @@ tags: [connection]
   blood, and the cities of refuge that limit him
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; Naomi names Boaz *one of our near kinsmen*, *miggōʾălēnû*, the book's first
   *gōʾēl*
+- [[Ruth at the Threshing Floor]] — Ruth 3:9–13; *for you are a near kinsman*; *a kinsman nearer than I*
 - **Ruth 3:9–4:10** — Boaz as *gōʾēl*: land redeemed and a widow married *"to raise up the name of
   the dead on his inheritance"*
 - **Proverbs 23:10–11** — *"Don't move the ancient boundary stone. Don't encroach on the fields of
@@ -194,3 +195,13 @@ Related pages: [[I Know That My Redeemer Lives]],
 [[Miserable Comforters and the Witness in Heaven]], [[The Witness in Heaven]],
 [[Do Not Cover My Blood]], [[Whoever Sheds Man's Blood]],
 [[Mediation and Advocacy]], [[Vengeance]], [[Blood]], [[Job (person)]], and [[Abel]].
+
+### Ruth 3 now ingested
+
+In [[Ruth at the Threshing Floor]] the verb *gāʾal* occurs seven times in five verses (3:9, 12–13; WLC).
+Ruth calls Boaz *gōʾēl* (9); Boaz says he is one, but *there is a kinsman nearer than I* (12), and lays out
+the order: *if he will perform for you the part of a kinsman, good … But if he will not … then I will do the
+duty of a kinsman for you, as Yahweh lives* (13). The redeemer's right is ranked by nearness, as in
+Leviticus 25:48–49's brother, uncle, cousin, and near relative (stored WEB), and Boaz will not take it out of
+turn. Here the thing to be redeemed is named as Ruth herself — *redeem you* (*yiḡʾālēḵ*, 13) — before the
+field is mentioned at 4:3. Source: stored WEB Ruth 3:9–13; 4:3; Leviticus 25:48–49; Hebrew WLC, 2026-11-17.

@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### *Shall I not seek rest for you?* — Ruth 3
+
+Naomi, who prayed on the road that Yahweh would grant each widow *rest … in the house of her husband*
+(1:9), now acts on it herself: *My daughter, shall I not seek rest for you, that it may be well with you?*
+(3:1). She calls Boaz *our kinsman* (2), knows he will be winnowing that night, and gives Ruth the plan in
+detail, ending *he will tell you what to do* (3–4). At dawn she greets Ruth with *mî ʾat bittî*, literally
+*Who are you, my daughter?* (16, WLC; WEB *How did it go*), receives the barley sent so that Ruth would not
+come to her *empty* — her own word of 1:21 — and tells her to wait: *the man will not rest until he has
+settled this today* (17–18). The woman who said Yahweh had brought her back empty is now the one who
+plans, waits, and is provided for. See [[Ruth at the Threshing Floor]]. Source: stored WEB Ruth 3:1–18; 1:9, 21; Hebrew WLC,
+2026-11-17.
+
 ### *One of our near kinsmen* — Ruth 2
 
 Naomi sends Ruth to glean, *Go, my daughter* (2:2), and at evening receives an ephah of barley and the food
@@ -68,11 +80,13 @@ morphhb), 2026-11-17.
 - Urges Orpah and Ruth to go back; Orpah goes, Ruth swears to stay — Ruth 1:8–18
 - Arrives in Bethlehem at the start of barley harvest; asks to be called Mara — Ruth 1:19–22
 - Sends Ruth to glean; blesses Boaz and names him a near kinsman — Ruth 2:2, 18–22
+- Sends Ruth to Boaz at the threshing floor; *seek rest for you*; *Wait, my daughter* — Ruth 3:1–5, 16–18
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:1–5; widowed and bereaved of both sons in Moab.
 - [[Ruth Clings to Naomi]] — Ruth 1:6–18; sends her daughters-in-law back; *Yahweh's hand has gone out against me*.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:19–22; *Call me Mara*; *I went out full, and Yahweh has brought me home again empty*.
+- [[Ruth at the Threshing Floor]] — Ruth 3:1–5, 16–18; *shall I not seek rest for you*; *the man will not rest until he has settled this today*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 18–22; *who has not abandoned his kindness to the living and to the dead*; *one of our near kinsmen*.
 
 ## Related people
@@ -81,7 +95,7 @@ morphhb), 2026-11-17.
 - [[Chilion]] — her son
 - [[Ruth (person)]] — her daughter-in-law, Mahlon's widow
 - [[Orpah]] — her daughter-in-law
-- [[Boaz]] — her husband's kinsman, *one of our near kinsmen* (2:20)
+- [[Boaz]] — her husband's kinsman, *one of our near kinsmen* (2:20), *our kinsman* (3:2)
 
 ## Themes associated
 - [[The Poor and the Vulnerable]]

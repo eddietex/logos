@@ -27970,3 +27970,46 @@ bible-api.com, 2026-11-17 (not stored). Hebrew from a fresh download of the West
 `Prov`, and `Eccl` XML on 2026-11-17; every occurrence claim (lemmas 1350 a, 1353, 1368 + 2428, 1692, 2620,
 3671, 3950, 4129, 4138, 4745, 4909, 5237, 5800 a + 2617 a) covers those thirteen files and is stated on the
 page that makes it. No Greek text consulted.
+
+## [2026-11-17] ingest | Ruth 3.1-18 — Ruth at the Threshing Floor
+
+Unattended run (`/ingest auto`). Ruth is the first `in-progress` book; the next unchecked box was 3:1–18.
+Ruth now 5 / 8.
+
+Created: [[Ruth at the Threshing Floor]]; connection
+[[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]].
+
+Revised: book [[Ruth]] (box checked, overview paragraph, two key-theme lines and [[Nakedness and Covering]]
+added); people [[Ruth (person)]], [[Naomi]], [[Boaz]]; place [[Bethlehem]]; themes [[Redemption]],
+[[Marriage]], [[Love]], [[Nakedness and Covering]], [[Oaths and Vows]], [[Blessing]], [[Providence]],
+[[Famine and Plenty]], [[The Poor and the Vulnerable]], [[Sexual Sin]]; connections
+[[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]] (Ezekiel 16:8 now checked, replacing
+*not checked here*), [[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]],
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]], [[The Redeemer and the Avenger of Blood]],
+[[You Shall Not Go Empty-Handed - The Plunder of Egypt]], [[Moab and Ammon - The Two Nations Born in the Cave]],
+and [[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]]; passages [[Lot and His Daughters]],
+[[Judah and Tamar]], and [[The Levite's Concubine at Gibeah]] (cross-references). Also `wiki/books/index.md`,
+People Index A-E and N-Z, the places and themes indexes, Connections Index A-C, I-N, O-S, and T-Z, and the
+dashboard counts. Frontmatter totals: 483 passages, 350 people, 598 places, 88 themes, 917 connections.
+
+Judgment calls: kept the planned boundary 3:1–18. The nearer kinsman of 3:12–13 gets no page yet; he acts
+at 4:1–8, and that pass decides. The threshing floor is unnamed and gets no place page. The new connection
+with Genesis 19 rests on four shared verbs (*bôʾ*, *šāḵaḇ*, *qûm*, *yāḏaʿ*) plus wine, a woman's initiative,
+a family line, and Moab; Ruth never mentions Lot, and the page states that the comparison is a reading.
+
+No contradictions found. Readings recorded, not resolved: what, if anything, the chapter's sexual vocabulary
+implies (the page records the words and that the narration reports only sleep); which acts Boaz means by
+*the beginning* and *the latter end* of Ruth's kindness (3:10); whether *ʾāmâ* (3:9) marks different standing
+from *šip̄ḥâ* (2:13); the sense of *lāp̄aṯ* (3:8); the *-tî* written forms of 3:3–4 (explanation as an old
+second-person feminine ending reported, not assessed). That winnowing was done at night for the wind is
+marked as a common explanation, not the text's.
+
+Sources: Ruth 3:1–18; 1:8–9, 16, 21; 2:1, 10–13, 19–20, 23; 4:1, 5, 10, 12–13 from stored WEB. Comparisons
+from stored WEB Genesis 8:9; 19:31–37; 27:33; 38:14–16; 50:10; Exodus 7:22; 8:7, 18; 25:20; Leviticus
+25:48–49; Deuteronomy 22:30; 25:5; 27:20; 28:65; 32:11; Judges 3:11; 4:21; 6:37; 8:19; 16:29; 18:20; 19:6, 22;
+Proverbs 31:23, 31. 1 Samuel 18:22; 24:4; 25:36 and Ezekiel 16:8 checked against the WEB at bible-api.com,
+2026-11-17 (not stored). Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures
+morphhb) `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `Job`, `Ps`, `Prov`, `Eccl`,
+`Song`, and `Ezek` XML on 2026-11-17; every occurrence claim (lemmas 1350 a, 1540, 1637, 2729, 3190 + 3820 a,
+3615, 3671 + 6566, 3814, 3885, 3909, 3943, 4130, 4304, 4494, 4496, 4772, 5234 a, 7387, 7901, 8252) covers
+those fifteen files and is stated on the page that makes it. No Greek text consulted.

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Don't go empty* — Ruth 3:15–17
+
+Boaz fills Ruth's mantle with six measures of barley (3:15), and Ruth tells Naomi why: *he said, 'Don't go
+empty to your mother-in-law'* (17). *Rêqām*, *empty*, is Naomi's word at 1:21, *Yahweh has brought me home
+again empty*; in Ruth it occurs only in those two verses (WLC). The amount is unstated — the Hebrew names
+no measure. See [[Ruth at the Threshing Floor]] and [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]. Source: stored WEB Ruth 3:1–18; 1:21;
+Hebrew WLC, 2026-11-17.
+
 ### Satisfied, with some left over — Ruth 2:14–18
 
 The chapter after *empty* (1:21) is full of food: Ruth eats *and was satisfied, and left some of it* (2:14),
@@ -267,6 +275,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Ruth at the Threshing Floor]] — Ruth 3:15–17; six measures of barley; *Don't go empty to your mother-in-law*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:14–18; satisfied, with some left over; an ephah of barley.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:21–22; *empty*, and *the beginning of barley harvest*.
 - [[Ruth Clings to Naomi]] — Ruth 1:6; *Yahweh had visited his people in giving them bread*.

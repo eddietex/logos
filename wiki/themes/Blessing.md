@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *You are blessed by Yahweh, my daughter* — Ruth 3:10
+
+Woken at midnight by a woman at his feet, Boaz's first answer to her request is a blessing, *bərûḵâ ʾat
+laYHWH*, *You are blessed by Yahweh* (3:10, WLC), the form Naomi used of him at 2:20. He blessed her at
+2:12 by Yahweh's wings; now he is asked to spread his own. See [[Ruth at the Threshing Floor]]. Source: stored WEB Ruth 3:1–18; 2:12, 20; Hebrew WLC,
+2026-11-17.
+
 ### Harvest greetings — Ruth 2:4, 12, 19–20
 
 Boaz greets his reapers, *May Yahweh be with you*, and they answer, *May Yahweh bless you* (2:4), the first
@@ -617,6 +624,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[Ruth at the Threshing Floor]] — Ruth 3:10; *You are blessed by Yahweh, my daughter*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:4, 12, 19–20; harvest greetings and three blessings in daily speech.
 - [[Micah's Idol and Levite]] — Judges 17:2, 13; *May Yahweh bless my son!*, and *Yahweh will do good to me*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Balaam's curse refused, so *he blessed you still* (10).

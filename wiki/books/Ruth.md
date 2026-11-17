@@ -50,6 +50,17 @@ Yahweh, *who has not abandoned his kindness to the living and to the dead*, and 
 he is *one of our near kinsmen*, a *gōʾēl* (2:20). The woman who came home *empty* is fed from what Ruth
 *left* (2:14, 18).
 
+[[Ruth at the Threshing Floor]] (3:1–18) is one night at the end of the harvest. Naomi, who prayed on the
+road for *rest* for her daughters-in-law (1:9), now seeks it herself (3:1) and sends Ruth to Boaz on the
+threshing floor, washed and dressed, to lie at his feet after he has eaten and drunk. At midnight Ruth does
+not wait to be told what to do; she names herself and asks, *spread the corner of your garment over your
+servant; for you are a near kinsman* (3:9), the *kānāp̄* of the *wings* Boaz blessed her by (2:12), joining
+marriage to the redeemer's duty. Boaz blesses her, calls her *a worthy woman*, names a kinsman nearer than
+he, and swears by Yahweh's life to redeem her if that man will not (3:10–13). The scene uses the verbs of
+Lot's daughters' night (Genesis 19:33) and narrates only sleep. Ruth goes home before dawn with six measures
+of barley — *Don't go empty to your mother-in-law* (3:17) — and Naomi tells her to wait: *the man will not
+rest until he has settled this today* (3:18).
+
 ## Structure
 
 1. **Emptied** (1) — the losses in Moab, the parting on the road, and Naomi's return *empty*.
@@ -70,7 +81,7 @@ merge, or reorder them freely.
 - [x] [[Ruth Clings to Naomi]] — Ruth 1:6–18
 - [x] [[Naomi Returns to Bethlehem]] — Ruth 1:19–22
 - [x] [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23
-- [ ] Ruth at the Threshing Floor — Ruth 3:1–18
+- [x] [[Ruth at the Threshing Floor]] — Ruth 3:1–18
 - [ ] Boaz Redeems at the Gate — Ruth 4:1–12
 - [ ] The Birth of Obed — Ruth 4:13–17
 - [ ] The Generations of Perez — Ruth 4:18–22
@@ -82,11 +93,12 @@ merge, or reorder them freely.
 - [[The Nations]] — a Moabite woman in the line of David
 - [[Names and Naming]] — Naomi and Mara; *the name of the dead*
 - [[Redemption]] — the near kinsman (2:20; 3–4)
-- [[Marriage]] — levirate duty and redemption joined (4:5, 10)
+- [[Marriage]] — levirate duty and redemption joined (3:9; 4:5, 10)
 - [[Love]] — *ḥeseḏ* (1:8; 2:20; 3:10) and Ruth's loyalty
-- [[Oaths and Vows]] — Ruth's oath in Yahweh's name (1:17)
+- [[Oaths and Vows]] — Ruth's oath in Yahweh's name (1:17); Boaz's *as Yahweh lives* (3:13)
 - [[Favor and Grace]] — *ḥēn* in Boaz's field (2:2, 10, 13)
-- [[Providence]] — *she happened to come* (2:3), and a kindness not abandoned (2:20)
+- [[Providence]] — *she happened to come* (2:3), a kindness not abandoned (2:20), and *how the matter will fall* (3:18)
+- [[Nakedness and Covering]] — *uncover his feet*; *spread the corner of your garment* (3:4, 9)
 
 ## Key people
 - [[Naomi]]

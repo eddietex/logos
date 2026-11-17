@@ -7,6 +7,21 @@ tags: [person]
 
 ## Overview
 
+### *Spread the corner of your garment* — Ruth 3
+
+At the end of the harvest Naomi plans a night visit to Boaz on the threshing floor, and Ruth answers, *All
+that you say, I will do* (3:5). She washes, anoints herself, dresses, waits until he has eaten and drunk,
+uncovers his feet, and lies down (3:3–7). When he wakes and asks *Who are you?*, she does not wait to be
+told what to do, as Naomi said she would be (4), but asks: *I am Ruth your servant. Therefore spread the
+corner of your garment over your servant; for you are a near kinsman* (9). *Corner* is *kənāp̄*, the
+*wings* of Boaz's blessing at 2:12, and the request joins marriage to the redeemer's duty. Boaz calls her
+kindness greater than the first, *because you didn't follow young men, whether poor or rich*, and says the
+whole town knows she is *a worthy woman*, *ʾēšeṯ ḥayil* (10–11). She leaves before dawn with six measures
+of barley so as not to go home *empty* (14–17). The chapter does not call her *the Moabitess*. See [[Ruth at the Threshing Floor]],
+[[Under His Wings - Ruth 2.12, 3.9, and the Refuge of the Psalms]], and
+[[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]]. Source: stored WEB Ruth 3:1–18; 2:12;
+Hebrew WLC, 2026-11-17.
+
 ### *Since I am a foreigner* — Ruth 2
 
 Ruth asks to glean *after him in whose sight I find favor* (2:2) and *happened to come* to Boaz's field (2:3).
@@ -63,12 +78,14 @@ Deuteronomy 23:3.
 - Sets out with Naomi for Judah; refuses to go back and vows to stay with her — Ruth 1:6–18
 - Arrives in Bethlehem with Naomi, *Ruth the Moabitess … who returned*, at the start of barley harvest — Ruth 1:22
 - Gleans in the field of Boaz through the barley and wheat harvests — Ruth 2:1–23
+- Goes to Boaz at the threshing floor and asks him to spread his garment over her as *gōʾēl* — Ruth 3:1–18
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:4–5; a Moabite wife, widowed.
 - [[Ruth Clings to Naomi]] — Ruth 1:14–18; *Ruth joined with her*; *Your people will be my people, and your God my God*.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; silent; not counted in Naomi's *empty*, but listed by the narrator; first called *the Moabitess*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23; gleans; *since I am a foreigner*; *under whose wings you have come to take refuge*.
+- [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *spread the corner of your garment over your servant; for you are a near kinsman*; *a worthy woman*.
 - [[Joseph in Potiphar's House]] — named in a comparison of women who take the initiative (Ruth 3).
 
 ## Related people
@@ -76,7 +93,7 @@ Deuteronomy 23:3.
 - [[Mahlon]] — her husband (4:10)
 - [[Orpah]] — her sister-in-law
 - [[Elimelech]] — her father-in-law
-- [[Boaz]] — her husband's kinsman, in whose field she gleans; later her husband (4:13)
+- [[Boaz]] — her husband's kinsman, in whose field she gleans and whom she asks to spread his garment over her (3:9); later her husband (4:13)
 
 ## Themes associated
 - [[The Nations]]

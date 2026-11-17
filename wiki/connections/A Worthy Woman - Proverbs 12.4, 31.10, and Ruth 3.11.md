@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[Whoever Loves Correction]] — Proverbs 12:4.
 - [[The Worthy Woman]] — Proverbs 31:10–31, especially 10, 28–31.
-- Ruth 3:11 — a verified cross-reference; Ruth 3 is not yet ingested.
+- [[Ruth at the Threshing Floor]] — Ruth 3:11; *all the city of my people knows that you are a worthy woman*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1; Boaz is *ʾîš gibbôr ḥayil*, *a mighty man of wealth* (WLC), the same noun.
 
 ## Analysis
@@ -47,3 +47,10 @@ See [[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
 WEB *a mighty man of wealth*). The book uses *ḥayil* of both of them, so the man of worth and the woman of
 worth are matched; the WEB's two renderings, *wealth* and *worthy*, hide that. Source: stored WEB Ruth 2:1;
 3:11; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+**Ruth 3 now ingested.** See [[Ruth at the Threshing Floor]]. Boaz says it in the dark, at midnight, to a
+woman lying at his feet, and grounds it in the town's opinion: *all the city of my people knows* — word for
+word, *all the gate of my people* (*kol-šaʿar ʿammî*, WLC). Proverbs 31 ends at the same place: *her husband
+is respected in the gates* (31:23) and *let her works praise her in the gates* (31:31) (stored WEB). The
+worth Boaz names is not domestic management, which Ruth 3 does not mention, but the kindness he has just
+praised (3:10). Source: stored WEB Ruth 3:10–11; Proverbs 31:23, 31; Hebrew WLC, 2026-11-17.

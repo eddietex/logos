@@ -23,6 +23,7 @@ tags: [connection]
 - [[Tola and Jair]] — **Judges 10:1–5** — two judges, forty-five years, and no rest notice.
   (stored WEB)
 - **Judges 18:7, 27** — Laish, *quiet and secure*, then *a people quiet and unsuspecting* (stored WEB)
+- [[Ruth at the Threshing Floor]] — **Ruth 3:18** — *the man will not rest until he has settled this today* (stored WEB)
   *(not yet ingested)*
 
 ## Analysis
@@ -77,3 +78,13 @@ Sources: stored WEB Joshua 11:23; 14:15; Judges 3:11, 30; 5:31; 8:28; 18:7, 27. 
 the *nûaḥ* of Deuteronomy 12:10 and Joshua 21:44; 23:1) read from the
 Westminster Leningrad Codex (OpenScriptures morphhb, `Exod.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`,
 `Judg.xml`), with its lemma data, 2026-11-13. The verb's use outside Exodus–Judges was not checked.
+
+### Ruth 3:18
+
+The book after Judges uses *šāqaṭ* once, of a man: *the man will not rest until he has settled this today*
+(Ruth 3:18; *lōʾ yišqōṭ hāʾîš*, WLC). The chapter opened with Naomi seeking *rest* for Ruth (*mānôaḥ*, 3:1), a
+different word, and closes with Boaz denied rest of the Judges kind until the matter is done. In the WLC
+files read for this note (Genesis–Ruth, 1 Samuel, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon,
+Ezekiel), *šāqaṭ* (lemma 8252) also occurs in Job (3:13, 26; 34:29; 37:17), Psalms, Proverbs 15:18, and
+Ezekiel; it does not occur in 1 Samuel. See [[Ruth at the Threshing Floor]]. Source: stored WEB Ruth 3:1, 18;
+Hebrew WLC, 2026-11-17.

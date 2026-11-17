@@ -126,6 +126,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 - [[Ruth Clings to Naomi]] — Ruth 1:6–7; bread returns to Judah, and Naomi sets out for home.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:19–22; *all the city was excited about them*; Naomi's *Call me Mara*; arrival *in the beginning of barley harvest*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:4, 18; Boaz *came from Bethlehem* to his field; Ruth carries her barley *into the city*.
+- [[Ruth at the Threshing Floor]] — Ruth 3:2, 11, 15; the threshing floor below the town; *all the city* (*gate*) *of my people knows that you are a worthy woman*; Boaz goes *into the city*.
 
 ## Related places
 
@@ -149,6 +150,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 - Elimelech's family leaves in a famine for Moab — Ruth 1:1–2, [[Famine and Death in Moab]]
 - Naomi and Ruth return at the start of barley harvest; the town is stirred — Ruth 1:19–22, [[Naomi Returns to Bethlehem]]
 - Ruth gleans in Boaz's field through the barley and wheat harvests — Ruth 2:1–23, [[Ruth Gleans in the Field of Boaz]]
+- Ruth goes to Boaz on the threshing floor at the end of the harvest — Ruth 3:1–18, [[Ruth at the Threshing Floor]]
 - The elders bless Boaz's bride at the gate — Ruth 4:11 (not yet ingested)
 - Samuel anoints David at Jesse's house — 1 Samuel 16:1–13
 - Three of David's men fetch water from the well by the gate, and he pours it out — 2 Samuel 23:15–17

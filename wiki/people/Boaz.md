@@ -38,9 +38,24 @@ protects the foreigner and the widow, and feeds her from his own table. The book
 description, no age except his later remark that Ruth did not go after *young men* (3:10), and no wife or
 children before Ruth.
 
-**Ahead.** At the threshing floor Ruth asks him to *spread the corner of your garment over your servant;
-for you are a near kinsman* (3:9), and he answers that there is a kinsman nearer than he (3:12). At the
-gate he redeems *all that was Elimelech's* and takes *Ruth the Moabitess, the wife of Mahlon … to raise up
+### At the threshing floor — Ruth 3
+
+He winnows barley at night, eats and drinks, *his heart was merry*, and lies down at the end of the heap
+of grain (3:2, 7). At midnight he wakes with a start and finds a woman at his feet (8). Asked to *spread
+the corner of your garment over your servant; for you are a near kinsman* (9), he answers first with a
+blessing, *You are blessed by Yahweh, my daughter*, and praises her kindness because she *didn't follow
+young men, whether poor or rich* (10). He promises *all that you say*, because *all the city of my people
+knows that you are a worthy woman* (11). Then he names the obstacle: *there is a kinsman nearer than I*
+(12). He will not take the right out of turn, and he swears by Yahweh's life that he will redeem her if
+the other will not (13). He keeps her until morning, sends her away before anyone can be recognized, and
+says *Let it not be known that the woman came to the threshing floor* (14). He fills her mantle with six
+measures of barley, *Don't go empty to your mother-in-law* (15, 17), and goes into the city. Naomi's last
+word about him is *the man will not rest until he has settled this today* (18). In the chapter he is a man
+who has drunk at night and does nothing a reader of Genesis 19 or Judges 19 might fear; see [[Ruth at the Threshing Floor]] and
+[[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]]. Source: stored WEB Ruth 3:1–18;
+Hebrew WLC, 2026-11-17.
+
+**Ahead.** At the gate he redeems *all that was Elimelech's* and takes *Ruth the Moabitess, the wife of Mahlon … to raise up
 the name of the dead on his inheritance* (4:9–10). *So Boaz took Ruth, and she became his wife* (4:13).
 These are not yet ingested.
 
@@ -56,15 +71,17 @@ morphhb), 2026-11-17.
 - Introduced as a kinsman of Elimelech, *a mighty man of wealth* — Ruth 2:1
 - Finds Ruth gleaning in his field; protects, feeds, and blesses her — Ruth 2:3–16
 - Named by Naomi as *one of our near kinsmen* — Ruth 2:20
-- At the threshing floor; redeems the land and marries Ruth at the gate — Ruth 3–4 (not yet ingested)
+- At the threshing floor: blesses Ruth, names a nearer kinsman, swears to redeem her — Ruth 3:1–18
+- Redeems the land and marries Ruth at the gate — Ruth 4:1–13 (not yet ingested)
 - Father of Obed — Ruth 4:13, 21 (not yet ingested)
 
 ## Appears in
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23; the owner of the field; *under whose wings you have come to take refuge*.
+- [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *a worthy woman*; *a kinsman nearer than I*; *as Yahweh lives*.
 
 ## Related people
-- [[Ruth (person)]] — gleans in his field; later his wife (4:13)
-- [[Naomi]] — names him a *gōʾēl* (2:20)
+- [[Ruth (person)]] — gleans in his field; asks him at the threshing floor to spread his garment over her (3:9); later his wife (4:13)
+- [[Naomi]] — names him a *gōʾēl* (2:20) and *our kinsman* (3:2); *the man will not rest* (3:18)
 - [[Elimelech]] — his kinsman (2:1, 3)
 - [[Ibzan]] — identified with him by a later tradition (recalled, not verified)
 
@@ -76,3 +93,6 @@ morphhb), 2026-11-17.
 - [[The Poor and the Vulnerable]]
 - [[Wealth and Possessions]]
 - [[Work]]
+- [[Love]]
+- [[Oaths and Vows]]
+- [[Marriage]]

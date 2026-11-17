@@ -504,6 +504,7 @@ comparison himself. See
 
 ## Cross-references
 
+- [[Ruth at the Threshing Floor]] — Ruth 3:3–9; a widow who washes and dresses rather than veils herself, goes to a kinsman by night, and names herself.
 - [[Joseph Sold into Slavery]] — Genesis 37:26–27, 31–33; **the sale Judah proposed and the
   *hakker-nāʾ* he helped hand his father**, which comes back to him at 38:25. The previous pericope
   left this pairing explicitly for this one

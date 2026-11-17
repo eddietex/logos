@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Uncovered feet and a spread garment — Ruth 3
+
+Naomi tells Ruth to *uncover his feet* (3:4), and Ruth does (7): *gālâ* in the piel, the verb of the
+incest laws (Leviticus 18; Deuteronomy 22:30 [23:1 Hebrew], *uncover his father's skirt*; WLC). Then she asks
+Boaz to *spread the corner of your garment over your servant* (3:9), and *corner* is *kənap̄*, the noun of
+Deuteronomy 22:30. The chapter uses the vocabulary of exposure and of covering in one scene and narrates
+only the covering: Ezekiel 16:8 has Yahweh *spread my skirt over you, and covered your nakedness* (WEB at
+bible-api.com). Boaz also covers her reputation: *Let it not be known that the woman came to the threshing
+floor* (3:14). See [[Ruth at the Threshing Floor]] and
+[[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]]. Source: stored WEB Ruth 3:1–18; Deuteronomy 22:30;
+Hebrew WLC, 2026-11-17.
+
 ### The cloak you cover yourself with — Deuteronomy 22:5, 12
 
 Men's and women's clothing are not to be exchanged (5) — *kǝlî geber*, *a man's article*, and
@@ -207,6 +219,7 @@ page. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored W
 
 ## Key passages
 
+- [[Ruth at the Threshing Floor]] — Ruth 3:4, 7, 9, 14; *uncover his feet*; *spread the corner of your garment*.
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
