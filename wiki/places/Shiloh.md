@@ -7,6 +7,19 @@ tags: [place]
 
 ## Overview
 
+### *My habitation* — 1 Samuel 2:27–36
+
+The man of God's oracle against Eli speaks of *my sacrifice and … my offering, which I have commanded in my
+habitation* and forecasts *the affliction of my habitation* (2:29, 32). *Māʿôn*, *habitation*, occurs in
+the WLC files of Genesis through 1 Kings elsewhere only of Yahweh's *holy habitation, from heaven*
+(Deuteronomy 26:15); here it most likely means the sanctuary at Shiloh. 2:32 is textually difficult, and
+many read it as a forecast of the ark's capture and Shiloh's eclipse (chapter 4). 1 Kings 2:27 later
+recalls *Yahweh's word, which he spoke concerning the house of Eli in Shiloh* (WEB checked at
+bible-api.com). See [[A Man of God Against the House of Eli]].
+
+Source: stored WEB 1 Samuel 2:29, 32; Deuteronomy 26:15. 1 Kings 2:27 WEB checked at bible-api.com,
+2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### What they did in Shiloh — 1 Samuel 2:12–26
 
 *So they did in Shiloh to all the Israelites who came there* (2:14): the priest's servant forks meat out
@@ -92,6 +105,8 @@ or describing a stone temple.
 Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
+
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; Yahweh's *habitation*; the word against Eli's house.
 
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–26; the sacrifices seized, the women at the Tent's door, Samuel ministering.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–28; the yearly sacrifice, Hannah's vow, and Samuel given to Eli.

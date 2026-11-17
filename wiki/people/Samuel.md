@@ -55,18 +55,34 @@ praying for them (12:23) (stored WEB; not yet ingested). See [[The Sins of Eli's
 Source: stored WEB 1 Samuel 2:12, 18–26; 3:7; 7:5; 12:23; 15:27; 28:14. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
 
+### The faithful priest? — 1 Samuel 2:35
+
+Samuel is not named in the man of God's oracle, but he is one of the usual candidates for its *faithful
+priest*, *kōhēn neʾĕmān*, who *will do according to that which is in my heart* (2:35). He is growing at
+the same altar (2:18, 26), and at 3:20 all Israel knows he *was established to be a prophet of Yahweh*,
+where *established* is the same *neʾĕmān* (WLC; stored WEB; not yet ingested). Against the reading, his own
+sons *didn't walk in his ways* (8:3), and his house is not made *sure*; Zadok, installed *in the place of
+Abiathar* (1 Kings 2:35, WEB checked at bible-api.com), is the other common identification. The wiki
+records both. See [[A Man of God Against the House of Eli]] and
+[[A Sure House - The Faithful Priest and the House of David]].
+
+Source: stored WEB 1 Samuel 2:18, 26, 35; 3:20; 8:3. 1 Kings 2:35 WEB checked at bible-api.com,
+2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
 - Weaned, and given to Yahweh at Shiloh under Eli — 1:22–28.
 - Stays at Shiloh and *served Yahweh before Eli the priest* — 2:11.
 - Ministers in a linen ephod; grows *with Yahweh and with men* beside Eli's sons — 2:18–26.
+- Not named, but one common identification of the man of God's *faithful priest* — 2:35.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 20–28.
 - [[The Song of Hannah]] — 1 Samuel 2:11.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:18–21, 26.
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:35 (not named; a proposed identification).
 
 ## Related people
 
@@ -76,6 +92,7 @@ morphhb), 2026-11-17.
 - [[Hophni]] and [[Phinehas (son of Eli)]] — Eli's sons, his counterparts at the same altar
 - [[Samson]] — the other child of a barren mother whose head no razor would touch
 - [[Shemuel]] — the earlier bearer of the same Hebrew name
+- [[Man of God (of Eli's time)]] — whose word against Eli is repeated to him (3:11–14)
 
 ## Themes associated
 

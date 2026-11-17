@@ -28290,3 +28290,45 @@ from the WLC only, without English quotation. Hebrew from the Westminster Lening
 (OpenScriptures morphhb) XML, `Gen` through `Ruth` and `1Sam`, extended to `2Sam` and `1Chr` where
 stated; includes the *ketiv* *lô* / *qere* *lōʾ* of 2:16. No Greek text, Septuagint, or Qumran text was
 consulted.
+
+## [2026-11-17] ingest | 1 Samuel 2.27-36 — A Man of God Against the House of Eli
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+the man of God's oracle, 2:27–36, ingested as planned. 1 Samuel is now 4 / 47.
+
+Created: passage [[A Man of God Against the House of Eli]]; person [[Man of God (of Eli's time)]];
+connections [[Grew Fat and Kicked - Deuteronomy 32.15 and 1 Samuel 2.29]],
+[[A Sure House - The Faithful Priest and the House of David]], and
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes, people, and places); passage
+[[The Sins of Eli's Sons]] (forward links to the new passage); people [[Eli]], [[Hophni]],
+[[Phinehas (son of Eli)]], [[Samuel]], [[Aaron]], and [[Ithamar]]; places [[Egypt]] and [[Shiloh]];
+themes [[Priesthood]], [[Prophecy and Vision]], [[Judgment]], [[Retribution]], [[Sacrifice and Offering]],
+[[Divine Grief and Relenting]], [[Signs and Wonders]], [[Call and Election]], [[Kingship and Empire]],
+[[Curse]], and [[Walking with God]]; connections
+[[His King and His Anointed - Hannah's Song and David's]],
+[[Despised the Word of Yahweh - Numbers 15.31 and 2 Samuel 12.9]], and
+[[Faithful in All My House - Numbers 12.7 and Hebrews 3]]. Also `wiki/books/index.md`, People Index A-E,
+F-M, and N-Z, Connections Index D-H, O-S, and T-Z, the places and themes indexes, and the dashboard
+counts. Frontmatter totals: 490 passages, 365 people, 598 places, 88 themes, 935 connections.
+
+Judgment calls: the boundary 2:27–36 stands; 3:1 opens the call of Samuel. The unnamed prophet got a page
+qualified by period, per the rule for unnamed figures known by a title, since 1 Kings 13 and others will
+need their own. Aaron, Ithamar, and Samuel are listed on the passage page though none is named in it; each
+entry says why. Zadok and Abiathar are discussed but given no pages until the pericopes where they act.
+
+Recorded, not resolved: whether *him* in 2:28 is Aaron or Levi; Eli's descent from Ithamar (an inference
+from 1 Chronicles 24:3 with 1 Samuel 14:3; 22:20); the text and sense of *my habitation* (2:29, 32); the
+reported absence of 2:32a and the reading *by the sword of men* at 2:33 in the Septuagint and 4QSamᵃ
+(recalled, not checked, and flagged where claimed); the survivor of 2:33; the faithful priest of 2:35
+(Samuel, Zadok, or a messianic reading); and how the *forever* of 2:30 is withdrawn. A rabbinic
+identification of the man of God with Elkanah is reported as recalled, not verified.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 3:11–14, 20; 4:11, 15, 18, 21; 8:1–3;
+9:6; 12:2, 23; 14:3; 22:9, 18–20; 24:6; 25:28; 26:11, 19. Comparisons from stored WEB Genesis 17:1; 25:34;
+44:17; Numbers 12:7; 15:31; 25:13; Deuteronomy 26:15; 32:15; 33:1; Judges 21:6. 2 Samuel 7:16; 1 Kings
+2:26–27, 35; 11:38; and 1 Chronicles 24:3 checked against the WEB at bible-api.com (`translation=web`),
+2026-11-17; not stored in raw. Hebrew from a fresh download of the Westminster Leningrad Codex
+(OpenScriptures morphhb) XML, `Gen` through `Ruth`, `1Sam`, `2Sam`, and `1Kgs`, 2026-11-17; occurrence
+claims cover those files. No Greek text, Septuagint, or Qumran text was consulted.

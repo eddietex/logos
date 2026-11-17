@@ -11,7 +11,9 @@ tags: [connection]
 - 2 Samuel 22:2–3, 51 — David's song *(WEB checked at bible-api.com; not yet ingested)*
 - Psalm 18:2, 50 — the same song in the Psalter *(WEB checked at bible-api.com; Hebrew 18:51 WLC; not
   yet ingested)*
-- 1 Samuel 2:35; 16:13 — *my anointed*; *the horn of oil* *(stored WEB; not yet ingested)*
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:35; *he will walk before my anointed forever*
+  *(stored WEB)*
+- 1 Samuel 16:13 — *the horn of oil* *(stored WEB; not yet ingested)*
 
 ## Analysis
 
@@ -65,3 +67,5 @@ Sources: stored WEB 1 Samuel 2:1–2, 10, 35; 8:7; 10:1; 16:13; 24:6; 26:9–23;
 not stored in raw. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen` through
 `Ruth`, `1Sam`, `2Sam`, and `Ps` XML, downloaded 2026-11-17; occurrence claims cover `Gen` through `1Sam`
 only.
+- The second royal *anointed* (2:35) sits in a priestly oracle: the faithful priest who replaces Eli's
+  house will *walk before* the king. See [[A Sure House - The Faithful Priest and the House of David]].

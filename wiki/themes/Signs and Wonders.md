@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sign of the two sons — 1 Samuel 2:34
+
+*This will be the sign to you, that will come on your two sons, on Hophni and Phinehas: in one day they
+will both die* (2:34). The sign is not a wonder but a near event that confirms a far one: when it comes
+(4:11), the rest of the sentence on Eli's house can be counted on. See
+[[A Man of God Against the House of Eli]]. Source: stored WEB 1 Samuel 2:34; 4:11.
+
 ### Wonderful, and a wonder — Judges 13:18–19
 
 The angel's name is *incomprehensible*, *pelʾî* (13:18), and in the next verse he *did an amazing
@@ -213,6 +220,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:34; the two sons' death *in one day* as the sign of the longer sentence.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; a sign offered unasked, heard in an enemy's dream.
 - [[The Fleece]] — Judges 6:36–40; dew on the fleece, then dew on the ground, given in silence.
 - [[The Call of Gideon]] — Judges 6:13, 17–21; the wonders remembered, a sign asked and given in fire.

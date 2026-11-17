@@ -33,15 +33,28 @@ with women who serve at that door. The comparison is a reader's. See [[The Sins 
 
 Source: stored WEB 1 Samuel 2:12–25; Numbers 25:6–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### The sign — 1 Samuel 2:34
+
+Named, with his brother [[Hophni]], in the sign the [[Man of God (of Eli's time)]] gives Eli: *This will be
+the sign to you, that will come on your two sons, on Hophni and Phinehas: in one day they will both die*
+(2:34). It is the first time the brothers are named since 1:3. The oracle charges their father with
+honouring them above Yahweh and fattening on *the best of all the offerings* (2:29). The sign is fulfilled
+at the ark's capture: *the two sons of Eli, Hophni and Phinehas, were slain* (4:11, stored WEB; not yet
+ingested). See [[A Man of God Against the House of Eli]].
+
+Source: stored WEB 1 Samuel 2:29, 34; 4:11.
+
 ## Timeline / key events
 
 - Priest at Shiloh with his brother — 1 Samuel 1:3.
 - With his brother, seizes the sacrifices and lies with the women at the Tent's door; ignores Eli's rebuke — 2:12–25.
+- Named in the sign of the man of God: both brothers to die in one day — 2:34.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–17, 22–25.
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:34.
 
 ## Related people
 
@@ -57,3 +70,5 @@ Source: stored WEB 1 Samuel 2:12–25; Numbers 25:6–13. Hebrew WLC (OpenScript
 - [[Sexual Sin]]
 - [[Sacrifice and Offering]]
 - [[Hardening of the Heart]]
+- [[Judgment]]
+- [[Signs and Wonders]]

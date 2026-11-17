@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Walk before me forever* — 1 Samuel 2:30, 35
+
+Eli's house had been promised it would *walk before me forever* (2:30), the Hithpael of *hālaḵ* with
+*before me* that Yahweh spoke to Abram, *Walk before me, and be blameless* (Genesis 17:1). The promise is
+withdrawn, and the faithful priest who replaces the house *will walk before my anointed* (2:35). See
+[[A Man of God Against the House of Eli]]. Source: stored WEB 1 Samuel 2:30, 35; Genesis 17:1. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
+
 ### The way their fathers walked — Judges 2:6–23
 
 *They quickly turned away from the way in which their fathers walked, obeying Yahweh's commandments*
@@ -281,6 +289,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:30, 35; *walk before me forever* withdrawn; *walk before my anointed*.
 - [[Another Generation Arose]] — Judges 2:17, 22; *the way in which their fathers walked*.
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"walk in all his ways"* (22), and the curse as turning *"out of the way"* (28).

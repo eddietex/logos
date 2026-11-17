@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### The chosen house remembered — 1 Samuel 2:27–28
+
+Aaron is not named, but the man of God's oracle to [[Eli]] recalls him in all but name: Yahweh revealed
+himself to *the house of your father, when they were in Egypt*, and chose *him out of all the tribes of
+Israel to be my priest, to go up to my altar, to burn incense, to wear an ephod before me*, and gave his
+house *all the offerings of the children of Israel made by fire* (2:27–28). The functions are those
+assigned to Aaron and his sons (Exodus 28–30; Numbers 18:1–7), and the choice from all the tribes is the
+point of the budding rod (Numbers 17); some read *him* as Levi rather than Aaron. The oracle then revokes
+the promise to that house in Eli's branch of it (2:30). See [[A Man of God Against the House of Eli]].
+
+Source: stored WEB 1 Samuel 2:27–30; Numbers 17; 18:1–7.
+
 ### His son's death — Joshua 24:29–33
 
 Named only as Eleazar's father: *Eleazar the son of Aaron died* (33). Aaron's garments passed to
@@ -778,6 +790,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–28; not named; the ancestor chosen *out of all the tribes of Israel to be my priest*.
 
 - [[The War Against Benjamin]] — Judges 20:28; named as Phinehas's grandfather, *the son of Eleazar, the son of Aaron*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; named as Eleazar's father (33).

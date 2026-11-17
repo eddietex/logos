@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Before my anointed* — 1 Samuel 2:35
+
+The second royal *māšîaḥ* in 1 Samuel comes in a priestly oracle: the faithful priest *will walk before my
+anointed forever* (2:35). As with Hannah's *his anointed* (2:10), Israel has no king yet; the priest's
+future is already set in relation to one. See [[A Man of God Against the House of Eli]] and
+[[His King and His Anointed - Hannah's Song and David's]]. Source: stored WEB 1 Samuel 2:10, 35.
+
 ### *His king … his anointed* — 1 Samuel 2:10
 
 The first king named in 1 Samuel is in a song, before Israel has one: *He will give strength to his king,
@@ -614,6 +621,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:35; the faithful priest *will walk before my anointed*, before Israel has a king.
 - [[The Song of Hannah]] — 1 Samuel 2:10; *his king … his anointed*, the first royal *māšîaḥ*, before Israel has a king.
 - [[Wives for Benjamin]] — Judges 21:25; the fourth and last *no king in Israel* refrain, full form.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1; the third *no king in Israel* refrain, short form.

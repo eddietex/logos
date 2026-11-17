@@ -63,7 +63,8 @@ sons (12–17), Samuel (18–21), Eli's sons (22–25), Samuel (26). Each time t
 sons' corruption at the altar, it turns to the boy growing at the same altar. Hannah's song had just
 said that Yahweh *brings low* and *lifts up* (2:7); this pericope shows both movements beginning in the
 same sanctuary at the same time. No one in the chapter yet acts against the sons. Eli speaks and is not
-heard; the judgment comes in the next pericope, from a man of God (2:27–36), and is carried out at
+heard; the judgment comes in the next pericope, from a man of God
+([[A Man of God Against the House of Eli]], 2:27–36), and is carried out at
 Aphek, where *the two sons of Eli, Hophni and Phinehas, were slain* (4:11, stored WEB; not yet
 ingested).
 
@@ -183,8 +184,8 @@ mighty men are broken* and *those who were full have hired themselves out for br
 spelled out to Eli's house as *a piece of silver and a loaf of bread* (2:36). It answers the sacrificial
 law of Leviticus 3 and 7 and the priests' due of Deuteronomy 18 by showing the share seized and the fat
 postponed. Its picture of a priest who will not restrain his sons sets up the next pericope,
-[[1 Samuel]] 2:27–36, where a man of God says Eli has honored his sons above Yahweh (2:29). Its picture
-of Samuel growing *with Yahweh and with men* reaches to Luke's boy Jesus (Luke 2:52). And its contrast,
+[[A Man of God Against the House of Eli]] (2:27–36), where a man of God says Eli has honored his
+sons above Yahweh (2:29). Its picture of Samuel growing *with Yahweh and with men* reaches to Luke's boy Jesus (Luke 2:52). And its contrast,
 *didn't know Yahweh* against *didn't yet know Yahweh*, prepares the call of Samuel in chapter 3.
 
 ## Key verses

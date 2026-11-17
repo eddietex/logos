@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Those who honor me I will honor* — 1 Samuel 2:30
+
+*Those who honor me I will honor, and those who despise me will be cursed* (2:30). The retribution is
+measured by the same root: *kāḇēḏ*, *honor*, literally *make heavy*, for those who honor; *qālal*, *be
+light*, the WEB's *cursed*, for those who despise (WLC). Eli had *honored* his sons above Yahweh (2:29,
+same verb). The house that fattened on *the best of all the offerings* will beg *a morsel of bread*
+(2:29, 36). See [[A Man of God Against the House of Eli]]. Source: stored WEB 1 Samuel 2:29–30, 36.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Gibeah burned — Judges 20:37–48
 
 The town whose men surrounded a house by night is surrounded by ambushes (20:5, 29), struck *with the edge
@@ -725,6 +734,7 @@ offense. It is also capped, at forty, for the sake of *"your brother"* (3). The 
 proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:30, 36; *those who honor me I will honor*; the fattened house begs bread.
 - [[The War Against Benjamin]] — Judges 20:37–48; Gibeah struck and burned, and then the tribe.
 - [[Shibboleth]] — Judges 12:4–5; *fugitives of Ephraim*, the insult turned back.
 - [[The Fall of Abimelech]] — Judges 9:23–24, 56–57; *God repaid the wickedness* of Abimelech and of Shechem.

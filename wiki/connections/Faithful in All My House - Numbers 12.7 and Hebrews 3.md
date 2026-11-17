@@ -27,3 +27,5 @@ tags: [connection]
 The highest praise the Torah gives Moses becomes the starting point of the New Testament's comparison. It was spoken to defend him from his own brother and sister. Hebrews 3:7–19 then turns to the wilderness generation. See [[Faith]] and [[Priesthood]].
 
 Sources: WEB of Numbers from `raw/bible/`; Hebrews at bible-api.com (`translation=web`), 2026-11-02. Hebrew from WLC (morphhb); Rahlfs from the eliranwong LXX-Rahlfs-1935 repository; Hebrews from SBLGNT.
+
+Within the Former Prophets, *neʾĕmān* with *house* recurs in the promise of *a faithful priest* and *a sure house* (1 Samuel 2:35) and in the promises to David; see [[A Sure House - The Faithful Priest and the House of David]].

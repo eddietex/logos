@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Eli's ancestor? — 1 Samuel 2:27–36
+
+1 Samuel never names Ithamar or gives [[Eli]] a genealogy. The usual reconstruction of Eli's line runs
+through him: Ahimelech son of Ahitub, priest at Nob, is in Eli's line by way of Ahitub (1 Samuel 14:3;
+22:9, 20, stored WEB), and 1 Chronicles 24:3 sets *Ahimelech of the sons of Ithamar* beside *Zadok of the
+sons of Eleazar* (WEB checked at bible-api.com, 2026-11-17). If so, the man of God's sentence on Eli's
+house (1 Samuel 2:27–36), fulfilled when Solomon puts Zadok *in the place of Abiathar* (1 Kings 2:35, WEB
+checked), moves the leading priesthood from Ithamar's line to Eleazar's. The chain is an inference across
+books, reported, not stated in any one text. See [[A Man of God Against the House of Eli]] and
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]].
+
 ### The second census — Numbers 26:1–65
 
 Named among Aaron’s sons (60), without a separate action in this census.
@@ -218,6 +229,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 
 ## Appears in
 
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; not named; the usual reconstruction of Eli's line.
+
 - [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:28, 33; over Gershon and Merari.
@@ -270,6 +283,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[Aaron]], [[Elisheba]] — his parents
 - [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]] — his brothers
 - [[Gershon]], [[Merari]] — the houses placed under him (Numbers 4:28, 33)
+- [[Eli]] — probably his descendant, by inference from 1 Chronicles 24:3
 
 ## Themes associated
 

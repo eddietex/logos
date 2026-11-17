@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *I said indeed … but now* — 1 Samuel 2:30
+
+*I said indeed that your house, and the house of your father, should walk before me forever.' But now
+Yahweh says, 'Far be it from me* (2:30). Yahweh quotes his own promise and withdraws it. The text uses no
+word of relenting (*nāḥam*), and gives the reason in the same verse: *those who despise me will be
+cursed*. A promise said to be *forever* is ended by the conduct of those who held it; how that is to be
+squared with its *forever*, the oracle does not explain. *Ḥālîlâ lî*, *far be it from me*, is in the WLC
+files of Genesis through 1 Kings otherwise a human's phrase. See [[A Man of God Against the House of Eli]].
+Source: stored WEB 1 Samuel 2:30. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Israel grieves — Judges 21:6, 15
 
 *The children of Israel grieved for Benjamin their brother*, *wayyinnāḥămû* (21:6); *the people grieved
@@ -171,6 +181,7 @@ Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It 
 
 ## Key passages
 
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:30; a *forever* promise to Eli's house withdrawn: *But now … Far be it from me*.
 - [[Wives for Benjamin]] — Judges 21:6, 15; *nāḥam* used of Israel's grief for Benjamin.
 - [[Israel's Repentance Under Ammon]] — Judges 10:16; *his soul was grieved*, *qāṣar nepeš*.
 - [[Another Generation Arose]] — Judges 2:18; *it grieved Yahweh because of their groaning*.

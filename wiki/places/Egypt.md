@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### *In bondage to Pharaoh's house* — 1 Samuel 2:27
+
+The man of God opens his oracle against Eli by recalling where the priestly house was chosen: *Did I reveal
+myself to the house of your father, when they were in Egypt in bondage to Pharaoh's house?* (2:27). Egypt is
+the place of the founding revelation to the priesthood, as it is the place of Israel's redemption in
+Judges' recollections. See [[A Man of God Against the House of Eli]].
+
+Source: stored WEB 1 Samuel 2:27.
+
 ### *Since the day … out of the land of Egypt* — Judges 19:30
 
 The onlookers measure the deed at Gibeah against the whole span since the Exodus: *Such a deed has not been
@@ -502,6 +511,8 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27; where Yahweh revealed himself to the house of Eli's father.
 
 - [[The Levite's Concubine at Gibeah]] — Judges 19:30; nothing like it since the Exodus.
 - [[Israel's Repentance Under Ammon]] — Judges 10:11; *Didn't I save you from the Egyptians*.

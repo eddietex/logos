@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### A house chosen, and a faithful priest promised — 1 Samuel 2:27–36
+
+Yahweh's word through a man of God recalls the founding of the priesthood: the house chosen *out of all
+the tribes of Israel to be my priest, to go up to my altar, to burn incense, to wear an ephod before me*,
+and given *all the offerings … made by fire* (2:28). Eli's house had been promised it would *walk before me
+forever*; the promise is withdrawn, *for those who honor me I will honor* (2:30). The house will be cut
+off, and Yahweh will *raise me up a faithful priest … I will build him a sure house; and he will walk
+before my anointed forever* (2:35). The priest is now set to walk *before* a king who does not yet exist.
+Kings marks the fulfilment when Zadok replaces Abiathar (1 Kings 2:27, 35, WEB checked at bible-api.com).
+See [[A Man of God Against the House of Eli]],
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]], and
+[[A Sure House - The Faithful Priest and the House of David]]. Source: stored WEB 1 Samuel 2:27–36.
+
 ### Priests who served themselves first — 1 Samuel 2:12–25
 
 Eli's sons are priests by birth and *wicked men* who *didn't know Yahweh* (2:12). Their servant forks
@@ -878,6 +891,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the chosen house revoked; *a faithful priest* with *a sure house*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–25; Eli's sons seize the share before the fat is burned; Samuel ministers in a linen ephod.
 - [[The Song of Hannah]] — 1 Samuel 2:11; *the child served Yahweh before Eli the priest*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 9–17; Eli and his sons at Shiloh; the priest who misreads a prayer and blesses it

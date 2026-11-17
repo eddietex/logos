@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence on Eli's house — 1 Samuel 2:27–36
+
+What Eli's question *who will intercede for him?* (2:25) left open, the man of God closes. Yahweh
+recounts his gifts to the house, charges it with kicking at his sacrifice and honouring the sons above him
+(2:29), and pronounces: no old man in the house, one survivor left to grieve, the two sons dead in one day,
+and a faithful priest in its place (2:31–36). The judgment is on a house across generations, and its
+fulfilment is traced into Kings (1 Kings 2:27, WEB checked at bible-api.com). See
+[[A Man of God Against the House of Eli]]. Source: stored WEB 1 Samuel 2:25, 27–36.
+
 ### *God will judge him* — 1 Samuel 2:25
 
 Eli's rebuke: *If one man sins against another, God will judge him* (2:25), *ûp̄illô ʾĕlōhîm* (WLC),
@@ -1135,6 +1144,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the sentence on Eli's house, from its sign (2:34) to Abiathar (1 Kings 2:27).
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *God will judge him*; *Yahweh intended to kill them*.
 - [[The Song of Hannah]] — 1 Samuel 2:9–10; *Yahweh will judge the ends of the earth*.
 - [[Wives for Benjamin]] — Judges 21:5, 10–11; *môṯ yûmāṯ* and *ḥāram* against Jabesh Gilead.

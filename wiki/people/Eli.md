@@ -53,6 +53,26 @@ take; the comparison is a reader's. See [[The Sins of Eli's Sons]] and
 Source: stored WEB 1 Samuel 2:12–25, 29; 3:13; 4:15; Deuteronomy 21:18–21. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
 
+### The man of God's sentence — 1 Samuel 2:27–36
+
+An unnamed [[Man of God (of Eli's time)]] comes to Eli with Yahweh's word. It reminds him that Yahweh chose
+*the house of your father* in Egypt to be his priests and gave it the offerings (2:27–28), then charges
+him: *Why do you kick at my sacrifice … and honor your sons above me, to make yourselves fat with the best
+of all the offerings of Israel my people?* (2:29). The charge turns from *you* plural to *you* singular and
+back (WLC: *tiḇʿăṭû* 2mp, *wattəḵabbēḏ* 2ms, *ləhaḇrîʾăḵem* 2mp), so Eli is counted among those fattened.
+Yahweh revokes the promise that his house would *walk before me forever*: *those who honor me I will honor,
+and those who despise me will be cursed* (2:30). No one in his house will grow old; one man left at the
+altar will grieve him; his two sons will die *in one day*; and Yahweh will raise *a faithful priest* with
+*a sure house* (2:31–35). *Honor* is *kāḇēḏ*, *be heavy*; Eli will die *an old man, and heavy*, *kāḇēḏ*
+(4:18, WLC; stored WEB; not yet ingested). His response is not recorded here. 1 Samuel gives him no
+genealogy; the descent from [[Ithamar]] is a reconstruction from 1 Chronicles 24:3 with 1 Samuel 14:3 and
+22:20, reported, not stated. The word against his house is said to be fulfilled when Solomon removes
+Abiathar (1 Kings 2:27, WEB checked at bible-api.com). See [[A Man of God Against the House of Eli]] and
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]].
+
+Source: stored WEB 1 Samuel 2:27–36; 4:18; 14:3; 22:20. 1 Kings 2:27 and 1 Chronicles 24:3 WEB checked at
+bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Priest at Shiloh, with his sons Hophni and Phinehas — 1 Samuel 1:3, 9.
@@ -60,12 +80,14 @@ morphhb), 2026-11-17.
 - Receives the weaned Samuel — 1:25–28.
 - The child serves Yahweh before him — 2:11.
 - Blesses Elkanah and Hannah; hears of his sons' sins and rebukes them; they do not listen — 2:20–25.
+- A man of God pronounces judgment on his house: no old man in it, his sons to die in one day, a faithful priest to replace it — 2:27–36.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 9–17, 25–28.
 - [[The Song of Hannah]] — 1 Samuel 2:11.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:20–25.
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36.
 
 ## Related people
 
@@ -73,6 +95,8 @@ morphhb), 2026-11-17.
 - [[Hannah]] — whose prayer he misreads and blesses
 - [[Samuel]] — the child given into his care
 - [[Elkanah (father of Samuel)]]
+- [[Man of God (of Eli's time)]] — who pronounces the sentence on his house
+- [[Ithamar]] — his likely ancestor, by inference from 1 Chronicles 24:3
 
 ## Themes associated
 
@@ -81,3 +105,5 @@ morphhb), 2026-11-17.
 - [[The Dwelling of God]]
 - [[Mediation and Advocacy]]
 - [[Blessing]]
+- [[Judgment]]
+- [[Prophecy and Vision]]

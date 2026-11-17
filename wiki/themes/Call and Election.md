@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A chosen house unchosen — 1 Samuel 2:28–30
+
+*Didn't I choose him out of all the tribes of Israel to be my priest …?* (2:28). The man of God grounds his
+charge in election: the priestly house was chosen and given the offerings. The same oracle shows that a
+chosen house can lose its standing (2:30) while the choice of a priesthood stands, since Yahweh will *raise
+me up a faithful priest* (2:35). See [[A Man of God Against the House of Eli]]. Source: stored WEB 1 Samuel
+2:28–35.
+
 ### From the younger twin — Ruth 4:18–22
 
 The line to David starts at Perez, the twin who came out second by the thread and first by the birth
@@ -314,6 +322,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–35; *Didn't I choose him out of all the tribes*; the chosen house displaced.
 - [[Jephthah Called from Tob]] — Judges 11:5–11; a deliverer fetched by elders and made head by the people, not called by Yahweh.
 - [[The Call of Gideon]] — Judges 6:11–24; sent, objects, promised presence, given a sign.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Yahweh *took* Abraham (3); Israel *chose* Yahweh (15, 22).

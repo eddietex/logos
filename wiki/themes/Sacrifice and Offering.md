@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Why do you kick at my sacrifice?* — 1 Samuel 2:29
+
+The man of God names the sons' offence from Yahweh's side: *Why do you kick at my sacrifice and at my
+offering … to make yourselves fat with the best of all the offerings of Israel my people?* (2:29). The
+offerings *made by fire* had been given to the priestly house as its share (2:28); the house made the
+share its feast and the altar its table. *Kick*, *bāʿaṭ*, is otherwise used in the WLC files of Genesis
+through 1 Kings only of Jeshurun, who *grew fat, and kicked* (Deuteronomy 32:15). See
+[[A Man of God Against the House of Eli]] and
+[[Grew Fat and Kicked - Deuteronomy 32.15 and 1 Samuel 2.29]]. Source: stored WEB 1 Samuel 2:28–29;
+Deuteronomy 32:15. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The fat not yet burned — 1 Samuel 2:13–17
 
 At Shiloh the priest's servant thrusts *a fork of three teeth* into the pot and the priest keeps
@@ -878,6 +889,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–29; *kick at my sacrifice*; fattened on *the best of all the offerings*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:13–17; the fork in the pot, raw meat before the fat is burned; *despised the offering of Yahweh*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–5, 21–25; the yearly sacrifice and its portions; bulls, flour, and wine brought with the child
 

@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### The first oracle in 1 Samuel — 1 Samuel 2:27–36
+
+The book's first prophetic word comes from an anonymous [[Man of God (of Eli's time)]], *ʾîš ʾĕlōhîm*
+(2:27, WLC), the title used before only of Moses (Deuteronomy 33:1) and of the messenger to Manoah's wife
+(Judges 13:6). It follows the shape of an indictment, *Yahweh says*, recalls Yahweh's acts, charges the
+house, pronounces sentence, and gives a near sign, the death of both sons *in one day* (2:34), by which
+the far sentence can be trusted. The sign is fulfilled at 4:11; the sentence reaches to 1 Kings 2:27, *that
+he might fulfill Yahweh's word* (WEB checked at bible-api.com). Like the unnamed prophet of Judges 6:8, he
+speaks and vanishes. See [[A Man of God Against the House of Eli]] and
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]]. Source: stored WEB 1 Samuel
+2:27–36; 4:11; Deuteronomy 33:1; Judges 13:6. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### A dream in the enemy's camp — Judges 7:13–14
 
 *Behold, I dreamed a dream; and behold, a cake of barley bread tumbled into the camp of Midian* (7:13).
@@ -259,6 +271,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; an unnamed man of God's oracle, with a near sign and a far fulfilment.
 - [[The Danite Migration]] — Judges 18:5–6; *ask counsel of God*, and the hired priest's *Go in peace … before Yahweh*.
 - [[The Dream of the Barley Loaf]] — Judges 7:13–14; a dream told and interpreted in Midian's camp.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–10; the unnamed prophet's speech.

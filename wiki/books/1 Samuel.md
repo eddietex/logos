@@ -49,6 +49,15 @@ ephod, Hannah brings him a robe each year and bears five more children, and *the
 increased in favor both with Yahweh, and also with men* (2:18–21, 26). The house brought low and the child
 raised up stand at the same altar.
 
+[[A Man of God Against the House of Eli]] (2:27–36) brings the sentence. An unnamed man of God recalls
+that Yahweh chose Eli's ancestral house in Egypt to serve his altar, and asks *Why do you kick at my
+sacrifice … and honor your sons above me?* (2:29). The promise that the house would *walk before me
+forever* is withdrawn: *those who honor me I will honor, and those who despise me will be cursed* (2:30).
+No one in the house will grow old; both sons will die *in one day* as the sign (2:34); and Yahweh will
+*raise me up a faithful priest* with *a sure house*, who *will walk before my anointed forever* (2:35).
+The sign falls at Aphek (4:11), and Kings records the end of the sentence when Solomon removes Abiathar,
+*that he might fulfill Yahweh's word, which he spoke concerning the house of Eli in Shiloh* (1 Kings 2:27).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -74,7 +83,7 @@ merge, or reorder them freely.
 - [x] [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1–28
 - [x] [[The Song of Hannah]] — 1 Samuel 2:1–11
 - [x] [[The Sins of Eli's Sons]] — 1 Samuel 2:12–26
-- [ ] A Man of God Against the House of Eli — 1 Samuel 2:27–36
+- [x] [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36
 - [ ] Yahweh Calls Samuel — 1 Samuel 3:1–4:1a
 - [ ] The Ark Is Captured — 1 Samuel 4:1b–22
 - [ ] The Ark Among the Philistines — 1 Samuel 5:1–12
@@ -136,6 +145,8 @@ merge, or reorder them freely.
 - [[Sacrifice and Offering]] — the sons *despised the offering of Yahweh* (2:17)
 - [[Mediation and Advocacy]] — *who will intercede for him?* (2:25)
 - [[Hardening of the Heart]] — *because Yahweh intended to kill them* (2:25)
+- [[Prophecy and Vision]] — the man of God's oracle against Eli's house (2:27–36)
+- [[Retribution]] — *those who honor me I will honor* (2:30)
 
 ## Key people
 - [[Samuel]]
@@ -146,9 +157,11 @@ merge, or reorder them freely.
 - [[Hophni]]
 - [[Phinehas (son of Eli)]]
 - [[Ministering Women (of Eli's time)]]
+- [[Man of God (of Eli's time)]]
 - [[David]]
 
 ## Key places
 - [[Shiloh]]
 - [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home
 - [[The Hill Country of Ephraim]]
+- [[Egypt]] — where Yahweh revealed himself to the house of Eli's father (2:27)

@@ -12,6 +12,8 @@ tags: [connection]
 - **2 Samuel 12:9–10** — *"Why have you despised Yahweh's word, to do that which is evil in his sight?"*
   and *"because you have despised me"*
 - **2 Samuel 12:13** — *"Yahweh also has put away your sin. You will not die"*
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:30; *those who despise me will be cursed*
+  *(stored WEB)*
 - **Psalm 51:16** — *"For you don't delight in sacrifice, or else I would give it"*
 - **Proverbs 13:13** — *"Whoever despises instruction will pay for it"*, with another verb, *bûz*, by
   the tags
@@ -36,3 +38,10 @@ did with a man who broke it. Neither text explains the other.
 
 The law leaves no procedure for this sin. Second Samuel does not add one. What it records is a word
 from Yahweh through a prophet, after a confession, and with consequences that remain.
+
+**Between Numbers and Nathan: 1 Samuel 2:30.** The man of God's word to Eli uses the same verb with
+Yahweh himself as object: *ûḇōzay yēqallû*, *those who despise me will be cursed* (WLC). Nathan's charge
+moves the same way, from *despised Yahweh's word* (2 Samuel 12:9) to *you have despised me* (12:10), and in
+both the consequence falls on a *house*: Eli's loses its old men and its priesthood, and David's will not
+be free of the sword. The likeness is a reader's; 2 Samuel does not cite 1 Samuel 2. (WLC, OpenScriptures
+morphhb, 2026-11-17.)

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Will be made light* — 1 Samuel 2:30
+
+*Those who despise me will be cursed* (2:30). The verb is *qālal*, *be light, be slight*, set against
+*kāḇēḏ*, *be heavy, honor*, in the same verse (WLC). It is the root of the curse in Genesis 12:3,
+*məqallelḵā* (WLC). Here the curse is a loss of weight, the honour withdrawn from a house that honoured
+itself. See [[A Man of God Against the House of Eli]]. Source: stored WEB 1 Samuel 2:30. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
+
 ### *Cursed is he who gives a wife* — Judges 21:18
 
 The Mizpah oath is quoted at last as a curse formula: *Cursed is he who gives a wife to Benjamin*, *ʾārûr
@@ -384,6 +392,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[A Man of God Against the House of Eli]] — 1 Samuel 2:30; *qālal*, *be light*, against *kāḇēḏ*, *honor*.
 - [[Wives for Benjamin]] — Judges 21:18; *Cursed is he who gives a wife to Benjamin*.
 - [[Micah's Idol and Levite]] — Judges 17:2; a mother's curse on a thief, heard by her son.
 - [[The Fall of Abimelech]] — Judges 9:27, 57; Shechem *cursed Abimelech*, and *the curse of Jotham … came on them*.
