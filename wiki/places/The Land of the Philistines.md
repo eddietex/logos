@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The ark sent home — 1 Samuel 6:1–18
+
+*Yahweh's ark was in the country of the Philistines seven months* (6:1). Its priests and diviners send it
+back with a trespass offering for all five lordships, *both of fortified cities and of country villages*
+(18), on a cart the lords follow *to the border of Beth Shemesh* (12). The border is the test's line: if the
+ark *goes up by the way of its own border*, it was Yahweh's hand (9). See [[The Ark Returns to Israel]].
+Source: stored WEB 1 Samuel 6:1–18.
+
 ### Seven months with the ark — 1 Samuel 5:1–12
 
 The captured ark passes through three of the five lordships, Ashdod, Gath, and Ekron, and each is struck
@@ -104,6 +112,7 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
 - [[Samson Against the Philistines at Lehi]] — Judges 15:4–5; the burned fields.
 - [[The Ark Is Captured]] — 1 Samuel 4:1–11; the Philistine army at Aphek.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:1–12; the ark in Ashdod, Gath, and Ekron.
+- [[The Ark Returns to Israel]] — 1 Samuel 6:1–18; the seven months end; the trespass offering for the five lordships.
 
 ## Related places
 

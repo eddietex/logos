@@ -128,3 +128,13 @@ she hands Naomi six measures of barley: *He gave me these six measures of barley
 empty to your mother-in-law'* (3:17). The narrator did not record them when he filled her mantle (3:15).
 *Rêqām* thus occurs twice in Ruth, both times attached to Naomi (1:21; 3:17; WLC). Source: stored WEB Ruth
 1:21; 3:15–17; Hebrew WLC, 2026-11-17.
+
+**1 Samuel 6:3 is now ingested**, in [[The Ark Returns to Israel]]. The Philistine priests: *If you send away
+the ark of the God of Israel, don't send it empty*, *ʾal-təšalləḥû ʾōṯô rêqām*, *but by all means return a
+trespass offering to him* (6:3, WLC). The verb *šālaḥ*, *send away*, is the verb of *let my people go*; three
+verses later the priests cite Egypt, which *let the people go, and they departed* (6:6). Israel left Egypt not
+empty, with gold asked of the Egyptians (Exodus 12:35–36); the ark leaves Philistia not empty, with *jewels of
+gold* in a coffer (6:8). In the WLC files of Genesis through 2 Kings, Ruth, Psalms, and Ecclesiastes *rêqām*
+occurs twelve times, adding 2 Samuel 1:22 and Psalms 7:5 and 25:3 to the Genesis–Ruth and 1 Samuel occurrences
+counted above (lemma search; Job was not in this file set). Source: stored WEB 1 Samuel 6:3–8; Exodus
+12:35–36. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

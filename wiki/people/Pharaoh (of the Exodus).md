@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Cited by the Philistine priests — 1 Samuel 6:6
+
+*Why then do you harden your hearts, as the Egyptians and Pharaoh hardened their hearts? When he had worked
+wonderfully among them, didn't they let the people go, and they departed?* (6:6). The Philistine priests
+use the verb *kāḇēḏ* that Exodus uses for Pharaoh's heart (Exodus 8:15, 32; 9:34; 10:1), and *hiṯʿallēl*,
+the verb of Exodus 10:2, *what things I have done to Egypt* (WLC). Pharaoh is the warning a foreign nation
+reads correctly. See [[The Ark Returns to Israel]] and
+[[Heavy Hand and Departed Glory - Kabed in 1 Samuel 4-6]]. Source: stored WEB 1 Samuel 6:6; Exodus 10:2.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Recalled in the epitaph: the signs and wonders Yahweh sent Moses to do in Egypt *to Pharaoh, and to all his servants, and to all his land* (11).
@@ -255,6 +265,7 @@ See [[The Song of the Sea]].
 
 ## Appears in
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:6; cited as the example of the hardened heart.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Recalled in Moses' epitaph (11).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The lords return — 1 Samuel 6:16–17
+
+The five lords follow the cart *to the border of Beth Shemesh*, watch the ark received, and *returned to
+Ekron the same day* (6:12, 16). Ekron is the city nearest Israel of the three the ark visited, and the one
+that demanded it be sent home (5:10–11). One golden tumor is *for Ekron* (6:17). See
+[[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 5:10–11; 6:12–17.
+
 ### *To kill us and our people* — 1 Samuel 5:10–12
 
 From Gath the ark is sent to Ekron, and the Ekronites cry out as it comes: *They have brought the ark of the
@@ -51,6 +58,7 @@ Ekron marks the northern boundary of the stretch from the Shihor (Joshua 13:3). 
 Source: stored WEB Joshua 13:1–7.
 
 ## Appears in
+- [[The Ark Returns to Israel]] — 1 Samuel 6:16–17; the lords return there; one golden tumor.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:10–12; the third city struck, which demands the ark be sent home.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
@@ -65,3 +73,4 @@ Source: stored WEB Joshua 13:1–7.
 - The ark arrives; a deadly confusion; the city's cry goes up to heaven — 1 Samuel 5:10–12, [[The Ark Among the Philistines]]
 - Named in the inventory of land remaining; no new conquest narrated.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]
+- The five lords return there from the border of Beth Shemesh — 1 Samuel 6:16, [[The Ark Returns to Israel]]

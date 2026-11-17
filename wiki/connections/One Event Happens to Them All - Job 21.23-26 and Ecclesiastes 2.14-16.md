@@ -100,3 +100,5 @@ it to dispute retribution ([[Retribution]]); Ecclesiastes uses it to question th
 of [[Wisdom]] over [[Folly]], while still ranking one above the other. [[Remembrance]] is the second
 casualty in Ecclesiastes: the wise are forgotten as the fool is. [[Vanity]] is the Preacher's name
 for what the observation leaves him with.
+
+See also [[It Was a Chance - Miqreh in 1 Samuel 6, Ruth 2, and Ecclesiastes]], which follows *miqreh* through 1 Samuel 6:9, Ruth 2:3, and Ecclesiastes.

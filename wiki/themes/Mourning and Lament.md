@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The people mourned* — 1 Samuel 6:19
+
+The day of the ark's return ends in mourning: *the people mourned, because Yahweh had struck the people with
+a great slaughter* (6:19), *wayyiṯʾabbəlû* (WLC). Joy at the harvest (13) turns to grief within the chapter,
+and the next verse is the fearful question *Who is able to stand before Yahweh?* (20). See
+[[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:1–7:1. Hebrew WLC.
+
 ### Torn clothes and dirt on the head — 1 Samuel 4:12–13
 
 The runner from the battle comes to Shiloh *with his clothes torn, and with dirt on his head* (4:12), *ʾăḏāmâ
@@ -346,6 +353,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:19; *the people mourned*.
 - [[The Ark Is Captured]] — 1 Samuel 4:12–13; the runner in mourning and the city's cry.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7–10, 18; weeping and not eating at the feast; *bitterness of soul*; the face no longer sad
 

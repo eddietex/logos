@@ -28478,3 +28478,54 @@ raw. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScript
 2026-11-17, files `Gen` through `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `Ps`, and `Zeph`; occurrence claims cover
 those files only, including the ketiv/qere *ʿŏp̄ālîm* / *ṭəḥōrîm* at 1 Samuel 5:6, 9, 12 and Deuteronomy
 28:27. No Greek text, Septuagint, or 1 Chronicles Hebrew was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 6.1-7.1 — The Ark Returns to Israel
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+the return of the ark, 6:1–7:1, ingested as planned. 1 Samuel is now 8 / 47.
+
+Created: passage [[The Ark Returns to Israel]]; people [[Abinadab (of Kiriath Jearim)]] and
+[[Eleazar (son of Abinadab)]]; connections [[Never Yoked - The Red Heifer and the Philistine Cows]] and
+[[It Was a Chance - Miqreh in 1 Samuel 6, Ruth 2, and Ecclesiastes]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes, people, and places); passages
+[[The Ark Is Captured]] and [[The Ark Among the Philistines]] (forward references now linked); people
+[[The Philistines]], [[Pharaoh (of the Exodus)]], [[Levi]], and [[Eleazar (son of Aaron)]] (the forward note
+now links the new page); places [[Beth Shemesh]], [[Kiriath Jearim]], [[Ekron]], [[Ashdod]], [[Gath]],
+[[Gaza]], [[Ashkelon]], and [[The Land of the Philistines]]; themes [[Holiness]], [[Guilt and Conscience]],
+[[Sacrifice and Offering]], [[The Glory of God]], [[Hardening of the Heart]], [[Providence]],
+[[Signs and Wonders]], [[The Nations]], [[Judgment]], [[Mourning and Lament]], [[The Fear of God]], and
+[[The Dwelling of God]]; connections [[Heavy Hand and Departed Glory - Kabed in 1 Samuel 4-6]] (new section
+on *qālal*, *lighten*, at 6:5 and 2:30), [[Tumors and Confusion - The Covenant Curses on Ashdod, Gath, and Ekron]],
+[[Lest They Die - The Ark Carried and the Ark Looked Into]],
+[[You Shall Not Go Empty-Handed - The Plunder of Egypt]],
+[[Restitution to the Neighbor and for Holy Things]],
+[[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]], and
+[[Time and Chance and the Prepared Horse]] (see-also lines). Also `wiki/books/index.md`, People Index A-E
+(two new rows), F-M, and N-Z, the places and themes indexes, Connections Index D-H, I-N (two new rows), O-S,
+and T-Z, and the dashboard counts. Frontmatter totals: 494 passages, 370 people, 599 places, 88 themes, 943
+connections.
+
+Judgment calls: the boundary 6:1–7:1 stands; 7:1 completes the ark's journey and 7:2 opens with *twenty
+years* and Samuel at Mizpah. Abinadab and Eleazar get pages, qualified because both names recur (Jesse's and
+Saul's sons named Abinadab, 16:8 and 31:2; Eleazar son of Aaron). Joshua of Beth Shemesh, named only as owner
+of the field, gets no page and is recorded on [[Beth Shemesh]], with the men of the town. The Philistine
+priests, diviners, and lords stay under [[The Philistines]]; the Levites go on [[Levi]]. The *rêqām* count on
+the Empty-Handed page was extended with a different file set (it adds 2 Samuel 1:22 and Psalms 7:5; 25:3);
+the earlier count, which included Job, is left as written. No contradiction with an existing page was found.
+
+Recorded, not resolved: the number at 6:19 (WLC *seventy men, fifty thousand men*); *looked into* or
+*looked at* (6:19); the WLC *ʾāḇēl* (*Abel*, *meadow*) against the WEB's *great stone* at 6:18; whether the
+mice were a plague apart from the tumors; whether the *ʾāšām* is meant in the Levitical sense; whether
+Abinadab's house was Levitical; and whether Psalm 132:6 refers to Kiriath Jearim. Claims about the
+Septuagint, Targum, Josephus, and Hebrew manuscripts at 6:18–19 and about mice in chapter 5 are recalled, not
+checked, and flagged where made.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 7:2; 16:8; 20:26; 31:2, 4. Comparisons
+from stored WEB Exodus 3:21; 8:15, 32; 9:34; 10:1–2; 12:35–36; Leviticus 5:15–16; 11:29; Numbers 3:32; 4:15,
+20; 16:48–50; 19:2–9; 22:7; 23:23; 25:8–9; Deuteronomy 12:13–14; 18:10, 14; 21:3–9; Joshua 1:7; 9:17; 21:16;
+Ruth 2:3–4, 20; Ecclesiastes 2:14–15; 3:19; 9:2–3, 11. 2 Samuel 6:3 and Psalm 132:6 checked against the WEB
+at bible-api.com (`translation=web`), 2026-11-17; not stored in raw. Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-17, files `Gen`, `Exod`, `Lev`, `Num`,
+`Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `2Kgs`, `Ps`, and `Eccl`; occurrence claims cover
+those files only. No Greek text, Septuagint, or Targum was consulted.

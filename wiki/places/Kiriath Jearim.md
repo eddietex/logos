@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The ark in Abinadab's house — 1 Samuel 6:21–7:1
+
+After the slaughter at Beth Shemesh, its men send to *the inhabitants of Kiriath Jearim*: *Come down, and
+bring it up to yourselves* (6:21). *The men of Kiriath Jearim came, and took Yahweh's ark, and brought it into
+Abinadab's house on the hill, and consecrated Eleazar his son to keep Yahweh's ark* (7:1). It stays there
+*twenty years* (7:2, not yet ingested). The town was one of the four Gibeonite cities (Joshua 9:17); the
+narrator makes nothing of it. Psalm 132:6, *We found it in the field of Jaar* (WEB checked at bible-api.com),
+is commonly read as a reference to the ark here; that is a reading, not the psalm's statement. See
+[[The Ark Returns to Israel]], [[Abinadab (of Kiriath Jearim)]], and [[Eleazar (son of Abinadab)]].
+
+Source: stored WEB 1 Samuel 6:21–7:2; Joshua 9:17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Behind it, Mahaneh Dan — Judges 13:25 and 18:12
 
 Judges 18:12 says the Danites *encamped in Kiriath Jearim, in Judah. Therefore they called that place
@@ -40,6 +52,7 @@ No later sanctuary history or modern site identification is asserted by this cha
 Source: stored WEB Joshua 9:1–27.
 
 ## Appears in
+- [[The Ark Returns to Israel]] — 1 Samuel 6:21–7:1; the ark brought to Abinadab's house on the hill.
 - [[The Danite Migration]] — Judges 18:12; the six hundred camp *in Kiriath Jearim, in Judah*, at Mahaneh Dan.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Cities of Judah]] — Joshua 15:20–63.
@@ -54,3 +67,4 @@ Source: stored WEB Joshua 9:1–27.
 
 ## Events here
 - Discovery of the cities and preservation under oath; labor assigned to the congregation and altar.
+- The ark housed with Abinadab, Eleazar consecrated to keep it — 1 Samuel 7:1, [[The Ark Returns to Israel]]

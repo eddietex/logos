@@ -13,9 +13,9 @@ tags: [connection]
 - [[The Ark Among the Philistines]] — **1 Samuel 5:6** — *Yahweh's hand was heavy on the people of Ashdod*,
   *wattiḵbaḏ yaḏ-YHWH*; **5:11** — *The hand of God was very heavy there*, *kāḇḏâ məʾōḏ yaḏ hāʾĕlōhîm*
   (stored WEB; WLC)
-- **1 Samuel 6:5–6** — *you shall give glory to the God of Israel*, *kāḇôḏ*; *Why then do you harden your
-  hearts, as the Egyptians and Pharaoh hardened their hearts?*, *təḵabbəḏû … kibbəḏû* (stored WEB; WLC; not
-  yet ingested)
+- [[The Ark Returns to Israel]] — **1 Samuel 6:5–6** — *you shall give glory to the God of Israel*, *kāḇôḏ*;
+  *perhaps he will release his hand*, *yāqēl* (from *qālal*, *be light*); *Why then do you harden your
+  hearts, as the Egyptians and Pharaoh hardened their hearts?*, *təḵabbəḏû … kibbəḏû* (stored WEB; WLC)
 - **Exodus 8:15, 32; 9:34; 10:1** — Pharaoh *hardened his heart*, with the same verb (stored WEB; WLC) —
   [[Hardening of the Heart]]
 
@@ -56,6 +56,18 @@ uses the same verb with *yād* (WLC); in the WLC files of Genesis through 1 King
 (co-occurrence search). Exodus 9:3's *very grievous pestilence*, *deḇer kāḇēḏ məʾōḏ*, uses the adjective
 in a verse that opens *Yahweh's hand is on your livestock* (WLC; stored WEB), the nearest Exodus parallel
 to *the hand of God was very heavy* (1 Samuel 5:11).
+
+### The light hand — 1 Samuel 6:5, now ingested
+
+The priests' counsel adds the antonym. *Give glory*, *kāḇôḏ*, to the God of Israel, *perhaps he will
+lighten his hand from you*, *ʾûlay yāqēl ʾeṯ-yāḏô mēʿălêḵem* (6:5, WLC). The WEB's *release* renders
+*qālal*, *be light, slight* (lemma 7043), the standard opposite of *kāḇēḏ*. The same pair stands in Eli's
+sentence: *those who honor me I will honor, and those who despise me will be cursed* (2:30), where
+*despise* is *yēqallû*, from *qālal* (WLC). The house of Eli made Yahweh *light* and was made light; the
+Philistines are told to give him *weight* so that his hand may be made *light*. The verse in which the priests
+cite Pharaoh's *heavy* heart (6:6) also uses *hiṯʿallēl*, *worked wonderfully*, the verb of Exodus 10:2
+(WLC). See [[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 2:30; 6:5–6; Exodus 10:2. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

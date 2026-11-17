@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A trespass offering from the Philistines — 1 Samuel 6:3–17
+
+The Philistine priests say the ark must not go back *empty* but with *a trespass offering*, *ʾāšām* (6:3,
+WLC), the word of Leviticus 5:14–19 for a wrong done in Yahweh's holy things. Their *ʾāšām* is gold, five
+tumors and five mice, not a ram; but it treats the seizure of the ark as a debt owed to its God, and the
+priests promise *you will be healed, and it will be known to you why his hand is not removed from you* (3).
+Guilt is recognized by the foreigner who caused it, and paid. See [[The Ark Returns to Israel]] and
+[[Restitution to the Neighbor and for Holy Things]]. Source: stored WEB 1 Samuel 6:1–7:1; Leviticus 5:14–19. Hebrew WLC.
+
 ### *Otherwise you would now be guilty* — Judges 21:22
 
 The elders reassure the fathers of Shiloh: *neither did you give them to them, otherwise you would now be
@@ -224,6 +233,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:3–4, 8, 17; the Philistines' trespass offering of gold.
 - [[Wives for Benjamin]] — Judges 21:22; guilt measured by the oath's letter.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

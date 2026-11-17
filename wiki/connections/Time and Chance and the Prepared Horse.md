@@ -44,3 +44,5 @@ read on 2026-10-27.
 [[Providence]], [[Wisdom]], [[Work]], and [[War]] meet at the limit of preparation.
 Skill and effort matter in life without becoming a guarantee; confidence in God
 does not make the cause of every outcome known to the observer.
+
+See also [[It Was a Chance - Miqreh in 1 Samuel 6, Ruth 2, and Ecclesiastes]], which follows *miqreh* through 1 Samuel 6:9, Ruth 2:3, and Ecclesiastes.

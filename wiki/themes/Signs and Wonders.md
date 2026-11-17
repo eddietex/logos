@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The cows that went straight — 1 Samuel 6:7–12
+
+The Philistines make a sign by stacking the odds against it: a new cart, two milk cows never yoked, their
+calves taken home (6:7, 10). The cows take *the straight way* to Beth Shemesh, *lowing as they went* (12). The
+narrator does not call it a sign or a wonder; it is the answer to the priests' test, and the lords follow to
+watch it (12, 16). See [[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:1–7:1.
+
 ### Dagon fallen on two mornings — 1 Samuel 5:3–4
 
 No one sees Dagon fall. The people of Ashdod *arose early* and find him *fallen on his face to the ground
@@ -227,6 +234,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:7–12; the test of the unyoked cows.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:3–4; Dagon found fallen before the ark on two mornings.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:34; the two sons' death *in one day* as the sign of the longer sentence.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; a sign offered unasked, heard in an enemy's dream.

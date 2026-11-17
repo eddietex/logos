@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### A golden tumor for Ashdod — 1 Samuel 6:17
+
+*These are the golden tumors which the Philistines returned for a trespass offering to Yahweh: for Ashdod
+one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one* (6:17). Ashdod is the first city the ark visited (5:1); the offering
+counts all five lordships, *for one plague was on you all, and on your lords* (6:4). See
+[[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:4, 17.
+
 ### The house of Dagon — 1 Samuel 5:1–7
 
 The Philistines bring the captured ark *from Ebenezer to Ashdod* and into *the house of Dagon* (5:1–2).
@@ -35,6 +42,7 @@ One of three cities where some of the Anakim remain after Joshua cuts them off f
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
 ## Appears in
+- [[The Ark Returns to Israel]] — 1 Samuel 6:17; one golden tumor for Ashdod.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:1–7; Dagon's house, and the first city struck.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Land That Remains]] — Joshua 13:1–7.
@@ -48,3 +56,4 @@ Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 ## Events here
 - The ark set beside Dagon; Dagon falls twice; the people struck with tumors — 1 Samuel 5:1–7, [[The Ark Among the Philistines]]
 - [[The Whole Land Taken]] — Some of the Anakim remain there (22).
+- Counted in the Philistine trespass offering — 1 Samuel 6:17, [[The Ark Returns to Israel]]

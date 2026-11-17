@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### A golden tumor for Gaza — 1 Samuel 6:17
+
+*These are the golden tumors which the Philistines returned for a trespass offering to Yahweh: for Ashdod
+one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one* (6:17). Gaza is a city the ark never visited; the offering
+counts all five lordships, *for one plague was on you all, and on your lords* (6:4). See
+[[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:4, 17.
+
 ### Samson brought down blind — Judges 16:21
 
 *They brought him down to Gaza, and bound him with fetters of brass; and he ground at the mill in the
@@ -76,6 +83,7 @@ Named as the extent of the Avvim’s villages in the account of their displaceme
 Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
+- [[The Ark Returns to Israel]] — 1 Samuel 6:17; one golden tumor for Gaza.
 - [[The Death of Samson]] — Judges 16:23–30; Dagon's feast and the fallen house, the city by context.
 - [[Samson and Delilah]] — Judges 16:21; Samson imprisoned at the mill.
 - [[Samson at Gaza]] — Judges 16:1–3; Samson carries off the city gate.
@@ -97,3 +105,4 @@ Source: stored WEB Deuteronomy 2:1–23.
 - Its gate carried off by Samson — Judges 16:1–3 — [[Samson at Gaza]]
 - Samson imprisoned blind, grinding at the mill — Judges 16:21 — [[Samson and Delilah]]
 - Dagon's house pulled down on the lords and the people (city by context) — Judges 16:23–30 — [[The Death of Samson]]
+- Counted in the Philistine trespass offering — 1 Samuel 6:17, [[The Ark Returns to Israel]]

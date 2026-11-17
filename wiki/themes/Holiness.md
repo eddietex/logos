@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Who is able to stand before Yahweh, this holy God?* — 1 Samuel 6:19–7:1
+
+Beth Shemesh rejoices at the ark and sacrifices; then Yahweh strikes its men *because they had looked into
+Yahweh's ark* (6:19). Their question, *Who is able to stand before Yahweh, this holy God?*, *hāʾĕlōhîm
+haqqāḏôš hazzeh* (20, WLC), turns Hannah's *There is no one as holy as Yahweh* (2:2) into a fear. The answer
+the narrative gives is a set-apart keeper: the men of Kiriath Jearim *consecrated*, *qiddəšû*, Eleazar son of
+Abinadab *to keep Yahweh's ark* (7:1). See [[The Ark Returns to Israel]] and
+[[Lest They Die - The Ark Carried and the Ark Looked Into]]. Source: stored WEB 1 Samuel 6:1–7:1; 2:2. Hebrew WLC.
+
 ### *There is no one as holy as Yahweh* — 1 Samuel 2:2
 
 Hannah's second line makes holiness the ground of comparison: *There is no one as holy as Yahweh, For there
@@ -823,6 +832,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:19–20; 7:1; *this holy God*, and Eleazar consecrated to keep the ark.
 - [[The Song of Hannah]] — 1 Samuel 2:2; *There is no one as holy as Yahweh*.
 - [[Samson and Delilah]] — Judges 16:17–19, 22; the Nazirite's razor, and the hair that grows again.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *he is a holy God* (19).

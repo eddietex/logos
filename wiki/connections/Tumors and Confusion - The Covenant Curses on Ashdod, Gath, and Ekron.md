@@ -14,8 +14,8 @@ tags: [connection]
 - [[The Ark Among the Philistines]] — **1 Samuel 5:6, 9, 11–12** — *struck them with tumors*; *a very great
   confusion*; *a deadly confusion throughout all the city*; *the men who didn't die were struck with the
   tumors* (stored WEB)
-- **1 Samuel 6:4–5, 11, 17** — *five golden tumors* as the Philistines' trespass offering (stored WEB; not yet
-  ingested)
+- [[The Ark Returns to Israel]] — **1 Samuel 6:4–5, 11, 17** — *five golden tumors* as the Philistines'
+  trespass offering (stored WEB)
 
 ## Analysis
 
@@ -44,6 +44,17 @@ Deuteronomy 7:23 promised the confusion for Israel's enemies; Deuteronomy 28 tur
 the tumors against a disobedient Israel. In 1 Samuel 4 the curse has fallen on Israel, *struck before your
 enemies* (see [[Struck Before Your Enemies - Leviticus 26, Numbers 14, Deuteronomy 28, and 1 Kings 8]]); in 1
 Samuel 5 the curse's diseases fall on the enemy who holds the ark. The narrator does not cite Deuteronomy.
+
+### The tumors in gold — 1 Samuel 6:4–17, now ingested
+
+The Philistine priests turn the disease into the payment: *Five golden tumors, and five golden mice, for the
+number of the lords of the Philistines; for one plague was on you all* (6:4), *images of your tumors* (5). The
+ketiv/qere pair continues at 6:4–5; 6:11 and 17 write *ṭəḥōrîm* only (WLC). The *plague* is *maggēp̄â* (6:4,
+WLC), the word for the plagues after the spies' report, after Korah, and at Baal Peor (Numbers 14:37; 17:13–15 [WEB 16:48–50]; 25:8–9; lemma search in `Num`). The mice,
+*ʿaḵbārîm*, appear for the first time and are not among Deuteronomy 28's curses; in the WLC files searched the
+noun occurs elsewhere only at Leviticus 11:29 (*rat*, stored WEB). Whether tumors and mice were one plague or
+two is not stated. See [[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:4–17; Leviticus 11:29.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

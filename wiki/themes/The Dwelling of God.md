@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### From the great stone to the house on the hill — 1 Samuel 6:2–7:1
+
+The Philistines ask how to send the ark *to its place* (6:2), but it does not return to Shiloh. It rests
+on a great stone in a field at Beth Shemesh (14–15, 18), and then in *Abinadab's house on the hill* at
+Kiriath Jearim, with a consecrated keeper (7:1). The ark's *place* is now a private house. See
+[[The Ark Returns to Israel]] and [[Abinadab (of Kiriath Jearim)]]. Source: stored WEB 1 Samuel 6:1–7:1.
+
 ### The ark in Dagon's house — 1 Samuel 5:1–11
 
 The ark that Israel had sent for *that it may come among us* (4:3) is set in the house of a foreign god,
@@ -706,6 +713,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Ark Returns to Israel]] — 1 Samuel 6:2; 7:1; the ark sent *to its place*, housed with Abinadab.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:2, 11; the ark in Dagon's house, and sent *to its own place*.
 - [[The Ark Is Captured]] — 1 Samuel 4:3–11; the ark sent for *that it may come among us*, and taken.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:3, 10, 15, 21; the temple with the ark, the lamp, and doors; Yahweh *came, and stood*.

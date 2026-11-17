@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Gold, cows, and the great stone — 1 Samuel 6:3–15
+
+Three offerings meet at Beth Shemesh: the Philistines' *trespass offering* of golden tumors and mice (6:3–4,
+17); the two cows, offered *for a burnt offering to Yahweh* on the wood of the cart that carried the ark (14);
+and the burnt offerings and sacrifices of the men of Beth Shemesh *the same day* (15). The cows were chosen as
+never yoked, the condition of the red heifer (Numbers 19:2). The place is not a central sanctuary, and the
+narrator neither approves nor faults the sacrifices. See [[The Ark Returns to Israel]] and
+[[Never Yoked - The Red Heifer and the Philistine Cows]]. Source: stored WEB 1 Samuel 6:1–7:1; Numbers 19:2.
+
 ### Sacrifice that will not avail — 1 Samuel 3:14
 
 The house that took the sacrifices by force (2:13–17) and *kicked* at them (2:29) is told by oath that
@@ -897,6 +906,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Ark Returns to Israel]] — 1 Samuel 6:14–15; the cart for wood, the cows a burnt offering.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:14; *not removed with sacrifice or offering forever*.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–29; *kick at my sacrifice*; fattened on *the best of all the offerings*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:13–17; the fork in the pot, raw meat before the fat is burned; *despised the offering of Yahweh*.

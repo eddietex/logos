@@ -160,7 +160,7 @@ Joshua (Joshua 14:1, by reference). The Mount Hor succession is now recorded in 
 [[The Heads of the Fathers' Houses]].
 
 The wiki qualifies the page because a later Eleazar, the son of Abinadab, keeps the ark (1 Samuel
-7:1).
+7:1): see [[Eleazar (son of Abinadab)]].
 
 ### The lamp service prescribed — Exodus 27:1–21
 

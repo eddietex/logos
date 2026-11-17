@@ -13,6 +13,7 @@ tags: [connection]
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 - [[Eating the Holy Things]] — Leviticus 22:14.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:5–10.
+- [[The Ark Returns to Israel]] — 1 Samuel 6:3–17; the Philistines' *trespass offering* for the ark.
 
 ## Analysis
 
@@ -66,6 +67,17 @@ Source: stored WEB Leviticus 5:15–16; 22:14.
 Numbers 5:7 keeps the fifth and adds confession. Verse 8 sends the payment to Yahweh and the priest when
 no kinsman can receive it. It does not address the multiples of Exodus 22 either, so the unresolved
 tension above stands. See [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]]. Source: stored WEB Numbers 5:5–10.
+
+### A foreign trespass offering — 1 Samuel 6:3–17
+
+The Philistine priests require *a trespass offering*, *ʾāšām* (6:3, 4, 8, 17, WLC), the word of Leviticus
+5:15 for a wrong *in the holy things of Yahweh*. The ark is the holiest of holy things, and the wrong is its
+seizure. What they send is not the Levitical rite, no ram and no priest, and not a measured restitution with
+a fifth added; it is gold modeled on their own affliction, one tumor and one mouse per lordship (4–5, 17). The
+narrator calls it an *ʾāšām* all the same. **Unresolved:** whether the narrator uses the word in the
+technical sense of Leviticus 5 or in a broader sense of *compensation for guilt*. The comparison is the
+wiki's. Source: stored WEB 1 Samuel 6:3–17; Leviticus 5:15–16. Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.
 
 ## Significance
 

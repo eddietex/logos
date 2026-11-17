@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### A golden tumor for Ashkelon — 1 Samuel 6:17
+
+*These are the golden tumors which the Philistines returned for a trespass offering to Yahweh: for Ashdod
+one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one* (6:17). Ashkelon is a city the ark never visited; the offering
+counts all five lordships, *for one plague was on you all, and on your lords* (6:4). See
+[[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:4, 17.
+
 ### Thirty men for their clothes — Judges 14:19
 
 *Yahweh's Spirit came mightily on him, and he went down to Ashkelon, and struck thirty men of them, and
@@ -31,6 +38,7 @@ The Ashkelonites appear among the five Philistine lordships in land still remain
 Source: stored WEB Joshua 13:1–7.
 
 ## Appears in
+- [[The Ark Returns to Israel]] — 1 Samuel 6:17; one golden tumor for Ashkelon.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[Samson's Riddle]] — Judges 14:19; thirty men struck by Samson.
@@ -42,3 +50,4 @@ Source: stored WEB Joshua 13:1–7.
 - Named in the inventory of land remaining; no new conquest narrated.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]
 - Thirty men struck by Samson — Judges 14:19 — [[Samson's Riddle]]
+- Counted in the Philistine trespass offering — 1 Samuel 6:17, [[The Ark Returns to Israel]]

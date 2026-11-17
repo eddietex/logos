@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Philistines warned by Pharaoh — 1 Samuel 6:6
+
+*Why then do you harden your hearts, as the Egyptians and Pharaoh hardened their hearts?* (6:6). The
+Philistine priests use *kāḇēḏ*, one of Exodus's verbs for Pharaoh's heart (Exodus 8:15, 32; 9:34; 10:1), and
+draw the lesson Pharaoh did not: let the ark go before Egypt's end. A foreign nation reads the Exodus as a
+warning to itself. See [[The Ark Returns to Israel]] and [[Pharaoh (of the Exodus)]]. Source: stored WEB 1 Samuel 6:1–7:1; Exodus 8:15, 32; 9:34; 10:1. Hebrew WLC.
+
 ### *Because Yahweh intended to kill them* — 1 Samuel 2:25
 
 Eli's sons *didn't listen to the voice of their father, because Yahweh intended to kill them* (2:25),
@@ -186,6 +193,7 @@ sources and interpretive limits.
 
 ## Key passages
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:6; *as the Egyptians and Pharaoh hardened their hearts*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *they didn't listen … because Yahweh intended to kill them*.
 - [[Ehud and Eglon]] — Judges 3:12; *ḥāzaq* with Eglon himself, not his heart, as object.
 - [[The Whole Land Taken]] — Joshua 11:16–23.

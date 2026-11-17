@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Struck for looking — 1 Samuel 6:19
+
+*He struck of the men of Beth Shemesh, because they had looked into Yahweh's ark* (6:19). The blow falls
+on Israelites who had welcomed the ark with joy and sacrifice (13–15), with the verb *nāḵâ*, *strike*, that
+chapter 5 used of the Philistine cities (5:6, 9; 6:19, WLC). The number is textually uncertain (see the
+passage page). See [[The Ark Returns to Israel]] and
+[[Lest They Die - The Ark Carried and the Ark Looked Into]]. Source: stored WEB 1 Samuel 6:1–7:1; 5:6, 9. Hebrew WLC.
+
 ### Yahweh's hand on the Philistine cities — 1 Samuel 5:6–12
 
 With the ark in Philistia, *Yahweh's hand was heavy on the people of Ashdod*, and he *struck them with
@@ -1179,6 +1187,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Ark Returns to Israel]] — 1 Samuel 6:19; the men of Beth Shemesh struck for looking into the ark.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:6–12; Yahweh's hand on Ashdod, Gath, and Ekron, with tumors and confusion.
 - [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sentence on Eli's house carried out in one day.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:11–18; the sentence on Eli's house confirmed, with its oath, and accepted.

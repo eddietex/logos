@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Who is able to stand before Yahweh?* — 1 Samuel 6:20
+
+After the slaughter, Beth Shemesh asks *Who is able to stand before Yahweh, this holy God? To whom shall he go
+up from us?* (6:20). The fear here is the dread of proximity: they send the ark on to Kiriath Jearim, as the
+Philistine cities had sent it on (5:8, 10). See [[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:1–7:1; 5:8, 10.
+
 ### Afraid of the ark, trembling for it — 1 Samuel 4:7, 13, 20
 
 Three fears in one chapter. *The Philistines were afraid, for they said, "God has come into the camp"* (4:7),
@@ -593,6 +599,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:20; *Who is able to stand before Yahweh, this holy God?*
 - [[The Ark Is Captured]] — 1 Samuel 4:7, 13, 20; the Philistines afraid, Eli trembling for the ark, *Don't be afraid*.
 - [[The Dream of the Barley Loaf]] — Judges 7:10; *if you are afraid*, met with a sign, not a dismissal.
 - [[Gideon's Three Hundred]] — Judges 7:3; the fearful sent home, by the law of Deuteronomy 20:8.

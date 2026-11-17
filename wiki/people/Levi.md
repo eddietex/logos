@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The Levites at Beth Shemesh — 1 Samuel 6:15
+
+*The Levites took down Yahweh's ark, and the coffer that was with it … and put them on the great stone* (6:15).
+Beth Shemesh is one of the cities given to Aaron's descendants (Joshua 21:16), so Levites at hand are not
+surprising. They handle the ark without incident; it is *the men of Beth Shemesh* who are struck for
+*looking into* it (6:19). Numbers 4:15, 20 had given the carrying to Kohath and forbidden them to *see* the
+holy things. See [[The Ark Returns to Israel]] and
+[[Lest They Die - The Ark Carried and the Ark Looked Into]]. Source: stored WEB 1 Samuel 6:15, 19; Numbers
+4:15, 20; Joshua 21:16.
+
 ### Levitical cities — Joshua 21:1–42
 
 His descendants receive forty-eight cities and surrounding livestock land within Israel’s possessions (1–8, 41–42), rather than a separate tribal territory.
@@ -322,6 +332,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Appears in
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:15; the Levites take the ark down at Beth Shemesh.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–29; a Levite of the far hill country of Ephraim, his concubine, and the twelve pieces. See [[The Levite (husband of the concubine)]].
 - [[Micah's Idol and Levite]] — Judges 17:7–13; a young Levite of Bethlehem Judah, sojourning, hired as Micah's priest.
 - [[The Cities of the Levites]] — Joshua 21:1–42.

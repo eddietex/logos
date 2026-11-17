@@ -146,7 +146,7 @@ the God of Israel's enemies brought low, after [[The Death of Samson]]; see
 Yahweh *delivered his strength into captivity, his glory into the adversary's hand* (78:61), *he struck his adversaries backward* (78:66, WEB
 checked at bible-api.com); whether 78:66 refers to the tumors is a common reading, not a statement of the
 psalm (see [[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]]). The return of the ark is
-the next pericope (6:1–7:1, not yet ingested). Later, 1 Chronicles 10:10 says the Philistines *fastened
+the next pericope, [[The Ark Returns to Israel]] (6:1–7:1). Later, 1 Chronicles 10:10 says the Philistines *fastened
 [Saul's] head in the house of Dagon* (WEB checked at bible-api.com; not stored): the head of Dagon fell
 before the ark, and the head of Israel's first king will hang in Dagon's house.
 

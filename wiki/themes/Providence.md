@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### His hand, or a chance — 1 Samuel 6:9–12
+
+The Philistine priests set *his hand* against *chance*, *miqreh* (6:9, WLC), and build a test to tell
+them apart: unyoked milk cows, calves shut up at home, should turn back. They go *straight*, *lowing as they
+went*, *and didn't turn away to the right hand or to the left* (12). Ruth uses the same noun for the meeting
+with Boaz that turns out to carry Yahweh's kindness (Ruth 2:3, 20). See [[The Ark Returns to Israel]] and
+[[It Was a Chance - Miqreh in 1 Samuel 6, Ruth 2, and Ecclesiastes]]. Source: stored WEB 1 Samuel 6:1–7:1; Ruth 2:3, 20. Hebrew WLC.
+
 ### The family story inside the generations — Ruth 4:18–22
 
 A book that set its turns down to *chance* (*she happened to come*, 2:3) and to *until you know what will
@@ -565,6 +573,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Ark Returns to Israel]] — 1 Samuel 6:9–12; Yahweh's hand or *a chance*, and the cows that go straight.
 - [[Boaz Redeems at the Gate]] — Ruth 4:1; *Behold, the near kinsman … came by*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:18; *how the matter will fall*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:3, 20; *she happened to come*; Naomi's blessing of a kindness not abandoned.

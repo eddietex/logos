@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### A golden tumor for Gath — 1 Samuel 6:17
+
+*These are the golden tumors which the Philistines returned for a trespass offering to Yahweh: for Ashdod
+one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one* (6:17). Gath is the second city the ark visited (5:8); the offering
+counts all five lordships, *for one plague was on you all, and on your lords* (6:4). See
+[[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:4, 17.
+
 ### The ark carried around — 1 Samuel 5:8–9
 
 When Ashdod will not keep the ark, the lords of the Philistines answer *Let the ark of the God of Israel be
@@ -27,6 +34,7 @@ One of three cities where some of the Anakim remain after Joshua cuts them off f
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
 ## Appears in
+- [[The Ark Returns to Israel]] — 1 Samuel 6:17; one golden tumor for Gath.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:8–9; the second city struck.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
@@ -38,3 +46,4 @@ Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 ## Events here
 - The ark brought there; *a very great confusion* and tumors on small and great — 1 Samuel 5:8–9, [[The Ark Among the Philistines]]
 - [[The Whole Land Taken]] — Some of the Anakim remain there (22).
+- Counted in the Philistine trespass offering — 1 Samuel 6:17, [[The Ark Returns to Israel]]

@@ -7,6 +7,22 @@ tags: [person]
 
 ## Overview
 
+### The ark sent home — 1 Samuel 6:1–18
+
+After *seven months* the Philistines ask *the priests and the diviners* what to do with the ark (6:1–2). The
+experts answer like men who have learned from chapter 5: do not send it *empty*, but with *a trespass
+offering*, five golden tumors and five golden mice, *for the number of the lords* (3–4); *give glory to the God
+of Israel* in the hope that he will *lighten* his hand (5, WLC *yāqēl*); and do not *harden your hearts, as the
+Egyptians and Pharaoh hardened their hearts* (6). At 4:8 they had placed the plagues *in the wilderness*; now
+they cite the Exodus correctly. They then test it: unyoked milk cows, calves shut up at home. If the cows go
+to Beth Shemesh, it was Yahweh; if not, *It was a chance that happened to us* (7–9). The cows go straight, and
+*the lords of the Philistines went after them to the border of Beth Shemesh*, watched, and *returned to Ekron
+the same day* (12, 16). The offering is listed by city: Ashdod, Gaza, Ashkelon, Gath, Ekron (17). See
+[[The Ark Returns to Israel]], [[It Was a Chance - Miqreh in 1 Samuel 6, Ruth 2, and Ecclesiastes]], and
+[[Never Yoked - The Red Heifer and the Philistine Cows]].
+
+Source: stored WEB 1 Samuel 4:8; 6:1–18. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The ark in Ashdod, Gath, and Ekron — 1 Samuel 5:1–12
 
 The victors carry the ark *from Ebenezer to Ashdod* and set it beside [[Dagon]], who falls before it twice
@@ -163,6 +179,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] — Dagon's house in Judges 16 and 1 Samuel 5.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–11; the ark captured.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:1–12; Dagon fallen, the three cities struck, the lords' two councils.
+- [[The Ark Returns to Israel]] — 1 Samuel 6:1–18; the priests' counsel, the trespass offering, the cart test, the lords at the border.
 
 ## Related people
 

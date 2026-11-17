@@ -87,6 +87,17 @@ The lords decide to send it *to its own place*, and *the cry of the city went up
 tumors and *confusion* are nouns of Deuteronomy's curses (7:23; 28:20, 27). No Israelite appears in the
 chapter.
 
+[[The Ark Returns to Israel]] (6:1–7:1) sends it home. After *seven months* the Philistine priests and
+diviners advise that the ark must not go back *empty* but with *a trespass offering*, five golden tumors and
+five golden mice, that the lords may *give glory to the God of Israel*, and they warn against hardening their
+hearts *as the Egyptians and Pharaoh hardened their hearts* (6:3–6). They test the cause: unyoked milk cows,
+their calves shut up at home, either go to Beth Shemesh or prove *It was a chance* (6:7–9). The cows go
+straight, *lowing as they went* (6:12). Beth Shemesh rejoices, the Levites set the ark on a great stone, and
+the cows become a burnt offering (6:13–15); then Yahweh strikes its men *because they had looked into
+Yahweh's ark* (6:19). *Who is able to stand before Yahweh, this holy God?* (6:20). The ark is fetched to
+Kiriath Jearim, to Abinadab's house *on the hill*, and his son Eleazar is consecrated to keep it (7:1). It
+does not return to Shiloh.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -116,7 +127,7 @@ merge, or reorder them freely.
 - [x] [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a
 - [x] [[The Ark Is Captured]] — 1 Samuel 4:1b–22
 - [x] [[The Ark Among the Philistines]] — 1 Samuel 5:1–12
-- [ ] The Ark Returns to Israel — 1 Samuel 6:1–7:1
+- [x] [[The Ark Returns to Israel]] — 1 Samuel 6:1–7:1
 - [ ] Samuel Judges Israel at Mizpah — 1 Samuel 7:2–17
 - [ ] Israel Asks for a King — 1 Samuel 8:1–22
 - [ ] Saul Comes to the Seer — 1 Samuel 9:1–25
@@ -186,6 +197,9 @@ merge, or reorder them freely.
 - [[Idolatry]] — Dagon fallen before the ark (5:3–5)
 - [[The Nations]] — *his hand is severe on us, and on Dagon our god* (5:7)
 - [[Signs and Wonders]] — Dagon found fallen on two mornings (5:3–4)
+- [[Holiness]] — *Who is able to stand before Yahweh, this holy God?* (6:20)
+- [[Providence]] — Yahweh's hand, or *a chance* (6:9)
+- [[Guilt and Conscience]] — the Philistines' *trespass offering* (6:3–4)
 
 ## Key people
 - [[Samuel]]
@@ -202,6 +216,8 @@ merge, or reorder them freely.
 - [[Phinehas' Wife]]
 - [[Ichabod]]
 - [[Dagon]]
+- [[Abinadab (of Kiriath Jearim)]]
+- [[Eleazar (son of Abinadab)]]
 - [[David]]
 
 ## Key places
@@ -213,3 +229,6 @@ merge, or reorder them freely.
 - [[Ebenezer]] and [[Aphek]] — the opposing camps of the battle where the ark is taken (4:1)
 - [[Ashdod]], [[Gath]], and [[Ekron]] — the three Philistine cities the ark passes through (5:1–12)
 - [[The Land of the Philistines]] — where the ark stays *seven months* (6:1)
+- [[Beth Shemesh]] — where the ark comes home, and its men are struck (6:12–20)
+- [[Kiriath Jearim]] — where the ark is kept in Abinadab's house (6:21–7:1)
+- [[Gaza]] and [[Ashkelon]] — named with the other three lordships in the trespass offering (6:17)

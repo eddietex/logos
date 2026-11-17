@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Philistine priests who read the Exodus — 1 Samuel 6:2–9
+
+The Philistine priests and diviners advise the right things: restitution, *give glory to the God of
+Israel*, do not harden your heart *as the Egyptians and Pharaoh* did (6:3–6). The nation that captured the
+ark is the one that sends it back honored, and its experts cite Israel's history more accurately than they
+did at 4:8. See [[The Ark Returns to Israel]]. Source: stored WEB 1 Samuel 6:1–7:1; 4:8.
+
 ### *His hand is severe on us, and on Dagon our god* — 1 Samuel 5:7–11
 
 The Philistines who feared *these mighty gods* (4:8) now confess, at Ashdod, *The ark of the God of Israel
@@ -685,6 +692,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Ark Returns to Israel]] — 1 Samuel 6:2–9; the Philistine priests counsel glory to the God of Israel.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:7–11; the Philistines confess the God of Israel's hand on them and on Dagon.
 - [[The Ark Is Captured]] — 1 Samuel 4:6–9; the Philistines fear Israel's *mighty gods*, and fight.
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10–11; *Ruth the Moabitess*, named twice and blessed like Rachel and Leah.

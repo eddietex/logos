@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Give glory to the God of Israel* — 1 Samuel 6:5
+
+The Philistine priests tell the lords to *give glory*, *kāḇôḏ*, to the God of Israel, so that he may
+*lighten*, *yāqēl*, his hand (6:5, WLC). The *glory* that *departed from Israel* (4:21–22) was felt in
+Philistia as a *heavy* hand (5:6, 11); here the remedy is to give it weight. See [[The Ark Returns to Israel]]
+and [[Heavy Hand and Departed Glory - Kabed in 1 Samuel 4-6]]. Source: stored WEB 1 Samuel 6:1–7:1; 4:21–22; 5:6, 11. Hebrew WLC.
+
 ### *Yahweh's hand was heavy* — 1 Samuel 5:6, 11
 
 The glory, *kāḇôḏ*, that *departed from Israel* (4:21–22) is next met in Philistia as a hand that is
@@ -237,6 +244,7 @@ makes having seen it the ground of the charge (22). See
 
 ## Key passages
 
+- [[The Ark Returns to Israel]] — 1 Samuel 6:5; *give glory to the God of Israel*.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:6, 11; the departed glory present as a *heavy* hand in Philistia.
 - [[The Ark Is Captured]] — 1 Samuel 4:21–22; *The glory has departed from Israel*, Ichabod named.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
