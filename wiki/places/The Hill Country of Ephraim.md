@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The far side, and the old man — Judges 19:1, 16–18
+
+The Levite of Judges 19 lives *on the farther side of the hill country of Ephraim*, *bəyarkəṯê har-ʾep̄rāyim*
+(19:1, WLC), and is heading home there when he stops at Gibeah (19:18). His host is *from the hill country of
+Ephraim* too, sojourning in Gibeah (19:16). See [[The Levite's Concubine at Gibeah]] and [[The Old Man of Gibeah]]. Source: stored
+WEB Judges 19:1, 16–18; Hebrew WLC, 2026-11-17.
+
 ### *The hill country of the Amalekites* — Judges 12:15
 
 Abdon the son of Hillel is buried *in Pirathon in the land of Ephraim, in the hill country of the
@@ -79,6 +86,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16–18; the Levite's home, and his host's origin.
 - [[The Danite Migration]] — Judges 18:2, 13; the spies lodge at Micah's house, and the six hundred return to rob it.
 - [[Micah's Idol and Levite]] — Judges 17:1, 8; Micah's home, where the Levite of Bethlehem comes.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:15; Pirathon, *in the hill country of the Amalekites*.
@@ -102,6 +110,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Events here
 
+- The Levite's home on its far side; his host at Gibeah an Ephraimite — Judges 19:1, 16, [[The Levite's Concubine at Gibeah]]
 - Micah keeps a house of gods with a carved and molten image and hires a Levite (Judges 17:1–13).
 - The geography of the request in [[The Children of Joseph Ask for More]]; no battle is narrated.
 - Tola of Issachar lives and is buried at Shamir (Judges 10:1–2).

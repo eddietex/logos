@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *I am going to Yahweh's house* — Judges 19:18
+
+The Levite tells the old man of Gibeah *I am going to Yahweh's house* (19:18; WLC *bêt YHWH*), the
+chapter's only mention of God. Shiloh, where the tent stood (Joshua 18:1), lies in the hill country of
+Ephraim, but the text does not name it; the Greek is reported to read *my house* — not checked. He goes *to
+his place* (19:28). See [[The Levite's Concubine at Gibeah]]. Source: stored WEB Judges 19:18, 28; Joshua 18:1; Hebrew WLC,
+2026-11-17.
+
 ### The altar of witness — Joshua 22:10–34
 
 The western land is *the land of the possession of Yahweh, in which Yahweh's tabernacle dwells*
@@ -640,6 +648,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:18; *Yahweh's house*, named once and never reached.
 - [[The Danite Migration]] — Judges 18:31; *God's house … in Shiloh*, while Dan kept Micah's image.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.

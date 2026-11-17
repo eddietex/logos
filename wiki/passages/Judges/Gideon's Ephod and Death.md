@@ -147,8 +147,8 @@ king, has the wives and the gold the law withholds from a king. See [[The Law fo
 [[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]].
 
 Then one more son, from *his concubine who was in Shechem*. *Concubine*, *pîlegeš*, is the word for
-Abraham's concubines and for Bilhah in Genesis (25:6; 35:22) and for the Levite's concubine whose death ends the book
-(19:1–30, stored WEB; not yet ingested). She lives in [[Shechem (city)]], not in Ophrah. *He named him
+Abraham's concubines and for Bilhah in Genesis (25:6; 35:22) and for the Levite's concubine whose death begins the book's last war
+(19:1–30; see [[The Levite's Concubine at Gibeah]]). She lives in [[Shechem (city)]], not in Ophrah. *He named him
 Abimelech*, *wayyāśem ʾet-šəmô*, *he set his name*. *Abimelech* is the name of the Philistine kings of
 Gerar in Genesis 20–26 (see [[Abimelech (of Abraham's time)]] and [[Abimelech (of Isaac's time)]]). It is
 usually glossed *my father is king* (reported, not checked). A man who has just said *I will not rule

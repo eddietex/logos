@@ -147,7 +147,8 @@ The story is not finished. Chapter 18 sends the Danites past Micah's house, wher
 Levite's voice, take the ephod, the teraphim, and the image, and make him priest to a tribe (18:3, 14–20);
 see [[The Danite Migration]], which also names him [[Jonathan (son of Gershom)]]. And chapter 19 opens with a
 second Levite in *the farther side of the hill country of Ephraim* and a concubine *out of Bethlehem
-Judah* (19:1, stored WEB; not yet ingested): the same two places, in the opposite direction.
+Judah* (19:1): the same two places, in the opposite direction. See [[The Levite's Concubine at Gibeah]] and
+[[Two Levites from Bethlehem Judah - Judges 17 and 19]].
 
 ## Key verses
 
@@ -207,7 +208,8 @@ Judah* (19:1, stored WEB; not yet ingested): the same two places, in the opposit
 - Exodus 32:4–5 — the molten calf and the feast *to Yahweh* (stored WEB).
 - Leviticus 6:2–5 — restitution with a fifth (stored WEB).
 - [[The Danite Migration]] — Judges 18:1–31; the Danites take the shrine and the Levite.
-- Judges 19:1 — a Levite of Ephraim and a concubine of Bethlehem Judah (stored WEB; not yet ingested).
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1; a Levite of Ephraim and a concubine of Bethlehem Judah.
+- [[Two Levites from Bethlehem Judah - Judges 17 and 19]]
 
 ## Notes
 

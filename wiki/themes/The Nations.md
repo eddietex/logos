@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The city of a foreigner — Judges 19:10–12
+
+Near Jebus the Levite refuses to lodge *in the city of a foreigner that is not of the children of Israel*
+and goes on to Gibeah of Benjamin (19:12). *Nāḵrî* is Deuteronomy 17:15's *foreigner* (WLC). The Israelite
+town proves to be Sodom; what the foreign city would have done is never told. See [[The Levite's Concubine at Gibeah]] and
+[[The City of a Foreigner - Jebus Passed By for Gibeah]]. Source: stored WEB Judges 19:10–12; Deuteronomy
+17:15; Hebrew WLC, 2026-11-17.
+
 ### The Philistines who rule — Judges 14:3–4
 
 *Now at that time the Philistines ruled over Israel* (14:4). The chapter shows the rule from inside a
@@ -611,6 +619,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:10–12; Jebus, *the city of a foreigner*, passed by.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15–24; Edom, Moab, the Amorites, and Ammon, and *Chemosh your god*.
 
 - [[Shamgar and the Ox Goad]] — Judges 3:31; the Philistines, first of the nations left, fought for the first time.

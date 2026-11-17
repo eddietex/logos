@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The night at Gibeah — Judges 19:22–25
+
+*Bring out the man who came into your house, that we can have sex with him!* (19:22). The men of Gibeah
+are refused the guest and given his concubine: *they had sex with her, and abused her all night until the
+morning* (19:25). The host calls the act *folly*, *nəḇālâ*, and in the same breath says *Humble them*,
+*ʿannû*, the verb of Shechem with Dinah (19:23–24; Genesis 34:2, WLC). The chapter is Sodom's night
+without the rescue. See [[The Levite's Concubine at Gibeah]] and [[Gibeah and Sodom - Judges 19 as a Retelling]]. Source: stored WEB
+Judges 19:22–25; Genesis 34:2; Hebrew WLC, 2026-11-17.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The curses name intercourse with a father’s wife, an animal, a sister, and a mother-in-law (20–23). They restate selected sexual boundaries as communal sanctions, without supplying a new trial procedure.
@@ -346,6 +355,7 @@ husband's taking her back after it (4). Matthew 5:32 later calls the second marr
 See [[Divorce, Remarriage, and the Newlywed]] and [[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:22–25; the demand at the door and the rape of the concubine.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

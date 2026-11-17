@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The third refrain — Judges 19:1
+
+*In those days, when there was no king in Israel* (19:1), the short form, introducing a story of violence
+rather than worship. The town where it happens, Gibeah, becomes the home of Israel's first king (1 Samuel
+10:26, WEB checked at bible-api.com), and Saul's muster with cut-up oxen repeats the Levite's summons
+(1 Samuel 11:7). See [[The Levite's Concubine at Gibeah]] and
+[[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]]. Source: stored WEB Judges 19:1,
+29; 1 Samuel 10:26; 11:7 from bible-api.com.
+
 ### *There was no king in Israel* — Judges 17:6
 
 The first of the four refrains (17:6; 18:1; 19:1; 21:25): *In those days there was no king in Israel.
@@ -576,6 +585,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1; the third *no king in Israel* refrain, short form.
 - [[The Danite Migration]] — Judges 18:1; the second *no king in Israel* refrain, without *right in his own eyes*.
 - [[Micah's Idol and Levite]] — Judges 17:6; the first *no king in Israel* refrain.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; large households and seventy riders, with no king.

@@ -27632,3 +27632,61 @@ checked: the scribal explanation of the suspended *nun* and the Greek and Latin 
 *the captivity of the land*, the identification of Beth Rehob with Numbers 13:21's Rehob, and 1 Kings
 12:29–30 on Jeroboam's calf at Dan (1 Kings not in raw; paraphrased, not quoted). The Hebrew of Job and
 Proverbs and all Greek were not consulted.
+
+## [2026-11-17] ingest | Judges 19.1-30 — The Levite's Concubine at Gibeah
+
+Unattended run (`/ingest auto`). Created: [[The Levite's Concubine at Gibeah]]; people
+[[The Levite (husband of the concubine)]], [[The Levite's Concubine]], [[The Levite's Father-in-Law]],
+[[The Old Man of Gibeah]]; place [[Gibeah (Benjamin)]]; connections
+[[A Morsel of Bread - Genesis 18.5 and Judges 19.5]],
+[[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]],
+[[Two Levites from Bethlehem Judah - Judges 17 and 19]],
+[[The City of a Foreigner - Jebus Passed By for Gibeah]].
+
+Revised: people [[Benjamin]], [[Levi]]; places [[Jerusalem]] (aliases *Jebus*, *the Jebusite*),
+[[Bethlehem]], [[Ramah]], [[The Hill Country of Ephraim]], [[Shiloh]], [[Egypt]], [[Gibeah (Judah)]],
+[[Gibeath]]; themes [[Hospitality]], [[Sexual Sin]], [[Marriage]], [[The Poor and the Vulnerable]],
+[[Suffering]], [[Folly]], [[Kingship and Empire]], [[The Nations]], [[Land and Sojourning]],
+[[Sacrifice and Offering]], [[The Dwelling of God]]; connections
+[[Gibeah and Sodom - Judges 19 as a Retelling]], [[Bring Him Out - Genesis 19.5, Deuteronomy 17.5, Judges 6.30, and Judges 19.22]],
+[[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]],
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]]; passages
+[[Micah's Idol and Levite]], [[Gideon's Ephod and Death]], [[The Death of Samson]], [[The Danite Migration]]
+("not yet ingested" pointers to Judges 19 now link the passage); [[Judges]] (box checked, overview
+paragraph, key themes, people, places). Also `wiki/books/index.md` (40 / 42), the places and themes
+indexes, People Index A-E, F-M, and N-Z, Connections Index A-C, D-H, I-N, and T-Z, and the dashboard
+counts. Frontmatter totals: 476 passages, 343 people, 593 places, 88 themes, 906 connections.
+
+Corrections to existing pages, not contradictions between them: [[Gibeah and Sodom - Judges 19 as a Retelling]]
+had paraphrased the Judges column of its table as quotation (*no man took them into his house to lodge*,
+*that we may have sex with him*, the *square*) and quoted the refrain as *every man did … right in his own
+eyes* for all four occurrences; the table is re-copied from stored WEB, the refrain corrected to the WEB's
+*Everyone did …* with 18:1 and 19:1 marked as the short form, and a dated verification section added.
+[[Hospitality]]'s table had the same *square* and *Don't sleep in the street*; corrected to the WEB.
+[[Gideon's Ephod and Death]] said the concubine's death *ends the book*; it begins the war of Judges 20–21,
+and the sentence now says so.
+
+Open questions recorded rather than resolved: *played the prostitute* or (reported Greek) *was angry* at
+19:2; whether *Yahweh's house* (19:18) means Shiloh, or should read *my house*; which man *laid hold of his
+concubine* at 19:25 (the Hebrew does not say; 20:5 points to the Levite); whether she was dead at 19:28;
+whether 19:30's imperatives are the Levite's message or the onlookers' words; whether Hosea's *days of
+Gibeah* means this night, the war, or Saul; whether 1 Samuel 11:7 is written to recall 19:29.
+
+Judgment calls: kept 19:1–30 as one pericope as planned. Created pages for the Levite, the concubine, her
+father, and the old man, named by role and relation (no names are given); none for the servant, the old
+man's daughter, or the men of Gibeah. Created [[Gibeah (Benjamin)]] rather than merging it with
+[[Gibeath]] (Joshua 18:28), whose identification with it is commonly proposed and not made. No page for
+Jebus (an alias on [[Jerusalem]]) or for Saul (1 Samuel not yet ingested; mentioned unlinked). The burnt
+offering verb and the Mamre wording are verified; reading them as deliberate allusions is the wiki's and is
+labeled so on each connection page.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 18:4–5, 16;
+19:1–10; 22:10; 33:13; 34:2–3, 7; 50:21; Exodus 10:2; 29:17; Leviticus 1:6, 12; 8:20; Numbers 22:29;
+Deuteronomy 13:13; 17:15; 22:21; Joshua 15:63; 18:1, 25, 28; Judges 1:21; 2:17; 4:5; 8:27, 31, 33; 11:40;
+16:5, 19, 25; 17:6–9; 18:1, 10, 31; 20:1, 4–7, 13; 21:8–14, 25. 1 Samuel 10:26; 11:1, 4, 7; 2 Samuel 5:6;
+1 Kings 11:30; Hosea 9:9; 10:9 checked against the WEB at bible-api.com (not stored in raw). Hebrew from a
+fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`,
+`Deut`, `Josh`, `Judg`, `1Sam`, `Hos`, and `Prov` XML on 2026-11-17; the lemma occurrence counts are listed
+on the passage page and cover Genesis through Judges unless stated. Reported, not checked: the Greek
+readings at 19:2, 18, 28, 30; readers' identifications of Gibeah's site. No Greek text was consulted, and
+the Hebrew of 1 Kings and 2 Samuel was not consulted.

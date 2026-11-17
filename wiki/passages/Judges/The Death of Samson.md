@@ -63,8 +63,8 @@ womb to the day of his death* (13:7). This is that day.
   and the wiki does not claim a pun.
 - **To rejoice; their hearts were merry.** *Ûləśimḥâ* (23) and *kəṭôb libbām* (25, WLC; the consonantal
   text has *kî ṭôb*, the margin *kəṭôb*). Merry hearts at a feast run through the book's last chapters:
-  the Levite's father-in-law urges him to *let your heart be merry* (19:6, 9, stored WEB; not yet
-  ingested).
+  the Levite's father-in-law urges him to *let your heart be merry* (19:6, 9), and the men of Gibeah
+  come to the door *as they were making their hearts merry* (19:22); see [[The Levite's Concubine at Gibeah]].
 - **Entertain us; he performed.** Two spellings of one root: *wîśaḥeq-lānû*, *that he may entertain us*
   (śāḥaq, lemma 7832), and *wayṣaḥēq lipnêhem*, *he performed before them* (ṣāḥaq, lemma 6711), then
   *biśḥôq šimšôn*, *while Samson performed* (27) (all WLC). *Ṣāḥaq* is Isaac's name-verb, *God has made me
@@ -196,7 +196,7 @@ triumph with their god's image down. See [[Dagon Fallen - Samson's Pillars and t
 - [[Two Blind Fathers - Genesis 27 and Genesis 48]] — Isaac's *that I may feel you*.
 - [[The Minor Judges - Judges 10.1-5 and 12.8-15]] — the judged-died-buried formula.
 - Genesis 21:6; 26:8; 39:14; Exodus 32:6 — *ṣāḥaq* (stored WEB).
-- Judges 19:6, 9 — *let your heart be merry* (stored WEB; not yet ingested).
+- [[The Levite's Concubine at Gibeah]] — Judges 19:6, 9, 22; *let your heart be merry*.
 - Hebrews 11:32 — *Gideon, Barak, Samson, Jephthah* (WEB at bible-api.com; not stored).
 
 ## Notes

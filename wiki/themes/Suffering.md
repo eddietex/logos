@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Her hands on the threshold — Judges 19:25–28
+
+*They … abused her all night until the morning* (19:25); *wayyiṯʿallǝlû-ḇāh*, a rare form used of making
+sport of someone (Exodus 10:2; Numbers 22:29, WLC). At dawn she falls at the door *where her lord was, until
+it was light*, and is found *with her hands on the threshold* (19:26–27). The narrator records no cry and no
+lament. See [[The Levite's Concubine at Gibeah]]. Source: stored WEB Judges 19:25–28; Exodus 10:2; Numbers 22:29; Hebrew WLC,
+2026-11-17.
+
 ### That we may bind him to afflict him — Judges 16:5, 19, 21
 
 The lords' purpose is *to afflict him*, *ləʿannōtô* (16:5, WLC, *ʿānâ*), Delilah asks how he might be
@@ -322,6 +330,7 @@ the *"toil"* Joseph was made to forget (Genesis 41:51) (WLC). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:6–7; Exodus 3:7, 9; Genesis 41:51.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:25–28; the night at Gibeah, and the morning at the door.
 
 - [[Samson and Delilah]] — Judges 16:5, 19, 21; *to afflict him*; blinded and bound.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

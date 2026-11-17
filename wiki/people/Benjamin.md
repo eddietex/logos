@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### *The men of the place were Benjamites* — Judges 19:14–25
+
+The Levite reaches *Gibeah, which belongs to Benjamin* at sunset (19:14). No one takes him in; his host is
+an Ephraimite sojourner, *but the men of the place were Benjamites*, *bənê yəmînî* (19:16, WLC). The men of
+the city, *certain wicked fellows*, surround the house and abuse the Levite's concubine through the night
+(19:22–25). The tribe whose name means *son of the right hand* is the setting of the book's Sodom. The war
+that follows is Benjamin's near-extinction (20–21, not yet ingested). See [[The Levite's Concubine at Gibeah]],
+[[Gibeah (Benjamin)]], and [[Gibeah and Sodom - Judges 19 as a Retelling]]. Source: stored WEB Judges
+19:14–25; Hebrew WLC, 2026-11-17.
+
 ### Ammon crosses the Jordan — Judges 10:9
 
 *The children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed* (9). The oppression begins in Gilead and reaches Benjamin west of the river.
@@ -234,6 +244,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Levite's Concubine at Gibeah]] — Judges 19:14–25; Gibeah of Benjamin, where no one takes the travelers in.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Ehud and Eglon]] — Judges 3:15; Ehud, *the Benjamite, a left-handed man*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:21; the Jebusites remain in Jerusalem with Benjamin.

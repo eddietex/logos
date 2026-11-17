@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### *Gibeah, or Ramah* — Judges 19:13
+
+Near Jebus at evening the Levite says, *Come and let us draw near to one of these places; and we will lodge
+in Gibeah, or in Ramah* (19:13). They reach Gibeah first. Ramah is in Benjamin's list (Joshua 18:25), and the
+narrator places Gibeah in Benjamin too (19:14). See [[The Levite's Concubine at Gibeah]]. Source: stored WEB Judges 19:13; Joshua 18:25.
+
 ### Deborah's palm — Judges 4:5
 
 Deborah sits *under Deborah's palm tree between Ramah and Bethel in the hill country of Ephraim*
@@ -22,12 +28,15 @@ Named among Benjamin’s second group of fourteen cities with their villages (25
 Source: stored WEB Joshua 18:11–28.
 
 ## Appears in
+- [[The Levite's Concubine at Gibeah]] — Judges 19:13; named with Gibeah as a place to lodge.
 - [[Deborah and Barak]] — Judges 4:5; Deborah's palm stands between Ramah and Bethel.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 
 ## Related places
+- [[Gibeah (Benjamin)]] — the other town named at Judges 19:13.
 - [[Deborah's Palm Tree]] — between Ramah and [[Bethel]] (Judges 4:5).
 - [[The Jordan]] — Benjamin’s eastern boundary.
 
 ## Events here
+- Named as an alternative lodging to Gibeah — Judges 19:13, [[The Levite's Concubine at Gibeah]]
 - Named in Benjamin’s allotment; no separate conquest is narrated.

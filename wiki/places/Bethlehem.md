@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The concubine's father's house — Judges 19:1–9
+
+The second Levite story of the epilogue also turns on *Bethlehem Judah*: the Levite of the far hill
+country of Ephraim takes a concubine from there, she returns to her father's house there, and her father
+keeps him five days with food and drink (19:1–9). The road between Bethlehem and the hill country of
+Ephraim is the same one Micah's Levite walked the other way (17:7–8). See [[The Levite's Concubine at Gibeah]],
+[[The Levite's Father-in-Law]], and [[Two Levites from Bethlehem Judah - Judges 17 and 19]]. Source: stored
+WEB Judges 17:7–8; 19:1–9, 18.
+
 *Bêt Leḥem*, **house of bread** — and Genesis introduces it inside a parenthesis, at a graveside.
 
 > **19** Rachel died, and was buried on the way to Ephrath (also called Bethlehem). (35:19)
@@ -81,6 +90,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 
 ## Appears in
 
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1–9, 18; the concubine's home and her father's five days of hospitality.
 - [[Micah's Idol and Levite]] — Judges 17:7–9; *Bethlehem Judah*, the home the young Levite leaves.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:8–10; Ibzan's town and grave, if this Bethlehem is meant.
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:19–20; **named only as a gloss on
@@ -108,6 +118,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 
 ## Events here
 
+- A Levite fetches his concubine from her father's house and is kept five days — Judges 19:1–9, [[The Levite's Concubine at Gibeah]]
 - A young Levite leaves *Bethlehem Judah* to find a place to live — Judges 17:7–9, [[Micah's Idol and Levite]]
 - Rachel dies on the road to Ephrath bearing [[Benjamin]], and is buried with a pillar over the grave
   — Genesis 35:16–20, [[Return to Bethel; the Deaths of Rachel and Isaac]]

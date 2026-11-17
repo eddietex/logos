@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three hosts — Judges 19:3–24
+
+Judges 19 tells hospitality three times. At Bethlehem the concubine's father keeps the Levite five days,
+with Abraham's words, *Strengthen your heart with a morsel of bread* (19:5; Genesis 18:5); see
+[[A Morsel of Bread - Genesis 18.5 and Judges 19.5]]. At Gibeah *there was no one who took them into his
+house to stay* (19:15), and the only host is *from the hill country of Ephraim*, a sojourner, who says
+*Just don't sleep in the street* (19:20) — answering the angels' *we will stay in the street all night* at
+Sodom (Genesis 19:2). Then the men of the city come to the door, and the host offers two women to protect
+the guest (19:22–24). See [[The Levite's Concubine at Gibeah]], [[The Old Man of Gibeah]], and
+[[Gibeah and Sodom - Judges 19 as a Retelling]]. Source: stored WEB Judges 19:3–24; Genesis 18:5; 19:2;
+Hebrew WLC, 2026-11-17.
+
 ### Bread refused to a faint army — Judges 8:5–8
 
 *Please give loaves of bread to the people who follow me; for they are faint* (8:5). Succoth and Penuel
@@ -76,9 +88,9 @@ because the later scenes are legible as variations on it.
 
 | | Genesis 18 | Genesis 19 | Judges 13 | Judges 19 |
 |---|---|---|---|---|
-| Host | Abraham, at the tent door | Lot, in the city gate | Manoah and his wife, in a field | an old man in the square at Gibeah |
+| Host | Abraham, at the tent door | Lot, in the city gate | Manoah and his wife, in a field | an old man in the street at Gibeah |
 | Time | *"the heat of the day"* | *"at evening"* | daytime | nightfall |
-| First move | *"he ran to meet them"* | *"rose up to meet them … bowed himself"* | she runs to tell her husband | *"Don't sleep in the street"* |
+| First move | *"he ran to meet them"* | *"rose up to meet them … bowed himself"* | she runs to tell her husband | *"Just don't sleep in the street"* |
 | The meal | curds, milk, veal, twenty litres of flour | unleavened bread, *"a feast"* | a kid, which the visitor refuses | bread, wine, fodder |
 | The town | no town | the men of Sodom at the door | — | the men of Gibeah at the door |
 | Outcome | a son promised | the guests rescue the host | a son promised | a woman handed out and killed |
@@ -144,8 +156,8 @@ See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14
   guest's head. The Bible's one celebrated violation of the custom, and it is sung about.
 - **Judges 13:2–23** — Manoah's meal, refused and redirected onto an altar; *"Manoah didn't know
   that he was Yahweh's angel."*
-- **Judges 19:14–30** — the deliberate inversion, and the atrocity the last five chapters of Judges
-  come out of.
+- **Judges 19:14–30** — the deliberate inversion, and the atrocity the last chapters of Judges
+  come out of. See [[The Levite's Concubine at Gibeah]].
 - **1 Samuel 25:2–35** — Nabal refuses provisions to David's men and Abigail overrules him with
   two hundred loaves; the refusal nearly costs a household its life.
 - **2 Samuel 12:4** — Nathan's parable turns on a traveller who has to be fed, and on the man who
@@ -213,6 +225,7 @@ Reuel's house took in Moses at Exodus 2:20, and here Moses invites Reuel's son i
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:3–24; three hosts: five days at Bethlehem, none at Gibeah, an outsider at the door.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:5–8; bread refused to Gideon's faint men by Succoth and Penuel.
 - [[The Call of Gideon]] — Judges 6:18–21; *I will wait until you come back*; the guest's meal burned as an offering.
 - [[Rahab and the Spies]] — Joshua 2:1–24.

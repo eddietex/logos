@@ -12,7 +12,7 @@ tags: [connection]
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21; the unchaste bride, *"because she has done folly in Israel"*
 - [[The Sin of Achan]] — Joshua 7:15; Achan, *"because he has done a disgraceful thing in Israel"*
   (now ingested; *nǝḇālâ* confirmed in WLC 7:15, retrieved 2026-11-10)
-- Judges 19:23–24 — the old man at Gibeah, *"don't do this folly"*
+- Judges 19:23–24 — the old man at Gibeah, *"don't do this folly"*. See [[The Levite's Concubine at Gibeah]]
 - Judges 20:6, 10 — the Levite and the assembly, *"they have committed lewdness and folly in
   Israel"*
 - 2 Samuel 13:12 — Tamar to Amnon, *"don't do this folly… no such thing ought to be done in Israel"*
@@ -88,3 +88,10 @@ did about it** — Genesis 49:5–7 is the book's verdict on that, and it is a c
 one clear moral statement and its one clear moral condemnation land on opposite parties**, fifteen
 chapters apart. See [[Dinah and the Massacre at Shechem]] and
 [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
+
+**Judges 19 ingested (2026-11-17).** The WLC confirms *nəḇālâ* twice in the old man's plea — *ʾal-taʿăśû
+ʾet-hannəḇālâ hazzōʾṯ* (19:23) and *dəḇar hannəḇālâ hazzōʾṯ* (19:24) — and, in Genesis through Judges,
+otherwise only at Genesis 34:7, Deuteronomy 22:21, Joshua 7:15, and Judges 20:6, 10 (lemma 5039). The
+same plea uses *ʿinnâ*, *humble them* (19:24), Shechem's verb with Dinah (Genesis 34:2). The old man names
+the act *folly* to keep it from his guest and in the same breath offers it two women; the word protects
+the man and not the women. See [[The Old Man of Gibeah]] and [[The Levite's Concubine]].

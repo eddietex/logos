@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The woman who never speaks — Judges 19:24–29
+
+The concubine of Judges 19 has no name and no line of speech. She is offered by the host, put out by her
+husband, abused all night, and found *with her hands on the threshold*; to *Get up* *no one answered*
+(19:24–28). The text does not say when she died. See [[The Levite's Concubine at Gibeah]] and [[The Levite's Concubine]]. Source:
+stored WEB Judges 19:24–29.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Misleading the blind on the road and withholding justice from the foreigner, fatherless, and widow receive curses (18–19). Vulnerability must not become an opportunity for exploitation.
@@ -505,6 +512,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:24–29; the concubine, offered, put out, and never heard.
 
 - [[The Call of Gideon]] — Judges 6:15; *my family is the poorest in Manasseh*, *dal* (WLC).
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

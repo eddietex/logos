@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two sojourners — Judges 19:1, 16
+
+The Levite is *gār*, sojourning, on the far side of the hill country of Ephraim (19:1, WLC); his host at
+Gibeah is *gār baggiḇʿâ*, an Ephraimite sojourning among Benjaminites (19:16). The one man in Gibeah who
+takes in a stranger is himself a stranger there, as Lot was at Sodom (Genesis 19:9). See [[The Levite's Concubine at Gibeah]] and
+[[The Old Man of Gibeah]]. Source: stored WEB Judges 19:1, 16; Genesis 19:9; Hebrew WLC, 2026-11-17.
+
 ### An inheritance that had not fallen — Judges 18:1
 
 *The tribe of the Danites sought an inheritance to dwell in; for to that day, their inheritance had not
@@ -1098,6 +1105,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16; the Levite and the old man, both *gār*.
 - [[The Danite Migration]] — Judges 18:1, 7–10, 27–29; a tribe without an inheritance takes Laish.
 - [[Micah's Idol and Levite]] — Judges 17:7–9; a sojourning Levite looking for a place to live.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:13–26; the claim to the land, answered from the road out of Egypt and Yahweh's gift.

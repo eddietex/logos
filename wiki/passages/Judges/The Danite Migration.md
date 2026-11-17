@@ -110,7 +110,7 @@ verses 30–31: the tribe set up the image for itself, and kept it for as long a
   their city *the land is large enough for them* before Simeon and Levi destroy it (stored WEB; WLC). There
   the speakers are the victims; here they are the attackers. The wiki records the shared phrase only.
 - **No lack.** *ʾên-šām maḥsôr kol-dāḇār* (10, WLC); *maḥsôr* is next at 19:19–20, the old man of Gibeah
-  promising the Levite there is *no lack of anything* (stored WEB; not yet ingested).
+  promising the Levite there is *no lack of anything*; see [[The Levite's Concubine at Gibeah]].
 - **The six hundred.** *Šēš-mēʾôt ʾîš ḥāḡûr kəlê milḥāmâ* (11, WLC; again 16, 17), a clan's fighting
   force, not a tribe's: Numbers 26:42–43 counts Dan's one family, the Shuhamites, at 64,400 (stored WEB). The number returns at 20:47, where six
   hundred Benjaminites survive at the rock of Rimmon (stored WEB; not yet ingested).

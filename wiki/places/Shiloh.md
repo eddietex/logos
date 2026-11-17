@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### *Yahweh's house*? — Judges 19:18
+
+The Levite says *I am going to Yahweh's house* (19:18; the Greek is reported to read *my house* — not
+checked). Shiloh, *God's house* in 18:31, is in the hill country of Ephraim where he lives, but the text
+does not name it here. See [[The Levite's Concubine at Gibeah]]. Source: stored WEB Judges 18:31; 19:18.
+
 ### God's house in Shiloh — Judges 18:31
 
 The Danites keep Micah's image at Dan *all the time that God's house was in Shiloh* (18:31). The
@@ -51,6 +57,7 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[The Levite's Concubine at Gibeah]] — Judges 19:18; possibly the *Yahweh's house* the Levite names.
 - [[The Danite Migration]] — Judges 18:31; *God's house*, while Micah's image stood at Dan.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
@@ -65,4 +72,5 @@ Source: stored WEB Joshua 18:1–10.
 - [[Taanath Shiloh]] — named in Joshua 16:6; no identity with Shiloh is asserted here.
 
 ## Events here
+- Possibly *Yahweh's house*, the Levite's stated destination — Judges 19:18, [[The Levite's Concubine at Gibeah]]
 - The Tent is set up, the written survey is returned, and Joshua casts lots before Yahweh (1, 9–10).

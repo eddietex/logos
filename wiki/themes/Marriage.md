@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A concubine, a father-in-law, a lord — Judges 19:1–3, 26–27
+
+The woman of Judges 19 is a *pîleḡeš*, a concubine, yet her father is the Levite's *father-in-law* and he
+the father's *son-in-law* (19:1, 4–5, 9, WLC). She *played the prostitute against him* and goes home; he
+goes *to speak to her heart* (19:2–3; some ancient versions are reported to read *she was angry with him* —
+not checked). The narrator calls him *her husband*, *ʾîšāh*, then, at the door where she lies, *her lord*,
+*ʾăḏōnehā* (19:3, 26–27). See [[The Levite's Concubine at Gibeah]] and [[The Levite's Concubine]]. Source: stored WEB Judges
+19:1–3, 26–27; Hebrew WLC, 2026-11-17.
+
 ### The wife given away, and burned — Judges 15:1–6
 
 Samson returns *with a young goat* to visit his wife and is refused: her father *thought that you utterly
@@ -545,6 +554,7 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1–3, 26–27; a concubine treated as a wife, *her husband* become *her lord*.
 
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9; Ibzan's thirty daughters sent out and thirty brought in for his sons.
 - [[Gideon's Ephod and Death]] — Judges 8:30–31; seventy sons from many wives, and Abimelech from a concubine in Shechem.

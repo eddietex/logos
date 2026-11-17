@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### *Since the day … out of the land of Egypt* — Judges 19:30
+
+The onlookers measure the deed at Gibeah against the whole span since the Exodus: *Such a deed has not been
+done or seen from the day that the children of Israel came up out of the land of Egypt to this day!*
+(19:30). See [[The Levite's Concubine at Gibeah]]. Source: stored WEB Judges 19:30.
+
 ### First in the list — Judges 10:11
 
 *Didn't I save you from the Egyptians*. Yahweh begins his list of seven peoples with Egypt (11), as the speeches at Bochim and in Gideon's day began with the exodus (2:1; 6:8). See [[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]].
@@ -497,6 +503,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[The Levite's Concubine at Gibeah]] — Judges 19:30; nothing like it since the Exodus.
 - [[Israel's Repentance Under Ammon]] — Judges 10:11; *Didn't I save you from the Egyptians*.
 - [[The Call of Gideon]] — Judges 6:13; *Didn't Yahweh bring us up from Egypt?*, the works Gideon's fathers told of.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–9; *out of the house of bondage*.
@@ -847,6 +854,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Events here
 
+- The measure of the outrage at Gibeah — Judges 19:30, [[The Levite's Concubine at Gibeah]]
 - [[The Covenant Renewed]] — Departure in Abib remembered in the renewed festival law.
 
 - Listed among Ham's sons, with seven peoples of its own — Genesis 10:6, 13–14,

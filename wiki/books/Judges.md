@@ -406,6 +406,19 @@ son of Gershom, the son of Moses* — *Manasseh* in the Masoretic suspended *nun
 *all the time that God's house was in Shiloh* (18:30–31). It is the last conquest story in the book, told
 in the conquest's language against an undefended city.
 
+[[The Levite's Concubine at Gibeah]] (19:1–30) opens the second story of the epilogue with the third refrain, *there was no
+king in Israel*, and the same two places as the first: a Levite of the far hill country of Ephraim takes a
+concubine from Bethlehem Judah. She leaves him; he fetches her, and her father keeps him five days with
+Abraham's words, *Strengthen your heart with a morsel of bread*. Leaving late, he will not lodge in Jebus,
+*the city of a foreigner*, and goes on to Gibeah of Benjamin, where *no one … took them into his house*
+except an old Ephraimite sojourner. Then the scene of Sodom runs again without the angels: *the men of the
+city, certain wicked fellows*, beat at the door — *Bring out the man* — the host offers his virgin daughter
+and the concubine, and *the man laid hold of his concubine, and brought her out to them*. She is abused all
+night and found at dawn *with her hands on the threshold*; to *Get up* *no one answered*. At home he takes
+*the knife*, the word of Genesis 22, and cuts her *limb by limb, into twelve pieces*, with the burnt
+offering's verb, and sends them *throughout all the borders of Israel*: *Such a deed has not been done or
+seen from the day that the children of Israel came up out of the land of Egypt*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -467,7 +480,7 @@ merge, or reorder them freely.
 - [x] [[The Death of Samson]] — Judges 16:23–31
 - [x] [[Micah's Idol and Levite]] — Judges 17:1–13
 - [x] [[The Danite Migration]] — Judges 18:1–31
-- [ ] The Levite's Concubine at Gibeah — Judges 19:1–30
+- [x] [[The Levite's Concubine at Gibeah]] — Judges 19:1–30
 - [ ] The War Against Benjamin — Judges 20:1–48
 - [ ] Wives for Benjamin — Judges 21:1–25
 
@@ -480,7 +493,7 @@ merge, or reorder them freely.
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39); Yahweh's *I will test them for you* at the water (7:4).
-- [[Marriage]] — daughters taken and given with the land's peoples (3:6); Ibzan's thirty daughters sent out and thirty brought in (12:9).
+- [[Marriage]] — daughters taken and given with the land's peoples (3:6); Ibzan's thirty daughters sent out and thirty brought in (12:9); a Levite's concubine with a father-in-law, *her husband* become *her lord* (19:1–3, 26–27).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
@@ -508,10 +521,14 @@ merge, or reorder them freely.
 - [[Wealth and Possessions]] — eleven hundred pieces of silver, for Samson (16:5) and for Micah's idol (17:2–3); a priest for ten pieces a year (17:10).
 - [[Priesthood]] — Micah fills the hand of his son and of a hired Levite (17:5, 12); *priest to a tribe and a family in Israel* (18:19, 30).
 - [[Theft and Restitution]] — *I took it* (17:2).
-- [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31).
+- [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31); the burnt offering's *cut into pieces* used of the concubine (19:29).
 - [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
 - [[Remembrance]] — the road from Egypt told as evidence (11:15–26).
 - [[Divine Grief and Relenting]] — *it grieved Yahweh* (2:18); *his soul was grieved for the misery of Israel* (10:16).
+- [[Hospitality]] — Jael's milk and tent peg (4:17–21; 5:25); bread refused at Succoth (8:5–8); five days at Bethlehem, no one at Gibeah but an outsider (19:3–24).
+- [[Sexual Sin]] — the men of Gibeah at the door, and the concubine abused all night (19:22–25).
+- [[Folly]] — *don't do this folly*, *nəḇālâ*, at Gibeah (19:23–24).
+- [[Suffering]] — *her hands on the threshold* (19:27).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end; binds Samson for the Philistines (15:9–13).
@@ -555,6 +572,8 @@ merge, or reorder them freely.
 - [[Micah (of Ephraim)]], [[Micah's Mother]], and [[Jonathan (son of Gershom)]] — the silver, the image, and the hired priest (17:1–13); the image and priest taken by Dan (18:14–27).
 - [[Gershom]] and [[Moses]] — Jonathan's father and grandfather, *Moses* or *Manasseh* (18:30).
 - [[Dan (person)]] — *Dan their father, who was born to Israel*, for whom Laish is renamed (18:29).
+- [[The Levite (husband of the concubine)]], [[The Levite's Concubine]], [[The Levite's Father-in-Law]], and [[The Old Man of Gibeah]] — the journey from Bethlehem Judah, the night at Gibeah, and the twelve pieces (19:1–30).
+- [[Benjamin]] — *the men of the place were Benjamites* (19:16).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
@@ -595,3 +614,4 @@ merge, or reorder them freely.
 - [[The Valley of Sorek]] — Delilah's home (16:4).
 - [[The Hill Country of Ephraim]] and [[Bethlehem]] — Micah's home, and the Levite's *Bethlehem Judah* (17:1, 7–8).
 - [[Dan (city)]] — Laish, struck, burned, rebuilt, and renamed (18:7, 27–29); [[Kiriath Jearim]] and [[Mahaneh Dan]], the camp (18:12); [[Rehob]], *Beth Rehob* (18:28); [[Sidon (city)]] (18:7, 28); [[Shiloh]], *God's house* (18:31).
+- [[Bethlehem]], [[Jerusalem]], [[Gibeah (Benjamin)]], and [[Ramah]] — the concubine's home; *Jebus … the city of a foreigner*; the night at Gibeah; the other town named (19:1–13).

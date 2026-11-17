@@ -18,7 +18,7 @@ tags: [connection]
   it.'"* — [[Gideon Throws Down Baal's Altar]].
 - **Judges 19:22** — *"the men of the city, certain wicked fellows, surrounded the house, beating at the
   door; and they spoke to the master of the house, the old man, saying, 'Bring out the man who came into
-  your house, that we can have sex with him!'"* — not yet ingested.
+  your house, that we can have sex with him!'"* — [[The Levite's Concubine at Gibeah]].
 
 All quotations from stored WEB.
 
@@ -60,4 +60,10 @@ See [[Law and Obedience]], [[Idolatry]], [[Joash (father of Gideon)]], [[Sodom]]
 
 Sources: stored WEB Genesis 19:4–5; Deuteronomy 13:6–10; 17:2–5; Judges 6:27–31; 19:22. Hebrew from the
 Westminster Leningrad Codex (OpenScriptures morphhb, `Gen.xml`, `Deut.xml`, `Judg.xml`), 2026-11-15.
-Judges 19 is not yet ingested; this page will be extended when it is.
+Judges 19 is now ingested ([[The Levite's Concubine at Gibeah]], 2026-11-17). Two additions from it. The
+men of Gibeah are *ʾanšê ḇənê-ḇəliyyaʿal* (19:22, WLC), the phrase of Deuteronomy 13:14 (Hebrew; English
+13:13), where *ʾănāšîm bənê-ḇəliyyaʿal* draw a city after other gods and the city is to be put to the
+sword — the same chapter whose stoning law Judges 6:30 echoes. And at Gibeah the demand is not met: the
+host brings out two women instead, and the one put out is the guest's concubine (19:24–25). The demand
+for a man to be *brought out* returns in reverse at 20:13, where Israel demands *the wicked fellows who
+are in Gibeah* (stored WEB; not yet ingested).

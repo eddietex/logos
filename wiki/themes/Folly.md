@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Don't do this folly* — Judges 19:23–24
+
+The old man of Gibeah names the mob's intent *nəḇālâ*, *folly*, twice (19:23–24, WLC), the word of
+Dinah's rape (Genesis 34:7) and of Achan's theft (Joshua 7:15). He uses it to protect his guest and offers
+two women in its place. The word names an outrage against the community's order, not a lapse of
+intelligence. See [[The Levite's Concubine at Gibeah]] and [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]]. Source:
+stored WEB Judges 19:23–24; Genesis 34:7; Joshua 7:15; Hebrew WLC, 2026-11-17.
+
 Folly in the Old Testament is wisdom's opposite, and it is a moral condition before it is an
 intellectual one. The fool is not someone who lacks information. Proverbs introduces him in its
 first antithesis as someone who has been offered wisdom and refuses it: *"The fear of Yahweh is the
@@ -436,6 +444,7 @@ the woman's. See [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]].
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:23–24; *nəḇālâ* at Gibeah.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; folly set in great dignity; the fool's words and wearying labor (10:6, 12–15).
 

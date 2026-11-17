@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar's verb — Judges 19:29
+
+*He … cut up his concubine, and divided her, limb by limb, into twelve pieces* (19:29). *Nittaḥ … nəṯāḥîm*
+is the burnt offering's *cut it into its pieces* (Leviticus 1:6, 12; Exodus 29:17; Leviticus 8:20, WLC),
+used in Genesis through Judges of nothing else. The text does not call the act a sacrifice; the wiki
+records the shared verb. See [[The Levite's Concubine at Gibeah]] and
+[[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]]. Source: stored WEB Judges 19:29;
+Leviticus 1:6, 12; Hebrew WLC, 2026-11-17.
+
 ### A great sacrifice to Dagon — Judges 16:23
 
 *The lords of the Philistines gathered them together to offer a great sacrifice to Dagon their god*,
@@ -827,6 +836,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Levite's Concubine at Gibeah]] — Judges 19:29; the burnt-offering verb used of the concubine.
 - [[The Death of Samson]] — Judges 16:23; *a great sacrifice to Dagon*.
 - [[Jephthah's Vow]] — Judges 11:31, 39; the burnt offering vowed, and a fulfillment that does not name it.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:26, 28; the second bull offered on a new altar, burned with the Asherah's wood.

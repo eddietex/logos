@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Danite Migration]] — Judges 18:1 — *"In those days there was no king in Israel."* The short form, without *right in his own eyes*.
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1 — *"In those days, when there was no king in Israel, …"* The short form again; and at 19:24 the host's *"do with them what seems good to you"*, *haṭṭôḇ bəʿênêḵem* (WLC), offered to a mob.
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:8: *"You shall not do all the things that we
   do here today, every man whatever is right in his own eyes"*; set against *"that which is right
   in Yahweh's eyes"* (12:25) and *"good and right in Yahweh your God's eyes"* (12:28).
@@ -113,3 +114,15 @@ in his own eyes*. It introduces a tribe that seeks an inheritance, takes a house
 and sets the image up *all the time that God's house was in Shiloh* (18:31). The two sanctuaries stand in
 one sentence, the chosen place and the one a tribe chose for itself. See [[The Danite Migration]]. Source:
 stored WEB Judges 18:1, 31; Hebrew WLC, 2026-11-17.
+
+### The third refrain — Judges 19:1
+
+*Bayyāmîm hāhēm ûmeleḵ ʾên bəyiśrāʾēl* (19:1, WLC), the short form again, with the word order turned: *and
+a king there was none*. What follows is not worship but violence — a guest betrayed, a woman abused to
+death, a body cut up and sent through the tribes. The *eyes* of the refrain surface inside the chapter in a
+different idiom: the host offers the women to the mob with *do with them what seems good to you*,
+*haṭṭôḇ bəʿênêḵem*, *the good in your eyes* (19:24, WLC; Lot's *kaṭṭôḇ bəʿênêḵem*, Genesis 19:8). The
+refrain says *yāšār*, *right*; the host says *ṭôḇ*, *good*. The wiki notes the shared *in your eyes* and
+not an identity of phrase. See [[The Levite's Concubine at Gibeah]] and
+[[Two Levites from Bethlehem Judah - Judges 17 and 19]]. Source: stored WEB Judges 19:1, 24; Genesis 19:8;
+Hebrew WLC, 2026-11-17.

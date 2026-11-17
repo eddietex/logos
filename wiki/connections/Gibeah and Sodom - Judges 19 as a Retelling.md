@@ -8,7 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - Genesis 19:1–11 — two visitors, a host at the gate, a town at the door, a daughter offered
-- Judges 19:11–30 — the Levite at Gibeah: the same scene, in Israel, with no angels in it
+- Judges 19:11–30 — the Levite at Gibeah: the same scene, in Israel, with no angels in it. See
+  [[The Levite's Concubine at Gibeah]]
 - Judges 20–21 — the war it causes, and the near-extinction of Benjamin
 - Hosea 9:9; 10:9 — *"the days of Gibeah"*, the prophets' shorthand for it
 - Genesis 22:6, 10; Judges 19:29 — *maʾăkelet*, the slaughtering knife: the Bible uses the word in
@@ -23,15 +24,15 @@ Genesis narrative anywhere in the Old Testament.
 
 | | Genesis 19 | Judges 19 |
 |---|---|---|
-| Arrival | *"came to Sodom at evening"* (19:1) | the sun goes down as they reach Gibeah |
-| The host | Lot, a *gēr* in the town, sitting in the gate | an old man from the Ephraim hills, himself a sojourner in Gibeah, coming in from the field |
-| Nobody else | — | *"no man took them into his house to lodge"* |
-| The offer | *"come into your servant's house, stay all night"* (19:2) | *"only don't sleep in the street"* |
-| The refusal | *"No, but we will stay in the street all night"* (19:2) | they had already sat down in the square |
-| The mob | *"the men of the city, the men of Sodom, surrounded the house"* (19:4) | *"certain wicked fellows … surrounded the house, beating at the door"* |
-| The demand | *"Bring them out to us, that we may have sex with them"* (19:5) | *"Bring out the man who came into your house, that we may have sex with him"* |
-| The host's plea | *"Please, my brothers, don't act so wickedly"* (19:7) | *"No, my brothers, please don't act so wickedly"* |
-| The substitute | *"I have two virgin daughters … do to them what seems good to you"* (19:8) | *"here is my virgin daughter and his concubine … do with them what seems good to you"* |
+| Arrival | *"came to Sodom at evening"* (19:1) | *"the sun went down on them near Gibeah"* (19:14) |
+| The host | Lot, a *gēr* in the town, sitting in the gate | an old man from the hill country of Ephraim, *gār* in Gibeah, coming in from his work in the field at evening (19:16) |
+| Nobody else | — | *"there was no one who took them into his house to stay"* (19:15) |
+| The offer | *"please come into your servant's house, stay all night"* (19:2) | *"Just don't sleep in the street"* (19:20) |
+| The street | *"No, but we will stay in the street all night"* (19:2) | he *"sat down in the street of the city"* (19:15) |
+| The mob | *"the men of the city, the men of Sodom, surrounded the house"* (19:4) | *"the men of the city, certain wicked fellows, surrounded the house, beating at the door"* (19:22) |
+| The demand | *"Bring them out to us, that we may have sex with them"* (19:5) | *"Bring out the man who came into your house, that we can have sex with him!"* (19:22) |
+| The host's plea | *"Please, my brothers, don't act so wickedly"* (19:7) | *"No, my brothers, please don't act so wickedly"* (19:23) |
+| The substitute | *"I have two virgin daughters … you may do to them what seems good to you"* (19:8) | *"here is my virgin daughter and his concubine … Humble them, and do with them what seems good to you"* (19:24) |
 | What happens | angels pull the host inside and blind the crowd | **nothing intervenes** |
 
 **The last row is the connection's whole point.** Genesis 19 is a scene of appalling danger that is
@@ -44,8 +45,8 @@ pieces and sent through Israel, and the tribes destroy Benjamin.
 ### What the retelling is for
 
 Judges is arguing, and it is arguing with Genesis's own vocabulary. **Its refrain is *"In those days
-there was no king in Israel; every man did that which was right in his own eyes"*** (17:6; 18:1;
-19:1; 21:25), and it frames the Gibeah story with two of the four occurrences. The claim the
+there was no king in Israel. Everyone did that which was right in his own eyes"*** (17:6; 21:25; the
+short form *no king* at 18:1 and 19:1), and it frames the Gibeah story with two of the four occurrences. The claim the
 narrative makes by its wording is blunt: **a town in Benjamin behaved exactly as Sodom did**, and
 the reader who knows Genesis 19 is expected to hear it in the third sentence, long before the outcome.
 
@@ -82,3 +83,22 @@ a city destroyed. Read against Judges 19, it is also a chapter in which the gues
 themselves and the daughters were not taken — and the difference between the two nights is entirely
 the presence of the two visitors. See [[The Destruction of Sodom and Gomorrah]] and
 [[Lot's Daughters]].
+
+## Verified against the text (2026-11-17)
+
+Judges 19 is now ingested ([[The Levite's Concubine at Gibeah]]), and the table above has been re-copied
+from the stored WEB of both chapters; earlier wording in the Judges column had been paraphrased, and the
+*square* of an earlier draft is the WEB's *street*. The Hebrew parallels hold in the WLC: *hôṣîʾēm …
+wənēdəʿâ ʾōṯām* (Genesis 19:5) and *hôṣēʾ ʾet-hāʾîš … wənēḏāʿennû* (Judges 19:22); *ʾal-nāʾ ʾaḥay tārēʿû*
+(Genesis 19:7) and *ʾal-ʾaḥay ʾal-tārēʿû nāʾ* (Judges 19:23); *kaṭṭôḇ bəʿênêḵem* (Genesis 19:8) and
+*haṭṭôḇ bəʿênêḵem* (Judges 19:24); and *bāreḥôḇ nālîn*, the angels' *we will stay in the street* (Genesis
+19:2), answered by the old man's *raq bāreḥôḇ ʾal-tālan* (Judges 19:20). Hosea 9:9 and 10:9 were checked
+against the WEB at bible-api.com and the WLC (*kîmê haggiḇʿâ*, *mîmê haggiḇʿâ*); 1 Samuel 10:26 and 11:4
+likewise. *Maʾăḵelet* occurs at Genesis 22:6, 10, Judges 19:29, and Proverbs 30:14 (WLC lemma 3979), so
+*exactly two narratives* stands. The refrain list *17:6; 18:1; 19:1; 21:25* is right, but 18:1 and 19:1
+have only the short form, *there was no king in Israel*; the full form with *right in his own eyes* is at
+17:6 and 21:25.
+
+The retelling begins a chapter earlier than this page's table: the father-in-law's *strengthen your heart
+with a morsel of bread* is Abraham's at Mamre. See [[A Morsel of Bread - Genesis 18.5 and Judges 19.5]],
+[[The Old Man of Gibeah]], [[The Levite's Concubine]], and [[Gibeah (Benjamin)]].

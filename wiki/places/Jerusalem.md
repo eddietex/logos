@@ -1,11 +1,20 @@
 ---
 type: place
-also_known_as: []
+also_known_as: [Jebus, the Jebusite]
 tags: [place]
 ---
 # Jerusalem
 
 ## Overview
+
+### Jebus, *the city of a foreigner* — Judges 19:10–12
+
+*Jebus (also called Jerusalem)* (19:10, WLC *yəḇûs hîʾ yərûšālāim*): the name *Jebus* occurs in Genesis
+through Judges only at 19:10–11. At evening the Levite's servant asks to lodge there; the Levite refuses,
+*We won't enter into the city of a foreigner that is not of the children of Israel*, and goes on to Gibeah
+(19:11–12). The city is still Jebusite because Benjamin did not drive them out (1:21). See [[The Levite's Concubine at Gibeah]] and
+[[The City of a Foreigner - Jebus Passed By for Gibeah]]. Source: stored WEB Judges 1:21; 19:10–12; Hebrew
+WLC, 2026-11-17.
 
 ### Taken and burned, and still Jebusite — Judges 1:8, 21
 
@@ -110,6 +119,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 **Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Levite's Concubine at Gibeah]] — Judges 19:10–12; *Jebus*, passed by as *the city of a foreigner*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8, 21; burned by Judah, and still held by the Jebusites beside Benjamin.
 - [[Judah Goes Up First]] — Judges 1:7; Adoni-Bezek brought there to die.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
@@ -143,6 +153,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 
 ## Events here
 
+- The Levite refuses to lodge in Jebus, *the city of a foreigner* — Judges 19:10–12, [[The Levite's Concubine at Gibeah]]
 - The heading locates [[The Preacher (Ecclesiastes)]]'s kingship here (Ecclesiastes 1:1).
   The opening poem supplies observations about all human life, not a scene set in a named street.
 - The Preacher reigns here over Israel and surpasses in wisdom all who were before him in the city

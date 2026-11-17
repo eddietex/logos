@@ -322,6 +322,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Appears in
 
+- [[The Levite's Concubine at Gibeah]] — Judges 19:1–29; a Levite of the far hill country of Ephraim, his concubine, and the twelve pieces. See [[The Levite (husband of the concubine)]].
 - [[Micah's Idol and Levite]] — Judges 17:7–13; a young Levite of Bethlehem Judah, sojourning, hired as Micah's priest.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
