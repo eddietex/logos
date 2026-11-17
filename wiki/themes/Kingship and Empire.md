@@ -827,6 +827,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the law of the king: chosen by Yahweh, a brother, limited, a reader of the law.
 - [[Judah Goes Up First]] — Judges 1:1–7; no successor to Joshua, and a Canaanite king of seventy maimed kings.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:11; *the Philistines are rulers over us*.
+- [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David* — the book's turn toward the king.
 
 ## Related themes
 

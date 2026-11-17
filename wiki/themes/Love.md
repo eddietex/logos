@@ -819,6 +819,7 @@ Source: stored WEB Song 8:13–14.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:15–17; *"the one beloved, and the other hated"*, and the protected firstborn.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:5; *"because Yahweh your God loved you"*.
 - [[Samson's Riddle]] — Judges 14:16; *You just hate me, and don't love me*.
+- [[The Birth of Obed]] — Ruth 4:15; *your daughter-in-law, who loves you* — the only *ʾāhaḇ* in Ruth.
 
 ## Related themes
 

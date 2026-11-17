@@ -71,6 +71,15 @@ and blesses the marriage by Rachel and Leah, *which both built the house of Isra
 Perez, whom Tamar bore to Judah* (4:11–12). Leviticus 25's redemption of land and Deuteronomy 25's
 levirate name meet in one transaction, which the Torah nowhere joins.
 
+[[The Birth of Obed]] (4:13–17) closes the story where it began, with Naomi. The marriage and the birth take
+one verse: *Yahweh enabled her to conceive* (4:13), one of only two acts the narrator gives to Yahweh, the
+other being the bread of 1:6. The women who asked *Is this Naomi?* (1:19) now bless Yahweh, *who has not left
+you today without a near kinsman* — the *gōʾēl* is now the child — and promise that he will be *a restorer of
+life* (*mēšîḇ*, from *šûḇ*, the verb of *brought me home again empty*, 1:21) and *sustain you in your old age*,
+for Ruth, *who loves you, who is better to you than seven sons*, bore him (4:14–15). Naomi lays the child in
+her bosom; the neighbor women name him Obed, *A son is born to Naomi*; and the last words are *He is the
+father of Jesse, the father of David* (4:16–17).
+
 ## Structure
 
 1. **Emptied** (1) — the losses in Moab, the parting on the road, and Naomi's return *empty*.
@@ -93,7 +102,7 @@ merge, or reorder them freely.
 - [x] [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23
 - [x] [[Ruth at the Threshing Floor]] — Ruth 3:1–18
 - [x] [[Boaz Redeems at the Gate]] — Ruth 4:1–12
-- [ ] The Birth of Obed — Ruth 4:13–17
+- [x] [[The Birth of Obed]] — Ruth 4:13–17
 - [ ] The Generations of Perez — Ruth 4:18–22
 
 ## Key themes
@@ -109,6 +118,8 @@ merge, or reorder them freely.
 - [[Favor and Grace]] — *ḥēn* in Boaz's field (2:2, 10, 13)
 - [[Providence]] — *she happened to come* (2:3), a kindness not abandoned (2:20), and *how the matter will fall* (3:18)
 - [[Nakedness and Covering]] — *uncover his feet*; *spread the corner of your garment* (3:4, 9)
+- [[Barrenness]] — *Yahweh enabled her to conceive* (4:13), after ten childless years in Moab
+- [[Kingship and Empire]] — *the father of Jesse, the father of David* (4:17)
 
 ## Key people
 - [[Naomi]]
@@ -119,6 +130,9 @@ merge, or reorder them freely.
 - [[Orpah]]
 - [[Boaz]]
 - [[The Nearer Kinsman (Ruth)]]
+- [[Obed]]
+- [[Jesse]]
+- [[David]]
 
 ## Key places
 - [[Bethlehem]]

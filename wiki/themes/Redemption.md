@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The child as *gōʾēl* — Ruth 4:14
+
+The last *gōʾēl* in Ruth is not Boaz but the newborn: *Blessed be Yahweh, who has not left you today without
+a near kinsman* (4:14), and the next verse says what this redeemer will do — be *a restorer of life* and
+*sustain you in your old age* (15). Redemption in Ruth ends not with the land transaction but with a person
+who will keep an old woman alive. Source: stored WEB Ruth 4:14–15. See [[The Birth of Obed]].
+
 ### *Take my right of redemption* — Ruth 4:1–12
 
 At the gate the right of redemption, *gəʾullâ*, passes by order of nearness, as Boaz said it would
@@ -493,6 +500,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:8; *"your people Israel, whom you have redeemed"* as the ground of the elders' prayer.
 - [[The Announcement of Samson's Birth]] — Judges 13:5; *he shall begin to save Israel*.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:18; *this great deliverance by the hand of your servant*.
+- [[The Birth of Obed]] — Ruth 4:14; *who has not left you today without a near kinsman* — the *gōʾēl* is the newborn.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

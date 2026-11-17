@@ -366,6 +366,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
   a time, cannot be stored, and comes out to *"no lack"* and *"nothing over"* (16:18). Kept, it *"bred
   worms"*. See [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]]
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; ten homers, and a plague.
+- [[The Birth of Obed]] — Ruth 4:15; *sustain you in your old age* (*kilkēl*, Joseph's verb in the famine).
 
 ## Related themes
 

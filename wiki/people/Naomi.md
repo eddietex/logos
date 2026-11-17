@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### *A son is born to Naomi* — Ruth 4:13–17
+
+The book ends with her. The women who asked *Is this Naomi?* (1:19) bless Yahweh to her, *who has not left
+you today without a near kinsman*, and say the child will be to her *a restorer of life* and *sustain you in
+your old age* (4:14–15). *Mēšîḇ*, *restorer*, is the hiphil of *šûḇ*; the only other hiphil of the root in
+Ruth is her own *Yahweh has brought me home again empty* (*hĕšîḇanî*, 1:21, WLC). They tell her Ruth *loves
+you* and *is better to you than seven sons* — she had lost two and said she had no more in her womb (1:5,
+11–12). She takes *the child* (*yeleḏ*, the word of her dead sons at 1:5) into her bosom and becomes his
+nurse, *ʾōmeneṯ* (4:16), and the neighbors name him with the words *A son is born to Naomi* (17). She says
+nothing in the scene; her lament of 1:20–21 is not withdrawn, but answered. Whether 4:16 describes a formal
+adoption is debated and not settled here. See [[The Birth of Obed]]. Source: stored WEB Ruth 1:5, 11–12,
+19–21; 4:13–17; Hebrew WLC, 2026-11-17.
+
 ### The seller of Elimelech's land — Ruth 4:1–12
 
 At the gate Naomi is named as the one who *is selling the parcel of land, which was our brother
@@ -89,6 +102,7 @@ morphhb), 2026-11-17.
 - Sends Ruth to glean; blesses Boaz and names him a near kinsman — Ruth 2:2, 18–22
 - Sends Ruth to Boaz at the threshing floor; *seek rest for you*; *Wait, my daughter* — Ruth 3:1–5, 16–18
 - Named as the seller of Elimelech's parcel of land, which Boaz buys *from the hand of Naomi* — Ruth 4:3, 9
+- Blessed by the women at Obed's birth; takes the child into her bosom; *A son is born to Naomi* — Ruth 4:14–17
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:1–5; widowed and bereaved of both sons in Moab.
@@ -97,6 +111,7 @@ morphhb), 2026-11-17.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–5, 16–18; *shall I not seek rest for you*; *the man will not rest until he has settled this today*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 18–22; *who has not abandoned his kindness to the living and to the dead*; *one of our near kinsmen*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:3, 5, 9; *Naomi … is selling the parcel of land, which was our brother Elimelech's*; absent from the scene.
+- [[The Birth of Obed]] — Ruth 4:14–17; *who has not left you today without a near kinsman*; *a restorer of life*; *A son is born to Naomi*.
 
 ## Related people
 - [[Elimelech]] — her husband
@@ -105,6 +120,7 @@ morphhb), 2026-11-17.
 - [[Ruth (person)]] — her daughter-in-law, Mahlon's widow
 - [[Orpah]] — her daughter-in-law
 - [[Boaz]] — her husband's kinsman, *one of our near kinsmen* (2:20), *our kinsman* (3:2)
+- [[Obed]] — Ruth's son; *A son is born to Naomi*; she becomes his nurse (4:16–17)
 
 ## Themes associated
 - [[The Poor and the Vulnerable]]

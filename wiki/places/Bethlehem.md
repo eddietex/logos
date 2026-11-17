@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The neighbor women — Ruth 4:13–17
+
+The town's women, who asked *Is this Naomi?* when she came home (1:19), speak again at the birth of Obed:
+they bless Yahweh to Naomi and name the child, *A son is born to Naomi* (4:14–17). The blessing on Boaz at
+the gate, *be famous in Bethlehem* (4:11), widens for the child to *let his name be famous in Israel* (4:14).
+Bethlehem is now the town of Jesse and David's family (4:17). See [[The Birth of Obed]]. Source: stored WEB
+Ruth 1:19; 4:11–17.
+
 ### The gate — Ruth 4:1–12
 
 The town's gate is where Boaz settles the redemption: ten elders of the city sit as witnesses, and *all
@@ -138,6 +146,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:4, 18; Boaz *came from Bethlehem* to his field; Ruth carries her barley *into the city*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:2, 11, 15; the threshing floor below the town; *all the city* (*gate*) *of my people knows that you are a worthy woman*; Boaz goes *into the city*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the gate, ten elders of the city; *treat you worthily in Ephrathah, and be famous in Bethlehem*.
+- [[The Birth of Obed]] — Ruth 4:14–17; the neighbor women bless Yahweh and name Obed; the family of Jesse and David.
 
 ## Related places
 

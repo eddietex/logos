@@ -20,6 +20,7 @@ tags: [connection]
 - [[The Announcement of Samson's Birth]] — Judges 13:2–3, 24; Samson's mother
 - 1 Samuel 1:2–20; Luke 1:7, 36 — Hannah and Elizabeth
 - Psalm 113:9; Isaiah 54:1; Galatians 4:27 — the barren woman as a figure for the people
+- [[The Birth of Obed]] — Ruth 4:13; *Yahweh enabled her to conceive* (Ruth is not called barren)
 
 ## Analysis
 
@@ -109,6 +110,15 @@ they saw (13:9, 23). And unlike Isaac, Manoah does not pray for her womb; the so
 anyone asks, and Manoah's prayer is for the visitor to return (13:8). See [[The Announcement of Samson's Birth]] and [[Manoah's Wife]].
 
 Source: stored WEB Judges 13:2–24.
+
+### Ruth 4:13 — a conception given by Yahweh, without the word *barren*
+
+*Yahweh enabled her to conceive* (Ruth 4:13), literally *Yahweh gave her conception* (WLC). The book does not
+call Ruth *ʿăqārâ*; it reports *about ten years* in Moab (1:4) and no child. So the case sits at the edge
+of the pattern: the narrator's attribution of the conception to Yahweh is the same as in every case above,
+but the barrenness itself is left to inference. The son born is the line's next link, as the pattern on this
+page leads one to expect — *the father of Jesse, the father of David* (4:17). The grief here is Naomi's, not
+the mother's. See [[The Birth of Obed]]. Source: stored WEB Ruth 1:4; 4:13, 17; Hebrew WLC, 2026-11-17.
 
 ## Significance
 

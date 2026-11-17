@@ -959,6 +959,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:15; *Give me a blessing*, asked as springs.
 - [[The Song of Deborah]] — Judges 5:2, 9, 24; Yahweh blessed; Jael *blessed above women*.
 - [[The Announcement of Samson's Birth]] — Judges 13:24; *the child grew, and Yahweh blessed him*.
+- [[The Birth of Obed]] — Ruth 4:14; the women's *Blessed be Yahweh* over Naomi.
 
 ## Related themes
 

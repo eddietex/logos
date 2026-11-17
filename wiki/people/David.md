@@ -7,7 +7,7 @@ tags: [person]
 
 ## Overview
 
-Son of Jesse, second king of Israel, and the father of [[Solomon]]. The narrative of his life belongs
+Son of [[Jesse]], second king of Israel, and the father of [[Solomon]]. The narrative of his life belongs
 to 1 and 2 Samuel and the opening of 1 Kings, none of which has yet been ingested, so this page is a
 placeholder that grows as the wiki reaches him. He enters the wiki by name in the heading of Proverbs,
 where he is mentioned only to identify Solomon: *"The proverbs of Solomon, the son of David, king of
@@ -37,6 +37,13 @@ names David. The heading identifies the Preacher as his son; no deed of David is
 Proverbs 1:1, this heading does not name Solomon. See [[The Preacher (Ecclesiastes)]].
 Source: stored WEB Ecclesiastes 1:1; Proverbs 1:1.
 
+### The last word of Ruth 4:17
+
+[[The Birth of Obed]] ends *He is the father of Jesse, the father of David* (Ruth 4:17): the first time the
+wiki's narrative reading reaches his name in his own family line. His father is [[Jesse]] and his
+great-grandparents [[Boaz]] and [[Ruth (person)]]; the genealogy of 4:18–22 traces the line back to Perez.
+Nothing of his life is narrated here. Source: stored WEB Ruth 4:17, 22.
+
 ## Timeline / key events
 
 - 1 Samuel 16:13 *(not yet ingested)* — anointed by Samuel, and *"Yahweh's Spirit came mightily on David
@@ -46,6 +53,7 @@ Source: stored WEB Ecclesiastes 1:1; Proverbs 1:1.
 - Proverbs 1:1 — named as Solomon's father. [[The Purpose of the Proverbs]]
 - Song of Solomon 4:4 — *"David's tower built for an armory"*, a landmark in a love poem.
   [[You Are All Beautiful]]
+- Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
 
@@ -58,12 +66,15 @@ Source: stored WEB Ecclesiastes 1:1; Proverbs 1:1.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1; named only in Solomon's patronym
 - [[The Bread of the Presence - David's Hunger and Matthew 12]]
 - [[Sin Against God - Joseph at 39.9 and David at Psalm 51]]
+- [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David*; the book's first mention of him.
 
 ## Related people
 
 - [[The Preacher (Ecclesiastes)]] — described as his son in Ecclesiastes 1:1; historical identity not settled here.
 - [[Solomon]] — his son and successor
 - [[God]] — who chose him and promised him a house
+- [[Jesse]] — his father
+- [[Obed]] — his grandfather
 
 ## Themes associated
 - [[Kingship and Empire]] — the king after God's choosing, and the dynasty of promise

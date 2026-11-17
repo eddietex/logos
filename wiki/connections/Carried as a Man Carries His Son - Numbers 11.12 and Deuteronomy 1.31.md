@@ -13,6 +13,7 @@ tags: [connection]
 - [[Israel at Mount Sinai]] — Exodus 19:4 *(stored WEB)*
 - Deuteronomy 32:11 — the eagle *(stored WEB, not yet ingested)*
 - Isaiah 46:3–4; 63:9 *(WEB checked at bible-api.com, not yet ingested)*
+- [[The Birth of Obed]] — Ruth 4:16 *(stored WEB)*
 
 ## Analysis
 
@@ -54,6 +55,13 @@ says of the exodus generation, *"He bore them, and carried them all the days of 
 second verb is *nāśāʾ* in the piel (*wayənaśśəʾēm*). Hosea 11:3 has a related picture of Yahweh
 teaching Ephraim to walk and taking them *"by his arms"* (WEB); it uses a different verb and is listed
 only as a parallel image.
+
+**Naomi takes the role Moses refused.** *Naomi took the child, and laid him in her bosom, and became nurse to
+it* (Ruth 4:16): *bəḥêqāh*, *in her bosom*, and *ləʾōmeneṯ*, the feminine of Numbers 11:12's *hāʾōmēn*
+(WLC, OpenScriptures morphhb, 2026-11-17). In the WLC files searched (Genesis–Judges, Ruth, 1 Samuel) these
+are the only two verses where *ḥêq* and the participle *ʾōmēn* stand together, and the feminine form occurs
+only in Ruth. Moses asks whether he must carry the people *in your bosom, as a nurse*; Naomi does it for one
+child. Ruth does not allude to Numbers; the link is the shared pair of words. See [[The Birth of Obed]].
 
 ## Significance
 

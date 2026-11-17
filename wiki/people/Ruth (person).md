@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### *Better to you than seven sons* — Ruth 4:13–17
+
+*So Boaz took Ruth, and she became his wife; and he went in to her, and Yahweh enabled her to conceive, and
+she bore a son* (4:13). Some part of *about ten years* in Moab (1:4) had produced no child the book reports,
+and the conception is given to Yahweh. She does not speak again. The women speak of her: *your
+daughter-in-law, who loves you, who is better to you than seven sons, has given birth to him* (4:15) — the
+only use of *ʾāhaḇ*, *love*, in the book (WLC), and the book's last word on her. The child is then laid in
+Naomi's bosom and named *A son is born to Naomi* (16–17). See [[The Birth of Obed]] and
+[[Better Than Seven Sons - Ruth 4.15 and 1 Samuel 1.8]]. Source: stored WEB Ruth 1:4; 4:13–17; Hebrew WLC,
+2026-11-17.
+
 ### *The wife of the dead* — Ruth 4:1–12
 
 At the gate Ruth does not speak and is not said to be present. She is named twice, both times as *Ruth
@@ -91,6 +102,7 @@ Deuteronomy 23:3.
 - Gleans in the field of Boaz through the barley and wheat harvests — Ruth 2:1–23
 - Goes to Boaz at the threshing floor and asks him to spread his garment over her as *gōʾēl* — Ruth 3:1–18
 - Named at the gate as *the wife of the dead*; acquired by Boaz as his wife before witnesses — Ruth 4:5, 9–12
+- Marries Boaz; *Yahweh enabled her to conceive*; bears Obed — Ruth 4:13
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:4–5; a Moabite wife, widowed.
@@ -100,6 +112,7 @@ Deuteronomy 23:3.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *spread the corner of your garment over your servant; for you are a near kinsman*; *a worthy woman*.
 - [[Joseph in Potiphar's House]] — named in a comparison of women who take the initiative (Ruth 3).
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10–12; *Ruth the Moabitess, the wife of Mahlon, I have purchased to be my wife*; silent.
+- [[The Birth of Obed]] — Ruth 4:13, 15; bears a son; *who loves you, who is better to you than seven sons*; silent.
 
 ## Related people
 - [[Naomi]] — her mother-in-law
@@ -108,6 +121,7 @@ Deuteronomy 23:3.
 - [[Elimelech]] — her father-in-law
 - [[Boaz]] — her husband's kinsman, in whose field she gleans and whom she asks to spread his garment over her (3:9); later her husband (4:13)
 - [[The Nearer Kinsman (Ruth)]] — declines to acquire her with the land (4:5–6)
+- [[Obed]] — her son (4:13, 17)
 
 ## Themes associated
 - [[The Nations]]

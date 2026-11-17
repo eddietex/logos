@@ -28068,3 +28068,41 @@ Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`
 `Ruth`, `1Sam`, and `Jer` XML on 2026-11-17; every occurrence claim (lemmas 492, 1129, 1350 a, 1353,
 1540 + 241, 3427, 3772 + 8034, 5275, 5707, 6423, 7069, 7843, 8025, 8545, 8584) covers those ten files and is
 stated on the page that makes it. No Greek text consulted.
+
+## [2026-11-17] ingest | Ruth 4.13-17 — The Birth of Obed
+
+Unattended run (`/ingest auto`). Ruth is the first `in-progress` book; the next unchecked box was 4:13–17.
+Ruth now 7 / 8.
+
+Created: [[The Birth of Obed]]; people [[Obed]] and [[Jesse]]; connections
+[[Better Than Seven Sons - Ruth 4.15 and 1 Samuel 1.8]] and
+[[Sustain Your Old Age - Joseph's Nourishing and Ruth 4.15]].
+
+Revised: book [[Ruth]] (box checked, overview paragraph, key people, two key-theme lines); people [[Naomi]],
+[[Ruth (person)]], [[Boaz]], [[David]]; place [[Bethlehem]]; themes [[Barrenness]], [[Redemption]],
+[[Names and Naming]], [[Life and Death]], [[Love]], [[Blessing]], [[Adoption]], [[Kingship and Empire]],
+[[Providence]], [[Famine and Plenty]]; connections [[The Barren Matriarchs]],
+[[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]], and
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Also `wiki/books/index.md`, People Index A-E,
+F-M, and N-Z, the places and themes indexes, Connections Index A-C, I-N, and O-S, and the dashboard counts.
+Frontmatter totals: 485 passages, 353 people, 598 places, 88 themes, 921 connections.
+
+Judgment calls: kept the planned boundary 4:13–17; the genealogy of 4:18–22 has its own heading and stays the
+next pericope. It is cited by reference, not linked, until its page exists. Obed and Jesse get pages; the
+neighbor women of Bethlehem do not. The Joseph thread (*kilkēl*) and the Numbers 11:12 pair (*ḥêq* +
+*ʾōmēn*) rest on shared rare vocabulary and are marked on the pages as links of wording, not claimed
+allusions; the *mēšîḇ* / *hĕšîḇanî* pairing within Ruth is likewise marked as a reader's step.
+
+No contradictions found. Readings recorded, not resolved: whether 4:16 describes a formal adoption (compared
+with Genesis 30:3; 50:23, whose wording differs); the three attributions of the son — to the dead (4:5, 10),
+to Naomi (4:17), to Boaz (4:21); what the name Obed is meant to signify. Ruth is not called barren; the
+pages say only that the book reports no child from about ten years in Moab (1:4).
+
+Sources: Ruth 4:13–17 and Ruth 1:4–6, 11–12, 19–21; 2:20; 4:5, 10–11, 21 from stored WEB. Comparisons from
+stored WEB Genesis 3:16; 30:3; 35:18; 42:38; 44:29, 31; 45:11; 47:12; 50:21, 23; Exodus 3:22; Numbers 11:12;
+Deuteronomy 25:6; Judges 21:25. 1 Samuel 1:5–8; 2:5, 21 checked against the WEB at bible-api.com,
+2026-11-17 (not stored); 1 Samuel 1:9–11 and 16 cited by reference only. Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`,
+`Ruth`, and `1Sam` XML on 2026-11-17; every occurrence claim (lemmas 157, 539, 1350 a, 1732, 2032, 2436,
+3206, 3557, 7725, 7872, 7934) covers those nine files and is stated on the page that makes it. No Greek text
+consulted.

@@ -1470,6 +1470,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:6–8; long days promised for sparing the mother bird; the railing against a fatal fall.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–6; the dead brother's name continued.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:18–19; *shall I die of thirst*; *his spirit came again, and he revived*.
+- [[The Birth of Obed]] — Ruth 4:15; *a restorer of life* (*mēšîḇ nep̄eš*) for the woman Yahweh *brought home again empty*.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

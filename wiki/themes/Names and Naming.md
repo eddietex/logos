@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Named by the neighbors — Ruth 4:17
+
+*The women, her neighbors, gave him a name, saying, "A son is born to Naomi". They named him Obed* (Ruth
+4:17). In the narratives the wiki has read, it is the only child named by neighbors, not by a parent, and the
+saying stands where a naming explanation usually stands — it explains whose the child is, not what the name
+means. The chapter's concern with names — *the name of the dead* (4:5, 10), *be famous* (literally *call a
+name*, 4:11) — ends in *let his name be famous in Israel* (4:14). Source: stored WEB Ruth 4:5, 10–17. See
+[[The Birth of Obed]].
+
 ### *The name of the dead* — Ruth 4:1–12
 
 The gate scene is about a name. Boaz acquires Ruth *to raise up the name of the dead on his inheritance,
@@ -641,6 +650,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:10–11, 17; Kiriath Arba, Kiriath Sepher, and Zephath renamed.
 - [[The Announcement of Samson's Birth]] — Judges 13:6, 17–18, 24; the visitor's name refused; Samson named by his mother.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:17–19; Ramath Lehi and En Hakkore.
+- [[The Birth of Obed]] — Ruth 4:14, 17; *let his name be famous in Israel*; the neighbor women name Obed, *A son is born to Naomi*.
 
 ## Related themes
 

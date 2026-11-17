@@ -762,6 +762,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Jael and Sisera]] — Judges 4:11, 17–23; Heber's tent and treaty, and *God subdued Jabin*.
 - [[The Song of Deborah]] — Judges 5:20–21; the stars and the Kishon fight.
 - [[Samson's Riddle]] — Judges 14:4; *it was of Yahweh; for he sought an occasion against the Philistines*.
+- [[The Birth of Obed]] — Ruth 4:13; *Yahweh enabled her to conceive*, the narrator's second act of Yahweh after the bread of 1:6.
 
 ## Related themes
 

@@ -78,6 +78,14 @@ Matthew 1:5 also list him in the line of David (by reference; not yet ingested, 
 Source: stored WEB Ruth 2:1–23; 3:9–12; 4:9–10, 13, 21; Judges 6:12; 11:1. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
 
+### The father of Obed — Ruth 4:13–17
+
+*So Boaz took Ruth, and she became his wife; and he went in to her* (4:13). It is his last act in the
+narrative. In the rest of the scene he is not named: the women credit the child to Naomi (4:17), and only the
+genealogy says *Boaz became the father of Obed* (4:21). The blessing at the gate, *be famous in Bethlehem*
+(4:11), passes to the son: *Let his name be famous in Israel* (4:14). See [[The Birth of Obed]]. Source:
+stored WEB Ruth 4:11, 13–17, 21.
+
 ## Timeline / key events
 
 - Introduced as a kinsman of Elimelech, *a mighty man of wealth* — Ruth 2:1
@@ -85,12 +93,13 @@ morphhb), 2026-11-17.
 - Named by Naomi as *one of our near kinsmen* — Ruth 2:20
 - At the threshing floor: blesses Ruth, names a nearer kinsman, swears to redeem her — Ruth 3:1–18
 - Redeems Elimelech's land and acquires Ruth before the elders at the gate — Ruth 4:1–12
-- Father of Obed — Ruth 4:13, 21 (not yet ingested)
+- Marries Ruth; father of Obed — Ruth 4:13, 21
 
 ## Appears in
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23; the owner of the field; *under whose wings you have come to take refuge*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *a worthy woman*; *a kinsman nearer than I*; *as Yahweh lives*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:1–12; gives the nearer kinsman the first right; *You are witnesses today*; blessed *like the house of Perez*.
+- [[The Birth of Obed]] — Ruth 4:13; takes Ruth as his wife; the father, not named again in the scene.
 
 ## Related people
 - [[Ruth (person)]] — gleans in his field; asks him at the threshing floor to spread his garment over her (3:9); later his wife (4:13)
@@ -98,6 +107,7 @@ morphhb), 2026-11-17.
 - [[Elimelech]] — his kinsman (2:1, 3)
 - [[Ibzan]] — identified with him by a later tradition (recalled, not verified)
 - [[The Nearer Kinsman (Ruth)]] — first in line; declines and gives Boaz his right (3:12; 4:1–8)
+- [[Obed]] — his son (4:13, 21)
 
 ## Themes associated
 - [[Redemption]]

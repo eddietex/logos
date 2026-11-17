@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh enabled her to conceive* — Ruth 4:13
+
+Ruth is never called barren. The book says only that she and Orpah married Naomi's sons and that *they lived
+there about ten years* (1:4), and it names no child before the sons die. When she conceives by Boaz the
+narrator gives it to Yahweh: *wayyittēn YHWH lāh hērāyôn*, *Yahweh gave her conception* (4:13, WLC). That
+places the birth with the barren wives of Genesis and Judges, where the narrator always names God as the
+cause, without claiming the word *ʿăqārâ* for her. The noun *hērāyôn* occurs in the WLC files searched
+(Genesis–Judges, Ruth, 1 Samuel) only here and at Genesis 3:16 (*hērōnēḵ*). See [[The Birth of Obed]].
+
+Source: stored WEB Ruth 1:4; 4:13; Genesis 3:16; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Barren, and childless — Judges 13:2–3
 
 *His wife was barren, and childless* (13:2), and the angel says it to her face: *See now, you are
@@ -212,6 +223,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; barrenness and miscarriage promised away in the land.
 - [[The Suspected Wife]] — Numbers 5:27–28; offspring as the outcome of innocence.
 - [[The Announcement of Samson's Birth]] — Judges 13:2–3, 24; Manoah's barren wife, the annunciation, and Samson's birth.
+- [[The Birth of Obed]] — Ruth 4:13; *Yahweh enabled her to conceive* after a marriage in Moab with no child reported.
 
 ## Related themes
 

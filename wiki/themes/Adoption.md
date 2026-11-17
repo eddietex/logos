@@ -139,6 +139,7 @@ cross-reference sources and interpretive limits.
   The sonship is declared, not derived. See
   [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
 - [[A Holy People and Its Food]] — Deuteronomy 14:1; *"You are the children of Yahweh your God"*.
+- [[The Birth of Obed]] — Ruth 4:16; Naomi lays the child in her bosom and becomes his nurse — read by some as adoption (cf. Genesis 30:3; 50:23); the page records the reading without adopting it.
 
 ## Related themes
 

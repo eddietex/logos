@@ -26,6 +26,7 @@ tags: [connection]
 - **Matthew 22:23–33 · Mark 12:18–27 · Luke 20:27–40** — the Sadducees' seven brothers
 - **Genesis 46:12; Numbers 26:19–22; 1 Chronicles 2:3–5** — the resulting clans
 - [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the gate, the nearer kinsman's refusal, the shoe, *the name of the dead*.
+- [[The Birth of Obed]] — Ruth 4:13–17; the son born, credited to Naomi.
 
 ## Analysis
 
@@ -177,6 +178,15 @@ The refusal also echoes Genesis 38. The kinsman declines *lest I endanger my own
 refuses openly, and is merely left unnamed. See [[Boaz Redeems at the Gate]] and
 [[The Nearer Kinsman (Ruth)]]. Source: stored WEB Ruth 4:1–12; Deuteronomy 25:5–10; Genesis 38:9; Hebrew
 WLC, 2026-11-17.
+
+**Whose son — Ruth 4:13–17.** The levirate's purpose was a son *to raise up the name of the dead on his
+inheritance* (Ruth 4:5, 10), and Deuteronomy says the firstborn *shall succeed in the name of his brother who
+is dead* (Deuteronomy 25:6). When the son comes, nobody in Ruth names him for Mahlon. The women say *A son is
+born to Naomi* (4:17), and the genealogy says *Boaz became the father of Obed* (4:21). Genesis 38 likewise
+ends with Perez and Zerah counted to Judah, not to Er. In both narratives the levirate son passes into the
+line of the man who performed the duty. The text does not reconcile the three attributions in Ruth, and this
+page does not either. See [[The Birth of Obed]] and [[Obed]]. Source: stored WEB Ruth 4:5, 10, 13–17, 21;
+Deuteronomy 25:6.
 
 ## Significance
 
