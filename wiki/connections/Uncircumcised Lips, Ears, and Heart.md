@@ -32,6 +32,7 @@ tags: [connection]
 - **Acts 7:51; Romans 2:28–29** — Stephen's *"uncircumcised in heart and ears"*; Paul's circumcision
   of the heart, by the Spirit *(not yet ingested; paraphrased)*
 - [[Samson's Riddle]] — Judges 14:3; *the uncircumcised Philistines*, the literal use beside the figurative.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:18; *fall into the hands of the uncircumcised*.
 
 ## Analysis
 
@@ -79,3 +80,7 @@ people: *a wife of the uncircumcised Philistines*, *hāʿărēlîm* (14:3, WLC; 
 word is used only of the Philistines. It marks them as outside the covenant sign, as Genesis 34:14 did the
 Shechemites. See [[Samson's Riddle]]. Sources: stored WEB Genesis 34:14; Judges 14:3; 15:18; Hebrew WLC (OpenScriptures
 morphhb), 2026-11-16.
+
+The second use, at 15:18, is Samson's own: *shall I … fall into the hands of the uncircumcised?*
+(WLC *hāʿărēlîm*). The word his parents used against his marriage he uses in his prayer, as the name of
+the enemy. See [[Samson Against the Philistines at Lehi]]. Source: stored WEB Judges 14:3; 15:18.

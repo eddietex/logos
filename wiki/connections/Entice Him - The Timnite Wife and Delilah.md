@@ -53,7 +53,10 @@ Delilah one too, the silver. It passes no verdict on either.
   same pressing at Sorek. The book tells both without commenting on the repetition.
 - **The threat is carried out anyway.** The Timnite wife gives up the riddle to save herself and her
   father's house from fire; at 15:6 *the Philistines came up, and burned her and her father with fire*
-  (stored WEB). Compliance does not save her.
+  (stored WEB). Compliance does not save her. See [[Samson Against the Philistines at Lehi]].
+- **Judah binds him first.** Between the two women, the men of Judah bind Samson with *new ropes* to
+  hand him over (15:12–13), the ropes Delilah will use (16:11–12). See
+  [[Bound to Be Handed Over - The Men of Judah and Delilah]].
 - **Both scenes are framed by the Spirit or its absence.** The Timnah scene ends with *Yahweh's Spirit came
   mightily on him* (14:19). The Delilah scene ends with *he didn't know that Yahweh had departed from him*
   (16:20, stored WEB).

@@ -92,6 +92,7 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
   Philistia"*
 - [[The Angel Sent Ahead]] — Exodus 23:31; *"the sea of the Philistines"* as the western border
 - [[Samson's Riddle]] — Judges 14:4; *at that time the Philistines ruled over Israel*
+- [[Samson Against the Philistines at Lehi]] — Judges 15:4–5; the burned fields.
 
 ## Related places
 
@@ -115,6 +116,8 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
   near"* — Exodus 13:17
 - Named in the boundary lists of the unconquered land — Joshua 13:2–3; Judges 3:1–3
 - The long war of Judges and Samuel — Judges 13–16; 1 Samuel 4–7; 17; 31
+- Its standing grain, shocks, and olive groves burned by Samson's foxes — Judges 15:4–5,
+  [[Samson Against the Philistines at Lehi]]
 - Denounced by the prophets — Amos 1:6–8; Jeremiah 47; Zephaniah 2:4–7; Zechariah 9:5–6
 - Brought up from Caphtor by the same God who brought Israel from Egypt — Amos 9:7
 - The coast road from Egypt not taken by Israel, for fear of war — Exodus 13:17

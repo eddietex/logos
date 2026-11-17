@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blameless, then avenged — Judges 15:3–11
+
+The reprisals of chapter 14 become explicit. Samson: *This time I will be blameless in the case of the
+Philistines, when I harm them* (15:3, *niqqêtî*, WLC *nāqâ*); after they burn his wife, *surely I will take
+revenge on you, and after that I will cease* (15:7, *niqqamtî*, WLC *nāqam*). The Philistines answer with
+the same logic, *to do to him as he has done to us* (15:10), and Samson with theirs, *As they did to me, so
+I have done to them* (15:11). Neither stops. *Nāqam* returns in his last prayer, *that I may be at once
+avenged* (16:28). See [[Samson Against the Philistines at Lehi]] and
+[[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]]. Source: stored WEB Judges
+15:3–11; 16:28; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Thirty men for a riddle — Judges 14:19
 
 *He went down to Ashkelon, and struck thirty men of them, and took their plunder, then gave the
@@ -324,6 +335,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The War Against Midian]] — Numbers 31:1–54; vengeance commanded, *Yahweh's vengeance on Midian*.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:19; *"you shall blot out the memory of Amalek"*, where Exodus 17:14 had *"I will"*.
 - [[Samson's Riddle]] — Judges 14:19; thirty struck at Ashkelon; *His anger burned*.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:3–11; *surely I will take revenge on you*; *As they did to me*.
 
 ## Related themes
 

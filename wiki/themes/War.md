@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fire, slaughter, and a jawbone — Judges 15:4–16
+
+Samson's war with the Philistines is fought by one man. He burns their grain with three hundred foxes
+(15:4–5), strikes them *hip and thigh with a great slaughter* (8), and kills a thousand with *a fresh
+jawbone of a donkey* (15). The Philistines answer with an army that camps in Judah (9), and Judah answers
+by sending three thousand men, not to fight but to bind him (11–13). See
+[[Samson Against the Philistines at Lehi]]. Source: stored WEB Judges 15:4–16.
+
 ### Tribe against tribe at the fords — Judges 12:1–6
 
 The first war in Judges between Israelite tribes. Ephraim threatens to burn Jephthah's house (12:1); he
@@ -1114,6 +1122,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[Deborah and Barak]] — Judges 4:1–16; nine hundred chariots of iron confused at the Kishon.
 - [[Jael and Sisera]] — Judges 4:17–24; Sisera killed in a tent; Jabin subdued and destroyed.
 - [[The Song of Deborah]] — Judges 5:1–31; the muster of the tribes, the stars and the river.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:4–16; the foxes, the slaughter, and the jawbone.
 
 ## Related themes
 

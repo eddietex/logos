@@ -347,6 +347,17 @@ to burn his bride and her father's house; she weeps the seven days until he tell
 them. The Spirit comes again, he strikes thirty men of Ashkelon to pay the wager, *His anger burned*, and
 he goes home. His wife is given to his companion. The pressing and the *Entice* return with Delilah.
 
+[[Samson Against the Philistines at Lehi]] (15:1–20) is the exchange of blows that follows. Refused his wife, Samson
+declares himself *blameless* and burns the Philistines' grain with three hundred foxes; they burn his wife
+and her father; he avenges them with *a great slaughter* and hides in the cleft of Etam's rock. The
+Philistines invade Judah, and three thousand men of Judah, saying *the Philistines are rulers over us*,
+bind him with new ropes and hand him over. Both sides speak the formula of Adoni-Bezek: *to do to him as he
+has done to us*; *As they did to me, so I have done to them*. At Lehi the Spirit comes on him a third
+time, the ropes melt, and he kills a thousand with a donkey's jawbone and sings of it. Then, very
+thirsty, he prays for the first time, calling it *this great deliverance* that Yahweh gave; God splits
+the hollow place, and the spring is named En Hakkore. *He judged Israel twenty years in the days of the
+Philistines*, a closing formula that 16:31 will repeat.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -402,7 +413,7 @@ merge, or reorder them freely.
 - [x] [[Ibzan, Elon, and Abdon]] — Judges 12:8–15
 - [x] [[The Announcement of Samson's Birth]] — Judges 13:1–25
 - [x] [[Samson's Riddle]] — Judges 14:1–20
-- [ ] Samson Against the Philistines at Lehi — Judges 15:1–20
+- [x] [[Samson Against the Philistines at Lehi]] — Judges 15:1–20
 - [ ] Samson at Gaza — Judges 16:1–3
 - [ ] Samson and Delilah — Judges 16:4–22
 - [ ] The Death of Samson — Judges 16:23–31
@@ -443,6 +454,7 @@ merge, or reorder them freely.
 - [[Judgment]] — *May Yahweh the Judge be judge today* (11:27).
 - [[Oaths and Vows]] — Jephthah's vow, *I can't go back* (11:30–39).
 - [[Barrenness]] — Manoah's wife, *barren, and childless* (13:2–3).
+- [[Prayer]] — Samson calls on Yahweh in thirst, and the spring is opened (15:18–19).
 - [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7).
 - [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31).
 - [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
@@ -450,7 +462,7 @@ merge, or reorder them freely.
 - [[Divine Grief and Relenting]] — *it grieved Yahweh* (2:18); *his soul was grieved for the misery of Israel* (10:16).
 
 ## Key people
-- [[Judah]] — the tribe named first, at the book's beginning and near its end.
+- [[Judah]] — the tribe named first, at the book's beginning and near its end; binds Samson for the Philistines (15:9–13).
 - [[Simeon]] — goes up with Judah into his lot.
 - [[Adoni-Bezek]] — the first enemy king, and the first to confess God's repayment.
 - [[Joshua (son of Nun)]] — dead before the book begins.
@@ -484,9 +496,9 @@ merge, or reorder them freely.
 - [[King of Ammon (of Jephthah's time)]] — claims the land from the Arnon to the Jabbok (11:13).
 - [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
 - [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
-- [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25).
+- [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25); kills a thousand at Lehi and judges twenty years (15:1–20).
 - [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24); they object to his Philistine wife (14:3).
-- [[Samson's Timnite Wife]] — chosen by sight, pressed for the riddle, and given to his companion (14:1–20).
+- [[Samson's Timnite Wife]] — chosen by sight, pressed for the riddle, and given to his companion (14:1–20); burned with her father (15:6).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
@@ -522,3 +534,4 @@ merge, or reorder them freely.
 - [[The Jordan]] — its fords held by Ehud against Moab (3:28) and by Gilead against Ephraim (12:5–6).
 - [[Zorah]], [[Eshtaol]], and [[Mahaneh Dan]] — Manoah's town, and where the Spirit begins to move Samson (13:2, 25).
 - [[Timnah]] and [[Ashkelon]] — Samson's wedding town, and where he strikes thirty men (14:1, 19).
+- [[The Rock of Etam]], [[Lehi]], and [[En Hakkore]] — Samson's refuge, the jawbone, and the spring (15:8–19).

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Philistines are rulers over us — Judges 15:11
+
+*Don't you know that the Philistines are rulers over us?* (15:11). The men of Judah use *māšal*, the verb
+of the narrator's *the Philistines ruled over Israel* (14:4) and of Gideon's refusal, *I will not rule
+over you … Yahweh shall rule over you* (8:23, WLC). Judah accepts the foreign ruler and hands over the
+deliverer. See [[Samson Against the Philistines at Lehi]] and
+[[Who Made You a Prince and a Judge - The Rejected Deliverer]]. Source: stored WEB Judges 8:23; 14:4;
+15:11; Hebrew WLC, 2026-11-16.
+
 ### Households without a king — Judges 12:8–15
 
 Ibzan's sixty marriages (12:9) and Abdon's forty sons and thirty grandsons *who rode on seventy donkey
@@ -786,6 +795,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the law of the king: chosen by Yahweh, a brother, limited, a reader of the law.
 - [[Judah Goes Up First]] — Judges 1:1–7; no successor to Joshua, and a Canaanite king of seventy maimed kings.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:11; *the Philistines are rulers over us*.
 
 ## Related themes
 

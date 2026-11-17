@@ -27287,3 +27287,74 @@ it at Judges 14:19 and 1 Samuel 11:6; *pātâ* (6601) at Judges 14:15 and 16:5, 
 Judges only at 14:3; 15:18; *yāšaʿ* (3467) absent from Judges 14; *mišteh* (4960) at Genesis 29:22 among
 others. Reported, not checked: the derivation of *mišteh* from *šātâ*; Ashkelon's distance from Timnah;
 whether *ṣālaḥ* is one verb or two homonyms. No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 15.1-20 — Samson Against the Philistines at Lehi
+
+Unattended run (`/ingest auto`). Refused his wife and offered her younger sister, Samson declares himself
+*blameless* and burns the Philistines' grain with three hundred foxes. The Philistines burn his wife and
+her father, the threat of 14:15 carried out; he avenges them and hides in the cleft of Etam's rock. The
+Philistines invade Judah, and three thousand men of Judah, saying *the Philistines are rulers over us*,
+bind him with two new ropes and hand him over. At Lehi the Spirit rushes on him a third time, the ropes
+melt, and he kills a thousand with a donkey's jawbone. Very thirsty, he prays for the first time, *You
+have given this great deliverance*; God splits the hollow place, and the spring is named En Hakkore. *He
+judged Israel twenty years in the days of the Philistines*.
+
+Created: [[Samson Against the Philistines at Lehi]]; places [[Lehi]], [[En Hakkore]],
+[[The Rock of Etam]]; connections
+[[Bound to Be Handed Over - The Men of Judah and Delilah]] and
+[[Shall I Die of Thirst - Massah, Hagar's Well, and En Hakkore]].
+
+Revised: [[Judges]] (box checked, overview, key people, places, and themes); [[Samson]];
+[[Samson's Timnite Wife]]; [[The Philistines]]; [[Judah]]; [[Timnah]]; [[The Land of the Philistines]];
+[[Beer Lahai Roi]]; [[Massah and Meribah]]; themes [[Vengeance]], [[Retribution]], [[Marriage]],
+[[The Spirit of God]], [[War]], [[Kingship and Empire]], [[Oaths and Vows]], [[Prayer]], [[Redemption]],
+[[Life and Death]], [[Circumcision]], [[Names and Naming]]; connections
+[[The Spirit Rushed on Him - Samson, Saul, and David]],
+[[One Man Against the Philistines - Shamgar's Ox Goad and Samson's Jawbone]],
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]],
+[[Entice Him - The Timnite Wife and Delilah]],
+[[We Will Burn Your House - Judges 12.1, 14.15, and 15.6]],
+[[The Spirit of Jacob Revived - Ruach Returning]],
+[[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]],
+[[Who Made You a Prince and a Judge - The Rejected Deliverer]],
+[[Uncircumcised Lips, Ears, and Heart]],
+[[Horns, a Shout, and a Fallen Enemy - Jericho and the Camp of Midian]]. Also `wiki/books/index.md`
+(34 / 42), the places index, People Index F-M and N-Z, the themes index, Connections Index A-C, D-H, O-S,
+and T-Z, and the dashboard counts. Frontmatter totals: 470 passages, 334 people, 591 places, 88 themes,
+894 connections.
+
+Contradiction flagged, not overwritten: [[The Spirit of Jacob Revived - Ruach Returning]] grouped Judges
+15:19 with Genesis 45:27 as one idiom of *ḥāyâ* with *rûaḥ*, and described Samson's water as *from a split
+rock*. The WLC of 15:19 has *wattāšāb rûḥô wayyeḥî* (the spirit *returns*; Samson *revives*), the
+construction of 1 Samuel 30:12, and God splits *the hollow place* (*hammaktēš*), not a rock. A correction
+section was added to that page; the original table was left as written.
+
+Readings recorded, not resolved: (1) whether the hollow of 15:19 is *in the jaw* or *in Lehi* (the WLC tags
+the first *balleḥî* as the common noun); (2) the renderings *height of the jaw* (Ramath Lehi) and *spring
+of the one who calls* (En Hakkore); (3) *jackals* for *šûʿālîm*; (4) the meaning of *hip and thigh*;
+(5) the young goat as a customary gift; (6) the 2 Samuel 23:11 proposal *at Lehi* for *laḥayyâ*; (7)
+whether 15:20's closing formula, repeated at 16:31, says anything about composition. The wiki builds
+nothing on any of these.
+
+Judgment calls: kept 15:1–20 as one pericope, as planned. Ramath Lehi is an alias on [[Lehi]], not its own
+page, because 15:9 and 14 already call the place Lehi. The wife's father and younger sister get no pages;
+the father is covered on [[Samson's Timnite Wife]]. *The men of Judah* are filed on [[Judah]]. No theme
+page was revised for [[Theft and Restitution]], though the passage page notes the shared vocabulary of
+Exodus 22:6. Lines that carry the long passage link run past the usual wrap width rather than splitting
+the link.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 15:17; 16:13–14;
+21:15–19; 29:26; 37:8; 38:17; 45:27; Exodus 14:16, 21; 17:2–7; 22:6; Numbers 16:31; Deuteronomy 28:48;
+Proverbs 24:29. 1 Samuel 11:13; 19:5; 30:12; 2 Samuel 23:10; 1 Chronicles 4:3; 2 Chronicles 11:6;
+Hebrews 11:32 checked against WEB at bible-api.com, single verses, not stored. Hebrew from a fresh
+download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml`, `Exod.xml`, `Num.xml`,
+`Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml`, `2Sam.xml` on 2026-11-16. Verified in those files:
+*ṣāmēʾ* (6770) only at Exodus 17:3 and Judges 4:19; 15:18, *ṣāmāʾ* (6772) only at Exodus 17:3,
+Deuteronomy 28:48, and Judges 15:18; *gādîš* (1430) only at Exodus 22:5 (WLC numbering) and Judges 15:5;
+*təšûʿâ* (8668) at Judges 15:18, 1 Samuel 11:9, 13; 19:5, and 2 Samuel 19:3; 23:10, 12; *ʾāsar* (631) in
+Judges only in chapters 15–16; *ʿăbōtîm* (5688) in Judges only at 15:13–14; 16:11–12; *nāqam* (5358) at
+Judges 15:7 and 16:28; *māšal* (4910) at Judges 8:22–23; 9:2; 14:4; 15:11 and Genesis 37:8; *bāqaʿ*
+(1234) at Exodus 14:16, 21 and Numbers 16:31 among others; *maktēš* (4388), *ḥămôr* (2565), *səʿîp*
+(5585), and *šûʿāl* (7776) only in Judges 15; *wattāšāb rûḥô* at Judges 15:19 and 1 Samuel 30:12.
+Reported, not checked: the derivation of *təšûʿâ* from *yāšaʿ*; the renderings and proposals listed
+above. No Greek text was consulted.

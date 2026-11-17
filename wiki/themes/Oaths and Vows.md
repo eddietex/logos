@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Swear not to kill me — Judges 15:12–13
+
+*Swear to me that you will not attack me yourselves* (15:12). Samson asks Judah for an oath that covers
+only his life, not his freedom, and they answer exactly: *we will bind you securely, and deliver you into
+their hands; but surely we will not kill you* (13). See [[Samson Against the Philistines at Lehi]].
+Source: stored WEB Judges 15:12–13.
+
 ### The vow kept — Judges 11:29–40
 
 *Jephthah vowed a vow to Yahweh* (11:30), *wayyiddar … neder* (WLC), the words of Jacob at Bethel (Genesis
@@ -789,6 +796,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 - [[Vows of Men and Women]] — Numbers 30:1–16; a man's vow binds, a woman's may be voided by father or husband
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; Yahweh's oath recalled, and a promise held like a vow (10–11, 24).
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:18, 21–23; the vow optional, its payment not.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:12–13; *Swear to me that you will not attack me yourselves*.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

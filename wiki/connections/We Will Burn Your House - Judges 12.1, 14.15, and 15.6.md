@@ -8,11 +8,10 @@ tags: [connection]
 ## Passages involved
 - [[Shibboleth]] — **Judges 12:1** — Ephraim to Jephthah: *We will burn your house around you with
   fire!* (stored WEB)
-- **Judges 14:15** — the Philistines to Samson's wife: *Entice your husband, that he may declare to us the
-  riddle, lest we burn you and your father's house with fire.* (stored WEB) *(not yet ingested; see
-  "Samson's Riddle" on [[Judges]])*
-- **Judges 15:6** — *The Philistines came up, and burned her and her father with fire.* (stored WEB)
-  *(not yet ingested; see "Samson Against the Philistines at Lehi" on [[Judges]])*
+- [[Samson's Riddle]] — **Judges 14:15** — the Philistines to Samson's wife: *Entice your husband, that he
+  may declare to us the riddle, lest we burn you and your father's house with fire.* (stored WEB)
+- [[Samson Against the Philistines at Lehi]] — **Judges 15:6** — *The Philistines came up, and burned her and her
+  father with fire.* (stored WEB)
 - [[The Fall of Abimelech]] — **Judges 9:52** — Abimelech *came near to the door of the tower to burn it
   with fire* (stored WEB).
 
@@ -50,3 +49,11 @@ is the wiki's observation; Judges does not connect the two verses. See [[War]], 
 Sources: stored WEB Judges 9:49, 52; 12:1; 14:15; 15:6; 18:27. Hebrew from the Westminster Leningrad Codex
 (OpenScriptures morphhb, `wlc/Gen.xml` through `wlc/Judg.xml`) with its lemma and morphology data,
 2026-11-16. The *nisrōp* count covers only those seven books.
+
+### Judges 15 — fire for fire
+
+In chapter 15 the burning runs both ways. Samson sets the Philistines' grain on fire with torches tied to
+foxes (15:4–5, *wayyabʿer*, WLC *bāʿar*); the Philistines answer with *śārap*, the verb of the threat,
+*wayyiśrəpû ʾôtāh wəʾet-ʾābîhā bāʾēš* (15:6, WLC). Then the ropes on Samson's arms become *as flax that
+was burned with fire*, *bāʿărû bāʾēš* (15:14). The chapter's three fires are a field, a house, and a
+binding. See [[Samson Against the Philistines at Lehi]]. Sources: stored WEB Judges 15:4–6, 14; Hebrew WLC, 2026-11-16.

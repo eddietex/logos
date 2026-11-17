@@ -61,11 +61,36 @@ the feast, the text does not say. See [[Samson's Riddle]], [[Samson's Timnite Wi
 
 Source: stored WEB Judges 13:25; 14:1–20; 21:25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
+### Foxes, Judah's ropes, and the jawbone — Judges 15:1–20
+
+Refused his wife and offered her sister, he declares himself *blameless* in advance and burns the
+Philistines' grain with three hundred foxes and torches (15:1–5). When they burn his wife and her father,
+he answers *surely I will take revenge on you, and after that I will cease*, strikes them *hip and thigh*,
+and withdraws to the cleft of [[The Rock of Etam]] (6–8). The Philistines invade Judah, and three thousand
+men of Judah come to bind him: *Don't you know that the Philistines are rulers over us?* He answers in the
+formula of retaliation, *As they did to me, so I have done to them*, and lets them tie him with two new
+ropes after they swear not to kill him (9–13).
+
+At [[Lehi]] the Spirit *came mightily on him* a third time; the ropes melt *as flax that was burned with
+fire*, and he kills a thousand men with a donkey's jawbone and sings of it: *with the jawbone of a donkey I
+have struck a thousand men* (14–16). Then, very thirsty, he speaks to God for the first time in the story:
+*You have given this great deliverance by the hand of your servant; and now shall I die of thirst?* God
+splits the hollow place, he drinks, *his spirit came again, and he revived*, and the spring is named
+[[En Hakkore]] (18–19). *He judged Israel twenty years in the days of the Philistines* (20).
+
+The chapter shows him at his strongest and at his most dependent within five verses. Every blow is
+private, *As they did to me*, until the prayer, where he calls the victory Yahweh's. It is Judah, not the
+Philistines, that binds him, a rehearsal of Delilah's bindings with the same *new ropes* (16:11–12). See
+[[Samson Against the Philistines at Lehi]], [[Bound to Be Handed Over - The Men of Judah and Delilah]],
+[[Shall I Die of Thirst - Massah, Hagar's Well, and En Hakkore]], and
+[[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
+
+Source: stored WEB Judges 15:1–20; 16:11–12; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Ahead
 
-His story runs to 16:31: the jawbone at Lehi (15), Gaza's gates
-(16:1–3), Delilah (16:4–22), and his death in the temple of Dagon (16:23–31). He *judged Israel twenty
-years in the days of the Philistines* (15:20; 16:31) and is buried *between Zorah and Eshtaol in the
+His story runs to 16:31: Gaza's gates (16:1–3), Delilah (16:4–22), and his death in the temple of Dagon
+(16:23–31). The twenty years of 15:20 are repeated at 16:31, and he is buried *between Zorah and Eshtaol in the
 burial site of Manoah his father* (16:31). Hebrews 11:32 names him among the faithful. These pages are
 not yet ingested.
 
@@ -76,6 +101,9 @@ not yet ingested.
 - Sees and chooses a Philistine woman of Timnah over his parents' objection (14:1–4).
 - Tears a young lion when the Spirit comes on him; later eats honey from its carcass (14:5–9).
 - Loses the wedding riddle, strikes thirty men of Ashkelon, and loses his wife (14:10–20).
+- Burns the Philistines' grain with foxes; avenges his wife and hides at the rock of Etam (15:1–8).
+- Bound by the men of Judah and handed over; kills a thousand with a jawbone at Lehi (15:9–17).
+- Calls on Yahweh in thirst; given water at En Hakkore; judges Israel twenty years (15:18–20).
 
 ## Appears in
 - [[The Announcement of Samson's Birth]] — Judges 13:1–25; announced, born, named, blessed, and first
@@ -84,7 +112,11 @@ not yet ingested.
 - [[Samson's Riddle]] — Judges 14:1–20; the Timnite wife, the lion, the riddle, and Ashkelon.
 - [[Entice Him - The Timnite Wife and Delilah]] — the two pressings.
 - [[The Spirit Rushed on Him - Samson, Saul, and David]] — *ṣālaḥ*.
-- Judges 15–16 — not yet ingested.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:1–20; the foxes, Judah's ropes, the jawbone, and the
+  spring.
+- [[Bound to Be Handed Over - The Men of Judah and Delilah]] — *ʾāsar* in Judges 15–16.
+- [[Shall I Die of Thirst - Massah, Hagar's Well, and En Hakkore]] — the prayer for water.
+- Judges 16 — not yet ingested.
 - Hebrews 11:32 — *Gideon, Barak, Samson, Jephthah* (WEB at bible-api.com; not stored).
 
 ## Related people
@@ -94,8 +126,10 @@ not yet ingested.
 - [[The Philistines]] — the enemy he is to *begin* to save Israel from.
 - [[Dan (person)]] — his tribe.
 - [[Shamgar]] — the first who *saved Israel* from the Philistines (3:31).
-- [[Samson's Timnite Wife]] — his wife for the week of the feast (14).
+- [[Samson's Timnite Wife]] — his wife for the week of the feast (14); burned by the Philistines (15:6).
+- [[Judah]] — the tribe that binds him and hands him over (15:9–13).
 
 ## Themes associated
 - [[Holiness]] · [[Barrenness]] · [[The Spirit of God]] · [[Redemption]] · [[Blessing]] ·
-  [[Names and Naming]] · [[Marriage]] · [[Providence]] · [[Deception]] · [[Vengeance]]
+  [[Names and Naming]] · [[Marriage]] · [[Providence]] · [[Deception]] · [[Vengeance]] ·
+  [[Retribution]] · [[Prayer]] · [[War]]

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Into the hands of the uncircumcised — Judges 15:18
+
+The word of his parents' objection (14:3) is now Samson's: *shall I … fall into the hands of the
+uncircumcised?* (15:18, *hāʿărēlîm*, WLC). See [[Samson Against the Philistines at Lehi]]. Source: stored
+WEB Judges 14:3; 15:18.
+
 ### The uncircumcised Philistines — Judges 14:3
 
 Samson's parents object to *a wife of the uncircumcised Philistines*, *mippəlištîm hāʿărēlîm* (14:3,
@@ -225,6 +231,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[Laws of Holiness and Compassion]] — Exodus 22:30; the firstborn animal given on the eighth day
 - [[The Passover in the Second Year]] — Numbers 9:14; the rule of Exodus 12:48 not repeated.
 - [[Samson's Riddle]] — Judges 14:3; *a wife of the uncircumcised Philistines*.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:18; *the hands of the uncircumcised*.
 
 ## Related themes
 

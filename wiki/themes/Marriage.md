@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The wife given away, and burned — Judges 15:1–6
+
+Samson returns *with a young goat* to visit his wife and is refused: her father *thought that you utterly
+hated her* and gave her to the companion, and offers the younger sister instead (15:1–2). The Philistines
+then burn her and her father (15:6). The marriage chosen *because she pleases me* ends in the threat of
+14:15 carried out. See [[Samson Against the Philistines at Lehi]] and [[Samson's Timnite Wife]].
+Source: stored WEB Judges 14:15; 15:1–6.
+
 ### A wife given away in a week — Judges 14:1–20
 
 Samson chooses a wife by sight, *she pleases me well* (14:3), over his parents' plea for *a woman among
@@ -776,6 +784,7 @@ connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levir
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–10; the levirate law and the ceremony of refusal.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:12–15; Achsah given for Kiriath Sepher, then speaking for herself.
 - [[Samson's Riddle]] — Judges 14:1–20; a wife chosen by sight, a wedding week, and the bride given to the companion.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:1–6; the wife given to the companion, the sister offered, and both father and wife burned.
 
 ## Related themes
 

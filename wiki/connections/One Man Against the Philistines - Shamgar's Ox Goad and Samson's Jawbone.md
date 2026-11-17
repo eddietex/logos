@@ -11,9 +11,9 @@ tags: [connection]
   an ox goad. He also saved Israel.* (stored WEB)
 - **Judges 13:5** — the angel's promise of Samson: *He shall begin to save Israel out of the hand of
   the Philistines.* (stored WEB) — [[The Announcement of Samson's Birth]]
-- **Judges 15:15–16** — *He found a fresh jawbone of a donkey, put out his hand, took it, and struck a
-  thousand men with it. Samson said, "With the jawbone of a donkey, heaps on heaps; with the jawbone of
-  a donkey I have struck a thousand men."* (stored WEB) *(not yet ingested)*
+- [[Samson Against the Philistines at Lehi]] — **Judges 15:15–16** — *He found a fresh jawbone of a donkey, put out
+  his hand, took it, and struck a thousand men with it. Samson said, "With the jawbone of a donkey, heaps
+  on heaps; with the jawbone of a donkey I have struck a thousand men."* (stored WEB)
 - **2 Samuel 23:11–12** — Shammah son of Agee in the lentil field (WEB, checked at bible-api.com)
   *(not yet ingested)*
 
@@ -65,3 +65,15 @@ Sources: stored WEB Judges 3:3, 31; 5:6; 13:5; 15:14–16. Hebrew of Judges 3:31
 from the Westminster Leningrad Codex (OpenScriptures morphhb, `Judg.xml`) with its lemma data,
 2026-11-13. 2 Samuel 23:11–12 (WEB) checked at bible-api.com (`?translation=web`),
 2026-11-13; 2 Samuel is not yet stored.
+
+### Judges 15 read in place
+
+Read in its chapter, the jawbone is not the only difference from Shamgar. Samson's thousand die after the
+men of Judah have bound him to hand him over (15:11–13): Shamgar's verse names no Israelite at all, and
+Samson's chapter names three thousand who would not fight. Samson's song (16) claims the blow for himself,
+*I have struck*, and his prayer two verses later gives it to Yahweh, *You have given this great
+deliverance by the hand of your servant* (18). *Təšûʿâ* there is the noun of the 2 Samuel 23:10, 12
+refrain, *Yahweh worked a great victory* (WLC; WEB at bible-api.com), which the wiki had compared
+above in English only. The WLC of 2 Samuel 23:11 has *laḥayyâ*, *into a troop*, tagged as *company*
+(lemma 2416); a proposal to read it as *at Lehi* is reported, not checked. See [[Samson Against the Philistines at Lehi]].
+Sources: stored WEB Judges 15:11–18; Hebrew WLC (`Judg.xml`, `2Sam.xml`), 2026-11-16.

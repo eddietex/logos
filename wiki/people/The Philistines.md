@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The fields, the wife, and Lehi — Judges 15:1–20
+
+Samson burns their standing grain, shocks, and olive groves (15:4–5). They burn his wife and her father in
+return (6), and lose many to *a great slaughter* (8). Then they invade Judah, *to do to him as he has done
+to us* (10), and the men of Judah, who say *the Philistines are rulers over us* (11), hand Samson to them
+bound. At [[Lehi]] they shout as they meet him, and he kills a thousand of them with a jawbone (14–16).
+Samson calls them *the uncircumcised* (18). The chapter ends *in the days of the Philistines* (20): his
+twenty years are dated by their rule. See [[Samson Against the Philistines at Lehi]]. Source: stored WEB Judges 15:1–20.
+
 ### They ruled over Israel — Judges 14:1–20
 
 *Now at that time the Philistines ruled over Israel* (14:4). The book shows the rule only from inside a
@@ -92,6 +101,8 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Israel's Repentance Under Ammon]] — Judges 10:6–7, 11; their gods served; Israel sold into their hand.
 - [[The Announcement of Samson's Birth]] — Judges 13:1, 5; forty years of oppression; Samson to *begin* to save Israel from them.
 - [[Samson's Riddle]] — Judges 14:1–20; *the uncircumcised*; the thirty companions; thirty men of Ashkelon.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:1–20; the burned fields, the burned wife, Judah's surrender of Samson, and a
+  thousand dead at Lehi.
 
 ## Related people
 

@@ -10,7 +10,8 @@ tags: [connection]
 - **Genesis 45:26–28** — *"His heart fainted, for he didn't believe them… When he saw the wagons which
   Joseph had sent to carry him, **the spirit of Jacob, their father, revived**"* — ***wattəḥî rûaḥ
   yaʿăqōb*** — [[Joseph Reveals Himself]]
-- **Judges 15:19** — Samson at Lehi: *"when he had drunk, **his spirit came again**, and he revived"*
+- **Judges 15:19** — Samson at Lehi: *"when he had drunk, **his spirit came again**, and he revived"* —
+  [[Samson Against the Philistines at Lehi]]
 - **1 Samuel 30:12** — the abandoned Egyptian slave given a cake of figs and two clusters of raisins:
   *"when he had eaten, **his spirit came again to him**; for he had eaten no bread, nor drunk any
   water, three days and three nights"*
@@ -91,3 +92,17 @@ Related: [[Joseph Reveals Himself]] · [[Joseph Sold into Slavery]] · [[Jacob]]
 [[A Garment Used as Evidence - The Coat and the Cloak]] ·
 [[Renamed and Still Called Jacob - The Two Namings of Israel]] · [[Life and Death]] · [[Hope]] ·
 [[Suffering]] · [[Seeing and Being Seen]]
+
+### Judges 15:19 read in place — a correction
+
+Read in the WLC for the ingest of [[Samson Against the Philistines at Lehi]], Judges 15:19 has *wattāšāb rûḥô
+wayyeḥî*: *rûaḥ* is the subject of *šûb*, *returned*, and *ḥāyâ*, *revived*, has Samson as its subject.
+That is the construction of 1 Samuel 30:12, *wattāšāb rûḥô ʾēlāyw* (WLC), not of Genesis 45:27, where
+*ḥāyâ* takes *rûaḥ* as its subject, *wattəḥî rûaḥ yaʿăqōb*. The table above groups the three verses as
+one idiom of *ḥāyâ* with *rûaḥ*; strictly, Genesis 45:27 has that pairing, and Judges 15:19 and 1 Samuel
+30:12 share a different one, the spirit *returning*. The comparison of the three stands; the claim that
+they share one verb does not. The table also calls Samson's water *water from a split rock*: the text
+says *God split the hollow place that is in Lehi*, *hammaktēš* (WLC, lemma 4388, only here in the files
+checked), and names no rock. Both points are flagged here rather than silently rewritten above.
+Sources: stored WEB Genesis 45:27; Judges 15:19; 1 Samuel 30:12 checked at bible-api.com (WEB),
+2026-11-16; Hebrew WLC (`Gen.xml`, `Judg.xml`, `1Sam.xml`), 2026-11-16.

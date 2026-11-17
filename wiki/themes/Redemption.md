@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### This great deliverance — Judges 15:18
+
+*You have given this great deliverance by the hand of your servant* (15:18). *Təšûʿâ* (WLC lemma 8668,
+usually derived from the root of *yāšaʿ*; reported, not checked) is the first saving-word in the Samson
+story since *he shall begin to save* (13:5), and it is Samson who says it. The same *təšûʿâ gədôlâ* is
+used of David's victory over the Philistine (1 Samuel 19:5) and of his mighty men (2 Samuel 23:10, 12;
+WEB at bible-api.com; WLC). See [[Samson Against the Philistines at Lehi]] and
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]]. Source: stored WEB Judges
+13:5; 15:18.
+
 ### He shall begin to save — Judges 13:5
 
 *He shall begin to save Israel out of the hand of the Philistines* (13:5; *yāḥēl ləhôšîaʿ*, WLC). The
@@ -446,6 +456,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"Yahweh your God redeemed you"* (15) as the ground of the servant's release.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:8; *"your people Israel, whom you have redeemed"* as the ground of the elders' prayer.
 - [[The Announcement of Samson's Birth]] — Judges 13:5; *he shall begin to save Israel*.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:18; *this great deliverance by the hand of your servant*.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

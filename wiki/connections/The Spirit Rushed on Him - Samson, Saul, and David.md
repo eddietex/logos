@@ -10,9 +10,8 @@ tags: [connection]
 - [[Samson's Riddle]] — **Judges 14:6** — *Yahweh's Spirit came mightily on him, and he tore him as he
   would have torn a young goat* (the lion); **14:19** — *Yahweh's Spirit came mightily on him, and he
   went down to Ashkelon, and struck thirty men … His anger burned*. Stored WEB.
-- **Judges 15:14** — *Then Yahweh's Spirit came mightily on him, and the ropes that were on his arms
-  became as flax that was burned with fire*. Stored WEB; not yet ingested, see *Samson Against the
-  Philistines at Lehi* on [[Judges]].
+- [[Samson Against the Philistines at Lehi]] — **Judges 15:14** — *Then Yahweh's Spirit came mightily on him, and
+  the ropes that were on his arms became as flax that was burned with fire*. Stored WEB.
 - **1 Samuel 10:6, 10** — *Then Yahweh's Spirit will come mightily on you, and you will prophesy with
   them, and will be turned into another man*; *the Spirit of God came mightily on him, and he prophesied
   among them*. WEB at bible-api.com; not stored.
@@ -73,3 +72,16 @@ Sources: stored WEB Genesis 24:21; 39:2; Joshua 1:8; Judges 14:6, 19; 15:14; 16:
 not checked and only paraphrased. Hebrew from the Westminster Leningrad Codex
 (OpenScriptures morphhb) `Gen.xml`, `Exod.xml`, `Lev.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`,
 `Judg.xml`, `1Sam.xml`, downloaded 2026-11-16.
+
+### Judges 15:14 — the third rush, and a great deliverance
+
+The last *ṣālaḥ* on Samson comes when he is bound and handed over by the men of Judah, and it is followed,
+as at 14:6 and 19, by a feat of the body: the ropes melt and a thousand die. For the first time it is
+also followed by speech to God. Samson calls the victory *this great deliverance*, *hattəšûʿâ haggədōlâ*
+(15:18, WLC). The noun phrase *təšûʿâ gədôlâ* returns in 1 Samuel 19:5, *Yahweh worked a great victory
+for all Israel*, of David's killing of the Philistine, and in 2 Samuel 23:10, 12 of David's mighty men
+(WEB at bible-api.com; WLC). The *təšûʿâ* of 1 Samuel 11:9, 13 follows Saul's *ṣālaḥ* of 11:6 (WLC). In
+the files checked the noun follows the Spirit's rush in Samson's story and Saul's, and names the
+Philistine victories of David's. See [[Samson Against the Philistines at Lehi]]. Sources: stored WEB Judges 15:14–18;
+1 Samuel 19:5 and 2 Samuel 23:10, 12 checked at bible-api.com (WEB), 2026-11-16; Hebrew WLC
+(`Judg.xml`, `1Sam.xml`, `2Sam.xml`), 2026-11-16.

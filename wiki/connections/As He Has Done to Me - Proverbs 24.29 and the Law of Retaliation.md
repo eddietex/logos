@@ -20,6 +20,8 @@ tags: [connection]
   thought to do to his brother."*
 - [[Judah Goes Up First]] — **Judges 1:7** — *"As I have done, so God has done to me."* (stored
   WEB)
+- [[Samson Against the Philistines at Lehi]] — **Judges 15:10–11** — the Philistines: *to do to him as he has done
+  to us*; Samson: *"As they did to me, so I have done to them."* (stored WEB)
 - [[The Deaths of Jacob and Joseph]] — **Genesis 50:19** — *"am I in the place of God?"*
 - **Matthew 5:38–39** *(not yet ingested)* — *"You have heard that it was said, 'An eye for an eye,
   and a tooth for a tooth.' But I tell you, don't resist him who is evil; but whoever strikes you on
@@ -82,6 +84,17 @@ it and is forbidden; in Judges 1:7 the offender himself names God as the one who
 human agents, Judah and Simeon, go unmentioned in his sentence. The narrator does not say whether the
 maiming was right; the only verdict is the king's. See [[Judah Goes Up First]] and [[Retribution]].
 Source: stored WEB Judges 1:6–7.
+
+### Both sides say it — Judges 15:10–11
+
+Judges 15 puts the formula in two mouths in two verses. The Philistines come up *laʿăśôt lô kaʾăšer ʿāśâ
+lānû*, *to do to him as he has done to us* (15:10, WLC). Samson answers the men of Judah *kaʾăšer ʿāśû lî
+kēn ʿāśîtî lāhem*, *As they did to me, so I have done to them* (15:11, WLC), with the full *kaʾăšer … kēn*
+frame and *ʿāśāh* twice, the shape of Proverbs 24:29 in the past tense. Here there is no court, as in
+Leviticus 24 and Deuteronomy 19, and no confession of God, as in Judges 1:7: it is the private resolve
+Proverbs forbids, carried out by both parties, and each round is larger than the last. The chapter brings
+God in only when Samson prays (15:18). See [[Samson Against the Philistines at Lehi]] and [[Retribution]].
+Source: stored WEB Judges 15:1–18; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
 ## Significance
 

@@ -51,7 +51,7 @@ road and the date**, which is what makes the gate of [[Enaim]] a plan rather tha
 **Most likely the Timnah of the Sorek valley**, on the border between Judah and Philistine country
 (Joshua 15:10; and in Dan's list at Joshua 19:43) — **the Timnah Samson goes down to and marries
 into** at Judges 14:1–5 (now ingested, [[Samson's Riddle]]), in another story about an Israelite, a woman outside the line, and a young
-goat (Judges 15:1). It is generally identified with **Tel Batash**, about four miles north-west of Beth
+goat (Judges 15:1, now ingested, [[Samson Against the Philistines at Lehi]]). It is generally identified with **Tel Batash**, about four miles north-west of Beth
 Shemesh. 2 Chronicles 28:18 records the Philistines taking it back under Ahaz.
 
 **A second Timnah is listed in the Judean hill country** at Joshua 15:57, and some read Genesis 38's as
@@ -70,6 +70,8 @@ requalifying the other is renamed in the same pass**, per `AGENTS.md`.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 - [[Samson's Riddle]] — Judges 14:1–20; the woman, the vineyards, the feast.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:1–6; the wife withheld, and *the Timnite* and his daughter
+  burned.
 
 - [[Judah and Tamar]] — Genesis 38:12–14; the destination that puts Judah on the road past
   [[Enaim]], and the festival that supplies the occasion
@@ -85,3 +87,5 @@ requalifying the other is renamed in the same pass**, per `AGENTS.md`.
 
 - Judah's sheep-shearing, with [[Hirah the Adullamite]] — Genesis 38:12
 - Samson's marriage and the riddle — Judges 14 — [[Samson's Riddle]]
+- Samson refused his wife; she and her father burned by the Philistines — Judges 15:1–6 —
+  [[Samson Against the Philistines at Lehi]]

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The men of Judah bind Samson — Judges 15:9–13
+
+The Philistines camp *in Judah* to take Samson (15:9). The tribe that went up first against the
+Canaanites (1:1–2) now asks the invaders *Why have you come up against us?*, and on hearing that they want
+Samson, sends three thousand men to the rock of Etam to get him: *Don't you know that the Philistines are
+rulers over us? What then is this that you have done to us?* (10–11). They swear not to kill him, bind
+him with two new ropes, and hand him over at Lehi (12–14). No man of Judah fights. See
+[[Samson Against the Philistines at Lehi]] and [[Bound to Be Handed Over - The Men of Judah and Delilah]].
+Source: stored WEB Judges 1:1–2; 15:9–14.
+
 ### Ammon crosses the Jordan — Judges 10:9
 
 *The children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed* (9). The oppression begins in Gilead and reaches Judah west of the river.
@@ -453,6 +463,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Samson Against the Philistines at Lehi]] — Judges 15:9–13; three thousand men bind Samson for the Philistines.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Jerusalem burned, the south taken, Simeon's lot kept, the valley not taken.
 - [[Judah Goes Up First]] — Judges 1:1–7; chosen by Yahweh to go up first; allies with Simeon; defeats Adoni-Bezek.

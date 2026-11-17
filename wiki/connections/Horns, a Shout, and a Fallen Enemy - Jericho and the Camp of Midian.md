@@ -21,7 +21,9 @@ tags: [connection]
 ram's horn (Joshua 6:4–5; Judges 7:16, 18–20, 22, WLC). In both there is a shout, and in both the enemy's
 defence fails without an Israelite blow: the wall *fell down flat*, and the camp *ran*. The battle
 shout of Jericho is the verb *rûaʿ* (Joshua 6:5, 10, 16, 20); in Genesis–Judges it occurs otherwise only
-in Numbers 10:7, 9 (the trumpet alarm), Judges 7:21, and Judges 15:14 (WLC). See
+in Numbers 10:7, 9 (the trumpet alarm), Judges 7:21, and Judges 15:14 (WLC). At 15:14 the shout is the
+Philistines', as they meet the bound Samson at Lehi, and they are the ones who fall; see
+[[Samson Against the Philistines at Lehi]]. See
 [[Trumpet and Ram's Horn - Two Instruments, One English Word]].
 
 | | Jericho (Joshua 6) | Midian's camp (Judges 7:16–22) |

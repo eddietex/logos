@@ -106,6 +106,9 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 - [[Kadesh]] — the second Meribah, *"Meribah of Kadesh"* (Numbers 20:13; 27:14)
 - [[Marah]] — the first water named in the wilderness, named for the water rather than the people (15:23)
 - [[Horeb]] — *"the rock in Horeb"* (17:6)
+- [[En Hakkore]] — Samson's spring, after the same pair of words for thirst, *wayyiṣmāʾ … baṣṣāmāʾ*
+  (Exodus 17:3; Judges 15:18, WLC). See
+  [[Shall I Die of Thirst - Massah, Hagar's Well, and En Hakkore]]
 
 ## Events here
 - The people quarrel with Moses and test Yahweh; Moses strikes the rock and water comes out — Exodus 17:1–7,

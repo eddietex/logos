@@ -11,8 +11,9 @@ tags: [connection]
   goad. He also saved Israel.*
 - [[The Announcement of Samson's Birth]] — Judges 13:5; *He shall begin to save Israel out of the hand
   of the Philistines.* And 13:25, *Yahweh's Spirit began to move him.*
-- Judges 15:20; 16:31 — *He judged Israel twenty years in the days of the Philistines* (stored WEB; not
-  yet ingested).
+- [[Samson Against the Philistines at Lehi]] — Judges 15:18, 20; *this great deliverance*, and *He judged Israel
+  twenty years in the days of the Philistines*. Judges 16:31 repeats the twenty years (stored WEB; not yet
+  ingested).
 - 1 Samuel 7:13 — *So the Philistines were subdued, and they stopped coming within the border of
   Israel. Yahweh's hand was against the Philistines all the days of Samuel.* (WEB at bible-api.com; not
   stored)
@@ -79,3 +80,13 @@ my people out of the hand of the Philistines*; see
 [[The Spirit Rushed on Him - Samson, Saul, and David]]. See [[Samson's Riddle]]. Sources: stored WEB Judges 13:5; 14:4,
 19; 1 Samuel 9:16 as cited above. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb),
 2026-11-16.
+
+### Judges 15 — a great deliverance, in the days of the Philistines
+
+Chapter 15 has the first saving-word since 13:5, and Samson speaks it: *You have given this great
+deliverance*, *təšûʿâ* (15:18, WLC), after a thousand dead at Lehi. The narrator then gives his twenty
+years *in the days of the Philistines* (15:20), *bîmê pəlištîm* (WLC): the judgeship is dated by the
+enemy's rule, which it does not end. The phrase *təšûʿâ gədôlâ* recurs in 1 Samuel 19:5 and 2 Samuel
+23:10, 12, of David and his men against the Philistines (WEB at bible-api.com; WLC). The beginning has a
+great deliverance in it, and the Philistines are still there. See [[Samson Against the Philistines at Lehi]]. Sources:
+stored WEB Judges 13:5; 15:18, 20; Hebrew WLC (`Judg.xml`, `1Sam.xml`, `2Sam.xml`), 2026-11-16.

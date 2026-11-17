@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### His spirit came again — Judges 15:18–19
+
+*Now shall I die of thirst?* (15:18). God opens water, *and when he had drunk, his spirit came again, and
+he revived* (19, *wattāšāb rûḥô wayyeḥî*, WLC). The man who has just killed a thousand nearly dies of
+thirst, and is brought back by a drink. See [[Samson Against the Philistines at Lehi]] and
+[[The Spirit of Jacob Revived - Ruach Returning]]. Source: stored WEB Judges 15:18–19; Hebrew WLC,
+2026-11-16.
+
 ### Joshua at one hundred ten — Joshua 24:29–33
 
 Joshua dies at one hundred ten, Joseph's age (Genesis 50:26), and Eleazar dies in the same
@@ -1444,6 +1452,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; justice for life in the land; no death on one witness.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:6–8; long days promised for sparing the mother bird; the railing against a fatal fall.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–6; the dead brother's name continued.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:18–19; *shall I die of thirst*; *his spirit came again, and he revived*.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

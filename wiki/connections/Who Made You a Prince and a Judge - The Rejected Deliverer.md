@@ -21,6 +21,9 @@ tags: [connection]
   was giving them deliverance; but they didn't understand"* (7:25); *"This Moses, whom they refused,
   saying, 'Who made you a ruler and a judge?'—God has sent him as both a ruler and a deliverer"* (7:35)
 - **Luke 12:14** — Jesus: *"Man, who made me a judge or an arbitrator over you?"*
+- **Judges 15:11–13** — the men of Judah to Samson: *"Don't you know that the Philistines are rulers over
+  us? What then is this that you have done to us?"*; they bind him and hand him over —
+  [[Samson Against the Philistines at Lehi]]
 
 ## Analysis
 
@@ -87,6 +90,17 @@ fifties, and tens (18:21, 25; WLC). **The man asked *"Who made you a prince and 
 judge who makes princes**, and the one who tells him how is the Midianite who took him in when the question drove
 him out. See [[Jethro's Counsel]] and
 [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]].
+
+### The deliverer handed over — Judges 15:11–13
+
+Judges 15 adds a stronger form of the refusal. The men of Judah do not only question Samson; they bind
+him and deliver him *into the hand of the Philistines* (15:12). Their question uses *māšal*, *rule*: *the
+Philistines are rulers over us*, *mōšəlîm bānû* (15:11, WLC), the verb of Joseph's brothers, *will you
+indeed have dominion over us?* (Genesis 37:8, WLC). The brothers refused a brother's rule; Judah accepts a
+foreign one, and gives up the man fighting it. Samson, unlike Moses, did not set out to save his people,
+and the chapter does not say Judah's men knew what he was for. The pairing is the wiki's. See
+[[Samson Against the Philistines at Lehi]] and [[Bound to Be Handed Over - The Men of Judah and Delilah]].
+Source: stored WEB Genesis 37:8; Judges 15:9–13; Hebrew WLC, 2026-11-16.
 
 ## Significance
 

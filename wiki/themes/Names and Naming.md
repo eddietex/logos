@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Ramath Lehi and En Hakkore — Judges 15:17–19
+
+Two names in three verses. Samson throws the jawbone away, *and that place was called Ramath Lehi* (15:17,
+usually rendered *height of the jaw*; reported, not checked). After the water, *its name was called En
+Hakkore, which is in Lehi, to this day* (19), usually *the spring of the one who calls*. The first name
+remembers the battle; the second, if the rendering holds, the prayer. See [[Lehi]], [[En Hakkore]], and
+[[Samson Against the Philistines at Lehi]]. Source: stored WEB Judges 15:17–19; Hebrew WLC, 2026-11-16.
+
 ### The name not given — Judges 13:6, 17–18, 24
 
 The woman did not ask the visitor's name, and *neither did he tell me his name* (13:6). Manoah asks, *that
@@ -593,6 +601,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:6, 10; the dead man's name kept, and the refuser's house named.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:10–11, 17; Kiriath Arba, Kiriath Sepher, and Zephath renamed.
 - [[The Announcement of Samson's Birth]] — Judges 13:6, 17–18, 24; the visitor's name refused; Samson named by his mother.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:17–19; Ramath Lehi and En Hakkore.
 
 ## Related themes
 

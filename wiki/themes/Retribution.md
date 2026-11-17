@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### As they did to me — Judges 15:10–11
+
+The formula of Adoni-Bezek (1:7) is spoken twice in one exchange. The Philistines come *to do to him as he
+has done to us* (15:10); Samson tells Judah, *As they did to me, so I have done to them* (15:11, WLC
+*kaʾăšer ʿāśû lî kēn ʿāśîtî lāhem*). Each side claims to be repaying, and the repayment grows: a wife given
+away, fields burned, a wife and father burned, a slaughter, an army, a thousand dead. God is named in
+neither sentence. See [[Samson Against the Philistines at Lehi]]. Source: stored WEB Judges 1:7; 15:6–15; Hebrew WLC, 2026-11-16.
+
 ### The insult returned — Judges 12:4–5
 
 Ephraim calls the Gileadites *fugitives of Ephraim* (12:4). In the next verse the narrator gives the same
@@ -1048,6 +1056,7 @@ proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and A
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:16; every man put to death for his own sin.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:2–3; the penalty counted and capped.
 - [[Judah Goes Up First]] — Judges 1:7; *As I have done, so God has done to me*, a king's verdict on his own punishment.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:10–11; *As they did to me, so I have done to them*.
 
 ## Related themes
 

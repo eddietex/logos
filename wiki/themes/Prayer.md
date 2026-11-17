@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Samson calls on Yahweh — Judges 15:18
+
+Samson's first recorded words to God come after the thousand dead, when he is *very thirsty*: *You have
+given this great deliverance by the hand of your servant; and now shall I die of thirst, and fall into the
+hands of the uncircumcised?* (15:18). It is half thanks and half complaint, and it is answered: *God split
+the hollow place … and water came out of it* (19). The spring is named [[En Hakkore]], usually rendered
+*the spring of the one who calls* (reported, not checked). His only other prayer is his last (16:28),
+introduced by the same Hebrew, *wayyiqrāʾ … ʾel-YHWH*, *called to Yahweh* (WLC). See [[Samson Against the Philistines at Lehi]] and
+[[Shall I Die of Thirst - Massah, Hagar's Well, and En Hakkore]]. Source: stored WEB Judges 15:18–19;
+16:28; Hebrew WLC, 2026-11-16.
+
 ### Manoah entreated Yahweh — Judges 13:8–9
 
 *Manoah entreated Yahweh*, *wayyeʿtar* (13:8, WLC), the verb of Isaac's prayer for barren Rebekah
@@ -641,6 +652,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused poor man's cry to Yahweh (9).
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–15; the confession over the first fruits and the third-year declaration, ending *"Look down … and bless"*.
 - [[The Announcement of Samson's Birth]] — Judges 13:8–9; *Manoah entreated Yahweh … God listened to the voice of Manoah*.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:18–19; Samson calls on Yahweh, and the spring is opened.
 
 ## Related themes
 

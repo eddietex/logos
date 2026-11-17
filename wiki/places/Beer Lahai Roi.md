@@ -65,6 +65,8 @@ encounter is the ordinary Genesis pattern (*Bethel*, 28:19; *Yahweh Will Provide
   first well passes to Isaac, and the second is not named. See
   [[The Birth of Isaac and the Sending of Hagar]]
 - [[Paran]] — where she and her son end up, further south
+- [[En Hakkore]] — another spring named for what God did there, Samson's at Lehi (Judges 15:19). See
+  [[Shall I Die of Thirst - Massah, Hagar's Well, and En Hakkore]]
 
 ## Events here
 

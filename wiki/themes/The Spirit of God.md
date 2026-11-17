@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The ropes like burned flax — Judges 15:14
+
+*Then Yahweh's Spirit came mightily on him, and the ropes that were on his arms became as flax that was
+burned with fire* (15:14). The third and last *ṣālaḥ* of the Spirit on Samson (WLC). It comes on a man
+bound by his own tribe and handed to the enemy, and it is followed by a thousand dead. The next time the
+ropes break, no Spirit is named (16:12). See [[Samson Against the Philistines at Lehi]] and
+[[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB Judges 15:14; 16:12; Hebrew
+WLC, 2026-11-16.
+
 ### The Spirit came mightily — Judges 14:6, 19
 
 The Spirit that *began to move him* (13:25) now *came mightily on him*, *wattiṣlaḥ ʿālāyw rûaḥ YHWH*
@@ -157,6 +166,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 - **Joel 2:28–29; Acts 2:17–18** — on all flesh *(not yet ingested)*
 - [[The Announcement of Samson's Birth]] — Judges 13:25; *Yahweh's Spirit began to move him*.
 - [[Samson's Riddle]] — Judges 14:6, 19; *Yahweh's Spirit came mightily on him*.
+- [[Samson Against the Philistines at Lehi]] — Judges 15:14; *Yahweh's Spirit came mightily on him* at Lehi.
 
 ## Related themes
 
