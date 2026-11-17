@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Seven months with the ark — 1 Samuel 5:1–12
+
+The captured ark passes through three of the five lordships, Ashdod, Gath, and Ekron, and each is struck
+with tumors and *confusion* (5:6–12). The next chapter opens *Yahweh's ark was in the country of the
+Philistines seven months* (6:1, stored WEB; not yet ingested), *biśḏēh p̄əlištîm* (WLC). See
+[[The Ark Among the Philistines]].
+
+Source: stored WEB 1 Samuel 5:1–12; 6:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The five lords — Judges 3:1–6
 
 *The five lords of the Philistines* head the nations left *to test Israel* (3), word for word the
@@ -94,6 +103,7 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
 - [[Samson's Riddle]] — Judges 14:4; *at that time the Philistines ruled over Israel*
 - [[Samson Against the Philistines at Lehi]] — Judges 15:4–5; the burned fields.
 - [[The Ark Is Captured]] — 1 Samuel 4:1–11; the Philistine army at Aphek.
+- [[The Ark Among the Philistines]] — 1 Samuel 5:1–12; the ark in Ashdod, Gath, and Ekron.
 
 ## Related places
 

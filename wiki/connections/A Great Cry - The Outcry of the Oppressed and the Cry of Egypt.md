@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Ark Among the Philistines]] — 1 Samuel 5:12; *the cry of the city went up to heaven*, *šawʿâ*, the noun of Exodus 2:23.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; tears without comfort, compared with the heard cry in Exodus.
 
 - **Genesis 18:20–21** — *"Because the cry of Sodom and Gomorrah is great, and because their sin is very
@@ -106,3 +107,11 @@ the children of Israel cried to Yahweh because of Midian, Yahweh sent a prophet*
 (WLC). The cry in Judges is told in the words of the cry in Egypt, but here the first answer is a
 rebuke. Sources: stored WEB Exodus 2:23; 3:9; Judges 6:6–9; Hebrew from the Westminster Leningrad Codex
 (OpenScriptures morphhb), 2026-11-15.
+
+### The Philistine cry — 1 Samuel 5:12
+
+Exodus 2:23 is the motif's *šawʿâ* outlier. The noun's only other occurrence in the WLC files of Genesis
+through 1 Samuel is 1 Samuel 5:12, *the cry of the city went up to heaven*, with the same verb, *ʿālâ*
+(lemma search). It is the cry of Ekron under Yahweh's hand: the oppressor in Israel's old place. See
+[[Their Cry Went Up - Exodus 2.23 and 1 Samuel 5.12]]. Sources: stored WEB Exodus 2:23; 1 Samuel 5:12;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

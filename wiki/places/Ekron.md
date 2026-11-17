@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### *To kill us and our people* — 1 Samuel 5:10–12
+
+From Gath the ark is sent to Ekron, and the Ekronites cry out as it comes: *They have brought the ark of the
+God of Israel here to us, to kill us and our people* (10). The lords are gathered again and told to send it
+*to its own place*; *there was a deadly confusion throughout all the city. The hand of God was very heavy
+there.* Those who did not die were struck with tumors, *and the cry of the city went up to heaven* (11–12).
+Judges 1:18 had said Judah took Ekron; here it is a Philistine city. See [[The Ark Among the Philistines]]
+and [[Their Cry Went Up - Exodus 2.23 and 1 Samuel 5.12]].
+
+Source: stored WEB 1 Samuel 5:10–12; Judges 1:18.
+
 ### Taken by Judah — Judges 1:18
 
 *Also Judah took Gaza with its border, and Ashkelon with its border, and Ekron with its border* (18).
@@ -40,6 +51,7 @@ Ekron marks the northern boundary of the stretch from the Shihor (Joshua 13:3). 
 Source: stored WEB Joshua 13:1–7.
 
 ## Appears in
+- [[The Ark Among the Philistines]] — 1 Samuel 5:10–12; the third city struck, which demands the ark be sent home.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
 - [[The Cities of Judah]] — Joshua 15:20–63.
@@ -47,8 +59,9 @@ Source: stored WEB Joshua 13:1–7.
 - [[The Land That Remains]] — Joshua 13:1–7.
 
 ## Related places
-- [[Shihor]] · [[Gaza]] · [[Ashdod]]
+- [[Shihor]] · [[Gaza]] · [[Ashdod]] · [[Gath]]
 
 ## Events here
+- The ark arrives; a deadly confusion; the city's cry goes up to heaven — 1 Samuel 5:10–12, [[The Ark Among the Philistines]]
 - Named in the inventory of land remaining; no new conquest narrated.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]

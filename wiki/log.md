@@ -28430,3 +28430,51 @@ fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML, 
 ketiv/qere note at 4:13; occurrence claims cover `Gen` through `Ruth` and `1Sam`; 2 Samuel 1:2, Psalm
 78:60–64, Jeremiah 7:12, 14, and Ezekiel 10:18 checked in the same edition. No Greek text, Septuagint, or
 rabbinic source was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 5.1-12 — The Ark Among the Philistines
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+the ark among the Philistines, 5:1–12, ingested as planned. 1 Samuel is now 7 / 47.
+
+Created: passage [[The Ark Among the Philistines]]; connections
+[[Heavy Hand and Departed Glory - Kabed in 1 Samuel 4-6]],
+[[Tumors and Confusion - The Covenant Curses on Ashdod, Gath, and Ekron]], and
+[[Their Cry Went Up - Exodus 2.23 and 1 Samuel 5.12]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes, people, and places); passage
+[[The Ark Is Captured]] (forward reference now linked); people [[Dagon]] (the "Ahead" note replaced by an
+ingested section) and [[The Philistines]]; places [[Ashdod]], [[Gath]], [[Ekron]], [[Ebenezer]], and
+[[The Land of the Philistines]]; themes [[Idolatry]], [[Judgment]], [[The Glory of God]], [[The Nations]],
+[[Curse]], [[Signs and Wonders]], [[Life and Death]], and [[The Dwelling of God]]; connections
+[[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] (1 Samuel 5 now stored and linked; new section),
+[[The Diseases of Egypt - The Plagues in Deuteronomy 28]],
+[[Yahweh Confused Them - Hamam in the Wars of Yahweh]],
+[[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]],
+[[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]], and
+[[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]]. Also `wiki/books/index.md`, People
+Index A-E and N-Z, the places and themes indexes, Connections Index D-H, O-S, and T-Z (three new rows), and
+the dashboard counts. Frontmatter totals: 493 passages, 368 people, 599 places, 88 themes, 941
+connections.
+
+Judgment calls: the boundary 5:1–12 stands; 6:1 opens with a time note and a new council. No new person
+or place pages: Dagon's priests, the lords, the men of Ashdod, and the Ekronites are corporate and sit
+under [[The Philistines]]; Ashdod, Gath, and Ekron already had pages. The *kāḇēḏ* / *kāḇôḏ* chain earns a
+connection page because it now spans 2:29 to 6:6 across four pericopes; intent is left open on the page.
+No contradiction with an existing page was found. The Dagon Fallen page had said the *dāgôn* occurrence
+claim covered `Gen`–`Deut`, `Josh`, `Judg`, `1Sam`; the new count (eleven in 1 Samuel 5) is from a wider file
+set and agrees with it.
+
+Recorded, not resolved: whether the ark was set *by Dagon* as trophy or subordinate; what *only Dagon was
+left on him* (5:4) means, and the *fish* derivation; whether Zephaniah 1:9 alludes to the threshold custom;
+the medical identity of the tumors; the Septuagint's reported mice in chapter 5 (recalled, not checked);
+whether *miptān* occurs in Ezekiel (recalled, not checked; the full WLC was not searched); and whether Psalm
+78:66 refers to this chapter.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 6:1–6, 9, 11, 17; 7:10, 13; 14:20.
+Comparisons from stored WEB Exodus 2:23–24; 7:14; 8:15, 32; 9:3, 7, 34; 10:1; 12:12; Deuteronomy 7:23; 28:20,
+27, 60; Joshua 7:6; 13:3; Judges 1:18; 13:1; 16:23–30. Zephaniah 1:9; Psalm 32:4; Psalm 78:61, 66; and 1
+Chronicles 10:10 checked against the WEB at bible-api.com (`translation=web`), 2026-11-17; not stored in
+raw. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML,
+2026-11-17, files `Gen` through `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `Ps`, and `Zeph`; occurrence claims cover
+those files only, including the ketiv/qere *ʿŏp̄ālîm* / *ṭəḥōrîm* at 1 Samuel 5:6, 9, 12 and Deuteronomy
+28:27. No Greek text, Septuagint, or 1 Chronicles Hebrew was consulted.

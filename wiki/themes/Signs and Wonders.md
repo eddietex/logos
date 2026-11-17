@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Dagon fallen on two mornings — 1 Samuel 5:3–4
+
+No one sees Dagon fall. The people of Ashdod *arose early* and find him *fallen on his face to the ground
+before Yahweh's ark*, twice, the second time broken (5:3–4). The narrator gives no agent for the fall and
+names Yahweh's hand only for the plague that follows (6). The sign is read by the Philistines, not
+explained to them. See [[The Ark Among the Philistines]]. Source: stored WEB 1 Samuel 5:3–7.
+
 ### The sign of the two sons — 1 Samuel 2:34
 
 *This will be the sign to you, that will come on your two sons, on Hophni and Phinehas: in one day they
@@ -220,6 +227,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[The Ark Among the Philistines]] — 1 Samuel 5:3–4; Dagon found fallen before the ark on two mornings.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:34; the two sons' death *in one day* as the sign of the longer sentence.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; a sign offered unasked, heard in an enemy's dream.
 - [[The Fleece]] — Judges 6:36–40; dew on the fleece, then dew on the ground, given in silence.

@@ -134,7 +134,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Shaved Heads and Fulfilled Days - Numbers 6 and Acts 18 and 21]] | comparison | [[The Nazirite Vow]] (Numbers 6:5, 13–18) · Acts 18:18 · Acts 21:23–26 |
 | [[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]] | thread | [[Joshua Commissioned]] (Numbers 27:17) · 1 Kings 22:17 · Matthew 9:36 · Mark 6:34 |
 | [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] | parallel | Genesis 31:38–40 · Exodus 22:10–13 · Exodus 22:31 · Amos 3:12 · John 10:11–13 |
-| [[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]] | thread | [[The Ark Is Captured]] (1 Samuel 4:1b–22) · Psalm 78:60–64 · Jeremiah 7:12–14 |
+| [[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]] | thread | [[The Ark Is Captured]] (1 Samuel 4:1b–22) · Psalm 78:60–64 · Jeremiah 7:12–14 · [[The Ark Among the Philistines]] (Psalm 78:66) |
 | [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]] | interpretation and tension | Exodus 34:1–35 · 2 Corinthians 3:1–18 |
 | [[Shining on the Mountain - Moses and the Transfiguration]] | parallel and typology | Exodus 24:15–18 · Exodus 34:29–35 · Matthew 17:1–8 · Mark 9:2–8 · Luke 9:28–36 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |

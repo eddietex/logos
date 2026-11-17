@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### The ark in Ashdod, Gath, and Ekron — 1 Samuel 5:1–12
+
+The victors carry the ark *from Ebenezer to Ashdod* and set it beside [[Dagon]], who falls before it twice
+(5:1–4). Then *Yahweh's hand was heavy on the people of Ashdod*, with tumors (6), and the men of Ashdod say
+*his hand is severe on us, and on Dagon our god* (7). *All the lords of the Philistines*, *sarnê p̄əlištîm*
+(WLC), gather and send the ark on to Gath, which suffers *a very great confusion* (8–9), and then to Ekron,
+whose people cry out before it arrives (10). The lords gather a second time and decide to send it home;
+*the cry of the city went up to heaven* (11–12). The enemy who had said *that you not be servants to the
+Hebrews* (4:9) now pleads to be rid of the Hebrews' God. See [[The Ark Among the Philistines]].
+
+Source: stored WEB 1 Samuel 4:9; 5:1–12. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The ark taken at Aphek — 1 Samuel 4:1b–11
 
 The Philistines camp at [[Aphek]] against Israel at [[Ebenezer]] and win the first battle (4:1–2). When Israel
@@ -127,6 +139,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - The Gazites lie in wait for Samson and lose their city gate — [[Samson at Gaza]].
 - Their lords pay Delilah; they blind Samson and imprison him at Gaza — [[Samson and Delilah]].
 - Defeat Israel twice at Ebenezer and Aphek, kill Hophni and Phinehas, and take the ark — [[The Ark Is Captured]].
+- Set the ark beside Dagon at Ashdod; struck with tumors and confusion at Ashdod, Gath, and Ekron — [[The Ark Among the Philistines]].
 
 ## Appears in
 
@@ -149,6 +162,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[The Death of Samson]] — Judges 16:23–31; Dagon's feast and the fallen house.
 - [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] — Dagon's house in Judges 16 and 1 Samuel 5.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–11; the ark captured.
+- [[The Ark Among the Philistines]] — 1 Samuel 5:1–12; Dagon fallen, the three cities struck, the lords' two councils.
 
 ## Related people
 

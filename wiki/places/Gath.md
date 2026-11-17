@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The ark carried around — 1 Samuel 5:8–9
+
+When Ashdod will not keep the ark, the lords of the Philistines answer *Let the ark of the God of Israel be
+carried over to Gath*, *gaṯ yissōḇ*, *let it go around to Gath* (8, WLC). There *Yahweh's hand was against
+the city with a very great confusion*, and he struck *the men of the city, both small and great so that
+tumors broke out on them* (9). See [[The Ark Among the Philistines]].
+
+Source: stored WEB 1 Samuel 5:8–9; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The land that remains — Joshua 13:1–7
 
 The Gittites are listed among the five Philistine lordships whose territory remains (3). This extends the notice of an Anakim remnant at Gath in 11:22; no new battle is narrated.
@@ -18,11 +27,14 @@ One of three cities where some of the Anakim remain after Joshua cuts them off f
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
 ## Appears in
+- [[The Ark Among the Philistines]] — 1 Samuel 5:8–9; the second city struck.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 
 ## Related places
+- [[Ekron]] — where the ark is sent next (5:10).
 - [[Gaza]] and [[Ashdod]] — the other two cities of the Anakim remnant.
 
 ## Events here
+- The ark brought there; *a very great confusion* and tumors on small and great — 1 Samuel 5:8–9, [[The Ark Among the Philistines]]
 - [[The Whole Land Taken]] — Some of the Anakim remain there (22).

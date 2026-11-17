@@ -10,11 +10,11 @@ tags: [connection]
   offer a great sacrifice to Dagon their god, and to rejoice; for they said, "Our god has delivered Samson
   our enemy into our hand"* (23); *the house fell on the lords, and on all the people who were therein*
   (30). (stored WEB)
-- **1 Samuel 5:1–7** — *The Philistines took God's ark, and brought it into the house of Dagon, and set it
+- [[The Ark Among the Philistines]] — **1 Samuel 5:1–7** — *The Philistines took God's ark, and brought it into the house of Dagon, and set it
   by Dagon. When the people of Ashdod arose early on the next day, behold, Dagon had fallen on his face to
   the ground before Yahweh's ark* (5:2–3); *the head of Dagon and both the palms of his hands were cut off
-  on the threshold* (5:4); *his hand is severe on us, and on Dagon our god* (5:7). (WEB checked at
-  bible-api.com, 2026-11-16; not stored, not yet ingested)
+  on the threshold* (5:4); *his hand is severe on us, and on Dagon our god* (5:7). (stored WEB; checked
+  earlier at bible-api.com, 2026-11-16)
 
 ## Analysis
 
@@ -48,9 +48,20 @@ implicit: the Philistines' god twice ends on the ground in his own house. The wi
 does not claim that 1 Samuel was written to answer Judges.
 
 The threshold note of 1 Samuel 5:5, *neither the priests of Dagon, nor any who come into Dagon's house, step
-on the threshold of Dagon in Ashdod, to this day*, is an etiology the Judges scene does not have, and belongs to the ingest of 1 Samuel.
+on the threshold of Dagon in Ashdod, to this day*, is an etiology the Judges scene does not have.
 
-Sources: stored WEB Judges 3:28; 4:7; 7:9; 16:23–30. 1 Samuel 5:1–7 checked against WEB at bible-api.com,
-2026-11-16, not stored. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb, `Gen.xml`
+### 1 Samuel 5 now ingested
+
+With the chapter ingested, two details sharpen the table. First, *dāgôn* occurs eleven times in 1 Samuel
+5:2–7, against once in Judges (WLC lemma search, 2026-11-17, files `Gen` through `Ruth`, `1Sam`, `2Sam`,
+`1Kgs`, `Ps`, `Zeph`). Second, the Philistines must restore their god by hand, *they took Dagon, and set
+him in his place again* (5:3), and his *hands* are what lie cut off (4) before *Yahweh's hand* is heavy on
+Ashdod (6). In Judges the house fell by a man's hands; in 1 Samuel the god's hands fall. Ahead,
+1 Chronicles 10:10 has the Philistines fasten Saul's head *in the house of Dagon* (WEB checked at
+bible-api.com, 2026-11-17; not stored), so the house where Dagon's head fell receives the head of Israel's
+first king. See [[The Ark Among the Philistines]].
+
+Sources: stored WEB Judges 3:28; 4:7; 7:9; 16:23–30; 1 Samuel 5:1–7 (stored since the 1 Samuel fetch;
+first checked against WEB at bible-api.com, 2026-11-16). Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb, `Gen.xml`
 through `Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml`), 2026-11-16; the occurrence claim for *dāgôn*
 covers only those files.

@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Ark Among the Philistines]] — 1 Samuel 5:3–7; Dagon fallen before *Yahweh's ark*; *his hand is severe on us, and on Dagon our god*.
 - [[The Words of Agur]] — Proverbs 30:9.
 
 
@@ -172,3 +173,12 @@ no new source-language identity is claimed.
   nations can come to and not only something done to them. See [[The Nations]].
 
 See [[Pharaoh (of the Exodus)]], [[God]], [[Pride and Self-Exaltation]], and [[Judgment]].
+
+### The Philistines and Dagon — 1 Samuel 5
+
+Exodus 12:12 promised judgments *against all the gods of Egypt*. In 1 Samuel 5 the god judged is Dagon, in his
+own house, fallen *before Yahweh's ark* (5:3–4), and the Philistines learn that the God of Israel's *hand is
+severe on us, and on Dagon our god* (7). They never name Yahweh in the chapter. Their priests will make the
+comparison with Pharaoh themselves, *as the Egyptians and Pharaoh hardened their hearts* (6:6, stored WEB;
+not yet ingested). See [[Heavy Hand and Departed Glory - Kabed in 1 Samuel 4-6]]. Sources: stored WEB
+Exodus 12:12; 1 Samuel 5:3–7; 6:6.

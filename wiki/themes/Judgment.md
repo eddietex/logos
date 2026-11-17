@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh's hand on the Philistine cities — 1 Samuel 5:6–12
+
+With the ark in Philistia, *Yahweh's hand was heavy on the people of Ashdod*, and he *struck them with
+tumors* (5:6); at Gath *a very great confusion* (9); at Ekron *a deadly confusion throughout all the city*
+(11). The tumors and the confusion are the nouns of the covenant curses, *məhûmâ* (Deuteronomy 7:23; 28:20)
+and *ṭəḥōrîm* (28:27, WLC), now falling on Israel's enemy. The judgment that took the ark from Eli's house
+does not stop with Israel. See [[The Ark Among the Philistines]] and
+[[Tumors and Confusion - The Covenant Curses on Ashdod, Gath, and Ekron]]. Source: stored WEB 1 Samuel
+5:6–12; Deuteronomy 7:23; 28:20, 27.
+
 ### The sentence carried out — 1 Samuel 4:11–22
 
 The judgment announced twice against Eli's house (2:27–36; 3:11–14) falls in one day: Hophni and Phinehas
@@ -1169,6 +1179,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Ark Among the Philistines]] — 1 Samuel 5:6–12; Yahweh's hand on Ashdod, Gath, and Ekron, with tumors and confusion.
 - [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sentence on Eli's house carried out in one day.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:11–18; the sentence on Eli's house confirmed, with its oath, and accepted.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the sentence on Eli's house, from its sign (2:34) to Abiathar (1 Kings 2:27).

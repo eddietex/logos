@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh's hand was heavy* — 1 Samuel 5:6, 11
+
+The glory, *kāḇôḏ*, that *departed from Israel* (4:21–22) is next met in Philistia as a hand that is
+*heavy*, *kāḇēḏ*: *Yahweh's hand was heavy on the people of Ashdod* (5:6), *the hand of God was very heavy
+there* (5:11, WLC). Their priests will tell them to *give glory* to the God of Israel (6:5, stored WEB; not
+yet ingested). The shared root is reported; whether the narrator intended the chain is open. See
+[[The Ark Among the Philistines]] and [[Heavy Hand and Departed Glory - Kabed in 1 Samuel 4-6]]. Source:
+stored WEB 1 Samuel 4:21–22; 5:6, 11; 6:5.
+
 ### *The glory has departed from Israel* — 1 Samuel 4:21–22
 
 Phinehas' wife, dying in childbirth on the day the ark is taken, names her son *Ichabod*, *ʾî-ḵāḇôḏ*, and
@@ -228,6 +237,7 @@ makes having seen it the ground of the charge (22). See
 
 ## Key passages
 
+- [[The Ark Among the Philistines]] — 1 Samuel 5:6, 11; the departed glory present as a *heavy* hand in Philistia.
 - [[The Ark Is Captured]] — 1 Samuel 4:21–22; *The glory has departed from Israel*, Ichabod named.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

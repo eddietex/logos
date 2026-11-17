@@ -212,7 +212,8 @@ ark. [[Samuel]], whose word *came to all Israel* in the verse before (4:1a), doe
 whose word *both the ears of everyone who hears it will tingle* (3:11) is this news. It continues
 [[The Sins of Eli's Sons]], where Yahweh *intended to kill them* (2:25), and it turns Hannah's reversals in
 [[The Song of Hannah]] on the priest who heard her: the one who sat on the *seat* falls from it. The ark
-will travel through the Philistine cities and humble Dagon (5:1–12, not yet ingested; see
+will travel through the Philistine cities and humble Dagon (5:1–12; see
+[[The Ark Among the Philistines]] and
 [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]]), and come home without Shiloh (6:1–7:1). Shiloh
 itself drops out of the narrative as a sanctuary; Psalm 78 and Jeremiah 7 read this day as the time Yahweh
 *abandoned the tent of Shiloh*. See [[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]].

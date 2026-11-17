@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *To kill us and our people* — 1 Samuel 5:10–12
+
+The Ekronites cry out that the ark has come *to kill us and our people* (5:10); the lords ask that it be
+sent away *that it not kill us* (11), for there was *a deadly confusion*, *məhûmaṯ māweṯ*, *a confusion of
+death* (WLC), in the city. *The men who didn't die were struck with the tumors* (12). See
+[[The Ark Among the Philistines]]. Source: stored WEB 1 Samuel 5:10–12.
+
 ### Three deaths and a birth — 1 Samuel 4:11–22
 
 Hophni and Phinehas die in battle (4:11); Eli dies falling from his seat, *for he was an old man, and heavy*
@@ -1002,6 +1009,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Ark Among the Philistines]] — 1 Samuel 5:10–12; *to kill us and our people*; *a deadly confusion*.
 - [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sons slain, Eli's fall, and a mother dying as her son is born.
 - [[The Song of Hannah]] — 1 Samuel 2:6; *Yahweh kills, and makes alive. He brings down to Sheol, and brings up*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10; *the wife of the dead*; *that the name of the dead may not be cut off*.

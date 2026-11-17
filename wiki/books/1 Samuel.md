@@ -77,6 +77,16 @@ Shiloh; at the mention of the ark Eli falls backward from his seat and dies, *an
 *judged Israel forty years* (4:18). Phinehas' wife dies in childbirth, naming her son Ichabod: *The glory has
 departed from Israel; for God's ark has been taken* (4:22). Samuel does not appear in the chapter.
 
+[[The Ark Among the Philistines]] (5:1–12) follows the glory into exile. The Philistines set the ark *by
+Dagon* in his house at Ashdod, and on two mornings Dagon is found *fallen on his face to the ground before
+Yahweh's ark*, the second time with his head and hands *cut off on the threshold* (5:3–4). Then *Yahweh's
+hand was heavy on the people of Ashdod*, with tumors (5:6); the ark is carried to Gath, which suffers *a
+very great confusion*, and on to Ekron, which cries that it has come *to kill us and our people* (5:9–10).
+The lords decide to send it *to its own place*, and *the cry of the city went up to heaven* (5:11–12). The
+*heavy* hand, *kāḇēḏ*, shares its root with the *glory*, *kāḇôḏ*, that had departed (4:21–22, WLC), and the
+tumors and *confusion* are nouns of Deuteronomy's curses (7:23; 28:20, 27). No Israelite appears in the
+chapter.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -105,7 +115,7 @@ merge, or reorder them freely.
 - [x] [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36
 - [x] [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a
 - [x] [[The Ark Is Captured]] — 1 Samuel 4:1b–22
-- [ ] The Ark Among the Philistines — 1 Samuel 5:1–12
+- [x] [[The Ark Among the Philistines]] — 1 Samuel 5:1–12
 - [ ] The Ark Returns to Israel — 1 Samuel 6:1–7:1
 - [ ] Samuel Judges Israel at Mizpah — 1 Samuel 7:2–17
 - [ ] Israel Asks for a King — 1 Samuel 8:1–22
@@ -173,6 +183,9 @@ merge, or reorder them freely.
 - [[Light and Darkness]] — *God's lamp hadn't yet gone out* (3:3)
 - [[The Glory of God]] — *The glory has departed from Israel* (4:21–22)
 - [[War]] — the defeats at Ebenezer and the ark taken (4:1b–11)
+- [[Idolatry]] — Dagon fallen before the ark (5:3–5)
+- [[The Nations]] — *his hand is severe on us, and on Dagon our god* (5:7)
+- [[Signs and Wonders]] — Dagon found fallen on two mornings (5:3–4)
 
 ## Key people
 - [[Samuel]]
@@ -188,6 +201,7 @@ merge, or reorder them freely.
 - [[Man of Benjamin (of Eli's time)]]
 - [[Phinehas' Wife]]
 - [[Ichabod]]
+- [[Dagon]]
 - [[David]]
 
 ## Key places
@@ -197,3 +211,5 @@ merge, or reorder them freely.
 - [[Egypt]] — where Yahweh revealed himself to the house of Eli's father (2:27)
 - [[Dan (city)]] and [[Beersheba]] — *all Israel from Dan even to Beersheba* (3:20)
 - [[Ebenezer]] and [[Aphek]] — the opposing camps of the battle where the ark is taken (4:1)
+- [[Ashdod]], [[Gath]], and [[Ekron]] — the three Philistine cities the ark passes through (5:1–12)
+- [[The Land of the Philistines]] — where the ark stays *seven months* (6:1)

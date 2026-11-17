@@ -51,3 +51,11 @@ wiki records the biblical texts and leaves the event's physical form open.
   [[Both His Ears Will Tingle - 1 Samuel 3.11, 2 Kings 21.12, and Jeremiah 19.3]] and
   [[Is Yahweh Among Us - Exodus 17, Numbers 14, 1 Samuel 4, and Micah 3]].
 - See also [[Shiloh]], [[The Glory of God]], and [[Judgment]].
+
+### The sequel in Psalm 78:65–66
+
+After the forsaking of Shiloh, the psalm continues: *he struck his adversaries backward. He put them to a
+perpetual reproach* (78:66, WEB checked at bible-api.com, 2026-11-17). *Struck*, *wayyaḵ* (WLC), is the
+verb of 1 Samuel 5:6, 9, and the psalm's order, the ark given up and then the enemy struck, matches 1
+Samuel 4–5. That 78:66 refers to the tumors of Ashdod is a common reading; the psalm does not name the
+Philistines. See [[The Ark Among the Philistines]].

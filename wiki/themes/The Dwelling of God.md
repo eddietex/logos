@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The ark in Dagon's house — 1 Samuel 5:1–11
+
+The ark that Israel had sent for *that it may come among us* (4:3) is set in the house of a foreign god,
+*by Dagon* (5:2), and from there moved from city to city. The Philistines finally ask that it *go again to
+its own place*, *limqōmô* (11, WLC), the word used two verses before for setting Dagon back *in his place*
+(3). The ark has a place; Dagon has to be put in his. See [[The Ark Among the Philistines]]. Source: stored
+WEB 1 Samuel 4:3; 5:1–11.
+
 ### *That it may come among us* — 1 Samuel 4:3–11
 
 After the first defeat the elders send for *the ark of Yahweh's covenant … that it may come among us, and
@@ -698,6 +706,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Ark Among the Philistines]] — 1 Samuel 5:2, 11; the ark in Dagon's house, and sent *to its own place*.
 - [[The Ark Is Captured]] — 1 Samuel 4:3–11; the ark sent for *that it may come among us*, and taken.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:3, 10, 15, 21; the temple with the ark, the lamp, and doors; Yahweh *came, and stood*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:18–22; the Tent of Meeting at Shiloh; the boy ministering, the priests defiling its door.

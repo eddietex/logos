@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *His hand is severe on us, and on Dagon our god* — 1 Samuel 5:7–11
+
+The Philistines who feared *these mighty gods* (4:8) now confess, at Ashdod, *The ark of the God of Israel
+shall not stay with us; for his hand is severe on us, and on Dagon our god* (5:7). They never name Yahweh in
+the chapter, only *the God of Israel* (7, 8, 10, 11); the lords decide by council, first to carry the ark
+around and then to send it *to its own place* (8, 11). See [[The Ark Among the Philistines]]. Source: stored
+WEB 1 Samuel 4:8; 5:7–11.
+
 ### *These mighty gods* — 1 Samuel 4:6–9
 
 The Philistines hear Israel's shout and know it means the ark: *God has come into the camp … Who shall
@@ -677,6 +685,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Ark Among the Philistines]] — 1 Samuel 5:7–11; the Philistines confess the God of Israel's hand on them and on Dagon.
 - [[The Ark Is Captured]] — 1 Samuel 4:6–9; the Philistines fear Israel's *mighty gods*, and fight.
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10–11; *Ruth the Moabitess*, named twice and blessed like Rachel and Leah.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:10–12; *since I am a foreigner*; refuge under the wings of the God of Israel.

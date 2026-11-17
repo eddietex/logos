@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Ark Among the Philistines]] — 1 Samuel 5:9, 11; the noun *məhûmâ*, *a very great confusion*, on Gath and Ekron.
 - [[The Crossing of the Sea]] — Exodus 14:24; Yahweh *confused the Egyptian army*.
 - Exodus 23:27 — *I will … confuse all the people to whom you come*.
 - Deuteronomy 2:15; 7:23 — *Yahweh's hand was against them*; *will confuse them with a great confusion*.
@@ -77,3 +78,16 @@ Sources: stored WEB Exodus 14:7, 24, 28; 23:27; Deuteronomy 2:15; 7:23; Joshua 1
 4:15–16; 5:4, 20–21. 1 Samuel 7:10 (WEB) checked at bible-api.com, 2026-11-13. Hebrew and lemma
 search from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-13; the count of seven
 is limited to the files named above.
+
+### The noun in 1 Samuel 5
+
+The ark in Philistia brings *məhûmâ gəḏôlâ məʾōḏ*, *a very great confusion*, on Gath, and *məhûmaṯ māweṯ*, *a
+deadly confusion*, on Ekron (1 Samuel 5:9, 11, WLC; stored WEB). Morphhb gives the noun its own lemma (4103),
+separate from the verb *hāmam* (2000); the two are commonly treated as related, which is reported here, not
+argued. In the WLC files searched, the noun occurs at Deuteronomy 7:23, *will confuse them with a great
+confusion*, *wəhāmām məhûmâ gəḏōlâ*, where verb and noun stand together; at Deuteronomy 28:20 among the
+curses on Israel; at 1 Samuel 5:9, 11; and at 1 Samuel 14:20 (lemma search). No Israelite army fights in 1
+Samuel 5; the confusion comes with the ark alone. See
+[[Tumors and Confusion - The Covenant Curses on Ashdod, Gath, and Ekron]]. Sources: stored WEB Deuteronomy
+7:23; 28:20; 1 Samuel 5:9, 11; 14:20; Hebrew WLC (OpenScriptures morphhb), 2026-11-17, files `Gen` through
+`Ruth`, `1Sam`, `2Sam`, `1Kgs`, `Ps`, `Zeph`.

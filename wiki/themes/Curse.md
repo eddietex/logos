@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Tumors and confusion on the Philistines — 1 Samuel 5:6–12
+
+Two nouns of Deuteronomy's curses fall on the Philistines who hold the ark: *ṭəḥōrîm*, *tumors*, with the
+same ketiv *ʿŏp̄ālîm* as Deuteronomy 28:27, and *məhûmâ*, *confusion*, threatened against Israel at 28:20 and
+promised against the nations at 7:23 (WLC). The curse is Yahweh's to send, and here it is sent on Israel's
+enemy. See [[The Ark Among the Philistines]] and
+[[Tumors and Confusion - The Covenant Curses on Ashdod, Gath, and Ekron]]. Source: stored WEB Deuteronomy
+7:23; 28:20, 27; 1 Samuel 5:6–12.
+
 ### *His sons brought a curse on themselves* — 1 Samuel 3:13
 
 *Məqalləlîm lāhem bānāw* (3:13, WLC), *his sons were cursing for themselves*, or *making themselves
@@ -402,6 +411,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[The Ark Among the Philistines]] — 1 Samuel 5:6, 9, 11–12; the tumors and confusion of Deuteronomy 28 on the Philistines.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:13; *məqalləlîm lāhem*, the sons *brought a curse on themselves*.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:30; *qālal*, *be light*, against *kāḇēḏ*, *honor*.
 - [[Wives for Benjamin]] — Judges 21:18; *Cursed is he who gives a wife to Benjamin*.

@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Ark Among the Philistines]] — 1 Samuel 5:6, 9, 12; *ṭəḥōrîm*, the tumors of 28:27, on the Philistines.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 
 
@@ -101,3 +102,14 @@ nation which you don't know will eat the fruit of your ground* (28:33) and *the 
 Judges does not cite Deuteronomy. See [[Midian's Oppression and the Prophet]] and
 [[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]]. Sources: stored WEB
 Deuteronomy 28:33, 38; Judges 6:4–5.
+
+### The tumors in 1 Samuel 5
+
+*The tumors* of 28:27, *ṭəḥōrîm* with the ketiv *ʿŏp̄ālîm* (WLC), fall next on the Philistines who hold the
+ark: *Yahweh … struck them with tumors* at Ashdod, Gath, and Ekron (1 Samuel 5:6, 9, 12). In the WLC files
+searched, the word occurs only at Deuteronomy 28:27 and in 1 Samuel 5–6 (lemma search). The disease
+Deuteronomy listed beside *the boils of Egypt* strikes the nation that had remembered *the gods that struck
+the Egyptians* (4:8), and whose priests then compare themselves to Egypt (6:6). See
+[[Tumors and Confusion - The Covenant Curses on Ashdod, Gath, and Ekron]]. Sources: stored WEB Deuteronomy
+28:27; 1 Samuel 4:8; 5:6–12; 6:6; Hebrew WLC (OpenScriptures morphhb), 2026-11-17, files `Gen` through
+`Ruth`, `1Sam`, `2Sam`, `1Kgs`, `Ps`, `Zeph`.

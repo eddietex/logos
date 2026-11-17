@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Dagon had fallen on his face* — 1 Samuel 5:1–7
+
+The captured ark is set *by Dagon* in his house at Ashdod (5:2). Twice the image is found *fallen on his
+face to the ground before Yahweh's ark*; the first time his worshippers *set him in his place again*, the
+second time his head and both palms lie *cut off on the threshold* (3–4). The god must be lifted by hands and
+is left without them, and the custom of not stepping on Dagon's threshold *to this day* (5) keeps the
+memory in his own cult. The men of Ashdod draw the conclusion themselves: *his hand is severe on us, and on
+Dagon our god* (7). See [[The Ark Among the Philistines]] and
+[[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]]. Source: stored WEB 1 Samuel 5:1–7.
+
 ### *My gods which I made*, carried north — Judges 18
 
 The Danites take Micah's *engraved image, the ephod, the teraphim, and the molten image* (18:17–18) because
@@ -615,6 +625,7 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Ark Among the Philistines]] — 1 Samuel 5:2–7; Dagon twice fallen before the ark, set up again by hand, and broken.
 - [[The Danite Migration]] — Judges 18:14–20, 24, 30–31; Micah's image, ephod, and teraphim taken and set up at Dan.
 - [[Micah's Idol and Levite]] — Judges 17:3–5; the carved and molten image, ephod, and teraphim in Micah's house.
 - [[The Death of Samson]] — Judges 16:23–24, 30; the sacrifice to Dagon, and his fallen house.
