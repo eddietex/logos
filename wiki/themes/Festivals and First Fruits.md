@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *A feast of Yahweh from year to year in Shiloh* — Judges 21:19–21
+
+The only festival named in Judges is the occasion of an abduction. *Ḥaḡ-YHWH bəšilô miyyāmîm yāmîmâ* (21:19,
+WLC): a yearly feast at Shiloh where *the daughters of Shiloh come out to dance in the dances* (21:21), and
+where Benjamin waits in the vineyards. Which feast it is the text does not say; *ḥaḡ YHWH* is Leviticus
+23:39's name for the autumn feast, and the vineyards suggest that season to some readers — reported, not
+decided. See [[Wives for Benjamin]] and
+[[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]]. Source: stored WEB
+Leviticus 23:39; Judges 21:19–21; Hebrew WLC, 2026-11-17.
+
 Recurring worship ordered around remembered deliverance and the produce of the land. A festival sets
 aside time; first fruits dedicate the beginning of the harvest. Exodus 23:14–19 brings these
 practices together without treating every offering or every holy day as the same observance.
@@ -208,6 +218,7 @@ Yahweh, and in rejoicing with the Levite and the foreigner (10–11). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–11.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:19–21; the yearly feast at Shiloh.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.

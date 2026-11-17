@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The oaths sworn here — Judges 21:1, 5, 8
+
+Judges 21 reports two oaths sworn at the Mizpah assembly that chapter 20 did not mention: *None of us will
+give his daughter to Benjamin as a wife* (21:1), and against anyone *who didn't come up to Yahweh to
+Mizpah*, *He shall surely be put to death* (21:5). The roll of the assembly finds Jabesh Gilead missing
+(21:8–9). See [[Wives for Benjamin]]. Source: stored WEB Judges 21:1–9.
+
 ### The assembly of all Israel — Judges 20:1–3
 
 *The congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to
@@ -27,6 +34,7 @@ Named among Benjamin’s second group of fourteen cities with their villages (26
 Source: stored WEB Joshua 18:11–28.
 
 ## Appears in
+- [[Wives for Benjamin]] — Judges 21:1, 5, 8; the oaths, and the town that did not come.
 - [[The War Against Benjamin]] — Judges 20:1–3; the assembly *to Yahweh at Mizpah*.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 

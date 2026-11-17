@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The women of Jabesh and the daughters of Shiloh — Judges 21:10–23
+
+*Strike the inhabitants of Jabesh Gilead with the edge of the sword, with the women and the little ones*
+(21:10). Four hundred girls survive because they are useful (21:12). Then the *daughters of Shiloh* who
+*come out to dance* are caught and *carried off* (21:21, 23). None of the women speaks; the only voices
+anticipated are their *fathers or their brothers* (21:22), and those are answered before they speak. The
+book that began with Achsah asking for springs (1:15) ends with daughters who are not asked. See
+[[Wives for Benjamin]]. Source: stored WEB Judges 1:15; 21:10–23.
+
 ### The woman who never speaks — Judges 19:24–29
 
 The concubine of Judges 19 has no name and no line of speech. She is offered by the host, put out by her
@@ -512,6 +521,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:10–23; the women and little ones of Jabesh, the daughters of Shiloh.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:24–29; the concubine, offered, put out, and never heard.
 
 - [[The Call of Gideon]] — Judges 6:15; *my family is the poorest in Manasseh*, *dal* (WLC).

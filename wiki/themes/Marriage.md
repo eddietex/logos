@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wives by massacre and by abduction — Judges 21
+
+The tribes' oath forbids giving daughters to Benjamin (21:1). So wives are supplied twice without anyone
+*giving* them: four hundred virgins taken from Jabesh Gilead after its people are killed (21:12–14), and
+the daughters of Shiloh, each man to *catch his wife* while they dance (21:21). *Took wives*, *wayyiśʾû
+nāšîm* (21:23, WLC), is the ordinary idiom for marrying. The fathers are to be told, *Grant them graciously
+to us … neither did you give them to them, otherwise you would now be guilty* (21:22). See
+[[Wives for Benjamin]] and [[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]]. Source:
+stored WEB Judges 21:1–23; Hebrew WLC, 2026-11-17.
+
 ### A concubine, a father-in-law, a lord — Judges 19:1–3, 26–27
 
 The woman of Judges 19 is a *pîleḡeš*, a concubine, yet her father is the Levite's *father-in-law* and he
@@ -554,6 +564,7 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:1–23; wives supplied by massacre and by abduction.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–3, 26–27; a concubine treated as a wife, *her husband* become *her lord*.
 
 - [[Ibzan, Elon, and Abdon]] — Judges 12:9; Ibzan's thirty daughters sent out and thirty brought in for his sons.

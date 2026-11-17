@@ -40,7 +40,8 @@ spoken, and the onlookers supply it: *Consider it, take counsel, and speak* (Jud
 where the concubine was abused. Whether 1 Samuel 11 is written to recall Judges 19 the text does not say.
 Readers who find a deliberate echo take it as reversing Gibeah's shame: the same town and the same act,
 this time to rescue an Israelite city, Jabesh Gilead (1 Samuel 11:1, WEB checked at bible-api.com), rather than to destroy a tribe. Jabesh Gilead is also
-the city Israel destroys in Judges 21 (stored WEB; not yet ingested). The wiki reports the reading and does
+the city Israel destroys in Judges 21 ([[Wives for Benjamin]]); see
+[[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]]. The wiki reports the reading and does
 not adopt it beyond the verified wording.
 
 **Twelve.** The concubine is cut into twelve pieces, one for each tribe. Ahijah's twelve torn pieces of

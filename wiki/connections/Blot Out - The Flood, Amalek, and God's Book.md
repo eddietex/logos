@@ -123,3 +123,12 @@ brother's name, it commands for an enemy's memory. Deuteronomy 25:19 also change
 - **The thread moves from a people to persons** — Amalek's memory, then Moses' offer, then the sinner's name, then
   the book of life — and in Deuteronomy 9:14 the sentence on Amalek is pronounced on Israel and lifted only by
   intercession.
+
+### Judges 21:17 — a tribe
+
+*That a tribe not be blotted out from Israel*, *wəlōʾ-yimmāḥeh šēḇeṭ miyyiśrāʾēl* (21:17, WLC). After a
+flood's world, Amalek's memory, and a name in God's book, the thing at risk of being wiped out is one of
+Israel's own tribes, and the danger is Israel's own war. The phrase repeats the levirate law's *that his
+name not be blotted out of Israel* (Deuteronomy 25:6). See [[Wives for Benjamin]] and
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25:6; Judges
+21:17; Hebrew WLC, 2026-11-17.

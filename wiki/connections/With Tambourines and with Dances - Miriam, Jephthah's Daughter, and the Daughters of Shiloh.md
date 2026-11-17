@@ -11,7 +11,7 @@ tags: [connection]
 - [[The Golden Calf]] — Exodus 32:19. *He saw the calf and the dancing* (stored WEB).
 - [[Jephthah's Vow]] — Judges 11:34. *His daughter came out to meet him with tambourines and with dances*
   (stored WEB).
-- **Judges 21:21** *(stored WEB; not yet ingested)* — *if the daughters of Shiloh come out to dance in
+- [[Wives for Benjamin]] — Judges 21:21 *(stored WEB)* — *if the daughters of Shiloh come out to dance in
   the dances, then come out of the vineyards, and each man catch his wife of the daughters of Shiloh*.
 - **1 Samuel 18:6** *(WEB, verified at bible-api.com, 2026-11-15; not yet ingested)* — *the women came
   out of all the cities of Israel, singing and dancing, to meet king Saul, with tambourines, with joy,
@@ -53,3 +53,18 @@ Sources: stored WEB Genesis 31:27; Exodus 15:20–21; 32:19; Judges 11:31, 34; 2
 bible-api.com WEB, 2026-11-15. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb,
 `wlc/Gen.xml` through `wlc/Judg.xml`) with its lemma data, 2026-11-15. The *only* claims cover those seven
 books; 1 Samuel was not searched.
+
+### Judges 21 now ingested — the dancers seized
+
+*Lāḥûl bamməḥōlôṯ* (21:21), *to dance in the dances*, and *hamməḥōləlôṯ*, *those who danced* (21:23, WLC):
+the verb *ḥûl* (lemma 2342 a) joins the noun. The daughters *come out*, *yēṣəʾû* (21:21), and the men
+lying in wait *come out*, *wîṣāʾṯem*, from the vineyards to meet them — the same verb for both. The feast
+is *from year to year* (21:19), as the daughters of Israel's lament for Jephthah's daughter is (11:40); see
+[[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]].
+
+1 Samuel 18:6 can now be checked in the WLC: *wattēṣeʾnâ hannāšîm … lāšîr wəhamməḥōlôṯ … bəṯuppîm*, WEB *the
+women came out … singing and dancing, to meet king Saul, with tambourines* (bible-api.com, 2026-11-17). It has the going out, the dances, and the
+tambourines, so the pair *tambourines … dances* of Exodus 15:20 and Judges 11:34 recurs there, separated by
+other words. See [[Wives for Benjamin]]. Source: stored WEB Judges 11:40; 21:19–23; Hebrew WLC
+(OpenScriptures morphhb, including `1Sam.xml`), 2026-11-17. WEB 1 Samuel 18:6 rechecked at bible-api.com,
+2026-11-17.

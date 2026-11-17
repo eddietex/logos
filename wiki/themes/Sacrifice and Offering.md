@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### An altar at Bethel — Judges 21:4
+
+*On the next day, the people rose early, and built an altar there, and offered burnt offerings and peace
+offerings* (21:4), as they had in 20:26. The offerings follow a question, *why … ?*, and no answer follows
+them. Building an altar at Bethel while the ark is said to be there (20:27) is not commented on. See
+[[Wives for Benjamin]]. Source: stored WEB Judges 20:26–27; 21:4.
+
 ### Burnt offerings at Bethel, and a city *kālîl* — Judges 20:26, 40
 
 Before the third inquiry Israel *offered burnt offerings and peace offerings before Yahweh* at Bethel,
@@ -846,6 +853,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:4; altar, burnt offerings, and peace offerings at Bethel.
 - [[The War Against Benjamin]] — Judges 20:26, 40; offerings at Bethel, and the city *kālîl*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:29; the burnt-offering verb used of the concubine.
 - [[The Death of Samson]] — Judges 16:23; *a great sacrifice to Dagon*.

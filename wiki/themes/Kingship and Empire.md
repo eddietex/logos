@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fourth refrain — Judges 21:25
+
+*In those days there was no king in Israel. Everyone did that which was right in his own eyes* (21:25). The
+full form of 17:6 returns word for word (WLC) as the book's last sentence, directly after the abduction at
+Shiloh. The epilogue is framed by the long form at both ends, with the short form at 18:1 and 19:1. What
+follows in the canon is 1 Samuel, where Israel asks for a king; the first king will be a Benjamite of
+Gibeah. See [[Wives for Benjamin]] and
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]]. Source: stored WEB Judges 17:6;
+18:1; 19:1; 21:25; Hebrew WLC, 2026-11-17.
+
 ### The third refrain — Judges 19:1
 
 *In those days, when there was no king in Israel* (19:1), the short form, introducing a story of violence
@@ -585,6 +595,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:25; the fourth and last *no king in Israel* refrain, full form.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1; the third *no king in Israel* refrain, short form.
 - [[The Danite Migration]] — Judges 18:1; the second *no king in Israel* refrain, without *right in his own eyes*.
 - [[Micah's Idol and Levite]] — Judges 17:6; the first *no king in Israel* refrain.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### A question with no answer — Judges 21:3
+
+*Yahweh, the God of Israel, why has this happened in Israel, that there should be one tribe lacking in
+Israel today?* (21:3). In chapter 20 Israel inquired three times and was answered (20:18, 23, 28). Here the
+only address to Yahweh is *why*, and nothing is recorded in reply; every plan that follows comes from the
+assembly and its elders. See [[Wives for Benjamin]]. Source: stored WEB Judges 20:18–28; 21:3.
+
 ### Three inquiries at Bethel — Judges 20:18–28
 
 Israel asks God three times before the battles, and each question is longer: *Who shall go up for us
@@ -454,6 +461,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Wives for Benjamin]] — Judges 21:3; *why has this happened … ?*, unanswered.
 - [[The War Against Benjamin]] — Judges 20:18, 23, 26–28; three inquiries, the last with fasting.
 - [[The Death of Samson]] — Judges 16:28; *remember me, please, and strengthen me*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:10–15; the cry quoted, refused, and renewed.

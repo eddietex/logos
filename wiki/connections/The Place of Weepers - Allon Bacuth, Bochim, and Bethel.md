@@ -14,9 +14,9 @@ tags: [connection]
 - [[The War Against Benjamin]] — **Judges 20:23, 26** — *The children of Israel went up and wept before Yahweh until evening*; then
   they *came to Bethel, and wept, and sat there before Yahweh, and fasted that day until evening; then
   they offered burnt offerings and peace offerings before Yahweh* (stored WEB).
-- **Judges 21:2–4** — *The people came to Bethel, and sat there until evening before God, and lifted
+- [[Wives for Benjamin]] — Judges 21:2–4 — *The people came to Bethel, and sat there until evening before God, and lifted
   up their voices, and wept severely.* The next day they built an altar there and offered burnt
-  offerings and peace offerings (stored WEB; *not yet ingested*).
+  offerings and peace offerings (stored WEB).
 
 ## Analysis
 
@@ -63,3 +63,12 @@ next, at Mizpah. Here weeping is followed by an inquiry and an answer, *tomorrow
 your hand* (20:28) — the only one of these scenes in which Yahweh replies. The next day Benjamin is nearly
 destroyed, and in 21:2 the people weep at Bethel again. See [[The War Against Benjamin]]. Source: stored
 WEB Judges 20:23–28; 21:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+### Judges 21 now ingested — weeping without an answer
+
+*Wayyiśʾû qôlām wayyiḇkû bəḵî gāḏôl* (21:2, WLC): *lifted up their voices, and wept severely*, the idiom of
+2:4 (*wayyiśʾû hāʿām ʾeṯ-qôlām wayyiḇkû*). At Bochim the people wept at a rebuke; at Bethel in 20:26 they
+wept, fasted, and were answered; at Bethel in 21:2–4 they weep, ask *why … ?*, build an altar, and offer,
+and no reply is recorded. The book's last scene of weeping is the only one of the three in Judges with a
+question addressed to Yahweh and no word from him. See [[Wives for Benjamin]]. Source: stored WEB Judges
+2:4–5; 20:26–28; 21:2–4; Hebrew WLC, 2026-11-17.

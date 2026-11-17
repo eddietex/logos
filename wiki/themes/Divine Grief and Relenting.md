@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Israel grieves — Judges 21:6, 15
+
+*The children of Israel grieved for Benjamin their brother*, *wayyinnāḥămû* (21:6); *the people grieved
+for Benjamin, because Yahweh had made a breach in the tribes of Israel*, *niḥām* (21:15, WLC). In the WLC of
+Judges the niphal of *nāḥam* occurs only here and at 2:18, where *it grieved Yahweh because of their
+groaning* and he raised up judges. At the end of the book the grief is Israel's, and it is grief over its
+own act; the breach it attributes to Yahweh. See [[Wives for Benjamin]]. Source: stored WEB Judges 2:18;
+21:6, 15; Hebrew WLC, 2026-11-17.
+
 ### His soul was short — Judges 10:16
 
 After *I will save you no more* (13) and Israel's second confession, *his soul was grieved for the misery of Israel* (16). The Hebrew is not *nāḥam*, the verb of 2:18, but *qāṣar* with *nepeš*, *his soul became short* (WLC). In Numbers 21:4 and Judges 16:16 the same idiom describes people who can bear no more. Whether it is grief, impatience, or both, the text does not say, and it does not say that Yahweh relented. See [[His Soul Was Short - Numbers 21.4, Judges 10.16, and Judges 16.16]].
@@ -162,6 +171,7 @@ Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It 
 
 ## Key passages
 
+- [[Wives for Benjamin]] — Judges 21:6, 15; *nāḥam* used of Israel's grief for Benjamin.
 - [[Israel's Repentance Under Ammon]] — Judges 10:16; *his soul was grieved*, *qāṣar nepeš*.
 - [[Another Generation Arose]] — Judges 2:18; *it grieved Yahweh because of their groaning*.
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

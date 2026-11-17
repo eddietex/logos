@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Jabesh Gilead destroyed — Judges 21:8–14
+
+The town of Gilead that did not come to Mizpah, [[Jabesh Gilead]], is struck by twelve thousand men, and
+its four hundred virgins are taken west *to the camp to Shiloh, which is in the land of Canaan* (21:12) —
+the wording used when the Gileadite tribes left Shiloh for home (Joshua 22:9, WLC). See
+[[Wives for Benjamin]]. Source: stored WEB Joshua 22:9; Judges 21:8–14.
+
 ### *With the land of Gilead* — Judges 20:1
 
 The assembly against Benjamin is *from Dan even to Beersheba, with the land of Gilead* (20:1): the tribes
@@ -207,6 +214,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Wives for Benjamin]] — Judges 21:8–14; Jabesh Gilead, a town of Gilead, destroyed.
 - [[The War Against Benjamin]] — Judges 20:1; *with the land of Gilead*.
 - [[Shibboleth]] — Judges 12:1–7; Gilead's men fight Ephraim, and Jephthah is buried in its cities.
 - [[Jephthah's Vow]] — Judges 11:29, 40; Jephthah passes over Gilead to Ammon.

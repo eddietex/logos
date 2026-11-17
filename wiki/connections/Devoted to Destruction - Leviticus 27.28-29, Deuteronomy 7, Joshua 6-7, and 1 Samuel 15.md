@@ -196,3 +196,15 @@ Leviticus supplies the rule behind later stories: Achan's theft and Saul's mercy
 
 Sources: WEB from stored raw files and bible-api.com, 2026-10-30. Hebrew from WLC (morphhb, GitHub),
 2026-10-30, where Exodus 22:20 is numbered 22:19.
+
+### Judges 21 now ingested — the ban on an Israelite town
+
+In the WLC of Judges the verb *ḥāram* occurs twice (lemma 2763): at 1:17, when Judah and Simeon *utterly
+destroyed* Zephath and named it Hormah, and at 21:11, *you shall utterly destroy every male, and every woman
+who has lain with a man*, said of Jabesh Gilead. The book's first ban falls on a Canaanite city, its last
+on an Israelite one. Deuteronomy 13:12–18 had provided for the ban on an Israelite city that served other
+gods; Jabesh's offence is absence from an assembly, under an oath the assembly swore (21:5), and no inquiry
+of Yahweh precedes the command. The ban at Jabesh also stops short of its own word: four hundred girls are
+kept alive, as in Numbers 31:18. See [[Wives for Benjamin]] and
+[[Every Woman Who Has Known a Man - Numbers 31 and Jabesh Gilead]]. Source: stored WEB Numbers 31:18;
+Deuteronomy 13:12–18; Judges 1:17; 21:5–12; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

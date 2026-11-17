@@ -7,6 +7,22 @@ tags: [person]
 
 ## Overview
 
+### Wives for the six hundred — Judges 21:1–25
+
+The war leaves Benjamin six hundred men at the rock of Rimmon, and Israel has sworn at Mizpah, *None of us
+will give his daughter to Benjamin as a wife* (21:1). The tribes weep at Bethel, *why has this happened in
+Israel, that there should be one tribe lacking in Israel today?* (21:3), and *grieved for Benjamin their
+brother* (21:6). They proclaim peace to the six hundred (21:13), give them the four hundred virgins spared
+at Jabesh Gilead (21:12–14), and, when *there still weren't enough* (21:14), tell them to lie in wait at
+Shiloh's yearly feast and *catch* the dancing daughters (21:19–21). The stated aim is the tribe's
+survival: *There must be an inheritance for those who are escaped of Benjamin, that a tribe not be blotted
+out from Israel* (21:17), in the words of the levirate law (Deuteronomy 25:6, WLC). Benjamin returns to its
+inheritance and rebuilds the burned cities (21:23). In 1 Samuel the tribe gives Israel its first
+king, Saul of Gibeah, whose first act as king is to save Jabesh Gilead (1 Samuel 11, WEB checked at
+bible-api.com; not yet ingested). See [[Wives for Benjamin]] and
+[[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]]. Source: stored WEB Judges
+21:1–23; Deuteronomy 25:6; Hebrew WLC, 2026-11-17.
+
 ### The war against Benjamin — Judges 20:1–48
 
 Asked to *deliver up the men, the wicked fellows, who are in Gibeah, … Benjamin would not listen to the
@@ -258,6 +274,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Wives for Benjamin]] — Judges 21:1–25; the six hundred given wives from Jabesh Gilead and Shiloh.
 - [[The War Against Benjamin]] — Judges 20:1–48; the tribe refuses, fights, and is reduced to six hundred.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:14–25; Gibeah of Benjamin, where no one takes the travelers in.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.

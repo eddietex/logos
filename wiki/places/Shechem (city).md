@@ -15,6 +15,11 @@ man himself.
 
 ## Overview
 
+### The highway to Shechem — Judges 21:19
+
+Shiloh is placed *on the east side of the highway that goes up from Bethel to Shechem* (21:19). Shechem
+appears only as the road's destination. See [[Wives for Benjamin]]. Source: stored WEB Judges 21:19.
+
 ### Joseph's grave — Joshua 24:29–33
 
 Joseph's bones, brought up out of Egypt, are buried here in the parcel Jacob bought (32), and it
@@ -163,6 +168,7 @@ text of Judges does not say when or by whom it was rebuilt. See [[The Fall of Ab
 
 ## Appears in
 
+- [[Wives for Benjamin]] — Judges 21:19; the end of the highway from Bethel.
 - [[The Fall of Abimelech]] — Judges 9:22–57; turns against Abimelech, is taken, beaten down, and sown with salt; its tower burned.
 
 - [[Jotham's Fable]] — Judges 9:7–21; addressed and cursed by Jotham from Gerizim.

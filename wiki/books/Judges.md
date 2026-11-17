@@ -5,7 +5,7 @@ genre: Historical narrative — the tribes in the land between Joshua and the ki
 author: Anonymous; tradition (Bava Batra 14b–15a, recalled not verified) assigns it to Samuel, but the book names no author and four times says *In those days there was no king in Israel* (17:6; 18:1; 19:1; 21:25)
 canonical_order: 7
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Judges
 
@@ -431,6 +431,18 @@ The third day is Ai's stratagem turned inward: ambushes, a feigned flight, smoke
 up* — *kālîl*, the word for the condemned city of Deuteronomy 13. Twenty-five thousand Benjamites fall,
 every town and its livestock is struck and burned, and six hundred men hold the rock of Rimmon.
 
+[[Wives for Benjamin]] (21:1–25) closes the book with the war's cost. Two oaths sworn at Mizpah, reported
+only now, bind the tribes: no one will give a daughter to Benjamin, and whoever did not come up *shall
+surely be put to death*. They weep at Bethel, *why has this happened in Israel, that there should be one
+tribe lacking?*, and no answer is recorded. Jabesh Gilead, found missing from the count, is put under the
+ban in the words of Numbers 31 — every male and *every woman who has lain with a man* — and its four hundred
+virgins are given to the six hundred. *There still weren't enough*. So, *that a tribe not be blotted out
+from Israel*, in the levirate law's words, the elders send Benjamin to lie in wait at *a feast of Yahweh
+from year to year in Shiloh* and *catch* the daughters who come out to dance, and keep the oath by its
+letter: the fathers did not *give*. Benjamin rebuilds its cities; Israel goes home, *every man … to his own
+inheritance*, as under Joshua at 2:6, but with no one to send them. The last sentence is the refrain in
+full: *In those days there was no king in Israel. Everyone did that which was right in his own eyes*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -494,18 +506,18 @@ merge, or reorder them freely.
 - [x] [[The Danite Migration]] — Judges 18:1–31
 - [x] [[The Levite's Concubine at Gibeah]] — Judges 19:1–30
 - [x] [[The War Against Benjamin]] — Judges 20:1–48
-- [ ] Wives for Benjamin — Judges 21:1–25
+- [x] [[Wives for Benjamin]] — Judges 21:1–25
 
 ## Key themes
 - [[War]] — the tribes' campaigns, and at the end a war of Israel against one of its own tribes.
 - [[Retribution]] — *As I have done, so God has done to me* (1:7), the first of the book's
   measure-for-measure reversals; *Thus God repaid the wickedness of Abimelech* (9:56).
 - [[Land and Sojourning]] — the land allotted in Joshua, still to be taken in Judges.
-- [[Brotherhood]] — Judah and Simeon fight together (1:3); *He is our brother*, and seventy brothers killed on one stone (9:3–5); Judah leads against Benjamin, *my brother* (20:18, 23, 28).
+- [[Brotherhood]] — Judah and Simeon fight together (1:3); *He is our brother*, and seventy brothers killed on one stone (9:3–5); Judah leads against Benjamin, *my brother* (20:18, 23, 28); *grieved for Benjamin their brother* (21:6).
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39); Yahweh's *I will test them for you* at the water (7:4).
-- [[Marriage]] — daughters taken and given with the land's peoples (3:6); Ibzan's thirty daughters sent out and thirty brought in (12:9); a Levite's concubine with a father-in-law, *her husband* become *her lord* (19:1–3, 26–27).
+- [[Marriage]] — daughters taken and given with the land's peoples (3:6); Ibzan's thirty daughters sent out and thirty brought in (12:9); a Levite's concubine with a father-in-law, *her husband* become *her lord* (19:1–3, 26–27). Wives for Benjamin by massacre at Jabesh Gilead and by abduction at Shiloh (21:12–23).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
@@ -525,7 +537,7 @@ merge, or reorder them freely.
 - [[Redemption]] — *who saved them* (2:16); Tola *arose to save Israel* (10:1); *I will save you no more* (10:13).
 - [[Sin]] — *We have sinned against you*, the first quoted confession (10:10, 15).
 - [[Judgment]] — *May Yahweh the Judge be judge today* (11:27).
-- [[Oaths and Vows]] — Jephthah's vow, *I can't go back* (11:30–39).
+- [[Oaths and Vows]] — Jephthah's vow, *I can't go back* (11:30–39); the two oaths of Mizpah, one kept by a massacre and one by its letter (21:1, 5, 18–22).
 - [[Barrenness]] — Manoah's wife, *barren, and childless* (13:2–3).
 - [[Prayer]] — Samson calls on Yahweh in thirst, and the spring is opened (15:18–19); *remember me, please, and strengthen me* (16:28).
 - [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7); the razor at last (16:17–19).
@@ -534,7 +546,7 @@ merge, or reorder them freely.
 - [[Priesthood]] — Micah fills the hand of his son and of a hired Levite (17:5, 12); *priest to a tribe and a family in Israel* (18:19, 30).
 - [[Theft and Restitution]] — *I took it* (17:2).
 - [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31); the burnt offering's *cut into pieces* used of the concubine (19:29).
-- [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
+- [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40); *why has this happened in Israel?* at Bethel (21:2–3).
 - [[Remembrance]] — the road from Egypt told as evidence (11:15–26).
 - [[Divine Grief and Relenting]] — *it grieved Yahweh* (2:18); *his soul was grieved for the misery of Israel* (10:16).
 - [[Hospitality]] — Jael's milk and tent peg (4:17–21; 5:25); bread refused at Succoth (8:5–8); five days at Bethlehem, no one at Gibeah but an outsider (19:3–24).
@@ -588,7 +600,7 @@ merge, or reorder them freely.
 - [[Gershom]] and [[Moses]] — Jonathan's father and grandfather, *Moses* or *Manasseh* (18:30).
 - [[Dan (person)]] — *Dan their father, who was born to Israel*, for whom Laish is renamed (18:29).
 - [[The Levite (husband of the concubine)]], [[The Levite's Concubine]], [[The Levite's Father-in-Law]], and [[The Old Man of Gibeah]] — the journey from Bethlehem Judah, the night at Gibeah, and the twelve pieces (19:1–30).
-- [[Benjamin]] — *the men of the place were Benjamites* (19:16); refuses the assembly, defeats it twice, and is reduced to six hundred (20:13–48).
+- [[Benjamin]] — *the men of the place were Benjamites* (19:16); refuses the assembly, defeats it twice, and is reduced to six hundred (20:13–48); given wives from Jabesh Gilead and Shiloh, and rebuilds its cities (21:13–23).
 - [[Phinehas (son of Eleazar)]] — before the ark at Bethel *in those days* (20:28).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
@@ -633,3 +645,4 @@ merge, or reorder them freely.
 - [[Bethlehem]], [[Jerusalem]], [[Gibeah (Benjamin)]], and [[Ramah]] — the concubine's home; *Jebus … the city of a foreigner*; the night at Gibeah; the other town named (19:1–13).
 - [[Mizpeh]] — *Mizpah*, the assembly (20:1); [[Dan (city)]] and [[Beersheba]], its two ends; [[Gilead]] (20:1).
 - [[Bethel]] — inquiry, fasting, and the ark (20:18, 26–28); [[Gibeah (Benjamin)]] struck and burned (20:37–40); [[Baal Tamar]] and [[Geba]], *Maareh Geba* (20:33); [[Gidom]] and [[The Rock of Rimmon]] (20:45–47).
+- [[Jabesh Gilead]] — absent from Mizpah, put under the ban, four hundred daughters taken (21:8–14); [[Shiloh]] — the camp, the yearly feast, and the dancers seized (21:12, 19–23); [[Lebonah]] and [[Shechem (city)]], its landmarks (21:19).

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Why has this happened?* — Judges 21:2–3, 6, 15
+
+At Bethel again the people *lifted up their voices, and wept severely*, *wayyiśʾû qôlām wayyiḇkû bəḵî
+gāḏôl* (21:2, WLC), and the lament is a question to Yahweh: *why has this happened in Israel, that there
+should be one tribe lacking in Israel today?* (21:3). They *grieved for Benjamin their brother* (21:6, 15).
+No answer is recorded. The grief is for the result of a war they fought, and it leads to a second war and
+an abduction. See [[Wives for Benjamin]]. Source: stored WEB Judges 21:2–15; Hebrew WLC, 2026-11-17.
+
 ### Weeping and fasting at Bethel — Judges 20:23, 26
 
 After the first defeat Israel *wept before Yahweh until evening* (20:23); after the second, all the people
@@ -296,6 +304,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[Wives for Benjamin]] — Judges 21:2–3, 6, 15; weeping at Bethel, and grief for Benjamin.
 - [[The War Against Benjamin]] — Judges 20:23, 26; weeping, and the first fast in Genesis–Judges.
 - [[Jephthah's Vow]] — Judges 11:35–40; torn clothes, two months on the mountains, and a yearly lament.
 - [[The Angel at Bochim]] — Judges 2:4–5; the people weep, and name the place for it.

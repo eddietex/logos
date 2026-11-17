@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Peace proclaimed after the war — Judges 21:13
+
+*The whole congregation sent and spoke to the children of Benjamin who were in the rock of Rimmon, and
+proclaimed peace to them* (21:13), *wayyiqrəʾû lāhem šālôm* (WLC) — Deuteronomy 20:10's *proclaim peace*,
+which the law offers a city before a siege, offered here after the war has nearly ended the tribe. The peace
+is kept by making two more victims: Jabesh Gilead and the daughters of Shiloh. See [[Wives for Benjamin]].
+Source: stored WEB Deuteronomy 20:10; Judges 21:10–23; Hebrew WLC, 2026-11-17.
+
 ### A demand refused — Judges 20:12–14
 
 Before any battle the tribes send through Benjamin with a question and a demand: *What wickedness is this
@@ -466,6 +474,7 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:13; *proclaimed peace* to the six hundred.
 - [[The War Against Benjamin]] — Judges 20:12–14; the demand, and the refusal.
 - [[Shibboleth]] — Judges 12:1–4; *a man of strife*, and an answer that does not turn away wrath.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; an embassy before battle, *peaceably*, and *did he ever strive*.

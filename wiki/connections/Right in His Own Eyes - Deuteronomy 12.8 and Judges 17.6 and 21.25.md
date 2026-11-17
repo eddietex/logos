@@ -12,8 +12,8 @@ tags: [connection]
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:8: *"You shall not do all the things that we
   do here today, every man whatever is right in his own eyes"*; set against *"that which is right
   in Yahweh's eyes"* (12:25) and *"good and right in Yahweh your God's eyes"* (12:28).
-- [[Micah's Idol and Levite]] — Judges 17:6, and 21:25 — *"In those days there was no king in Israel.
-  Everyone did that which was right in his own eyes."* Stored WEB; 21:25 not yet ingested.
+- [[Micah's Idol and Levite]] — Judges 17:6, and [[Wives for Benjamin]] — 21:25 — *"In those days there was no king in Israel.
+  Everyone did that which was right in his own eyes."* Stored WEB.
 - [[Whoever Loves Correction]] — Proverbs 12:15: *"The way of a fool is right in his own eyes, but
   he who is wise listens to counsel."*
 - [[The King's Heart]] — Proverbs 21:2: *"Every way of a man is right in his own eyes, but Yahweh
@@ -126,3 +126,13 @@ refrain says *yāšār*, *right*; the host says *ṭôḇ*, *good*. The wiki not
 not an identity of phrase. See [[The Levite's Concubine at Gibeah]] and
 [[Two Levites from Bethlehem Judah - Judges 17 and 19]]. Source: stored WEB Judges 19:1, 24; Genesis 19:8;
 Hebrew WLC, 2026-11-17.
+
+### The last refrain — Judges 21:25
+
+*Bayyāmîm hāhēm ʾên meleḵ bəyiśrāʾēl ʾîš hayyāšār bəʿênāyw yaʿăśeh* (21:25, WLC), the full form of 17:6,
+identical in the WLC. It follows directly on the seizure of the daughters of Shiloh and the elders' plan to
+excuse it to their fathers (21:19–24), and it is the last sentence of the book. The epilogue is now
+complete: long form (17:6), short form (18:1), short form with the order turned (19:1), long form (21:25).
+Deuteronomy 12 contrasted *right in his own eyes* with *right in Yahweh's eyes*; Judges 21 has no word
+from Yahweh at all after its question *why?* (21:3). See [[Wives for Benjamin]]. Source: stored WEB
+Judges 17:6; 18:1; 19:1; 21:3, 19–25; Hebrew WLC, 2026-11-17.

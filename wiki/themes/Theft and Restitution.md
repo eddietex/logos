@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Whom they carried off* — Judges 21:23
+
+Benjamin *took wives for themselves … of those who danced, whom they carried off*, *ʾăšer gāzālû* (21:23,
+WLC). *Gāzal* is the law's verb of robbery (*nor rob him*, Leviticus 19:13; Leviticus 5:23 Hebrew), and in
+Judges the verb of the men of Shechem who *robbed all who came along* from ambush (9:25). Here too the
+robbers lie in ambush first (21:20). No restitution is contemplated; the elders plan only to ask the
+fathers' indulgence (21:22). See [[Wives for Benjamin]]. Source: stored WEB Leviticus 19:13; Judges 9:25;
+21:20–23; Hebrew WLC, 2026-11-17.
+
 ### The thief robbed — Judges 18:24
 
 Micah, who took his mother's silver (17:2), loses what it bought: *You have taken away my gods which I
@@ -236,6 +245,7 @@ participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pled
 
 ## Key passages
 
+- [[Wives for Benjamin]] — Judges 21:20–23; the dancers *carried off*, *gāzal*.
 - [[The Danite Migration]] — Judges 18:17–26; Micah's image and priest taken by force.
 - [[Micah's Idol and Levite]] — Judges 17:2–4; Micah's confessed theft from his mother.
 - [[The Sin of Achan]] — Joshua 7:1–26.

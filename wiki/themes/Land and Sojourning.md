@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Each man to his inheritance — Judges 21:17, 23–24
+
+*There must be an inheritance for those who are escaped of Benjamin* (21:17). Benjamin *returned to their
+inheritance, built the cities, and lived in them* (21:23), and Israel disperses *every man to his tribe and
+to his family … to his own inheritance*, *ʾîš lənaḥălāṯô* (21:24, WLC) — the phrase of Joshua 24:28 and
+Judges 2:6, when Joshua sent the people home. The book ends where its second introduction began, with
+the tribes going to their land, and with no Joshua to send them. See [[Wives for Benjamin]]. Source: stored
+WEB Joshua 24:28; Judges 2:6; 21:17–24; Hebrew WLC, 2026-11-17.
+
 ### Two sojourners — Judges 19:1, 16
 
 The Levite is *gār*, sojourning, on the far side of the hill country of Ephraim (19:1, WLC); his host at
@@ -1105,6 +1114,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:17, 23–24; an inheritance kept, and each man to his own.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16; the Levite and the old man, both *gār*.
 - [[The Danite Migration]] — Judges 18:1, 7–10, 27–29; a tribe without an inheritance takes Laish.
 - [[Micah's Idol and Levite]] — Judges 17:7–9; a sojourning Levite looking for a place to live.

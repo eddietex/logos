@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Shiloh in the land of Canaan — Judges 21:12
+
+The virgins of Jabesh Gilead are brought *to the camp to Shiloh, which is in the land of Canaan* (21:12).
+The phrase marks the west bank against Gilead, as in Joshua 21:2 and 22:9. See [[Wives for Benjamin]].
+Source: stored WEB Joshua 21:2; 22:9; Judges 21:12.
+
 ### All the wars of Canaan — Judges 3:1–6
 
 The nations are left to test those *who had not known all the wars of Canaan* (1). The land's wars are
@@ -557,6 +563,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[Wives for Benjamin]] — Judges 21:12; *Shiloh, which is in the land of Canaan*.
 - [[The Nations Left to Test Israel]] — Judges 3:1; *all the wars of Canaan*.
 - [[The Angel at Bochim]] — Judges 2:1–3; *the land which I swore to give your fathers*, and its inhabitants left in it.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the land's inhabitants not driven out.

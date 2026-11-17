@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Benjamin their brother*, and the brothers of Shiloh — Judges 21:6, 22
+
+After the war Israel *grieved for Benjamin their brother*, *binyāmin ʾāḥîw* (21:6, WLC), and the grief
+produces wives for him at the cost of other brothers: the elders expect *their fathers or their brothers*
+of the Shiloh girls to *come to complain* (21:22), and answer them in advance. The brother tribe is
+restored; the brothers of the seized girls are told to be gracious. See [[Wives for Benjamin]]. Source:
+stored WEB Judges 21:6, 22; Hebrew WLC, 2026-11-17.
+
 ### *Benjamin my brother* — Judges 20
 
 The tribes send to Benjamin as brothers, and Benjamin *would not listen to the voice of their brothers the
@@ -446,6 +454,7 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:6, 22; *Benjamin their brother*, and the brothers of Shiloh.
 - [[The War Against Benjamin]] — Judges 20:13, 23, 28; *their brothers*, and *Benjamin my brother*.
 - [[Shibboleth]] — Judges 12:4–6; the tribes of Joseph's two sons at war.
 - [[Jephthah Called from Tob]] — Judges 11:2–3, 7; *they drove Jephthah out*; *Jephthah fled from his brothers*; *Didn't you hate me*.

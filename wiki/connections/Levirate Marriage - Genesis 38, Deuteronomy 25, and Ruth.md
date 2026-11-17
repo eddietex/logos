@@ -143,3 +143,14 @@ Ruth's was declined by the nearer redeemer at the gate. **Both times the duty is
 who was not first in line**, and both times the child is in the genealogy at Matthew 1. **Scripture
 keeps the messy provenance on the record**, which is the observation the wiki takes from the thread as
 a whole.
+
+### Judges 21:17 — a tribe not blotted out
+
+The elders' reason for finding wives for Benjamin borrows the levirate law's purpose clause. Deuteronomy
+25:6 has *that his name not be blotted out of Israel*, *wəlōʾ-yimmāḥeh šəmô miyyiśrāʾēl*; Judges 21:17 has
+*that a tribe not be blotted out from Israel*, *wəlōʾ-yimmāḥeh šēḇeṭ miyyiśrāʾēl* (WLC). In the WLC files of
+Genesis through 1 Samuel searched, *māḥâ* (lemma 4229 a) is joined to *miyyiśrāʾēl* only in
+these two verses. Whether
+Judges echoes the law deliberately the text does not say; the wording is shared. The levirate keeps a dead
+brother's name by a wife the family provides; Judges 21 keeps a brother tribe by wives the family takes. See
+[[Wives for Benjamin]]. Source: stored WEB Deuteronomy 25:6; Judges 21:17; Hebrew WLC, 2026-11-17.

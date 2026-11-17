@@ -10,8 +10,8 @@ tags: [connection]
 - Genesis 19:1–11 — two visitors, a host at the gate, a town at the door, a daughter offered
 - Judges 19:11–30 — the Levite at Gibeah: the same scene, in Israel, with no angels in it. See
   [[The Levite's Concubine at Gibeah]]
-- [[The War Against Benjamin]] — Judges 20; the war it causes. Judges 21, the near-extinction of Benjamin, is
-  not yet ingested.
+- [[The War Against Benjamin]] — Judges 20; the war it causes. [[Wives for Benjamin]] — Judges 21; the near-extinction
+  of Benjamin and its repair.
 - Hosea 9:9; 10:9 — *"the days of Gibeah"*, the prophets' shorthand for it
 - Genesis 22:6, 10; Judges 19:29 — *maʾăkelet*, the slaughtering knife: the Bible uses the word in
   exactly two narratives, and the blade is stopped in only one of them. See

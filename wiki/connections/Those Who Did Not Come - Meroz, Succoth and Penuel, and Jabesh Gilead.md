@@ -11,7 +11,7 @@ tags: [connection]
   cursed.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:5–17 *(now ingested)* — Succoth and Penuel refuse Gideon
   bread, and he punishes both.
-- **Judges 21:5–12** *(not yet ingested; stored WEB)* — Jabesh Gilead does not come to Mizpah, and the
+- [[Wives for Benjamin]] — Judges 21:5–12 — Jabesh Gilead does not come to Mizpah, and the
   congregation destroys it.
 
 ## Analysis
@@ -67,5 +67,17 @@ down this tower* (8:9), and he also *killed the men of the city* (8:17). Ephraim
 about not being *called* (8:1), is answered gently. Source: stored WEB Judges 8:1–17; Hebrew WLC
 (OpenScriptures morphhb), 2026-11-15.
 
-Sources: stored WEB Judges 5:15–17, 23; 8:5–17; 21:5–12. Judges 21 is not yet ingested; its page will need
-to link here when it is.
+Sources: stored WEB Judges 5:15–17, 23; 8:5–17; 21:5–12. Judges 21 is now ingested; see the section below.
+
+### Judges 21 now ingested — the oath behind the sentence
+
+The ingest of 21:1–25 adds what the summary above passed over. The sentence on Jabesh Gilead was sworn in
+advance: *they had made a great oath concerning him who didn't come up to Yahweh to Mizpah, saying, "He
+shall surely be put to death"* (21:5), using the law's formula *môṯ yûmāṯ* (WLC). The oath named *him who
+didn't come up*; the command extends it to *the women and the little ones* (21:10). And the destruction is
+not only punishment. The assembly finds Jabesh missing while asking *How shall we provide wives for those
+who remain?* (21:7–8), and the four hundred virgins it spares are given to Benjamin (21:12–14). The search
+for the absent and the search for wives are one search. The town's later history — saved by Saul, the
+Benjamite of Gibeah, and burying him — is traced at
+[[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]]. See [[Wives for Benjamin]] and
+[[Jabesh Gilead]]. Source: stored WEB Judges 21:5–14; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

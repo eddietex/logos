@@ -290,7 +290,7 @@ says nothing of Meroz, of Reuben, or of the stars.
 - **Genesis 49; Deuteronomy 33** — the tribes by name. See
   [[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]] and
   [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
-- [[Ephraim, Succoth, and Penuel]] — Judges 8:5–17; **Judges 21:8–12** (not yet ingested) — Succoth, Penuel, and Jabesh Gilead, who also did not come. See
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:5–17; [[Wives for Benjamin]] (Judges 21:8–12) — Succoth, Penuel, and Jabesh Gilead, who also did not come. See
   [[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]].
 - **Luke 1:28, 42** — *Blessed are you among women* (WEB, checked at bible-api.com). See
   [[Blessed Among Women - Jael in Judges 5.24 and Mary in Luke 1]].

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Cursed is he who gives a wife* — Judges 21:18
+
+The Mizpah oath is quoted at last as a curse formula: *Cursed is he who gives a wife to Benjamin*, *ʾārûr
+nōṯēn ʾiššâ ləḇinyāmin* (21:18, WLC). The curse binds the swearers themselves, and the elders' whole plan at
+Shiloh is shaped to keep any father from falling under it (21:22). Joshua's oath over Jericho had the same
+form, *swore … saying, Cursed is the man* (Joshua 6:26). See [[Wives for Benjamin]]. Source: stored WEB
+Joshua 6:26; Judges 21:18–22; Hebrew WLC, 2026-11-17.
+
 ### The mother's curse — Judges 17:2
 
 *The eleven hundred pieces of silver that were taken from you, about which you uttered a curse, and also
@@ -376,6 +384,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:18; *Cursed is he who gives a wife to Benjamin*.
 - [[Micah's Idol and Levite]] — Judges 17:2; a mother's curse on a thief, heard by her son.
 - [[The Fall of Abimelech]] — Judges 9:27, 57; Shechem *cursed Abimelech*, and *the curse of Jotham … came on them*.
 - [[Jotham's Fable]] — Judges 9:20, 57; fire both ways, spoken from Gerizim.

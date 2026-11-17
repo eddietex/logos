@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Otherwise you would now be guilty* — Judges 21:22
+
+The elders reassure the fathers of Shiloh: *neither did you give them to them, otherwise you would now be
+guilty*, *teʾšāmû* (21:22, WLC). *ʾĀšam* is the verb of the guilt and trespass laws (Leviticus 4–5; Numbers
+5:6–7, lemma 816); here guilt is measured only against the oath's words, and the abduction itself is not
+weighed. See [[Wives for Benjamin]]. Source: stored WEB Judges 21:22; Hebrew WLC, 2026-11-17.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Achan stays hidden through the defeat and the tribal selection and confesses only when taken.
@@ -217,6 +224,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[Wives for Benjamin]] — Judges 21:22; guilt measured by the oath's letter.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

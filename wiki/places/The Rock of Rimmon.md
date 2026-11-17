@@ -7,14 +7,22 @@ tags: [place]
 
 ## Overview
 
+### Peace proclaimed — Judges 21:13
+
+*The whole congregation sent and spoke to the children of Benjamin who were in the rock of Rimmon, and
+proclaimed peace to them* (21:13). *Wayyiqrəʾû lāhem šālôm* (WLC) uses the verb and noun of Deuteronomy
+20:10, *proclaim peace to it*, said there of a city before a siege. The six hundred come down and are given
+wives (21:14). See [[Wives for Benjamin]]. Source: stored WEB Deuteronomy 20:10; Judges 21:13–14; Hebrew
+WLC, 2026-11-17.
+
 ### The six hundred — Judges 20:45–47
 
 Broken at Gibeah, Benjamin *turned and fled toward the wilderness to the rock of Rimmon* (Judges 20:45).
 Five thousand are cut down on the highways and two thousand more at [[Gidom]] (45); *six hundred men
 turned and fled toward the wilderness to the rock of Rimmon, and stayed in the rock of Rimmon four
 months* (47). They are what is left of the tribe. In the next chapter *the whole congregation sent and spoke
-to the children of Benjamin who were in the rock of Rimmon, and proclaimed peace to them* (21:13, stored
-WEB; not yet ingested).
+to the children of Benjamin who were in the rock of Rimmon, and proclaimed peace to them* (21:13; see
+[[Wives for Benjamin]]).
 
 *Selaʿ hārimmôn* (45, 47, WLC), *the crag of the pomegranate*. *Selaʿ* is a crag or cliff, the word of
 [[The Rock of Etam]] (15:8) and of the rock Moses was told to speak to and struck (Numbers 20:8–11). The verses place it
@@ -25,6 +33,7 @@ See [[The War Against Benjamin]]. Source: stored WEB Judges 15:8; 20:45–47; 21
 WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Wives for Benjamin]] — Judges 21:13; peace proclaimed to the six hundred.
 - [[The War Against Benjamin]] — Judges 20:45, 47.
 
 ## Related places
@@ -34,4 +43,4 @@ WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Events here
 - Six hundred Benjamites hold out four months (20:47).
-- Peace is proclaimed to them (21:13; not yet ingested).
+- Peace is proclaimed to them (21:13).

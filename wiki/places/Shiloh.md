@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The camp, the feast, and the dances — Judges 21:12, 19–23
+
+The four hundred virgins of Jabesh Gilead are brought *to the camp to Shiloh, which is in the land of
+Canaan* (21:12), the wording of Joshua 22:9 (WLC). Then the elders point to *a feast of Yahweh from year to
+year in Shiloh*, and give directions to it — *on the north of Bethel, on the east side of the highway that
+goes up from Bethel to Shechem, and on the south of Lebonah* (21:19) — as if the place of *God's house*
+(18:31) needed finding. Benjamin lies in wait in the vineyards and seizes *the daughters of Shiloh* as they
+dance (21:20–23). The next Shiloh scene in reading order is Elkanah going up *from year to year* to
+sacrifice there (1 Samuel 1:3, WEB checked at bible-api.com; not yet ingested). See [[Wives for Benjamin]],
+[[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]], and [[Lebonah]]. Source:
+stored WEB Joshua 22:9; Judges 18:31; 21:12, 19–23.
+
 ### *Yahweh's house*? — Judges 19:18
 
 The Levite says *I am going to Yahweh's house* (19:18; the Greek is reported to read *my house* — not
@@ -57,6 +69,7 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[Wives for Benjamin]] — Judges 21:12, 19–23; the camp, the yearly feast, and the daughters seized.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:18; possibly the *Yahweh's house* the Levite names.
 - [[The Danite Migration]] — Judges 18:31; *God's house*, while Micah's image stood at Dan.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

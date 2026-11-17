@@ -27752,3 +27752,61 @@ in raw). Hebrew from a fresh download of the Westminster Leningrad Codex (OpenSc
 `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `1Sam`, and `Hos` XML on 2026-11-17; lemma occurrence claims
 cover those files and are listed on the passage page. Reported, not checked: the readings listed above as
 open questions. No Greek text was consulted.
+
+## [2026-11-17] ingest | Judges 21.1-25 — Wives for Benjamin
+
+Unattended run (`/ingest auto`). Last pericope of Judges; the book is now `complete` (42 / 42). Created:
+[[Wives for Benjamin]]; places [[Jabesh Gilead]], [[Lebonah]]; connections
+[[Every Woman Who Has Known a Man - Numbers 31 and Jabesh Gilead]],
+[[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]],
+[[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]].
+
+Revised: people [[Benjamin]]; places [[Mizpeh]], [[Bethel]], [[Shiloh]], [[The Rock of Rimmon]], [[Gilead]],
+[[Canaan]], [[Shechem (city)]]; themes [[Oaths and Vows]], [[Curse]], [[Mourning and Lament]],
+[[Sacrifice and Offering]], [[Prayer]], [[Divine Grief and Relenting]], [[Brotherhood]],
+[[Strife and Peacemaking]], [[War]], [[Judgment]], [[The Poor and the Vulnerable]], [[Marriage]],
+[[Theft and Restitution]], [[Guilt and Conscience]], [[Festivals and First Fruits]],
+[[Land and Sojourning]], [[Kingship and Empire]]; connections
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]],
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]],
+[[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]] (now with the
+WLC of 1 Samuel 18:6), [[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]],
+[[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]],
+[[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]],
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]], [[Blot Out - The Flood, Amalek, and God's Book]],
+[[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]],
+[[Gibeah and Sodom - Judges 19 as a Retelling]]; passages [[The Levite's Concubine at Gibeah]],
+[[The War Against Benjamin]], [[The Song of Deborah]] ("not yet ingested" pointers to Judges 20–21 now link
+the passages); [[Judges]] (box checked, status `complete`, overview paragraph, key themes, people, places).
+Also `wiki/books/index.md` (Judges complete), the places and themes indexes, People Index A-E, all five
+Connections subindexes, and the dashboard counts. Frontmatter totals: 478 passages, 343 people, 598
+places, 88 themes, 911 connections.
+
+Corrections to existing pages, not contradictions between them: [[The Levite's Concubine at Gibeah]] still
+called Judges 20:13 *not yet ingested*; fixed. [[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]]
+said the Hebrew of 1 Samuel 18:6 was not checked; it now is, and the WEB was rechecked.
+
+No contradictions found. Tensions recorded, not resolved: the oath of 21:5 named *him who didn't come up*
+but the command of 21:10–11 kills the town's women and children; the oaths of 21:1 and 21:5 are first
+reported here, not in chapter 20; the camp moves from Bethel (21:2) to Shiloh (21:12) unnarrated.
+
+Open questions recorded rather than resolved: whether the assembly acted rightly (the closing refrain is
+read as the narrator's verdict; the wiki says the placement invites it); why no inquiry of Yahweh is made in
+chapter 21; which feast 21:19 means (Booths is suggested by some, reported only); why 21:19 gives
+directions to Shiloh; the sense of *in battle* in 21:22; whether the women of Jabesh explain Jabesh's loyalty
+to Saul in 1 Samuel 11 and 31 (a common inference, not stated).
+
+Judgment calls: kept 21:1–25 as one pericope as planned. Created place pages for Jabesh Gilead (it recurs in
+1 Samuel) and Lebonah (named once). No person pages for the women of Jabesh Gilead, the daughters of
+Shiloh, the twelve thousand, or the elders. Reading Judges 21:11–12 against Numbers 31:17–18, 21:17 against
+Deuteronomy 25:6, and 21:13 against Deuteronomy 20:10 rests on shared Hebrew wording; each page says that
+the text does not cite its source.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 32:8; 38:29; 45:7;
+Exodus 10:9; 13:10; 15:20; 21:12; 32:19; 33:19; Leviticus 2:1; 19:13; 23:39; Numbers 6:25; 31:1–3, 15–18,
+35; 35:16; Deuteronomy 7:5; 12:3; 13:12–18; 20:10; 21:10–11; 22:23, 28–29; 25:6; Joshua 6:26; 21:2; 22:9;
+24:28; Judges 1:12–17; 2:4–6, 18; 5:23; 8:5–17; 9:25; 11:30–40; 17:6; 18:1, 31; 19:1, 29; 20:1–48. 1 Samuel
+1:3; 2:31; 11:1–11; 18:6; 31:11–13 and 2 Samuel 2:4–7 checked against the WEB at bible-api.com (not stored
+in raw). Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`,
+`Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, and `1Sam` XML on 2026-11-17; lemma and consonantal-string
+occurrence claims cover those files and are listed on the passage page. No Greek text was consulted.

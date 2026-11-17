@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The ban on an Israelite town — Judges 21:5, 10–11
+
+The *great oath*, *He shall surely be put to death* (21:5), uses the law's sentence formula, *môṯ yûmāṯ*
+(WLC), and the command at Jabesh Gilead uses the ban, *taḥărîmû*, *utterly destroy* (21:11). Both are the
+assembly's own; no inquiry of Yahweh precedes them. Judgment language is used by Israel on Israel without
+an oracle. See [[Wives for Benjamin]] and
+[[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]]. Source:
+stored WEB Judges 21:5–11; Hebrew WLC, 2026-11-17.
+
 ### *Put away evil from Israel* — Judges 20:13, 35
 
 The assembly sets out to judge Gibeah in Deuteronomy's words, *that we may put them to death, and put away
@@ -1108,6 +1117,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:5, 10–11; *môṯ yûmāṯ* and *ḥāram* against Jabesh Gilead.
 - [[The War Against Benjamin]] — Judges 20:13, 35; Deuteronomy's formula, and *Yahweh struck Benjamin*.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:27; *May Yahweh the Judge be judge today*.
 

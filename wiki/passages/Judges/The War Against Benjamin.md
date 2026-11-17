@@ -67,8 +67,8 @@ The narrator's own judgments are few. Yahweh answers three times and *struck Ben
 the men of Gibeah are *the wicked fellows* (13); Benjamin *would not listen to the voice of their brothers*
 (13). Nothing is said for or against the Levite's speech, the oath not to go home, the forty thousand dead
 of the first two days, or the burning of every town in verse 48. Chapter 21 reports the cost:
-*why has this happened in Israel, that there should be one tribe lacking in Israel today?* (21:3, stored WEB;
-not yet ingested).
+*why has this happened in Israel, that there should be one tribe lacking in Israel today?* (21:3; see
+[[Wives for Benjamin]]).
 
 **What is notable.**
 
@@ -254,8 +254,7 @@ not decide.
 - [[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]]
 - [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]]
 - [[Bethel from Jacob's Pillar to Jeroboam's Calf]]
-- Judges 21:1–25 — the oath at Mizpah, the six hundred, and *one tribe lacking* (stored WEB; not yet
-  ingested).
+- [[Wives for Benjamin]] — Judges 21:1–25; the oath at Mizpah, the six hundred, and *one tribe lacking*.
 - 1 Samuel 7:5–9 — fasting at Mizpah, and a *whole burnt offering* (WEB checked at bible-api.com).
 - 1 Samuel 11:4, 7 — Gibeah of Saul; *they came out as one man* (WEB checked at bible-api.com).
 - Hosea 10:9 — *the days of Gibeah*, and *the battle … in Gibeah* (WEB checked at bible-api.com).

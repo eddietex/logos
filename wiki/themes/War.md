@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A war to supply wives — Judges 21:10–12
+
+*The congregation sent twelve thousand of the most valiant men there* (21:10) against Jabesh Gilead, an
+Israelite town, for not coming to Mizpah, with the command *utterly destroy every male, and every woman who
+has lain with a man* (21:11) — the sorting Moses ordered after the war on Midian (Numbers 31:17–18; same
+Hebrew formula, WLC). The four hundred virgins spared are the war's purpose. See [[Wives for Benjamin]] and
+[[Every Woman Who Has Known a Man - Numbers 31 and Jabesh Gilead]]. Source: stored WEB Numbers 31:17–18;
+Judges 21:10–12; Hebrew WLC, 2026-11-17.
+
 ### All Israel against one tribe — Judges 20
 
 The last war in Judges is the only one every tribe fights, and it is fought against a tribe: four hundred
@@ -926,6 +935,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Wives for Benjamin]] — Judges 21:10–12; twelve thousand sent against Jabesh Gilead.
 - [[The War Against Benjamin]] — Judges 20:1–48; all the tribes against Benjamin.
 - [[The Danite Migration]] — Judges 18:11, 16–17, 25–28; six hundred armed men, and an undefended city struck and burned.
 - [[Shibboleth]] — Judges 12:4–6; Gilead against Ephraim, forty-two thousand at the fords.

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Weeping without an answer — Judges 21:2–4, 19
+
+The people return to Bethel after the war, *sat there until evening before God, and lifted up their
+voices, and wept severely* (21:2), ask *why has this happened in Israel … ?* (21:3), build an altar, and
+offer burnt offerings and peace offerings (21:4). Unlike chapter 20, no answer is recorded. In 21:19
+Bethel is a landmark: Shiloh is *on the north of Bethel*, beside *the highway that goes up from Bethel to
+Shechem*. See [[Wives for Benjamin]] and [[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]].
+Source: stored WEB Judges 21:2–4, 19.
+
 ### Inquiry, weeping, and the ark — Judges 20:18–31
 
 Three times Israel goes up to Bethel against Benjamin. First it *asked counsel of God* and is told *Judah
@@ -127,6 +136,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Wives for Benjamin]] — Judges 21:2–4, 19; weeping, altar, offerings; a landmark for Shiloh.
 - [[The War Against Benjamin]] — Judges 20:18–31; three inquiries, weeping, fasting, and the ark.
 - [[Deborah and Barak]] — Judges 4:5; Deborah's palm, between Ramah and Bethel.
 - [[The Angel at Bochim]] — Judges 2:1–5; possibly near Bochim (Septuagint, unverified).

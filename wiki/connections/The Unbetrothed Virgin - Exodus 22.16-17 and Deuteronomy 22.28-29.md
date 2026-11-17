@@ -86,3 +86,14 @@ Sources: quotations copied from stored WEB Genesis 34:2, 12; Exodus 22:16–17; 
 Hebrew from WLC (morphhb, openscriptures, GitHub), retrieved 2026-11-09: Exodus 22:15–16; Deuteronomy
 22:19, 28–29; lemma searches across Genesis–Deuteronomy for 781, 4119, 6601, 7971, and 8610. The Hebrew of
 2 Samuel 13 was not checked.
+
+### Judges 21 — *naʿărâ ḇəṯûlâ* at Jabesh and Shiloh
+
+*Naʿărâ ḇəṯûlâ*, *young virgin*, the phrase of Deuteronomy 22:23 and 22:28, occurs in the WLC files of
+Genesis through 1 Samuel searched only in those two verses and Judges 21:12, the four hundred spared at
+Jabesh Gilead. The daughters of Shiloh are then *caught*, *ḥāṭap̄* (21:21; only here in those files), where
+Deuteronomy 22:28 has *tāp̄aś*, *grabs*. The law answers the man who seizes an unbetrothed girl with a bride
+price paid to her father and a marriage he may never dissolve (22:29); in Judges 21 the father is offered
+neither a price nor a say, only the elders' request, *Grant them graciously to us* (21:22). See
+[[Wives for Benjamin]]. Source: stored WEB Deuteronomy 22:23, 28–29; Judges 21:12, 21–22; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.

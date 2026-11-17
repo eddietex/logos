@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two oaths kept, one by killing, one by its letter — Judges 21
+
+The last chapter of Judges is driven by oaths sworn at Mizpah and first reported here. *None of us will
+give his daughter to Benjamin as a wife* (21:1; *we have sworn by Yahweh*, 7; *Cursed is he who gives a
+wife to Benjamin*, 18) closes the obvious way to save the tribe. *The great oath*, *He shall surely be put
+to death* (21:5), against whoever did not come, opens another: Jabesh Gilead is destroyed and its virgins
+taken. When those are too few, the first oath is kept by its words: the fathers of Shiloh will not have
+*given* their daughters, so they will not be *guilty* (21:22). One oath is carried out beyond its terms —
+it named *him who didn't come up*, and the town's women and children die — and one is kept so narrowly
+that its purpose is lost. Like Jephthah's (11:35), no one asks whether either should be kept; unlike
+Jephthah's, the cost falls on other men's daughters. The form *swore … saying, Cursed*, is Joshua's at
+Jericho (Joshua 6:26, WLC). See [[Wives for Benjamin]]. Source: stored WEB Joshua 6:26; Judges 11:35;
+21:1–22; Hebrew WLC, 2026-11-17.
+
 ### Swear not to kill me — Judges 15:12–13
 
 *Swear to me that you will not attack me yourselves* (15:12). Samson asks Judah for an oath that covers
@@ -565,6 +579,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Wives for Benjamin]] — Judges 21:1, 5, 7, 18, 22; the oath not to give daughters, and *the great oath* against those who did not come.
 - [[Jephthah's Vow]] — Judges 11:30–39; the vow before the battle, *I can't go back*, and the vow done.
 - [[Jephthah Called from Tob]] — Judges 11:10–11; *Yahweh will be witness between us*; words spoken before Yahweh at Mizpah.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:9, 19; *When I come again in peace*, and the oath *As Yahweh lives*.

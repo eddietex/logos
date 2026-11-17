@@ -71,8 +71,8 @@ what he did.
 **What is notable.**
 
 - **No king — the third refrain.** *Bayyāmîm hāhēm ûmeleḵ ʾên bəyiśrāʾēl* (1, WLC), the short form again,
-  as at 18:1; the full form with *right in his own eyes* closes the book (21:25, stored WEB; not yet
-  ingested). See [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]].
+  as at 18:1; the full form with *right in his own eyes* closes the book (21:25, stored WEB; see
+  [[Wives for Benjamin]]). See [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]].
 - **Two sojourners.** The Levite is *gār*, sojourning, in the far hill country of Ephraim (1, WLC), as
   Micah's Levite was *gār* in Bethlehem (17:7, WLC); the old man of Gibeah is *gār baggiḇʿâ* (16, WLC).
   The only host in Gibeah is not from Gibeah. See
@@ -126,8 +126,8 @@ what he did.
 - **Sons of Belial.** *ʾAnšê ḇənê-ḇəliyyaʿal* (22, WLC), *certain wicked fellows*. Deuteronomy 13:14
   (Hebrew; English 13:13) has *ʾănāšîm bənê-ḇəliyyaʿal* who lead a city after other gods, and Deuteronomy
   15:9 the *ḇəliyyaʿal* thought; in Genesis through Judges the word occurs only in those two verses and in
-  Judges 19:22 and 20:13 (WLC lemma 1100). Israel will demand *the wicked fellows who are in Gibeah* (20:13,
-  stored WEB; not yet ingested).
+  Judges 19:22 and 20:13 (WLC lemma 1100). Israel will demand *the wicked fellows who are in Gibeah* (20:13;
+  see [[The War Against Benjamin]]).
 - **Beating at the door.** *Mitdappəqîm ʿal-haddālet* (22, WLC). *Dāp̄aq* occurs elsewhere in Genesis
   through Judges only at Genesis 33:13, Jacob's flocks that will die *if they overdrive them one day*
   (stored WEB; WLC). The wiki records the rare verb and builds nothing on it.
@@ -177,8 +177,8 @@ what he did.
 
 **How it connects.** The chapter is the hinge of the epilogue. Its first verse matches 17:7–8 — a Levite,
 Bethlehem Judah, the hill country of Ephraim — and its last points forward to the assembly *as one man*
-at Mizpah, the war, and the near-extinction of Benjamin ([[The War Against Benjamin]], 20:1–48; 21:1–25 not yet
-ingested). The wiki's
+at Mizpah, the war, and the near-extinction of Benjamin ([[The War Against Benjamin]], 20:1–48;
+[[Wives for Benjamin]], 21:1–25). The wiki's
 earlier pages already anticipate it: [[Gibeah and Sodom - Judges 19 as a Retelling]] lays the two
 chapters side by side; [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] sets the *nəḇālâ* of
 Gibeah beside Dinah; [[Hospitality]] sets the two door scenes against the two annunciations of Genesis 18
