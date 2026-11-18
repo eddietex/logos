@@ -13,6 +13,8 @@ tags: [connection]
   nations."*
 - [[Israel Asks for a King]] — 1 Samuel 8:19–20 — *"No; but we will have a king over us, that we also may be like all
   the nations, and that our king may judge us, and go out before us, and fight our battles."*
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:24–25 — *"Do you see him whom Yahweh has chosen …?"* … *Then Samuel
+  told the people the regulations of the kingdom, and wrote it in a book, and laid it up before Yahweh.* (stored WEB)
 - [[Kings Will Come Out of You]] — the promise of kings to Abraham, Sarah, and Jacob, before any
   request.
 
@@ -59,6 +61,15 @@ Samuel's first item is that the king will take Israel's sons *for his chariots, 
 horsemen* (8:11). What the law withholds from a king is what Samuel says a king will do. Whether the
 two passages were composed with each other in view is still not settled here.
 
+**At Mizpah the law's two conditions are met in words.** Samuel presents Saul as *him whom Yahweh has chosen*,
+*ʾăšer bāḥar-bô YHWH* (1 Samuel 10:24, WLC). The construction is Deuteronomy's *ʾăšer yiḇḥar YHWH … bô* (17:15,
+WLC), with the same verb and the same preposition. After the acclamation Samuel *wrote it in a book*, *wayyiḵtōḇ
+bassēp̄er* (10:25, WLC), and Deuteronomy's king is to *write himself a copy of this law in a book* (*wəḵāṯaḇ lô …
+ʿal-sēp̄er*, 17:18, WLC). In 1 Samuel the writer is the prophet, not the king, and what is written is *mišpaṭ
+hammelūḵâ*, *the regulations of the kingdom*, not *this law*. Its contents are not given. Samuel says the request
+was a rejection of God (10:19), and still the king given is described in Deuteronomy's terms. The wiki records both
+and does not reconcile them. See [[Saul Chosen by Lot at Mizpah]].
+
 ## Significance
 
 The phrase is the hinge of [[Kingship and Empire]] in Israel: the request Deuteronomy anticipates is
@@ -68,4 +79,5 @@ granted and limited. See [[The Law for the King]].
 Sources: Deuteronomy 12:30; 17:14–20; 18:9; 20:2–9 copied from stored WEB. 1 Samuel 8:5, 19–20
 checked at bible-api.com (`translation=web`), 2026-11-07; 1 Samuel 8:7, 11, 18 from stored WEB,
 2026-11-17. Hebrew of Deuteronomy 17:14 and 1 Samuel 8:5, 20 from WLC (morphhb), 2026-11-07;
-Deuteronomy 17:15 and 1 Samuel 8:18 from WLC (morphhb), 2026-11-17.
+Deuteronomy 17:15 and 1 Samuel 8:18 from WLC (morphhb), 2026-11-17. 1 Samuel 10:19,
+24–25 from stored WEB and WLC (morphhb), 2026-11-17; Deuteronomy 17:18 from WLC, 2026-11-17.

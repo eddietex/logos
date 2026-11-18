@@ -145,6 +145,17 @@ heart*, the signs all happen, and Saul prophesies, so that people ask *Is Saul a
 a proverb the book will explain a second time (19:24). Asked by his uncle what Samuel said, Saul tells him only
 about the donkeys: *concerning the matter of the kingdom … he didn't tell him* (10:16).
 
+[[Saul Chosen by Lot at Mizpah]] (10:17–27) makes public what the anointing kept private. Samuel calls the people
+*to Yahweh to Mizpah*, recalls the exodus, and charges them: *you have today rejected your God, who himself saves
+you* (10:18–19). Then he has them stand before Yahweh by tribes. Benjamin is *chosen*, then the family of the
+Matrites, then *Saul the son of Kish*, with the verb that found Achan in Joshua 7. But Saul *could not be found*,
+and Yahweh answers that *he has hidden himself among the baggage* (10:20–22). Brought out, he is taller than all
+the people, and Samuel asks *Do you see him whom Yahweh has chosen …?*, the language of Deuteronomy 17:15. The
+people shout *Long live the king!* (10:23–24). Samuel writes *the regulations of the kingdom* in a book and lays
+it up before Yahweh (10:25). Saul goes home to Gibeah with men *whose hearts God had touched*, while *worthless
+fellows*, the phrase once used of Gibeah's men (Judges 19:22), ask *How could this man save us?* *But he held his
+peace* (10:26–27). The next chapter answers their question.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -179,7 +190,7 @@ merge, or reorder them freely.
 - [x] [[Israel Asks for a King]] — 1 Samuel 8:1–22
 - [x] [[Saul Comes to the Seer]] — 1 Samuel 9:1–25
 - [x] [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16
-- [ ] Saul Chosen by Lot at Mizpah — 1 Samuel 10:17–27
+- [x] [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27
 - [ ] Saul Rescues Jabesh Gilead — 1 Samuel 11:1–15
 - [ ] Samuel's Farewell Address — 1 Samuel 12:1–25
 - [ ] Saul's Sacrifice at Gilgal — 1 Samuel 13:1–15
@@ -266,6 +277,9 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — the band of prophets; *Is Saul also among the prophets?* (10:5–12)
 - [[Kingship and Empire]] — *prince over his inheritance*; *the matter of the kingdom* (10:1, 16)
 - [[Wisdom]] — *it became a proverb* (10:12)
+- [[Call and Election]] — *him whom Yahweh has chosen*; chosen by lot (10:20–24)
+- [[Law and Obedience]] — *the regulations of the kingdom*, written in a book (10:25)
+- [[Redemption]] — *your God, who himself saves you*; *How could this man save us?* (10:19, 27)
 
 ## Key people
 - [[Samuel]]
@@ -293,6 +307,8 @@ merge, or reorder them freely.
 - [[Saul's Servant (of the lost donkeys)]] — who proposes the seer (9:3–10)
 - [[Band of Prophets (of Samuel's time)]] — at the hill of God; Saul prophesies among them (10:5–12)
 - [[Saul's Uncle]] — told about the donkeys, not the kingdom (10:14–16)
+- [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
+- [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 
 ## Key places
 - [[Shiloh]]
@@ -312,3 +328,5 @@ merge, or reorder them freely.
 - [[The Land of Shalishah]], [[The Land of Shaalim]], and [[The Land of Zuph]] — the districts of Saul's search (9:4–5)
 - [[Rachel's Tomb]] and [[Zelzah]], [[The Oak of Tabor]], and [[The Hill of God]] — the places of Saul's three signs (10:2–10)
 - [[Gilgal]] — where Saul is told to wait seven days (10:8)
+- [[Mizpeh]] — where Saul is chosen by lot and acclaimed (10:17–25)
+- [[Gibeah (Benjamin)]] — Saul's home (10:26)

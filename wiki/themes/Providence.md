@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Taken, and found hiding — 1 Samuel 10:20–22
+
+The selection at Mizpah is presented as Yahweh's: tribe, family, and man are *taken* (10:20–21), and when the man
+cannot be found, the people *asked of Yahweh further* and Yahweh tells them where he is (10:22). The text does not
+name the means. Proverbs states the principle behind such a choice: *its every decision is from Yahweh* (16:33,
+stored WEB). The man who set out looking for lost donkeys, which *have been found* (9:20; 10:2), is now looked for
+and *could not be found* (10:21). See [[Saul Chosen by Lot at Mizpah]] and
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]].
+
+Source: stored WEB 1 Samuel 9:20; 10:2, 20–22; Proverbs 16:33. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Looking for donkeys — 1 Samuel 9:3–17
 
 No one in chapter 9 is looking for a king. The donkeys are lost (9:3), the search fails in four districts (9:4–5),
@@ -583,6 +594,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–22; the lot, and Yahweh's answer to where the chosen man is hidden.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:3–17; lost donkeys and a meeting arranged the day before.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:9–12; Yahweh's hand or *a chance*, and the cows that go straight.
 - [[Boaz Redeems at the Gate]] — Ruth 4:1; *Behold, the near kinsman … came by*.

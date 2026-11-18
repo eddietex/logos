@@ -174,6 +174,21 @@ WEB; not yet ingested). See [[Samuel Anoints Saul]] and [[Band of Prophets (of S
 Source: stored WEB 1 Samuel 3:10–11; 9:26–10:16; 19:20; Deuteronomy 18:22. Hebrew WLC (OpenScriptures morphhb),
 2026-11-17.
 
+### The assembly at Mizpah — 1 Samuel 10:17–27
+
+Samuel calls the people *to Yahweh to Mizpah* (10:17), where he had once judged them (7:6). He speaks as a prophet,
+*Yahweh, the God of Israel, says*, recalling the exodus in words close to those of the unnamed prophet of Judges 6:9,
+and then charges them: *you have today rejected your God* (10:18–19). That repeats to their faces what Yahweh told
+him privately at 8:7. Then he conducts the choosing himself. He brings the tribes near, and the lot moves from
+Benjamin to the Matrites to Saul (10:20–21). He presents the man he had already anointed in private, *Do you see him
+whom Yahweh has chosen …?* (10:24). He tells the people *the regulations of the kingdom*, writes them *in a book*,
+and lays it up before Yahweh (10:25), as Moses had the book of the law put beside the ark (Deuteronomy 31:26). The
+contents are not given. At 8:9, 11 he described *the way of the king*; here he puts *the regulations of the kingdom*
+in writing. The text does not say how the two relate. See [[Saul Chosen by Lot at Mizpah]].
+
+Source: stored WEB 1 Samuel 7:6; 8:7, 9, 11; 10:17–25; Judges 6:9; Deuteronomy 31:26. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -187,6 +202,7 @@ Source: stored WEB 1 Samuel 3:10–11; 9:26–10:16; 19:20; Deuteronomy 18:22. H
 - Old, appoints his sons judges at Beersheba; the elders ask for a king; he prays, is told to listen, warns of *the way of the king*, and sends the people home — 8:1–22.
 - Told by Yahweh the day before to anoint a man from Benjamin; meets Saul as *the seer*, hosts him at the high place, and gives him the reserved portion — 9:1–25.
 - Anoints Saul in private with the vial of oil; gives three signs, all fulfilled that day; tells him to wait seven days at Gilgal — 9:26–10:8.
+- Summons the people to Mizpah, charges them with rejecting God, conducts the choosing of Saul, and writes *the regulations of the kingdom* in a book — 10:17–25.
 
 ## Appears in
 
@@ -200,6 +216,7 @@ Source: stored WEB 1 Samuel 3:10–11; 9:26–10:16; 19:20; Deuteronomy 18:22. H
 - [[Israel Asks for a King]] — 1 Samuel 8:1–22; his sons' corruption, the elders' request, and the way of the king.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–25; the seer, told the day before, hosts the man he is to anoint.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:8; the private anointing, the three signs, and the seven days.
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–25; the rebuke, the lot, the acclamation, and the written regulations.
 
 ## Related people
 

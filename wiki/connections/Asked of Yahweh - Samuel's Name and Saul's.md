@@ -92,3 +92,11 @@ greet you*, *wəšāʾălû ləḵā ləšālôm* (10:4, WLC), literally *they w
 greeting, and the narrative makes nothing of it. The wiki notes that the root occurs and claims no wordplay. *Šāʾal*
 does not occur in 10:14–16, where the uncle *said … Where did you go?* and *Please tell me* (WLC). Sources: stored
 WEB 1 Samuel 10:4, 14–16; Hebrew WLC (`1Sam.xml`), 2026-11-17.
+
+### 1 Samuel 10:22 — asked of Yahweh where Saul is
+
+In [[Saul Chosen by Lot at Mizpah]], when Saul has been taken by lot and cannot be found, *they asked of Yahweh
+further*, *wayyišʾălû-ʿôḏ baYHWH* (10:22, WLC). *Šāʾal* with *bə-* is the form for inquiring of Yahweh. The people
+asked Samuel for a king (8:10). Now they ask Yahweh where the king is. As at 10:4, the wiki notes the root and does
+not claim the narrator plays on Saul's name. Sources: stored WEB 1 Samuel 8:10; 10:22; Hebrew WLC (`1Sam.xml`),
+2026-11-17.

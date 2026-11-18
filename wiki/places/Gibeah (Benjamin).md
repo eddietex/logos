@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Saul's home — 1 Samuel 10:26
+
+*Saul also went to his house to Gibeah; and the army went with him, whose hearts God had touched* (10:26). The WLC
+has *giḇʿāṯâ*, *to Gibeah*, the place name (lemma 1390), not the common noun of *the hill of God* at 10:5. This is
+the first time the stored text makes Gibeah Saul's town. In the same verse the men who reject him are called *sons
+of bəliyyaʿal* (10:27, WLC), the phrase used of Gibeah's men in Judges 19:22 and 20:13. See
+[[Saul Chosen by Lot at Mizpah]] and [[Sons of Belial - Worthless Men from Deuteronomy to Samuel]].
+
+Source: stored WEB 1 Samuel 10:5, 26–27; Judges 19:22; 20:13. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Besieged, entered, and burned — Judges 20
 
 The assembly at Mizpah resolves *this is the thing which we will do to Gibeah* (20:9) and demands *the
@@ -40,23 +50,27 @@ commonly proposed and not made here, and no modern site is assigned.
 ### After the stored text
 
 Gibeah's war is told in [[The War Against Benjamin]] (Judges 20) and set beside Ai in
-[[Drawn Away from the City - Ai and Gibeah]]. Outside the stored text it is Saul's home — *Saul also went
-to his house to Gibeah* (1 Samuel 10:26), *Gibeah of Saul* (11:4) — and Hosea's byword, *as in the days of
+[[Drawn Away from the City - Ai and Gibeah]]. It becomes Saul's home at 1 Samuel 10:26 (above), and *Gibeah of Saul* at 11:4 (stored WEB; not yet ingested). Outside
+the stored text it is Hosea's byword, *as in the days of
 Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 
 ## Appears in
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:26; Saul goes home to Gibeah.
 - [[The War Against Benjamin]] — Judges 20:4–48.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:12–28.
 
 ## Related places
 - [[Jerusalem]] — Jebus, passed by for Gibeah (19:10–12).
 - [[Ramah]] — the other town the Levite names (19:13).
+- [[Mizpeh]] — where the tribes gathered against Gibeah (Judges 20:1), and where Gibeah's Saul is made king (1 Samuel
+  10:17–26).
 - [[Gibeath]] · [[Gibeah (Judah)]] — names kept apart.
 - [[The Hill of God]] — the site of Saul's third sign (1 Samuel 10:5, 10), often identified with Gibeah; the text
   uses the common noun and does not name the town.
 - [[Sodom]] — the city whose night it repeats.
 
 ## Events here
+- Saul goes home here after he is made king at Mizpah, with the men whose hearts God touched (1 Samuel 10:26).
 - Besieged by all Israel; two Israelite defeats, then the ambush, the smoke, and the burning (20:19–48).
 - No one takes the travelers in; an Ephraimite sojourner does (19:15–21).
 - The men of the city surround the house; the concubine is abused all night (19:22–27).

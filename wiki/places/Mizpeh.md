@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The king chosen here — 1 Samuel 10:17–25
+
+*Samuel called the people together to Yahweh to Mizpah* (10:17), with *hammiṣpâ*, with the article, again (WLC).
+The verb, *wayyaṣʿēq*, is the causative of *ṣāʿaq*, *cry out*, and this is its only causative use in the WLC files
+searched. Here Samuel charges the people with rejecting God, brings the tribes near, and Saul is chosen, found
+hiding, and acclaimed: *Long live the king!* (10:19–24). Samuel writes *the regulations of the kingdom* in a book and
+lays it up *before Yahweh* (10:25). In Judges 20–21 the tribes gathered at this Mizpah against Benjamin and Gibeah.
+Now a Benjamite of Gibeah is made king here. The wiki keeps this assembly on the same page as 7:5–16 and Judges 20,
+on the same grounds as before. See [[Saul Chosen by Lot at Mizpah]].
+
+Source: stored WEB 1 Samuel 10:17–25. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Repentance, prayer, and victory — 1 Samuel 7:5–16
 
 Samuel says *Gather all Israel to Mizpah, and I will pray to Yahweh for you* (7:5). There they draw water and
@@ -46,6 +58,7 @@ Named among Benjamin’s second group of fourteen cities with their villages (26
 Source: stored WEB Joshua 18:11–28.
 
 ## Appears in
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–25; the assembly, the lot, and the first king acclaimed.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:5–16; the fast, the confession, the battle, and Samuel's circuit.
 - [[Wives for Benjamin]] — Judges 21:1, 5, 8; the oaths, and the town that did not come.
 - [[The War Against Benjamin]] — Judges 20:1–3; the assembly *to Yahweh at Mizpah*.

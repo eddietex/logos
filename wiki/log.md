@@ -28731,3 +28731,46 @@ claims cover those files only. 2 Kings 9:1, 3 cited by reference only. General k
 where made: the longer Septuagint text at 10:1, the readings of *Who is their father?*, the uncle as Ner, the sense of
 *nəṣîḇ*, the identifications of the hill of God and of the oak of Tabor, the traditional site of Rachel's tomb, and
 the two-traditions reading of the proverb. No Greek text, Septuagint, or Targum was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 10.17-27 — Saul Chosen by Lot at Mizpah
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+Saul Chosen by Lot at Mizpah, 10:17–27, ingested as planned. 1 Samuel is now 13 / 47.
+
+Created: passage [[Saul Chosen by Lot at Mizpah]]; people [[Matrites]] and [[Worthless Fellows (of Saul's time)]];
+connections [[Taken by Lot - Achan, Saul, and Jonathan]] and [[Sons of Belial - Worthless Men from Deuteronomy to Samuel]].
+
+Revised: book [[1 Samuel]] (box checked, overview paragraph, key themes, people, and places); people [[Saul]],
+[[Samuel]], [[Kish (father of Saul)]], and [[Benjamin]]; places [[Mizpeh]], [[Gibeah (Benjamin)]], and [[Egypt]];
+themes [[Kingship and Empire]], [[Call and Election]], [[Providence]], [[Law and Obedience]],
+[[Seeing and Being Seen]], and [[Redemption]]; connections
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]] (new section),
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]] (*whom Yahweh has chosen*; the book),
+[[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]] (10:19), and
+[[Asked of Yahweh - Samuel's Name and Saul's]] (10:22). Also `wiki/books/index.md`, People Index F-M and N-Z (one
+new row each; Saul's, Samuel's, and Kish's rows extended) and A-E (Benjamin's row extended), Connections Index O-S
+and T-Z (one new row each) with I-N, T-Z, and A-C rows extended, the places index (three rows extended), the
+themes index (six rows extended), and the dashboard counts. Frontmatter totals: 499 passages, 379 people, 608
+places, 88 themes, 950 connections.
+
+Judgment calls: the boundary 10:17–27 stands; 11:1 opens the Jabesh episode. The Matrites get a collective page
+like [[Japhletites]]. The doubters get a page qualified by period because 11:12 recalls them; that 11:12 refers to
+the same men is flagged as a reading. *The army … whose hearts God had touched* gets no page. Jonathan has no page
+yet and is named as plain text in the new lot connection; it can be linked when he enters at 13:2. No Mizpah page was
+renamed: this assembly is filed on [[Mizpeh]] with 7:5–16 and Judges 20–21, as before.
+
+Recorded, not resolved: how the private anointing and the public lot relate; why Saul hid; the contents of *the
+regulations of the kingdom* (10:25) against 8:11–17 and Deuteronomy 17:14–20; *ḥayil* as army or men of worth; the
+WLC *lô* against the WEB's *No!* at 10:19; and *wayhî kəmaḥărîš* at 10:27 beside the reported Greek and 4QSamᵃ
+readings. No contradiction with an existing page was found.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 11:3, 12–13; 12:12–13; 14:39–45; 15:17; 16:7;
+17:42. Comparisons from stored WEB Genesis 3:8, 10; 46:21; Exodus 3:9; 8:10; Numbers 26:38–41; Deuteronomy 13:12–15;
+15:9; 17:15, 18; 31:26; 33:6, 26; Joshua 7:14–25; Judges 6:8–9; 8:22; 9:5; 10:11–12, 17; 19:22; 20:13; Proverbs 6:2,
+12; 11:6; 16:27, 33; 19:28. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures
+morphhb) XML, 2026-11-17, files `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `2Sam`, and
+`Prov`; occurrence claims cover those files only. 2 Samuel 16:16 and the other 2 Samuel *bəliyyaʿal* verses were read
+in the WLC only. General knowledge, not checked, and flagged where made: the variant *lōʾ* at 10:19, the Septuagint
+reading at 10:27, the 4QSamᵃ paragraph, Solomon's acclamation in 1 Kings, the etymology of *bəliyyaʿal* and its later
+use as a name (2 Corinthians 6:15), and the link between *hāḇâ ṯāmîm* (14:41) and the Thummim. No Greek text,
+Septuagint, Qumran text, or Targum was consulted.

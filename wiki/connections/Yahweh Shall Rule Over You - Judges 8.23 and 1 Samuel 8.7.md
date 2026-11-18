@@ -21,6 +21,9 @@ tags: [connection]
   went and made Abimelech king* (stored WEB)
 - [[Israel Asks for a King]] — **1 Samuel 8:7** — *"they have not rejected you, but they have rejected me as the king
   over them."* (stored WEB)
+- [[Saul Chosen by Lot at Mizpah]] — **1 Samuel 10:19** — *"But you have today rejected your God, who himself saves
+  you out of all your calamities and your distresses; and you have said to him, 'No! Set a king over us.'"* (stored
+  WEB)
 - **1 Samuel 12:12** — *"you said to me, 'No, but a king shall reign over us;' when Yahweh your God was
   your king."* (WEB checked at bible-api.com; not yet ingested)
 - [[Jotham's Fable]] — **Judges 9:8, 14–15** — *The trees set out to anoint a king over themselves* … *Then all
@@ -89,3 +92,13 @@ Sources: stored WEB Genesis 37:8; Deuteronomy 17:14–20; Judges 7:2; 8:22–23,
 1 Samuel 8:7 and 12:12 checked at bible-api.com (WEB), 2026-11-15, and against stored WEB, 2026-11-17.
 Hebrew of Genesis–Judges from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15; Hebrew
 of 1 Samuel 8:1, 7 and 12:12 from the same source, 2026-11-17.
+
+### Said to the people — 1 Samuel 10:19
+
+What Yahweh told Samuel in private at 8:7 Samuel now says to the assembly: *wəʾattem hayyôm məʾastem
+ʾeṯ-ʾĕlōhêḵem*, *you have today rejected your God* (10:19, WLC), with the same verb *māʾas*. He calls God *the one
+who saves you*, *môšîaʿ*, the participle of the verb the men of Israel used for Gideon, *you have saved us* (Judges
+8:22, *hôšaʿtānû*, WLC). Gideon turned the credit back to Yahweh. Samuel says the people have turned from the one
+who saves to a king. Then, without a pause, he has them present themselves for the lot. See
+[[Saul Chosen by Lot at Mizpah]]. Source: stored WEB 1 Samuel 10:19; Judges 8:22. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.

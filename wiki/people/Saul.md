@@ -61,6 +61,27 @@ yet ingested). The proverb returns at 19:24, at Naioth, where it is told a secon
 
 Source: stored WEB 1 Samuel 9:26–10:16; 13:8; 19:24. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Chosen by lot, found hiding, and acclaimed — 1 Samuel 10:17–27
+
+At Mizpah Samuel rebukes the people, *you have today rejected your God*, and has them stand before Yahweh by tribes
+(10:19). Benjamin is chosen, then the family of the [[Matrites]], then *Saul the son of Kish*, *but when they looked
+for him, he could not be found* (10:21). Yahweh tells them *he has hidden himself among the baggage* (10:22). The
+verb is *neḥbāʾ*, the same form used of Jotham hiding from Abimelech (Judges 9:5, WLC). Brought out, he stands
+taller than everyone *from his shoulders and upward* (10:23, echoing 9:2), and Samuel asks, *Do you see him whom
+Yahweh has chosen, that there is no one like him among all the people?* The people shout *Long live the king!*
+(10:24). Saul goes home to Gibeah with *the army … whose hearts God had touched* (10:26). When
+[[Worthless Fellows (of Saul's time)]] say *How could this man save us?* and bring him no present, *he held his
+peace* (10:27).
+
+He says nothing in the whole pericope. In 10:16 he kept the kingdom secret, and now he hides from it and then
+stays silent under an insult. The text does not explain any of the three, and *little in your own sight* (15:17,
+stored WEB; not yet ingested) is Samuel's later judgment, not the narrator's explanation here. He was chosen by the
+same procedure that exposed Achan, and the same procedure will later point to his son Jonathan (14:41–42). See
+[[Saul Chosen by Lot at Mizpah]] and [[Taken by Lot - Achan, Saul, and Jonathan]].
+
+Source: stored WEB 1 Samuel 9:2; 10:16–27; 14:41–42; 15:17; Judges 9:5. Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -73,10 +94,15 @@ Source: stored WEB 1 Samuel 9:26–10:16; 13:8; 19:24. Hebrew WLC (OpenScripture
 - Given *another heart*; the Spirit comes mightily on him and he prophesies with a band of prophets; *Is Saul also
   among the prophets?* — 10:9–13.
 - Tells his uncle about the donkeys but not *the matter of the kingdom* — 10:14–16.
+- Chosen by lot at Mizpah from Benjamin and the Matrites; found hidden among the baggage; acclaimed *Long live the
+  king!* — 10:17–24.
+- Goes home to Gibeah with men whose hearts God touched; despised by worthless fellows, and holds his peace —
+  10:26–27.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16; anointed, changed, prophesies, and keeps the kingdom secret.
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; chosen by lot, found hiding, acclaimed, and despised.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -89,6 +115,10 @@ Source: stored WEB 1 Samuel 9:26–10:16; 13:8; 19:24. Hebrew WLC (OpenScripture
 - [[Saul's Uncle]] — asks what Samuel said, and is not told about the kingdom (10:14–16)
 - [[Band of Prophets (of Samuel's time)]] — among whom he prophesies (10:10)
 - [[Samson]] — the earlier man on whom the Spirit *came mightily* (Judges 14:6)
+- [[Matrites]] — his family within Benjamin, chosen before him (10:21)
+- [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
+- [[Achan]] — the other man taken by the same procedure (Joshua 7:18)
+- [[Jotham (son of Gideon)]] — the earlier man who *hid himself* (Judges 9:5)
 
 ## Themes associated
 - [[Kingship and Empire]]
@@ -99,3 +129,5 @@ Source: stored WEB 1 Samuel 9:26–10:16; 13:8; 19:24. Hebrew WLC (OpenScripture
 - [[The Spirit of God]]
 - [[Prophecy and Vision]]
 - [[Signs and Wonders]]
+- [[Seeing and Being Seen]]
+- [[Law and Obedience]]

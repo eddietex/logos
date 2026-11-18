@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Do you see him?* — 1 Samuel 10:23–24
+
+Brought out from the baggage, Saul stands among the people *higher than any of the people from his shoulders and
+upward* (10:23), and Samuel asks, *Do you see him whom Yahweh has chosen, that there is no one like him among all the
+people?* (10:24). What the people can see is height, the feature the narrator gave first at 9:2. When David is
+chosen, Yahweh will tell Samuel not to look *on the height of his stature … for man looks at the outward appearance,
+but Yahweh looks at the heart* (16:7, stored WEB; not yet ingested). The hiding before the showing also belongs
+here. The chosen man first could not be seen at all (10:21–22). See [[Saul Chosen by Lot at Mizpah]].
+
+Source: stored WEB 1 Samuel 9:2; 10:21–24; 16:7.
+
 ### The seer, and the God who has looked — 1 Samuel 9:9–19
 
 The chapter is built on sight. The prophet's old name is *hārōʾeh*, *the seer*, from *rāʾâ*, *see* (9:9, WLC).
@@ -481,6 +492,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:21–24; the hidden man shown, *Do you see him …?*
 - [[Saul Comes to the Seer]] — 1 Samuel 9:9–19; the seer; *I have looked upon my people*; *when Samuel saw Saul*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11–13; *look at the affliction of your servant*; Eli *saw her mouth*
 

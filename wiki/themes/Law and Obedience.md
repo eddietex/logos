@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The regulations written in a book — 1 Samuel 10:25
+
+*Samuel told the people the regulations of the kingdom, and wrote it in a book, and laid it up before Yahweh*
+(10:25). This is the first written law-text in 1 Samuel. Deuteronomy's king must *write himself a copy of this law
+in a book* (17:18), and Moses had the book of the law put *by the side of the ark … for a witness* (31:26). Samuel's
+book is laid up *before Yahweh*. Its contents are not given, and whether it is a version of Deuteronomy 17:14–20 or
+a different charter the text does not say. See [[Saul Chosen by Lot at Mizpah]] and
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]].
+
+Source: stored WEB 1 Samuel 10:25; Deuteronomy 17:18; 31:26. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The law of the condemned city — Judges 20
 
 The assembly speaks in Deuteronomy's terms — *put away evil from Israel* (20:13; Deuteronomy 17:12;
@@ -1599,6 +1610,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:25; *the regulations of the kingdom*, written and laid up before Yahweh.
 - [[The War Against Benjamin]] — Judges 20:13, 37–48; Deuteronomy's formula and the condemned city's fire.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:27, 30–31; the command against altars obeyed, and the law's death sentence turned around.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; the charge of not listening.

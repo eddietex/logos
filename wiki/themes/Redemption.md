@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Who himself saves you* — 1 Samuel 10:18–19, 27
+
+Samuel sets the request for a king against the God who saves. Yahweh brought Israel up from Egypt and *delivered*
+them (*nāṣal*) from every oppressor, and they have rejected *your God, who himself saves you out of all your
+calamities* (*môšîaʿ*, 10:18–19, WLC). Yahweh had already said the new prince *will save my people* (9:16), and the
+doubters ask *How could this man save us?* (*yōšiʿēnû*, 10:27, WLC). The same verb is used of God, the king, and
+the doubt. Jabesh Gilead puts the question to the test in the next chapter: *if there is no one to save us* (11:3,
+stored WEB; not yet ingested). See [[Saul Chosen by Lot at Mizpah]].
+
+Source: stored WEB 1 Samuel 9:16; 10:18–19, 27; 11:3. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The child as *gōʾēl* — Ruth 4:14
 
 The last *gōʾēl* in Ruth is not Boaz but the newborn: *Blessed be Yahweh, who has not left you today without
@@ -424,6 +435,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:18–19, 27; *your God, who himself saves you*; *How could this man save us?*
 - [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the right of redemption passes from the nearer kinsman to Boaz; land and widow redeemed together.
 - [[Ruth at the Threshing Floor]] — Ruth 3:9–13; *for you are a near kinsman*; *a kinsman nearer than I*; Boaz's oath to redeem.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; Naomi names Boaz *one of our near kinsmen* (*gōʾēl*), the book's first.

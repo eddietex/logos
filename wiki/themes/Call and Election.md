@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Him whom Yahweh has chosen* — 1 Samuel 10:20–24
+
+The choosing at Mizpah narrows from tribe to family to man, and the result is marked each time with *wayyillāḵēḏ*,
+*was taken* (10:20–21, WLC), the verb of Achan's discovery (Joshua 7:16–18). The man chosen is not there; he *has
+hidden himself among the baggage* (10:22). Samuel names the choice as Yahweh's, *ʾăšer bāḥar-bô YHWH* (10:24, WLC),
+which echoes Deuteronomy 17:15 and answers 8:18, where the people were the ones choosing. The wiki records both
+sides of 1 Samuel's account: the people asked and chose, and Yahweh chose. 12:13 will put the two together (stored
+WEB; not yet ingested). See [[Saul Chosen by Lot at Mizpah]] and [[Taken by Lot - Achan, Saul, and Jonathan]].
+
+Source: stored WEB 1 Samuel 8:18; 10:20–24; 12:13; Joshua 7:16–18; Deuteronomy 17:15. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ### Anointed without a word in reply — 1 Samuel 9:26–10:16
 
 Saul's call is the oil and a question that expects yes: *Hasn't Yahweh anointed you to be prince over his
@@ -365,6 +377,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–24; chosen by lot, found hiding, *him whom Yahweh has chosen*.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:1–16; the private anointing; *God is with you*; *another heart*; the chosen man's silence.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:15–21; *Behold, the man*; the least family of the smallest tribe.
 - [[Israel Asks for a King]] — 1 Samuel 8:18; *your king whom you will have chosen for yourselves*.

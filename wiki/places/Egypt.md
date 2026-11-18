@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### *I brought Israel up out of Egypt* — 1 Samuel 10:18
+
+Samuel opens the assembly at Mizpah with Yahweh's words: *I brought Israel up out of Egypt, and I delivered you out
+of the hand of the Egyptians, and out of the hand of all the kingdoms that oppressed you* (10:18). The sentence
+matches the unnamed prophet's in Judges 6:9 almost word for word, except that *all who oppressed you* has become
+*all the kingdoms*, *hammamlāḵôṯ* (WLC). The recital leads into the charge *you have today rejected your God* (10:19).
+See [[Saul Chosen by Lot at Mizpah]].
+
+Source: stored WEB 1 Samuel 10:18–19; Judges 6:9. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Since the day that I brought them up out of Egypt* — 1 Samuel 8:8
 
 Yahweh measures the request for a king against the whole history since the Exodus: *According to all the works
@@ -531,6 +541,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:18; *I brought Israel up out of Egypt*.
 - [[Israel Asks for a King]] — 1 Samuel 8:8; *since the day that I brought them up out of Egypt*.
 - [[The Ark Is Captured]] — 1 Samuel 4:8; the plagues remembered by the Philistines.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27; where Yahweh revealed himself to the house of Eli's father.

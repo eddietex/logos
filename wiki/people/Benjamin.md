@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The tribe chosen at Mizpah — 1 Samuel 10:20–21
+
+*Samuel brought all the tribes of Israel near, and the tribe of Benjamin was chosen* (10:20), and then the family of
+the [[Matrites]], and then Saul. The place is Mizpah, where the tribes once gathered against Benjamin and swore not
+to give it their daughters (Judges 20:1; 21:1). The man chosen goes home to Gibeah (10:26), the town whose crime
+began that war. The wiki notes how the places repeat and does not claim the narrator intends it. See
+[[Saul Chosen by Lot at Mizpah]] and [[Mizpeh]].
+
+Source: stored WEB 1 Samuel 10:20–26; Judges 20:1; 21:1.
+
 ### The first sign at Rachel's tomb — 1 Samuel 10:2
 
 Samuel sends the newly anointed Saul to *Rachel's tomb, on the border of Benjamin at Zelzah* (10:2), *biḡḇûl
@@ -309,11 +319,13 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 - Judges 1:21 — Does not drive out the Jebusites of Jerusalem — [[Judah's Conquests and Achsah's Springs]]
 - 1 Samuel 10:2 — Rachel's tomb marks the border of Benjamin, where Saul's first sign is given — [[Samuel Anoints Saul]]
+- 1 Samuel 10:20–21 — The tribe chosen at Mizpah, then the Matrites, then Saul — [[Saul Chosen by Lot at Mizpah]]
 
 ## Appears in
 
 - [[Saul Comes to the Seer]] — 1 Samuel 9:1, 4, 16, 21; Kish's tribe; *the smallest of the tribes of Israel*.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:2; Rachel's tomb *on the border of Benjamin*.
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–21; the tribe chosen, and the Matrites within it.
 - [[The Ark Is Captured]] — 1 Samuel 4:12; *a man of Benjamin* brings the news to Shiloh.
 - [[Wives for Benjamin]] — Judges 21:1–25; the six hundred given wives from Jabesh Gilead and Shiloh.
 - [[The War Against Benjamin]] — Judges 20:1–48; the tribe refuses, fights, and is reduced to six hundred.
@@ -406,6 +418,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 ## Related people
 
 - [[Saul]] and [[Kish (father of Saul)]] — the Benjamite king and his father (1 Samuel 9:1–2)
+- [[Matrites]] — the family chosen within the tribe at Mizpah (1 Samuel 10:21)
 - [[Rachel]] — his mother, who dies bearing him and names him with her last breath; he is the *another
   son* she asked for when she named [[Joseph]] (30:24)
 - [[Jacob]] — his father, the only one of the twelve to name a son, and the man who will refuse to let

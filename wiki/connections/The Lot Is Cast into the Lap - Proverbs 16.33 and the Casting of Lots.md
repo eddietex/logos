@@ -29,6 +29,8 @@ tags: [connection]
   for the scapegoat."* — [[The Day of Atonement]]
 - [[The Sin of Achan]] — Joshua 7:14–18; tribe, clan, household, and man *"selected"* until Achan is
   *"taken"* (stored WEB; now ingested). The mechanism is not named.
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–22; tribe, family, and man *chosen* (*wayyillāḵēḏ*) until
+  Saul is taken and found hiding. Stored WEB. The mechanism is not named.
 - **1 Samuel 14:41–42** — Saul: *"Cast lots between me and Jonathan my son." Jonathan was selected.*
   *(WEB verified at bible-api.com, 2026-11-10; not yet ingested)*
 - **Jonah 1:7** — *"So they cast lots, and the lot fell on Jonah."* *(WEB verified at bible-api.com; not
@@ -38,6 +40,17 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### Saul taken at Mizpah — 1 Samuel 10:20–22
+
+The choosing of Israel's first king follows the steps of Joshua 7. The tribes are *brought near* (*qāraḇ*), and
+tribe, family, and man are each *taken* with the passive of *lāḵaḏ* (10:20–21, WLC). Like Joshua 7, the passage does
+not say whether lots were used. When the man cannot be found, the people *asked of Yahweh*, and Yahweh says where he
+is hiding (10:22). Samuel names the result as Yahweh's choice (10:24), which is the claim of Proverbs 16:33. The
+three scenes that share this verb, Achan, Saul, and Jonathan, are compared in
+[[Taken by Lot - Achan, Saul, and Jonathan]].
+
+Source: stored WEB 1 Samuel 10:20–24; Joshua 7:14–18. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ### Joshua’s own inheritance — Joshua 19:49–51
 

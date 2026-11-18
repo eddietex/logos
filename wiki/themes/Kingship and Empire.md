@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Long live the king!* — 1 Samuel 10:17–27
+
+The secret anointing becomes a public choosing. Samuel opens by saying the request is a rejection: *you have today
+rejected your God, who himself saves you* (10:19). Then he holds the lot anyway. The first acclamation of a king of
+Israel, *yəḥî hammeleḵ* (10:24, WLC), follows Samuel's *Do you see him whom Yahweh has chosen …?*, which uses
+Deuteronomy's *whom Yahweh … chooses* (17:15). The *way of the king*, *mišpaṭ hammeleḵ* (8:9, 11), was a warning
+of what a king would take. Now there are *the regulations of the kingdom*, *mišpaṭ hammelūḵâ* (10:25, WLC), written
+in a book and laid up before Yahweh. The contents are not given. The king's first test is the doubters' question,
+*How could this man save us?* (10:27), which asks whether he can do what the people wanted a king for, to *fight our
+battles* (8:20). See [[Saul Chosen by Lot at Mizpah]].
+
+Source: stored WEB 1 Samuel 8:9, 11, 20; 10:17–27; Deuteronomy 17:15. Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.
+
 ### Prince over his inheritance, in secret — 1 Samuel 9:26–10:16
 
 The first king of Israel is anointed with no witnesses. The servant is sent ahead, and Samuel pours *the vial of
@@ -673,6 +687,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; the lot, *Long live the king!*, the regulations written, and the doubters.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:1, 16; anointed *prince over his inheritance*; *the matter of the kingdom* kept secret.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:16–20; Yahweh sends *a man out of the land of Benjamin* to be anointed *prince*.
 - [[Israel Asks for a King]] — 1 Samuel 8:1–22; the elders ask for a king *like all the nations*; *they have rejected me*; the way of the king.
