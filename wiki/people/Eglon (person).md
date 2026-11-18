@@ -44,6 +44,7 @@ See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScr
 
 ## Appears in
 - [[Ehud and Eglon]] — Judges 3:12–30
+- [[Samuel's Farewell Address]] — 1 Samuel 12:9; not named; *the king of Moab*, one of the three oppressors.
 
 ## Related people
 - [[Ehud]] — who kills him.

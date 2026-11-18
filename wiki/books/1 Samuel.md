@@ -168,6 +168,18 @@ people want the doubters put to death; Saul refuses, *for today Yahweh has rescu
 destroyed at the end of Judges is the first town its king saves. Samuel's farewell will name Nahash as the reason
 the people asked for a king (12:12), against the order of chapters 8–11.
 
+[[Samuel's Farewell Address]] (12:1–25) closes the section. Samuel begins *I have listened to your voice* (12:1),
+the words Yahweh had told him to obey, and puts his own career on trial: *Whose ox have I taken? Whose donkey …?*
+The people clear him, with Yahweh and *his anointed*, the king, as witnesses (12:3–5). Then he pleads with them
+*concerning all the righteous acts of Yahweh*: Moses and Aaron, Sisera, the Philistines, Moab, and the deliverers
+*Jerubbaal, Bedan, Jephthah, and Samuel* (12:6–11). When Nahash came, they said *a king shall reign over us; when
+Yahweh your God was your king* (12:12). King and people stand under one condition (12:14–15). At wheat harvest
+Samuel calls, *Yahweh sent thunder and rain*, the idiom of the hail in Egypt (Exodus 9:23), and the people ask him
+to pray *that we not die* (12:17–19). He answers *Don't be afraid*: *Yahweh will not forsake his people for his
+great name's sake*, and *far be it from me that I should sin against Yahweh in ceasing to pray for you* (12:20–23).
+The speech shares its form with Joshua's farewells (Joshua 23–24), and ends *you will be consumed, both you and
+your king* (12:25).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -204,7 +216,7 @@ merge, or reorder them freely.
 - [x] [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16
 - [x] [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27
 - [x] [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15
-- [ ] Samuel's Farewell Address — 1 Samuel 12:1–25
+- [x] [[Samuel's Farewell Address]] — 1 Samuel 12:1–25
 - [ ] Saul's Sacrifice at Gilgal — 1 Samuel 13:1–15
 - [ ] No Smith in Israel — 1 Samuel 13:16–23
 - [ ] Jonathan's Attack at Michmash — 1 Samuel 14:1–23
@@ -292,6 +304,11 @@ merge, or reorder them freely.
 - [[Call and Election]] — *him whom Yahweh has chosen*; chosen by lot (10:20–24)
 - [[Law and Obedience]] — *the regulations of the kingdom*, written in a book (10:25)
 - [[Redemption]] — *your God, who himself saves you*; *How could this man save us?* (10:19, 27)
+- [[Integrity]] — *Whose ox have I taken?* (12:3–5)
+- [[Righteousness]] — *the righteous acts of Yahweh* (12:7)
+- [[Vanity]] — *vain things*, *tōhû*, *which can't profit or deliver* (12:21)
+- [[The Fear of God]] — *Don't be afraid … Only fear Yahweh* (12:20, 24)
+- [[Prayer]] — *far be it from me … in ceasing to pray for you* (12:23)
 
 ## Key people
 - [[Samuel]]
@@ -321,6 +338,7 @@ merge, or reorder them freely.
 - [[Saul's Uncle]] — told about the donkeys, not the kingdom (10:14–16)
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
+- [[Bedan]] — named among the deliverers in Samuel's farewell, otherwise unknown (12:11)
 
 ## Key places
 - [[Shiloh]]

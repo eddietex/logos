@@ -375,6 +375,10 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### The king whom you have chosen — 1 Samuel 12:13, 22
+
+*See the king whom you have chosen, and whom you have asked for. Behold, Yahweh has set a king over you* (12:13). At 10:24 Samuel had said *him whom Yahweh has chosen*; here the people have *chosen*, and Yahweh has *set*. The verse holds both. Then the deeper choice: *it has pleased Yahweh to make you a people for himself* (12:22). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–24; chosen by lot, found hiding, *him whom Yahweh has chosen*.
@@ -550,6 +554,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king *"whom Yahweh your God chooses"* (15).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priest *"chosen … out of all your tribes"* (5).
 - [[The Generations of Perez]] — Ruth 4:18–22; the line from Perez, the younger-born twin, to David.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:13, 22; the king the people chose; the people Yahweh made his own.
 
 ## Related themes
 

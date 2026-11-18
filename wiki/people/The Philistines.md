@@ -219,6 +219,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder at Mizpah, the Philistines subdued.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:16; the people Saul is to save Israel from.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:5; their garrison at the hill of God.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:9; one of the three oppressors to whom Yahweh *sold* Israel.
 
 ## Related people
 

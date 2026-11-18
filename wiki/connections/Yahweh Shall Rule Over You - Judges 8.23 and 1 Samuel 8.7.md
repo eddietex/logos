@@ -24,8 +24,8 @@ tags: [connection]
 - [[Saul Chosen by Lot at Mizpah]] — **1 Samuel 10:19** — *"But you have today rejected your God, who himself saves
   you out of all your calamities and your distresses; and you have said to him, 'No! Set a king over us.'"* (stored
   WEB)
-- **1 Samuel 12:12** — *"you said to me, 'No, but a king shall reign over us;' when Yahweh your God was
-  your king."* (WEB checked at bible-api.com; not yet ingested)
+- [[Samuel's Farewell Address]] — **1 Samuel 12:12** — *"you said to me, 'No, but a king shall reign over us;' when Yahweh your God
+  was your king."* (stored WEB; now ingested)
 - [[Jotham's Fable]] — **Judges 9:8, 14–15** — *The trees set out to anoint a king over themselves* … *Then all
   the trees said to the bramble, 'Come and reign over us.'* (stored WEB)
 

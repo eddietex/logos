@@ -15,7 +15,7 @@ tags: [connection]
 - [[Israel Asks for a King]] — 1 Samuel 8:1–5 — *When Samuel was old, he made his sons judges over Israel …
   His sons didn't walk in his ways, but turned away after dishonest gain, took bribes, and perverted
   justice* (8:1, 3).
-- 1 Samuel 12:2–5 *(stored WEB; not yet ingested)* — *I am old and gray-headed. Behold, my sons are with you.*
+- [[Samuel's Farewell Address]] — 1 Samuel 12:2–5 *(stored WEB; now ingested)* — *I am old and gray-headed. Behold, my sons are with you.*
 
 ## Analysis
 
@@ -47,7 +47,7 @@ court, against the law of Deuteronomy 16:19, *You shall not pervert justice … 
 (3:13); Samuel is not judged at all, and the narrator neither blames nor excuses him. Eli's house is ended by
 an oracle; Samuel's sons are simply never mentioned again in 1 Samuel. In his farewell Samuel says only *my
 sons are with you* (12:2) and asks the people to witness his own hands clean of what his sons did: *Of whose
-hand have I taken a ransom to make me blind my eyes?* (12:3, stored WEB; not yet ingested). *Blind* echoes the
+hand have I taken a ransom to make me blind my eyes?* (12:3, stored WEB). *Blind* echoes the
 law's reason for refusing bribes, *a bribe blinds the eyes of the wise* (Deuteronomy 16:19); the noun in 12:3
 is *kōp̄er*, not *šōḥaḏ* (WLC).
 

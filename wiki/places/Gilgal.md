@@ -148,6 +148,7 @@ both pages qualified.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Set These Words Before You]] — Deuteronomy 11:30; a landmark for locating Gerizim and Ebal.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:1–25; not named; the setting implied by 11:14–15.
 
 ## Related places
 

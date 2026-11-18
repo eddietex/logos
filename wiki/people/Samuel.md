@@ -48,7 +48,7 @@ grew before Yahweh* (2:21), literally *with* Yahweh (*ʿim-YHWH*, WLC), and *gre
 favor both with Yahweh, and also with men* (2:26). Eli's sons *didn't know Yahweh* (2:12); Samuel *didn't
 yet know Yahweh* (3:7, stored WEB; not yet ingested). Eli's question, *who will intercede for him?* (2:25),
 finds its answer later in Samuel himself, who prays for Israel at Mizpah (7:5) and calls it sin to cease
-praying for them (12:23) (stored WEB; not yet ingested). See [[The Sins of Eli's Sons]],
+praying for them (12:23). See [[Samuel's Farewell Address]], [[The Sins of Eli's Sons]],
 [[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]], and
 [[They Didn't Know Yahweh - Pharaoh, the Generation After Joshua, and Eli's Sons]].
 
@@ -137,8 +137,8 @@ answer takes the hurt out of his hands, *they have not rejected you, but they ha
 over them* (8:7), and tells him three times to *listen to their voice* (7, 9, 22). Samuel is the go-between
 in both directions: he tells *all Yahweh's words to the people who asked him for a king* (10), and *rehearsed*
 the people's words *in the ears of Yahweh* (21). His warning, *the way of the king*, is a list of what a king
-takes (11–17); in his farewell he will ask the people to witness that he has taken nothing (12:3, stored WEB;
-not yet ingested). He ends the assembly without naming a king: *Everyone go to your own city* (22). See
+takes (11–17); in his farewell he asks the people to witness that he has taken nothing (12:3; see
+[[Samuel's Farewell Address]]). He ends the assembly without naming a king: *Everyone go to your own city* (22). See
 [[Israel Asks for a King]].
 
 Source: stored WEB 1 Samuel 2:22; 8:1–22; 12:3. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
@@ -198,6 +198,29 @@ Samuel then calls the people to [[Gilgal]], a town of his yearly circuit (7:16),
 He is not named in the king-making, the peace offerings, or the rejoicing that follow (11:15); the next chapter
 is his farewell. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel 7:16; 11:7, 12–15.
 
+### The farewell — 1 Samuel 12:1–25
+
+Samuel begins *I have listened to your voice* (12:1), the words Yahweh told him three times to obey (8:7, 9, 22),
+and puts his whole career on trial: *Witness against me before Yahweh, and before his anointed. Whose ox have I
+taken? Whose donkey …?* (12:3). The people clear him, and Yahweh and the king are named witnesses (12:5). Then he
+turns the trial on them, *that I may plead with you*, *wəʾiššāp̄əṭâ* (12:7, WLC), the judges' verb: a recital of
+Yahweh's *righteous acts* that runs from Moses and Aaron through Sisera, the Philistines, and Moab to the
+deliverers *Jerubbaal, Bedan, Jephthah, and Samuel* (12:6–11). He names himself as the last judge Yahweh sent. He
+places the request for a king at Nahash's attack, against the order of chapters 8–11 (12:12; recorded on
+[[Nahash (king of Ammon)]]), and puts king and people under one condition (12:14–15). At wheat harvest he calls
+to Yahweh, and Yahweh sends thunder and rain; the people fear *Yahweh and Samuel*, as at the sea they believed *in
+Yahweh, and in his servant Moses* (Exodus 14:31). Asked to pray *that we not die*, he says *Don't be afraid*, and
+then: *far be it from me that I should sin against Yahweh in ceasing to pray for you: but I will instruct you in
+the good and the right way* (12:18–23). He resigns as judge and keeps the offices of intercessor and teacher. The
+speech shares its age, history, witness formula, *far be it*, and *fear Yahweh … serve him in truth* with
+Joshua's farewells (Joshua 23–24). Psalm 99:6 sets *Samuel among those who call on his name*, and Jeremiah 15:1
+names *Moses and Samuel* together (WEB checked at bible-api.com, 2026-11-18; not stored). See
+[[Samuel's Farewell Address]], [[Witnesses Against Yourselves - Joshua's Farewell and Samuel's]], and
+[[Thunders in Harvest - Exodus 9 and 1 Samuel 12]].
+
+Source: stored WEB 1 Samuel 8:7, 9, 22; 12:1–25; Exodus 14:31; Joshua 23–24. Hebrew WLC (OpenScriptures morphhb),
+2026-11-18.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -213,6 +236,7 @@ is his farewell. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel
 - Anoints Saul in private with the vial of oil; gives three signs, all fulfilled that day; tells him to wait seven days at Gilgal — 9:26–10:8.
 - Summons the people to Mizpah, charges them with rejecting God, conducts the choosing of Saul, and writes *the regulations of the kingdom* in a book — 10:17–25.
 - Named with Saul in the summons to Jabesh; addressed by the people after the victory; calls them to Gilgal to *renew the kingdom* — 11:7, 12–14.
+- Gives his farewell: clears his own record, recites Yahweh's righteous acts, names himself among the deliverers, calls down thunder and rain at wheat harvest, and promises not to cease praying — 12:1–25.
 
 ## Appears in
 
@@ -228,6 +252,7 @@ is his farewell. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:8; the private anointing, the three signs, and the seven days.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–25; the rebuke, the lot, the acclamation, and the written regulations.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7, 12–14; named in the summons, and the call to renew the kingdom at Gilgal.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:1–25; the audit, the history, the thunder, and the promise to keep praying.
 
 ## Related people
 
@@ -242,6 +267,8 @@ is his farewell. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel
 - [[Shemuel]] — the earlier bearer of the same Hebrew name
 - [[Man of God (of Eli's time)]] — whose word against Eli is repeated to him (3:11–14)
 - [[Deborah (prophetess)]] — the other prophet who *judged Israel*, between Ramah and Bethel (Judges 4:4–5)
+- [[Bedan]] — named with Jerubbaal, Jephthah, and himself among the deliverers (12:11)
+- [[Moses]] — whose sending he recites (12:6, 8), and with whom later Scripture pairs him (Psalm 99:6; Jeremiah 15:1)
 
 ## Themes associated
 
@@ -257,3 +284,5 @@ is his farewell. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel
 - [[Prophecy and Vision]]
 - [[Hospitality]]
 - [[Signs and Wonders]]
+- [[Integrity]]
+- [[The Fear of God]]

@@ -558,6 +558,10 @@ carry his words (18). Mediation is not only Moses' person but a lasting provisio
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
+### Pray for your servants — 1 Samuel 12:19–23
+
+After the thunder the people ask Samuel to intercede, *that we not die* (12:19), as Pharaoh asked Moses in the hail (Exodus 9:28). Samuel answers with a pledge rather than a single prayer: he will not cease to pray for them, and will teach them *the good and the right way* (12:23). The judge resigns; the intercessor does not. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:5–9; Samuel prays and cries *for Israel*, and is answered.
@@ -853,6 +857,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:11–14; the attacked brother prays for the sister.
 - [[The People Refuse the Land]] — Numbers 14:5–19; the second offer of a new nation, and the plea
 - [[A Prophet Like Moses]] — Deuteronomy 18:15–18; the prophet as the lasting answer to the request for a go-between.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:19–23; *Pray for your servants*; the pledge to keep praying.
 
 ## Related themes
 

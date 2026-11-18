@@ -322,6 +322,10 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
+### For his great name's sake — 1 Samuel 12:22
+
+*Yahweh will not forsake his people for his great name's sake*, *baʿăḇûr šəmô haggāḏôl* (12:22, WLC). Joshua had pleaded after Ai, *What will you do for your great name?* (Joshua 7:9). The reason Yahweh will not abandon Israel after the request for a king is not Israel but his name. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[The Song of Hannah]] — 1 Samuel 2:2–3; *rock like our God*; *a God of knowledge*, *ʾēl dēʿôṯ*.
@@ -563,6 +567,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:27; *they shall put my name on the children of Israel*.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; ministering *"in Yahweh's name"* (5, 7).
 - [[A Prophet Like Moses]] — Deuteronomy 18:19–22; the prophet speaks *"in my name"*; the false one *"in the name of other gods"* (20).
+- [[Samuel's Farewell Address]] — 1 Samuel 12:22; *for his great name's sake*.
 
 ## Related themes
 

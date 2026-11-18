@@ -46,6 +46,7 @@ Source: stored WEB Judges 2:13. Hebrew from the Westminster Leningrad Codex (Ope
 - [[Another Generation Arose]] — Judges 2:6–23
 - [[Israel's Repentance Under Ammon]] — Judges 10:6; first in the list of gods served.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–4; put away with *the foreign gods* and *the Baals*.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:10; *the Baals and the Ashtaroth* in Israel's remembered confession.
 
 ## Related people
 - [[Baal (deity)]] — named with her.

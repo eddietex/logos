@@ -252,6 +252,10 @@ See [[The People Refuse the Land]].
 signs, and with wonders."* The list of 4:34, now put in the mouth of every household that brings
 first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 4:34; 26:8.
 
+### Thunder in wheat harvest — 1 Samuel 12:16–18
+
+*Stand still and see this great thing … Isn't it wheat harvest today? I will call to Yahweh, that he may send thunder and rain* (12:16–17). The sign comes that day, and the people fear. Its words, *Yahweh sent thunder*, *nāṯan qōlōṯ*, are those of the hail in Egypt (Exodus 9:23, WLC). See [[Thunders in Harvest - Exodus 9 and 1 Samuel 12]]. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Samuel Anoints Saul]] — 1 Samuel 10:2–9; three foretold meetings, *all … happened that day*.
@@ -363,6 +367,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; a fulfilled sign that does not authenticate the prophet.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:8; the signs and wonders recited over the first fruits.
 - [[The Announcement of Samson's Birth]] — Judges 13:18–20; *incomprehensible* and *an amazing thing*, the angel ascending in the flame.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:16–18; thunder and rain at wheat harvest.
 
 ## Related themes
 

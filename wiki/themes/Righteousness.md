@@ -436,6 +436,10 @@ wicked at Exodus 23:7. The merchant's weight must be *"perfect and just"*, *šǝ
 the *ṣedeq* of *"righteous judgment"* in 16:18. A verdict and a stone weight are both called righteous.
 See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
+### The righteous acts of Yahweh — 1 Samuel 12:7
+
+Samuel pleads with Israel *concerning all the righteous acts of Yahweh*, *ṣiḏqôṯ YHWH* (12:7, WLC), the phrase of Deborah's song (Judges 5:11). The plural means acts of deliverance: the exodus, and each judge sent when Israel cried (12:8–11). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
@@ -678,6 +682,7 @@ See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deu
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *ṣedeq ṣedeq*, justice pursued for life in the land; the bribe that perverts the righteous.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:13; the returned pledge, *"righteousness to you before Yahweh"*.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1, 15; the hiphil of *ṣādaq*, and *ṣedeq* for the honest weight.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:7–11; *the righteous acts of Yahweh*, recited as the history of deliverance.
 
 ## Related themes
 

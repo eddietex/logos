@@ -69,6 +69,7 @@ died, and Baal is restored. See [[Gideon's Ephod and Death]] and [[Baal Berith]]
 - [[Gideon's Ephod and Death]] — Judges 8:33; *the Baals*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 10, 16; served, confessed, put away.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:4; *the Baals* removed at Samuel's word.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:10; *the Baals and the Ashtaroth* in Israel's remembered confession.
 
 ## Related people
 - [[Ashtoreth (deity)]] — the goddess named beside him (2:13).

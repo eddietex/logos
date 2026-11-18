@@ -28810,3 +28810,49 @@ from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb
 `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `1Sam`, and `2Sam`; occurrence claims cover those files only.
 Recalled, not checked, and flagged where made: the theory of three combined accession accounts, the shield
 explanation of the right eye, the *ʾelep* debate, and the usual location of Bezek.
+
+## [2026-11-18] ingest | 1 Samuel 12.1-25 — Samuel's Farewell Address
+
+Unattended run. Created [[Samuel's Farewell Address]], [[Bedan]], and the connections
+[[Witnesses Against Yourselves - Joshua's Farewell and Samuel's]] and
+[[Thunders in Harvest - Exodus 9 and 1 Samuel 12]]. Revised [[1 Samuel]] (box checked; overview paragraph; key
+themes and people), [[Samuel]] (new overview section; two forward references to chapter 12 now linked), [[Saul]],
+[[Moses]], [[Aaron]], [[Jacob]], [[Sisera]], [[Gideon]], [[Jephthah]], [[Eglon (person)]], [[The Philistines]],
+[[Baal (deity)]], [[Ashtoreth (deity)]], [[Joel (son of Samuel)]], [[Abijah (son of Samuel)]],
+[[Nahash (king of Ammon)]], the places [[Egypt]], [[Hazor]], [[Moab (place)]], [[Ammon]], and [[Gilgal]], and
+seventeen themes: [[Kingship and Empire]], [[Integrity]], [[Theft and Restitution]], [[Walking with God]],
+[[Righteousness]], [[Judgment]], [[Sin]], [[Idolatry]], [[Vanity]], [[Signs and Wonders]], [[The Fear of God]],
+[[Prayer]], [[Mediation and Advocacy]], [[Redemption]], [[The Names of God]], [[Call and Election]], and
+[[Law and Obedience]]. Seven existing connections that cited this chapter in advance now link the passage:
+[[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]],
+[[Not in His Ways - The Sons of Eli and the Sons of Samuel]],
+[[A Prophet Who Prays - The First Nabi in Scripture]],
+[[Between Ramah and Bethel - Deborah and Samuel as Judges]], [[Not a Thread nor a Sandal Strap]],
+[[Asked of Yahweh - Samuel's Name and Saul's]], and [[He Will Thunder Against Them - Hannah's Song and Mizpah]].
+Also `wiki/books/index.md` (15 / 47), People Index A-E (one new row) with rows extended across A-E, F-M, and N-Z
+(Samuel's and Saul's summaries extended), Connections Index T-Z (two new rows) with seven rows extended across all
+five subindexes, the places index (five rows), the themes index (seventeen rows), and the dashboard counts.
+Frontmatter totals: 501 passages, 381 people, 608 places, 88 themes, 953 connections.
+
+Judgment calls: the boundary 12:1–25 stands. The speech's place is not named; Gilgal is recorded as implied by
+11:14–15 and linked only as such. Bedan gets a page because the name is an open puzzle already raised on the
+Deborah–Samuel connection. *The king of Moab* is linked to [[Eglon (person)]] in the passage's People list only, as
+the referent Judges 3 supplies. The places-index row for [[Gilgal]], noted as malformed in the previous entry, was
+extended again but still not rebuilt; it remains for a lint pass. Passage pages that cite chapter 12 in advance as
+*not yet ingested* ([[Israel Asks for a King]], [[The Sins of Eli's Sons]], [[Samuel Judges Israel at Mizpah]],
+[[Saul Rescues Jabesh Gilead]]) were left as written.
+
+Recorded, not resolved: 12:12's placing of the request for a king at Nahash's attack, against chapters 8–11
+(already written out on [[Nahash (king of Ammon)]], and repeated on the passage page); who Bedan is; whether 12:14
+is a complete condition; *fathers* or *king* at 12:15; whether *my sons are with you* defends them; what the *vain
+things* of 12:21 are. No contradiction with an existing page was overwritten.
+
+Sources: 1 Samuel 12 from stored WEB, with the not-yet-ingested 1 Samuel 13:13 and 31:1–6. Comparisons from stored
+WEB Genesis 1:2; 19:15, 17; Exodus 9:23, 27–34; 14:13, 31; 19:16; 20:16, 18, 20; 21:30; 34:22; Numbers 16:15, 26;
+Deuteronomy 1:26, 43; 12:10; 16:19; 28:33; 32:10, 15; Joshua 7:9; 23:2, 14; 24:4–5, 14–27; Judges 3:12; 4:2; 5:11;
+6:13, 32; 10:8, 10; 12:13. Psalm 99:6 and Jeremiah 15:1 checked at bible-api.com (WEB), 2026-11-18, not stored.
+Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-18, files
+`Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `1Sam`, and `2Sam`; occurrence claims cover those files only.
+Recalled, not checked, and flagged where made: the readings of other manuscripts and versions at 12:5, 11, and 15;
+the proposed identifications of Bedan and the Bedan of 1 Chronicles 7:17; the debate over 12:14; the climate of
+wheat harvest; the derivation of *tôrâ* from *hôrâ*; the grouping of programmatic speeches in Joshua–Kings.

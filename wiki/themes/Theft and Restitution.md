@@ -243,6 +243,10 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a F
 Where theft of goods is repaid, theft of a person is capital, here as in Exodus 21:16. Deuteronomy's
 participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### I will restore it to you — 1 Samuel 12:3
+
+Samuel offers restitution before anyone has made a claim: *Of whose hand have I taken a ransom …? I will restore it to you*, *wəʾāšîḇ lāḵem* (12:3, WLC). No claim is made (12:4). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Wives for Benjamin]] — Judges 21:20–23; the dancers *carried off*, *gāzal*.
@@ -291,6 +295,7 @@ participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pled
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–3; the lost animal or garment kept and restored to its owner.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:24–25; eat in the field, carry nothing away.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:7; the man who steals a brother.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:3–5; restitution offered, and nothing found.
 
 ## Related themes
 

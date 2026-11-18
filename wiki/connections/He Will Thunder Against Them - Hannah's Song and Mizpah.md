@@ -12,6 +12,8 @@ tags: [connection]
   thunder against them in the sky.*
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:10; *Yahweh thundered with a great thunder on that day on
   the Philistines, and confused them.*
+- [[Samuel's Farewell Address]] — 1 Samuel 12:17–18; *Yahweh sent thunder and rain that day*, now as a sign
+  against Israel. See [[Thunders in Harvest - Exodus 9 and 1 Samuel 12]].
 - 2 Samuel 22:14 — David's song: *Yahweh thundered from heaven. The Most High uttered his voice.* (WEB at
   bible-api.com; not stored)
 - Psalm 18:13 — the same line in the Psalter: *Yahweh also thundered in the sky.* (same)

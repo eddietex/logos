@@ -188,6 +188,7 @@ displaced five chapters before either of them is born.** See
   people Deuteronomy 2:20 calls the Zamzummim and says held this land before Ammon did
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Ammonite excluded from Yahweh's assembly.
 - [[The Kings Struck Down]] — Joshua 12:1–24; its border with Sihon.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:12; Nahash named as the occasion of the request for a king.
 
 ## Related places
 

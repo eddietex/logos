@@ -506,6 +506,10 @@ heaven, and bless your people Israel"* (15). The first has *"Yahweh heard our vo
 second, *"I have listened to Yahweh my God's voice"* (14). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:5–15.
 
+### Ceasing to pray as sin — 1 Samuel 12:19–23
+
+The people ask, *Pray for your servants to Yahweh your God, that we not die* (12:19), and Samuel answers *far be it from me that I should sin against Yahweh in ceasing to pray for you* (12:23). Not praying for the people is named a sin against Yahweh. Before that, he had *called to Yahweh*, and Yahweh sent thunder (12:18). Later Scripture remembers him for this (Psalm 99:6; Jeremiah 15:1; WEB checked at bible-api.com, not stored). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Israel Asks for a King]] — 1 Samuel 8:6, 18, 21; Samuel prays about the request; the cry Yahweh will not answer.
@@ -737,6 +741,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–15; the confession over the first fruits and the third-year declaration, ending *"Look down … and bless"*.
 - [[The Announcement of Samson's Birth]] — Judges 13:8–9; *Manoah entreated Yahweh … God listened to the voice of Manoah*.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:18–19; Samson calls on Yahweh, and the spring is opened.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:18–23; Samuel calls, and will not cease to pray.
 
 ## Related themes
 

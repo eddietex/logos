@@ -279,6 +279,10 @@ second weight, not only using it. The honest weight is *"perfect and just"*, and
 unrighteously, are an abomination to Yahweh"* (15–16). See [[Justice, Family Duty, Honest Weights, and Amalek]] and
 [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]]. Source: stored WEB Deuteronomy 25.
 
+### Whose ox have I taken? — 1 Samuel 12:1–5
+
+Samuel ends his judgeship by asking for an audit: *Witness against me before Yahweh, and before his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I defrauded? Whom have I oppressed? Of whose hand have I taken a ransom to make me blind my eyes? I will restore it to you* (12:3). The people clear him, and Yahweh and the king are named witnesses (12:4–5). It answers both his sons, who *took bribes* (8:3), and the king who *will take* (8:11–17). Moses made a similar defence, *I have not taken one donkey from them* (Numbers 16:15). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 - [[Jotham's Fable]] — Judges 9:16, 19; *truly and righteously*, Joshua's pair turned on Shechem.
 
@@ -412,6 +416,7 @@ unrighteously, are an abomination to Yahweh"* (15–16). See [[Justice, Family D
 - [[If You Seek Her as Silver]] — Proverbs 2:7, 21; *tōm* and *tāmîm* given a shield and the land; the tension with Job 1:1 recorded
 - [[A Prophet Like Moses]] — Deuteronomy 18:13; *tāmîm* with Yahweh, against the diviners.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:13–16; one weight and one measure.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:1–5; Samuel's audit of his own career.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

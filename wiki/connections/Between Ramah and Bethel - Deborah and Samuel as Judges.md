@@ -15,7 +15,7 @@ tags: [connection]
   went from year to year in a circuit to Bethel, Gilgal, and Mizpah … His return was to Ramah, for his house
   was there; and he judged Israel there.*
 - [[Another Generation Arose]] — Judges 2:16–18; the pattern of the judges, *all the days of the judge*.
-- 1 Samuel 12:11 — *Yahweh sent Jerubbaal, Bedan, Jephthah, and Samuel* (stored WEB; not yet ingested).
+- [[Samuel's Farewell Address]] — 1 Samuel 12:11; *Yahweh sent Jerubbaal, Bedan, Jephthah, and Samuel* (stored WEB). See [[Bedan]].
 
 ## Analysis
 

@@ -184,6 +184,10 @@ moral indifference would erase the explicit distinction between good and evil in
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### Tōhû — 1 Samuel 12:21
+
+*Don't turn away to go after vain things which can't profit or deliver, for they are vain* (12:21). The word is *tōhû*, the *formless* of Genesis 1:2 and the *waste* of Deuteronomy 32:10; in the WLC of Genesis–2 Samuel those are its only other occurrences. Vanity here is measured by function: what cannot *profit* or *deliver*. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; The refrain remains beside truthful teaching, obedience, and judgment.
@@ -222,6 +226,7 @@ comparison passages identified on that page.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; all works judged vanity and a chasing after wind, including the study of wisdom.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; the opening verdict and its illustrations.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:21; *tōhû*, *which can't profit or deliver*.
 
 ## Related themes
 

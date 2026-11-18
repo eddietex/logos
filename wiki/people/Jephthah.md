@@ -96,6 +96,10 @@ The Spirit and his vow follow (11:29–40, above), then Ephraim and *Shibboleth*
 See [[Jephthah Called from Tob]]. Source: stored WEB Judges 9:4; 10:18; 11:1–11; Numbers 26:29;
 Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
+Samuel's farewell names him among the deliverers Yahweh sent, *Jerubbaal, Bedan, Jephthah, and Samuel* (1 Samuel
+12:11, stored WEB), in a speech that also recalls the confession Israel made under Ammon before Jephthah was called
+(12:10; Judges 10:10). See [[Samuel's Farewell Address]].
+
 ## Timeline / key events
 - Born to Gilead by a prostitute; driven out by his brothers, without inheritance — Judges 11:1–2
 - Lives in the land of Tob with *outlaws* — Judges 11:3
@@ -107,12 +111,14 @@ Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphh
 - Ephraim threatens to burn his house; he answers and fights it — Judges 12:1–4
 - Gilead holds the fords; forty-two thousand of Ephraim fall over *Shibboleth* — Judges 12:5–6
 - Judges Israel six years, dies, and is buried in the cities of Gilead — Judges 12:7
+- Named among the deliverers in Samuel's farewell — 1 Samuel 12:11.
 
 ## Appears in
 - [[Shibboleth]] — Judges 12:1–7; Ephraim's threat, the fords, six years, death and burial.
 - [[Jephthah's Vow]] — Judges 11:29–40; the Spirit, the vow, the victory, and his daughter.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; two embassies, the history of the road, and *Yahweh the Judge*.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; introduced, driven out, called back, made head.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:11; named among the deliverers.
 
 ## Related people
 - [[Ephraim]] — the tribe that threatens him and falls at the fords (12:1–6).

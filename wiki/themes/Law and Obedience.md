@@ -1608,6 +1608,10 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### Listen to his voice — 1 Samuel 12:14–15, 23
+
+Samuel's conditions are those of the covenant: *If you will fear Yahweh, and serve him, and listen to his voice, and not rebel against the commandment of Yahweh* (12:14); *But if you will not listen …* (12:15). The *commandment* is literally *the mouth*, *pî YHWH* (WLC). He ends as a teacher: *I will instruct you in the good and the right way* (12:23). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:25; *the regulations of the kingdom*, written and laid up before Yahweh.
@@ -1979,6 +1983,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king copies and reads *"this law"* all his life (18–19).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the son who will not obey his father's or his mother's voice.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; duties of chance encounters, distinctions of kinds, and the fringes.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:14–15, 23–24; the covenant's *if*, and Samuel as teacher.
 
 ## Related themes
 

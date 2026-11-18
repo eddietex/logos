@@ -14,6 +14,8 @@ tags: [connection]
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:20 — Eli blesses Elkanah and Hannah *for the petition which was asked of
   Yahweh*. Stored WEB.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2 — *He had a son, whose name was Saul*. Stored WEB.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:13, 17, 19 — *the king whom you have chosen, and whom you have
+  asked for*; *in asking for a king*; *to ask for a king*. Stored WEB.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:4 — *They will greet you*, literally *ask you of peace*. Stored WEB.
 - [[Israel Asks for a King]] — 1 Samuel 8:10 — *Samuel told all Yahweh's words to the people who asked him for a king*. Stored
   WEB.
@@ -51,7 +53,7 @@ I drew him out of the water* (Exodus 2:10), is another — so the mismatch is no
 consonants of *Šāʾûl*, Saul (9:2, WLC; Strong's numbers 7592 and 7586, distinguished only by the
 lexicon). Some interpreters have therefore proposed that the birth story was first told of Saul and later
 attached to Samuel; others read the wordplay as deliberate foreshadowing, the narrator pointing past
-Samuel to the king Israel will *ask for* (1 Samuel 8:10; 12:13, the latter not yet ingested). Both proposals are
+Samuel to the king Israel will *ask for* (1 Samuel 8:10; 12:13). Both proposals are
 reported, not verified, and the wiki takes neither as fact. What the text itself shows is narrower: the
 book's opening chapter says *asked* five times and ends on the participle that is the next main
 character's name.

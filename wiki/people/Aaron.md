@@ -963,6 +963,7 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
 - [[The Twelve Spies]] — Numbers 13:26; receives the report with Moses.
 - [[The People Refuse the Land]] — Numbers 14:2, 5, 26; object of the murmuring, and falls on his
   face.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:6, 8; named with Moses in Samuel's recital of the exodus.
 
 ## Related people
 

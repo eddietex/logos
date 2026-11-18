@@ -389,6 +389,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; *Ruth the Moabitess … who returned out of the country of Moab*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 6, 21; *the Moabite lady who came back with Naomi out of the country of Moab*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:3, 5, 10; *Naomi, who has come back out of the country of Moab*; *Ruth the Moabitess*.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:9; *the king of Moab*, among the oppressors.
 
 ## Related places
 

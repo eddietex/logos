@@ -42,6 +42,7 @@ Source: stored WEB Joshua 11:1–15.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Naphtali’s list.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:9; *Sisera, captain of the army of Hazor*.
 
 ## Related places
 - [[Hermon]] · [[Sidon (city)]]

@@ -1159,6 +1159,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Ancestral context for Israel’s twelve names; no personal appearance.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; named as Israel; his descendants mustered.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5; not named. Most readers take him as *"My father … a Syrian ready to perish"*, who *"went down into Egypt"*; Abraham is another reading.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:8; *When Jacob had come into Egypt*, the start of Samuel's history.
 
 ## Related people
 

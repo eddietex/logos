@@ -49,6 +49,10 @@ checked at bible-api.com). The name does not look Hebrew; no derivation is offer
 
 Source: stored WEB Judges 4:1–16.
 
+Samuel's farewell names him first of the three oppressors to whom Yahweh *sold* Israel when they forgot him,
+*Sisera, captain of the army of Hazor* (1 Samuel 12:9, stored WEB), without Jabin, and before the king of Moab,
+whose oppression came earlier in Judges. See [[Samuel's Farewell Address]].
+
 ## Timeline / key events
 
 - Judges 4:2–3 — Jabin's captain, oppressing Israel twenty years.
@@ -56,11 +60,13 @@ Source: stored WEB Judges 4:1–16.
 - Judges 4:15–16 — confused by Yahweh; leaves his chariot and flees on foot.
 - Judges 4:17–22 — killed in Jael's tent.
 - Judges 5:20, 26–30 — fought by the stars; his death sung; awaited by his mother.
+- Remembered in Samuel's farewell as *captain of the army of Hazor* — 1 Samuel 12:9.
 
 ## Appears in
 - [[Jael and Sisera]] — Judges 4:17–22; flees to Jael's tent and is killed there.
 - [[Deborah and Barak]] — Judges 4:1–16; Jabin's captain, routed at the Kishon.
 - [[The Song of Deborah]] — Judges 5:20, 26–30; the stars fight him; his mother waits.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:9; the first oppressor named in Samuel's history.
 
 ## Related people
 - [[Jabin (of Deborah's time)]]

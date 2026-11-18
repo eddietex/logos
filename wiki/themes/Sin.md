@@ -791,6 +791,10 @@ and 24:15 (the wage withheld) (WLC). In each case the sin is something kept back
 the same noun for the sin no one else may die for: *"Every man shall be put to death for his own sin"*
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### We have added to all our sins this evil — 1 Samuel 12
+
+Samuel's history recalls the confession of the judges' era, *We have sinned, because we have forsaken Yahweh* (12:10; compare Judges 10:10), and after the thunder the people make a new one: *we have added to all our sins this evil, to ask for a king* (12:19). Samuel does not deny it, *You have indeed done all this evil*, and does not let it be the end: *yet don't turn away from following Yahweh* (12:20). He also names the opposite sin for himself: *far be it from me that I should sin against Yahweh in ceasing to pray for you* (12:23). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:6; *We have sinned against Yahweh*, at Mizpah.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:17, 24–25; *very great before Yahweh*; sin against a man and sin against Yahweh.
@@ -1098,6 +1102,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:21–22; the unpaid vow is sin, the unmade vow is not.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; *"You shall not cause the land to sin"*.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:15–16; the withheld wage as *"sin to you"*, and each man's own sin.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:10, 19–23; the confession, the request named as evil, and prayerlessness named as sin.
 
 ## Related themes
 

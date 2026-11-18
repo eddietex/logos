@@ -1186,6 +1186,10 @@ limited three ways: it is carried out *"before his face"*, *"by number"*, and to
 stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See [[Justice, Family Duty, Honest Weights, and Amalek]] and
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
+### That I may plead with you — 1 Samuel 12:7
+
+*Wəʾiššāp̄əṭâ ʾittəḵem lip̄nê YHWH* (12:7, WLC): the last judge uses the judges' verb, *šāp̄aṭ*, in the Niphal, to enter into judgment with Israel. The evidence is the history of Yahweh's acts; the verdict is the thunder in wheat harvest, *your wickedness is great* (12:17). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 - [[The Ark Returns to Israel]] — 1 Samuel 6:19; the men of Beth Shemesh struck for looking into the ark.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:6–12; Yahweh's hand on Ashdod, Gath, and Ekron, with tumors and confusion.
@@ -1629,6 +1633,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the parents bring the rebellious son to the elders in the gate.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the elders try the bride's case, and stoning at the father's door and the city gate.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–3; the righteous justified, the wicked condemned, and the beating capped at forty.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:7, 17; the lawsuit and the sign.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

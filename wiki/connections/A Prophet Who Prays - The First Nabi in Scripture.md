@@ -28,7 +28,7 @@ tags: [connection]
 - **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh repented of the evil which he said he would do to his people."* — [[The Golden Calf]]
 - [[Miriam and Aaron Against Moses]] — Numbers 12:6–8, 13; prophecy defined by dream and vision, with Moses as the exception, and his prayer for Miriam
 - **Numbers 14:13–20** — Moses turning a sentence a second time
-- **1 Samuel 12:19, 23** — *"far be it from me that I should sin against Yahweh in ceasing to pray
+- [[Samuel's Farewell Address]] — **1 Samuel 12:19, 23** — *"far be it from me that I should sin against Yahweh in ceasing to pray
   for you"*
 - **Jeremiah 7:16; 11:14; 14:11; 15:1** — the prophet forbidden to intercede, and told that even
   Moses and Samuel would not be heard

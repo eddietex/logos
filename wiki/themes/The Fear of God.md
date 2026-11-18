@@ -606,6 +606,10 @@ and he didn't fear God"* (25:18). The WEB reads Amalek as the subject; the Hebre
 and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or not shows in how the
 weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
+### Don't be afraid … only fear Yahweh — 1 Samuel 12
+
+Fear runs through Samuel's farewell: *If you will fear Yahweh* (12:14); the thunder, and *all the people greatly feared Yahweh and Samuel* (12:18); *Don't be afraid* (12:20); *Only fear Yahweh, and serve him in truth with all your heart* (12:24). The terror is answered with *don't be afraid*, and the reverence is commanded. Moses at Sinai put the two side by side the same way: *Don't be afraid … that his fear may be before you* (Exodus 20:20). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7; *the dread of Yahweh fell on the people, and they came out as one man*.
@@ -899,6 +903,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 - [[A Prophet Like Moses]] — Deuteronomy 18:16, 22; fear of the fire, and *"you shall not be afraid of him"*.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:21; *"All Israel shall hear, and fear"*.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:18; *"he didn't fear God"*, said of the attack on the stragglers.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:14, 18, 20, 24; *Don't be afraid* and *Only fear Yahweh*.
 
 ## Related themes
 

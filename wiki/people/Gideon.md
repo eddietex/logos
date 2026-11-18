@@ -150,6 +150,9 @@ killing of the seventy as a wrong done to Gideon: *God repaid the wickedness of 
 to his father* (9:56), and the chapter's last words name *Jotham the son of Jerubbaal* (9:57). See
 [[The Fall of Abimelech]]. Source: stored WEB Judges 7:16–17; 8:17; 9:28, 43–57.
 
+Samuel's farewell names him by his other name, first among the deliverers: *Yahweh sent Jerubbaal, Bedan,
+Jephthah, and Samuel* (1 Samuel 12:11, stored WEB). See [[Samuel's Farewell Address]] and [[Bedan]].
+
 ## Timeline / key events
 
 - Judges 6:11 — threshing wheat in a winepress at Ophrah, hiding from Midian.
@@ -182,6 +185,7 @@ to his father* (9:56), and the chapter's last words name *Jotham the son of Jeru
 - Judges 8:33–35 — Israel returns to the Baals and shows his house no kindness.
 - Judges 9:1–6 — as *Jerubbaal*: his seventy sons killed at his house in Ophrah by Abimelech; Jotham survives.
 - Judges 9:16–19 — remembered by Jotham: *my father fought for you, and risked his life*.
+- Named as *Jerubbaal* among the deliverers in Samuel's farewell — 1 Samuel 12:11.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
@@ -195,6 +199,7 @@ to his father* (9:56), and the chapter's last words name *Jotham the son of Jeru
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6 (as *Jerubbaal*).
 - [[Jotham's Fable]] — Judges 9:16–19 (as *Jerubbaal*).
 - [[The Fall of Abimelech]] — Judges 9:24, 28, 56–57 (as *Jerubbaal* and *his father*).
+- [[Samuel's Farewell Address]] — 1 Samuel 12:11 (as *Jerubbaal*).
 
 ## Related people
 - [[Zebah]] and [[Zalmunna]] — the kings of Midian he pursues and kills for his brothers (8:5–21).

@@ -36,6 +36,7 @@ Source: stored WEB 1 Samuel 8:1–5; Deuteronomy 16:19. Hebrew WLC (OpenScriptur
 
 ## Appears in
 - [[Israel Asks for a King]] — 1 Samuel 8:2–5.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:2; not named; *my sons are with you*.
 
 ## Related people
 - [[Samuel]] — his father

@@ -287,6 +287,10 @@ The king is not to turn from the commandment *"to the right hand, or to the left
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### The king walks before you — 1 Samuel 12:2
+
+*The king walks before you … I have walked before you from my youth to this day*, the Hithpael of *hālaḵ* for both (12:2, WLC). The verb that described walking *before* Yahweh is used here of leaders walking before the people; the man of God had used it of a priestly house that would *walk before me* (2:30, 35). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:30, 35; *walk before me forever* withdrawn; *walk before my anointed*.
@@ -352,6 +356,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Defeat at Hormah]] — Numbers 14:43; *you turned back from following Yahweh*
 - [[The Law for the King]] — Deuteronomy 17:14–20; not turning right or left from the commandment (20).
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:14; Yahweh *mithallēk*, walking in the camp.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:2; king and judge *walk before* the people.
 
 ## Related themes
 

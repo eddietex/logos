@@ -43,9 +43,11 @@ bible-api.com (WEB), 2026-11-18. Hebrew WLC (OpenScriptures morphhb), 2026-11-18
 - Besieges Jabesh Gilead; demands every man's right eye as the price of a covenant — 1 Samuel 11:1–2.
 - Grants seven days; his army is broken by Saul — 11:3–11.
 - Named by Samuel as the threat that preceded the request for a king — 12:12 (not yet ingested).
+- Named by Samuel as the occasion of the people's request for a king — 1 Samuel 12:12.
 
 ## Appears in
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–11.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:12; *Nahash the king of the children of Ammon*.
 
 ## Related people
 - [[Saul]] — who musters Israel against him (11:6–11)

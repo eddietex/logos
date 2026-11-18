@@ -2434,6 +2434,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19; the speaker, on judges and beatings, the ox, the levirate, the fight, weights, and Amalek.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15; the speaker, giving the words of the first-fruits confession and the third-year tithe declaration.
 - [[The Kings Struck Down]] — Joshua 12:1–24; the east bank as his conquest and gift.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:6, 8; *Yahweh who appointed Moses and Aaron*, sent to bring the fathers out of Egypt.
 
 ## Related people
 

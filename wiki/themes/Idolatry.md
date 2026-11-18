@@ -643,6 +643,10 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
+### Vain things which can't profit or deliver — 1 Samuel 12:21
+
+Samuel's history names *the Baals and the Ashtaroth* (12:10), and his charge warns against turning aside *after vain things which can't profit or deliver, for they are vain*, *tōhû* (12:21, WLC). The verse does not name the vain things; idols are the usual reading. *Deliver* is the verb used of Yahweh's deliverances in 12:10–11. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 - [[Israel Asks for a King]] — 1 Samuel 8:7–8; *forsaken me, and served other gods, so they also do to you*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–4; the foreign gods, the Baals, and the Ashtaroth put away; *serve him only*.
@@ -792,6 +796,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–14, 20; the nine practices of the nations, and the prophet in the name of other gods.
 - [[Laws for Going to War]] — Deuteronomy 20:18; *ḥērem* so that the nations *"not teach you to follow all their abominations"*.
 - [[The Song of Deborah]] — Judges 5:8; *they chose new gods. Then war was in the gates*.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:10, 21; the Baals and the Ashtaroth; *tōhû*.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

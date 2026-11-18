@@ -442,6 +442,10 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### Delivered you out of the hand of your enemies — 1 Samuel 12:10–11, 21
+
+Samuel's history is a history of *nāṣal*, *deliver*: *deliver us out of the hand of our enemies* (12:10), *and delivered you out of the hand of your enemies on every side* (12:11), against the *vain things which can't … deliver* (12:21) (WLC). Deliverance came by judges whom Yahweh *sent*, the last of them Samuel. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
+
 ## Key passages
 
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:3, 9, 13; *no one to save us*; *today Yahweh has rescued Israel*.
@@ -523,6 +527,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[The Announcement of Samson's Birth]] — Judges 13:5; *he shall begin to save Israel*.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:18; *this great deliverance by the hand of your servant*.
 - [[The Birth of Obed]] — Ruth 4:14; *who has not left you today without a near kinsman* — the *gōʾēl* is the newborn.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:10–11, 21; Yahweh delivers; *tōhû* cannot.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

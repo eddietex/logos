@@ -104,6 +104,19 @@ made Saul king before Yahweh*, with peace offerings, and *Saul and all the men o
 
 Source: stored WEB 1 Samuel 10:27; 11:1–15; Judges 14:19; 19:29. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
 
+### Witness and subject — 1 Samuel 12:1–25
+
+Saul does not speak in Samuel's farewell, but he is in it from the second verse: *now, behold, the king walks
+before you* (12:2). Samuel calls him as a witness, *before Yahweh, and before his anointed* (12:3, 5), the first
+time a living king is called *Yahweh's anointed* in the narrative. The king's first public act in the speech is to
+confirm that the old judge took nothing. Then Samuel presents him as *the king whom you have chosen, and whom you
+have asked for*, *šəʾeltem* (12:13, WLC), the root of his name, and in the same verse as the one Yahweh *has set*
+over them. The conditions that follow bind him with the people: *both you and also the king who reigns over you*
+(12:14), and the speech's last words are *you will be consumed, both you and your king* (12:25). See
+[[Samuel's Farewell Address]] and [[Asked of Yahweh - Samuel's Name and Saul's]].
+
+Source: stored WEB 1 Samuel 12:1–25. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -125,12 +138,15 @@ Source: stored WEB 1 Samuel 10:27; 11:1–15; Judges 14:19; 19:29. Hebrew WLC (O
 - Strikes the Ammonites in three companies from the morning watch; Jabesh rescued — 11:9–11.
 - Refuses to put the doubters to death: *today Yahweh has rescued Israel*; made king *before Yahweh* at Gilgal —
   11:12–15.
+- Presented by Samuel as *the king whom you have chosen*; called as witness, *his anointed*; placed under the same
+  condition as the people — 12:2–5, 13–15, 25.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16; anointed, changed, prophesies, and keeps the kingdom secret.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; chosen by lot, found hiding, acclaimed, and despised.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the Spirit, the muster, the rescue, the doubters spared, and Gilgal.
+- [[Samuel's Farewell Address]] — 1 Samuel 12:2–5, 13–15, 25; the king as witness, and under the same *if* as the people.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -162,3 +178,4 @@ Source: stored WEB 1 Samuel 10:27; 11:1–15; Judges 14:19; 19:29. Hebrew WLC (O
 - [[Law and Obedience]]
 - [[War]]
 - [[Compassion and Mercy]]
+- [[The Fear of God]]
