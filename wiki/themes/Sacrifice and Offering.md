@@ -948,6 +948,15 @@ after the ordinance*, assuming the scale of Numbers 15.
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
+### To entreat the favour of Yahweh — 1 Samuel 13:9–12
+
+Saul calls for *the burnt offering … and the peace offerings*, the two offerings of 10:8, and offers the burnt
+offering himself. His reason is *I haven't entreated the favor of Yahweh*, literally *soothed the face of Yahweh*,
+*ûp̄ənê YHWH lōʾ ḥillîṯî* (13:12, WLC): the sacrifice as the way to secure favour before battle. Samuel does not
+criticise the sacrifice as such, only the commandment not kept (13:13). Chapter 15 will state the principle, *to
+obey is better than sacrifice* (15:22, stored WEB; not yet ingested). See [[Saul's Sacrifice at Gilgal]]. Source:
+stored WEB 1 Samuel 10:8; 13:9–13; 15:22; Hebrew WLC, 2026-11-18.
+
 ## Key passages
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:15; peace offerings before Yahweh when Saul is made king at Gilgal.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:3–4, 8; the pilgrims' gifts; burnt and peace offerings reserved for Samuel at Gilgal.
@@ -1226,6 +1235,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no defective ox or sheep; *an abomination* (17:1).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the offerings by fire as Levi's food; shoulder, cheeks, and inner parts (3).
 - [[The Announcement of Samson's Birth]] — Judges 13:15–23; the meal refused, the burnt offering given to Yahweh, the angel ascending in its flame.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:9–12; the king's burnt offering, *to entreat the favor of Yahweh*.
 
 ## Related themes
 

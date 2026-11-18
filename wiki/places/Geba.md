@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Philistine garrison struck — 1 Samuel 13:3
+
+*Jonathan struck the garrison of the Philistines that was in Geba*, *bəḡeḇaʿ* (13:3, WLC, lemma 1387), while his
+thousand were posted at *Gibeah of Benjamin* (13:2, lemma 1390); the two names stand in consecutive verses. After
+Samuel leaves Gilgal, Saul and Jonathan are at *Geba of Benjamin*, facing the Philistines at [[Michmash]] (13:16,
+stored WEB; the next pericope). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 13:2–3, 16; Hebrew
+WLC, 2026-11-18.
+
 ### Geba in Judges 20:10 and Maareh Geba — Judges 20:33
 
 Two verses of the war against Benjamin have this name in the Hebrew. In verse 10 the assembly plans what it
@@ -36,6 +44,7 @@ Source: stored WEB Joshua 18:11–28.
 - [[The War Against Benjamin]] — Judges 20:10 (Hebrew), 33; *Maareh Geba*.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:3; the garrison Jonathan strikes.
 
 ## Related places
 - [[The Jordan]] — Benjamin’s eastern boundary.

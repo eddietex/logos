@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### *Hebrews crossed the Jordan* — 1 Samuel 13:7
+
+*Wəʿiḇrîm ʿāḇərû ʾeṯ-hayyardēn* (13:7, WLC): the noun *Hebrews* and the verb *ʿāḇar*, *cross*, side by side. With
+the Philistines at Michmash, some flee east over the river. See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB
+1 Samuel 13:7; Hebrew WLC, 2026-11-18.
+
 ### The fords held against Ephraim — Judges 12:5–6
 
 *The Gileadites took the fords of the Jordan against the Ephraimites* (12:5). The test is a word: *Now say
@@ -488,6 +494,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
   the passage page
 - [[The Twelve Spies]] — Numbers 13:29; Canaanites along its side
 - [[The Song of Deborah]] — Judges 5:17; *Gilead lived beyond the Jordan*.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:7; some Hebrews cross it to Gad and Gilead.
 
 ## Related places
 

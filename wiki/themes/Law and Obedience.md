@@ -1612,6 +1612,13 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 Samuel's conditions are those of the covenant: *If you will fear Yahweh, and serve him, and listen to his voice, and not rebel against the commandment of Yahweh* (12:14); *But if you will not listen …* (12:15). The *commandment* is literally *the mouth*, *pî YHWH* (WLC). He ends as a teacher: *I will instruct you in the good and the right way* (12:23). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### The commandment not kept — 1 Samuel 13:13–14
+
+*You have not kept the commandment of Yahweh your God, which he commanded you* (13:13), and again *because you have
+not kept that which Yahweh commanded you* (13:14). The commandment in view is Samuel's instruction to wait seven
+days (10:8), which Samuel now calls Yahweh's. Saul kept most of it and acted at its end. See
+[[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 10:8; 13:13–14.
+
 ## Key passages
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:25; *the regulations of the kingdom*, written and laid up before Yahweh.
@@ -1984,6 +1991,7 @@ Samuel's conditions are those of the covenant: *If you will fear Yahweh, and ser
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the son who will not obey his father's or his mother's voice.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; duties of chance encounters, distinctions of kinds, and the fringes.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:14–15, 23–24; the covenant's *if*, and Samuel as teacher.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:13–14; *You have not kept the commandment of Yahweh*.
 
 ## Related themes
 

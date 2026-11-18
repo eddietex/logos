@@ -701,6 +701,15 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 Samuel's farewell closes the account of the request for a king. He puts it in the cycle of Judges: whenever Israel cried, Yahweh sent a deliverer, but when Nahash came, *you said to me, 'No, but a king shall reign over us;' when Yahweh your God was your king* (12:12). The king is then shown as both *the king whom you have chosen* and the one *Yahweh has set … over you* (12:13), and placed under the same condition as the people: *both you and also the king who reigns over you* (12:14), *you will be consumed, both you and your king* (12:25). Kingship is allowed into the covenant without being exempted from it. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### A dynasty forfeited — 1 Samuel 13:13–14
+
+*Now Yahweh would have established your kingdom on Israel forever. But now your kingdom will not continue*
+(13:13–14). *Mamlaḵtəḵā … ʿaḏ-ʿôlām* (WLC) is the language of the promise to David's house, *Your house and your
+kingdom will be made sure forever* (2 Samuel 7:16, WEB checked at bible-api.com, 2026-11-18; not stored). Saul
+keeps the throne for now; the house is what he loses, and the title *prince*, *nāḡîḏ*, passes to *a man after his
+own heart* (13:14). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 13:13–14; Hebrew WLC,
+2026-11-18.
+
 ## Key passages
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the king fights the people's battle, and is made king *before Yahweh* at Gilgal.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; the lot, *Long live the king!*, the regulations written, and the doubters.
@@ -945,6 +954,7 @@ Samuel's farewell closes the account of the request for a king. He puts it in th
 - [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David* — the book's turn toward the king.
 - [[The Generations of Perez]] — Ruth 4:18–22; ten generations from Perez, ending on *David*.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:12–15, 25; *when Yahweh your God was your king*; king and people under one condition.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:13–14; the kingdom that would have been established forever.
 
 ## Related themes
 

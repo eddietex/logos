@@ -28856,3 +28856,42 @@ Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures 
 Recalled, not checked, and flagged where made: the readings of other manuscripts and versions at 12:5, 11, and 15;
 the proposed identifications of Bedan and the Bedan of 1 Chronicles 7:17; the debate over 12:14; the climate of
 wheat harvest; the derivation of *tôrâ* from *hôrâ*; the grouping of programmatic speeches in Joshua–Kings.
+
+## [2026-11-18] ingest | 1 Samuel 13.1-15 — Saul's Sacrifice at Gilgal
+
+Unattended run. Created [[Saul's Sacrifice at Gilgal]], [[Jonathan (son of Saul)]], [[Michmash]], and the
+connections [[You Have Done Foolishly - Saul at Gilgal and David at the Census]] and
+[[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]]. Revised [[1 Samuel]] (box checked; overview
+paragraph; key themes, people, and places), [[Saul]], [[Samuel]], [[David]], [[The Philistines]], [[Gad]], and
+[[Jonathan (son of Gershom)]] (related-people line only); the places [[Gilgal]], [[Geba]], [[Beth Aven]],
+[[Bethel]], [[Gibeah (Benjamin)]], [[Gilead]], and [[The Jordan]]; and eight themes: [[Law and Obedience]],
+[[Sacrifice and Offering]], [[Priesthood]], [[Kingship and Empire]], [[Folly]], [[Call and Election]], [[War]],
+and [[Testing]]. Also `wiki/books/index.md` (16 / 47), People Index F-M (one new row) with rows extended across
+A-E, F-M, and N-Z, the places index (one new row, seven extended), the themes index (eight rows), Connections
+Index I-N and T-Z (one new row each), and the dashboard counts. Frontmatter totals: 502 passages, 382 people,
+609 places, 88 themes, 955 connections.
+
+Judgment calls: the boundary 13:1–15 stands, with the regnal formula of 13:1 kept as the pericope's opening.
+Jonathan's page is qualified *(son of Saul)* because [[Jonathan (son of Gershom)]] exists. *The Mount of Bethel* is
+filed under [[Bethel]] and *the land of Gad* under [[Gad]]; *the Hebrews* get no page. [[David]] is linked as the
+referent of 13:14, though the chapter does not name him. The malformed places-index row for [[Gilgal]] (noted in
+the two previous entries) was extended again; its leading Joshua 5 text, displaced while appending, was restored
+into the summary cell, and the row still needs a rebuild in a lint pass. [[Priesthood]]'s existing statement that
+Saul was punished for crossing into the priest's office was left in place, and a new section beside it records
+that the text's own charge is the commandment not kept (10:8), with Samuel's own offerings (7:9, 17) as the
+difficulty for the priestly reading; both readings stand.
+
+Recorded, not resolved: the missing numbers of 13:1 (WEB supplies *thirty* and *forty-two*; Acts 13:21 says
+*forty years*); whether Saul's fault was impatience before the prophet or a king's sacrifice; whether Samuel came
+within the seventh day; what *nəṣîḇ* is; whom *the Hebrews* names; whether *kilḇāḇô* describes character or choice;
+the short WLC text of 13:15. No contradiction with an existing page was overwritten.
+
+Sources: 1 Samuel 13:1–15 from stored WEB, with the not-yet-ingested 1 Samuel 13:16, 19; 14:2–3, 11, 21; 15:22–28;
+16:1–13; 23:13; 25:30; 26:21; 27:2; 29:3. Comparisons from stored WEB Genesis 3:13; 4:10; 19:26; 31:26–29; 34:30;
+43:31; 45:1; Exodus 5:21; Joshua 11:4; 18:12; Judges 6:2; 7:12; 18:11, 30; 20:47. 2 Samuel 5:4; 7:16; 24:10 and Acts
+13:21–22 checked at bible-api.com (WEB), 2026-11-18, not stored. Hebrew from a fresh download of the Westminster
+Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-18, files `Gen` through `2Sam`; occurrence claims cover those
+files only. Recalled, not checked, and flagged where made: the Septuagint's treatment of 13:1 and 13:15; the
+versions' three thousand chariots at 13:5; the debate over *nəṣîḇ*; the *choice* reading of *kilḇāḇô*; the
+composite sources of Acts 13:22 (Psalm 89:20; Isaiah 44:28); the sacrifices of David and Solomon (2 Samuel 6:17–18;
+1 Kings 3:4); the content of 2 Samuel 24 beyond verse 10; the gloss of *Jonathan*.

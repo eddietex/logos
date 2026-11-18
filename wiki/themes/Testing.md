@@ -228,6 +228,13 @@ See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparison
 ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατον* makes it a count. See
 [[The People Refuse the Land]].
 
+### Seven days at Gilgal — 1 Samuel 13:8
+
+*He stayed seven days, according to the time set by Samuel; but Samuel didn't come to Gilgal, and the people were
+scattering from him* (13:8). The word *test* is not used. The scene is a waiting under pressure, and its outcome is
+judged by Samuel as a commandment not kept (13:13). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB
+1 Samuel 13:8–13.
+
 ## Key passages
 - [[Gideon's Three Hundred]] — Judges 7:4; *I will test them*, with *ṣārap*, the refiner's verb.
 - [[The Fleece]] — Judges 6:39; *let me make a trial*, a man testing God with the verb God used of testing Israel.
@@ -343,6 +350,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:21; The crucible and furnace of 17:3 again, with praise as the test.
 - [[The People Refuse the Land]] — Numbers 14:22; *they have tempted me these ten times*
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:3; Yahweh tests Israel's love through a fulfilled sign.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:8; seven days of waiting with a scattering army.
 
 ## Related themes
 

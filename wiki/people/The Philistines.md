@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### The garrison at Geba, and the army at Michmash — 1 Samuel 13:3–7
+
+Jonathan strikes *the garrison of the Philistines that was in Geba*, *nəṣîḇ pəlištîm* (13:3, WLC), the word of the
+garrison at the hill of God (10:5). The Philistines hear of it, and Israel *was considered an abomination*,
+literally *stank*, among them (13:4). They assemble *thirty thousand chariots, and six thousand horsemen, and
+people as the sand which is on the seashore* and camp at [[Michmash]], *eastward of Beth Aven* (13:5). Israel
+hides in caves and pits or crosses the Jordan (13:6–7). In Saul's mouth the threat is the reason for the
+sacrifice: *Now the Philistines will come down on me to Gilgal* (13:12). The Hebrew reads *šəlōšîm ʾelep̄ reḵeḇ*,
+*thirty thousand chariots* (WLC); some Greek and Syriac witnesses are commonly reported to read three thousand
+(recalled, not checked). See [[Saul's Sacrifice at Gilgal]].
+
+Source: stored WEB 1 Samuel 10:5; 13:3–12. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
+
 ### A garrison at the hill of God — 1 Samuel 10:5
 
 The third sign Samuel gives Saul is at *the hill of God, where the garrison of the Philistines is*, *nəṣiḇê
@@ -192,6 +205,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Defeat Israel twice at Ebenezer and Aphek, kill Hophni and Phinehas, and take the ark — [[The Ark Is Captured]].
 - Set the ark beside Dagon at Ashdod; struck with tumors and confusion at Ashdod, Gath, and Ekron — [[The Ark Among the Philistines]].
 - Hold a garrison at the hill of God when Saul is anointed — [[Samuel Anoints Saul]].
+- Their garrison at Geba struck by Jonathan; they muster at Michmash *as the sand*, and Israel hides — 1 Samuel 13:3–7. [[Saul's Sacrifice at Gilgal]]
 
 ## Appears in
 
@@ -220,6 +234,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Saul Comes to the Seer]] — 1 Samuel 9:16; the people Saul is to save Israel from.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:5; their garrison at the hill of God.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:9; one of the three oppressors to whom Yahweh *sold* Israel.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:3–7, 11–12; the garrison at Geba and the army at Michmash.
 
 ## Related people
 

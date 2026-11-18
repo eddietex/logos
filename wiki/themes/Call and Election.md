@@ -379,6 +379,14 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 *See the king whom you have chosen, and whom you have asked for. Behold, Yahweh has set a king over you* (12:13). At 10:24 Samuel had said *him whom Yahweh has chosen*; here the people have *chosen*, and Yahweh has *set*. The verse holds both. Then the deeper choice: *it has pleased Yahweh to make you a people for himself* (12:22). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### *A man after his own heart* — 1 Samuel 13:14
+
+*Yahweh has sought for himself a man after his own heart, and Yahweh has appointed him to be prince over his
+people* (13:14). *Kilḇāḇô* (WLC) can describe the man's heart or Yahweh's choice; the wiki records both readings.
+The chosen man is unnamed until 16:13, where Yahweh *looks at the heart* (16:7, stored WEB; not yet ingested). See
+[[Saul's Sacrifice at Gilgal]] and [[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]]. Source:
+stored WEB 1 Samuel 13:14; 16:7, 13; Hebrew WLC, 2026-11-18.
+
 ## Key passages
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–24; chosen by lot, found hiding, *him whom Yahweh has chosen*.
@@ -555,6 +563,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priest *"chosen … out of all your tribes"* (5).
 - [[The Generations of Perez]] — Ruth 4:18–22; the line from Perez, the younger-born twin, to David.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:13, 22; the king the people chose; the people Yahweh made his own.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:14; *a man after his own heart*, sought and appointed.
 
 ## Related themes
 

@@ -180,6 +180,19 @@ great name's sake*, and *far be it from me that I should sin against Yahweh in c
 The speech shares its form with Joshua's farewells (Joshua 23–24), and ends *you will be consumed, both you and
 your king* (12:25).
 
+[[Saul's Sacrifice at Gilgal]] (13:1–15) opens the account of the reign and forfeits its dynasty. The regnal
+formula of 13:1 lacks its numbers in the Hebrew, *a son of a year … and two years he reigned* (WLC); the WEB
+supplies *thirty* and *forty-two*. Jonathan, named here for the first time, strikes the Philistine garrison at
+Geba, and *all Israel heard that Saul had struck* it (13:3–4). The Philistines camp at Michmash *as the sand which
+is on the seashore*, and Israel hides in caves and pits or crosses the Jordan (13:5–7). At Gilgal Saul waits *seven
+days, according to the time set by Samuel*, the order of 10:8; Samuel does not come, the people scatter, and Saul
+offers the burnt offering. Samuel arrives as he finishes: *What have you done?* Saul gives his reasons, *I haven't
+entreated the favor of Yahweh. I forced myself* (13:11–12). *You have done foolishly. You have not kept the
+commandment of Yahweh your God*; the kingdom that *would have* been established *forever* *will not continue*, and
+Yahweh *has sought for himself a man after his own heart* as *prince over his people* (13:13–14). The text names
+the commandment, not the altar, as the fault. Saul keeps the throne and loses the house, with six hundred men left
+(13:15).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -217,7 +230,7 @@ merge, or reorder them freely.
 - [x] [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27
 - [x] [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15
 - [x] [[Samuel's Farewell Address]] — 1 Samuel 12:1–25
-- [ ] Saul's Sacrifice at Gilgal — 1 Samuel 13:1–15
+- [x] [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15
 - [ ] No Smith in Israel — 1 Samuel 13:16–23
 - [ ] Jonathan's Attack at Michmash — 1 Samuel 14:1–23
 - [ ] Saul's Rash Oath — 1 Samuel 14:24–46
@@ -309,6 +322,11 @@ merge, or reorder them freely.
 - [[Vanity]] — *vain things*, *tōhû*, *which can't profit or deliver* (12:21)
 - [[The Fear of God]] — *Don't be afraid … Only fear Yahweh* (12:20, 24)
 - [[Prayer]] — *far be it from me … in ceasing to pray for you* (12:23)
+- [[Sacrifice and Offering]] — Saul's burnt offering, *to entreat the favor of Yahweh* (13:9–12)
+- [[Folly]] — *You have done foolishly* (13:13)
+- [[Law and Obedience]] — *You have not kept the commandment of Yahweh* (13:13–14)
+- [[Call and Election]] — *a man after his own heart* (13:14)
+- [[Testing]] — seven days of waiting with a scattering army (13:8)
 
 ## Key people
 - [[Samuel]]
@@ -339,6 +357,7 @@ merge, or reorder them freely.
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 - [[Bedan]] — named among the deliverers in Samuel's farewell, otherwise unknown (12:11)
+- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3)
 
 ## Key places
 - [[Shiloh]]
@@ -359,4 +378,8 @@ merge, or reorder them freely.
 - [[Rachel's Tomb]] and [[Zelzah]], [[The Oak of Tabor]], and [[The Hill of God]] — the places of Saul's three signs (10:2–10)
 - [[Gilgal]] — where Saul is told to wait seven days (10:8)
 - [[Mizpeh]] — where Saul is chosen by lot and acclaimed (10:17–25)
-- [[Gibeah (Benjamin)]] — Saul's home (10:26)
+- [[Gibeah (Benjamin)]] — Saul's home (10:26); Jonathan's post, and Samuel's destination (13:2, 15)
+- [[Michmash]] — Saul's camp, then the Philistines' (13:2, 5)
+- [[Geba]] — the Philistine garrison Jonathan strikes (13:3)
+- [[Beth Aven]] — the Philistines camp *eastward of* it (13:5)
+- [[Gilgal]] — the seven days, Saul's offering, and the sentence on his kingdom (13:4–15)

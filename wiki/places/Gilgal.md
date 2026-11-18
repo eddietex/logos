@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### The seven days and the burnt offering — 1 Samuel 13:4–15
+
+After Jonathan's blow at Geba *the people were gathered together after Saul to Gilgal* (13:4), and Saul stays
+there while the Philistines hold Michmash and his men slip away (13:7–8). The waiting of 10:8 is counted here,
+*seven days, according to the time set by Samuel*, *lammôʿēḏ* (13:8, WLC). Saul fears *the Philistines will come
+down on me to Gilgal* (13:12), offers the burnt offering, and hears from Samuel that his kingdom *will not
+continue* (13:13–14). Samuel then goes up *from Gilgal* to Gibeah of Benjamin (13:15). The place where the kingdom
+was *renewed* with peace offerings (11:14–15) is the place where the dynasty is forfeited. See
+[[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 10:8; 11:14–15; 13:4–15; Hebrew WLC, 2026-11-18.
+
 ### The kingdom renewed — 1 Samuel 11:14–15
 
 After Jabesh Gilead, Samuel says *Come, and let us go to Gilgal, and renew the kingdom there* (11:14). *All the
@@ -149,6 +159,7 @@ both pages qualified.
 
 - [[Set These Words Before You]] — Deuteronomy 11:30; a landmark for locating Gerizim and Ebal.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:1–25; not named; the setting implied by 11:14–15.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:4–15; the seven days, the burnt offering, and the sentence.
 
 ## Related places
 

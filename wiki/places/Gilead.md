@@ -7,6 +7,11 @@ tags: [place]
 
 ## Overview
 
+### A refuge from the Philistines — 1 Samuel 13:7
+
+*Some of the Hebrews had gone over the Jordan to the land of Gad and Gilead* (13:7). The town Saul had just
+rescued, Jabesh, lies in it (11:1). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 11:1; 13:7.
+
 ### Jabesh Gilead destroyed — Judges 21:8–14
 
 The town of Gilead that did not come to Mizpah, [[Jabesh Gilead]], is struck by twelve thousand men, and
@@ -257,6 +262,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 - [[My Dove Is Unique]] — Song of Solomon 6:5; the goats in the hair comparison return.
 - [[The Kings Struck Down]] — Joshua 12:1–24; divided between Sihon and Og.
 - [[The Song of Deborah]] — Judges 5:17; *Gilead lived beyond the Jordan*.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:7; where some Hebrews flee.
 
 ## Related places
 

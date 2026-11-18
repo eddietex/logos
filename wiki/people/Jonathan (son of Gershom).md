@@ -82,6 +82,7 @@ priest of an image at the northern edge of the land — the thing his grandfathe
 - [[Moses]] — his grandfather, in the WEB and the consonantal text; *Manasseh* with the suspended *nun*
 - [[Levi]] — his tribe
 - [[Dan (person)]] — ancestor of the tribe he serves
+- [[Jonathan (son of Saul)]] — a later Jonathan, not to be confused with him
 
 ## Themes associated
 

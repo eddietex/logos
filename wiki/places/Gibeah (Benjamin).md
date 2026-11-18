@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Jonathan's thousand, and Samuel's departure — 1 Samuel 13:2, 15
+
+One thousand of Saul's chosen men are *with Jonathan in Gibeah of Benjamin* (13:2). After the sentence at Gilgal,
+*Samuel arose, and went from Gilgal to Gibeah of Benjamin* (13:15). The WLC does not say that Saul went with him;
+he is next at Geba (13:16). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 13:2, 15–16; Hebrew
+WLC, 2026-11-18.
+
 ### *Gibeah of Saul* — 1 Samuel 11:4–7
 
 *The messengers came to Gibeah of Saul*, *giḇʿaṯ šāʾûl* (11:4, WLC), the first time the town is named after its
@@ -69,6 +76,7 @@ Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:26; Saul goes home to Gibeah.
 - [[The War Against Benjamin]] — Judges 20:4–48.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:12–28.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2, 15; Jonathan's post, and Samuel's destination.
 
 ## Related places
 - [[Jerusalem]] — Jebus, passed by for Gibeah (19:10–12).

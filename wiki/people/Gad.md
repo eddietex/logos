@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### *The land of Gad and Gilead* — 1 Samuel 13:7
+
+When the Philistines camp at Michmash, *some of the Hebrews had gone over the Jordan to the land of Gad and Gilead*
+(13:7), *ʾereṣ gāḏ wəḡilʿāḏ* (WLC). The tribe's territory east of the Jordan is the refuge from the war in the
+west. See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 13:7; Hebrew WLC, 2026-11-18.
+
 ### The altar of witness — Joshua 22:10–34
 
 The Gadite descendants share in building the altar, the defense of 21–29, and the naming in 34.
@@ -293,6 +299,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:42–47; gives sixth, through Eliasaph.
 - [[The March from Sinai]] — Numbers 10:20; in the second camp, under Eliasaph.
 - [[The Kings Struck Down]] — Joshua 12:1–24; the tribe receives the east bank.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:7; *the land of Gad and Gilead*, where some Hebrews flee.
 
 ## Related people
 

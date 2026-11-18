@@ -117,6 +117,32 @@ over them. The conditions that follow bind him with the people: *both you and al
 
 Source: stored WEB 1 Samuel 12:1–25. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
 
+### The seven days at Gilgal, and the kingdom that will not continue — 1 Samuel 13:1–15
+
+The account of the reign opens with a regnal formula whose numbers the Hebrew lacks: *ben-šānâ šāʾûl bəmolḵô
+ûštê šānîm mālaḵ*, *Saul was a son of a year … and two years he reigned* (13:1, WLC); the WEB's *thirty* and
+*forty-two* are supplied, and Acts 13:21 gives *forty years* (WEB checked at bible-api.com, 2026-11-18; not
+stored). Saul keeps three thousand men, two thousand with himself at [[Michmash]], one thousand with
+[[Jonathan (son of Saul)]] at Gibeah. Jonathan strikes the Philistine garrison at Geba; Saul has the trumpet
+blown, and all Israel hears that *Saul had struck the garrison* (13:2–4). The Philistines come up *as the sand*,
+Israel hides or crosses the Jordan, and the men at [[Gilgal]] follow Saul *trembling* (13:5–7).
+
+He waits *seven days, according to the time set by Samuel*, the order of 10:8, and Samuel does not come. With
+the people scattering, he offers the burnt offering, and as he finishes Samuel arrives (13:8–10). To *What have
+you done?* he gives three reasons and a motive: *I haven't entreated the favor of Yahweh. I forced myself*,
+*wāʾeṯʾappaq* (13:11–12, WLC), the verb of Joseph controlling himself (Genesis 43:31; 45:1). Samuel's verdict is
+*You have done foolishly*, *niskāltā*: he has not kept *the commandment of Yahweh*; his kingdom would have been
+established *forever*, and now *will not continue*; Yahweh has sought *a man after his own heart* as *prince*
+(13:13–14). Saul counts six hundred men (13:15). He does not confess here. Whether his fault was impatience
+before the prophet or a king's offering of sacrifice, the text names only the commandment. What he loses is the
+dynasty; the rejection *from being king* comes over Amalek (15:23, 26, stored WEB; not yet ingested). See
+[[Saul's Sacrifice at Gilgal]],
+[[You Have Done Foolishly - Saul at Gilgal and David at the Census]], and
+[[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]].
+
+Source: stored WEB 1 Samuel 10:8; 13:1–15; 15:23, 26; Genesis 43:31; 45:1. Hebrew WLC (OpenScriptures morphhb),
+2026-11-18.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -140,6 +166,8 @@ Source: stored WEB 1 Samuel 12:1–25. Hebrew WLC (OpenScriptures morphhb), 2026
   11:12–15.
 - Presented by Samuel as *the king whom you have chosen*; called as witness, *his anointed*; placed under the same
   condition as the people — 12:2–5, 13–15, 25.
+- Keeps three thousand men; Jonathan strikes the garrison at Geba, and the blow is credited to Saul; musters at Gilgal — 13:1–4.
+- Waits seven days for Samuel; offers the burnt offering; told *You have done foolishly* and that his kingdom will not continue — 13:8–15.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
@@ -147,6 +175,7 @@ Source: stored WEB 1 Samuel 12:1–25. Hebrew WLC (OpenScriptures morphhb), 2026
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; chosen by lot, found hiding, acclaimed, and despised.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the Spirit, the muster, the rescue, the doubters spared, and Gilgal.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:2–5, 13–15, 25; the king as witness, and under the same *if* as the people.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15; the seven days, the burnt offering, and the kingdom that will not continue.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -164,6 +193,8 @@ Source: stored WEB 1 Samuel 12:1–25. Hebrew WLC (OpenScriptures morphhb), 2026
 - [[Achan]] — the other man taken by the same procedure (Joshua 7:18)
 - [[Jotham (son of Gideon)]] — the earlier man who *hid himself* (Judges 9:5)
 - [[Nahash (king of Ammon)]] — the Ammonite he defeats at Jabesh Gilead (11:1–11)
+- [[Jonathan (son of Saul)]] — his son, who strikes the garrison at Geba (13:2–3, 16)
+- [[David]] — not named; *a man after his own heart* (13:14)
 
 ## Themes associated
 - [[Kingship and Empire]]
@@ -179,3 +210,5 @@ Source: stored WEB 1 Samuel 12:1–25. Hebrew WLC (OpenScriptures morphhb), 2026
 - [[War]]
 - [[Compassion and Mercy]]
 - [[The Fear of God]]
+- [[Sacrifice and Offering]]
+- [[Folly]]

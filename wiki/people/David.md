@@ -52,6 +52,17 @@ on his name, tenth from [[Perez]], without the word *king*; Judges had ended *th
 [[From Perez to David - Ruth 4, 1 Chronicles 2, Matthew 1, and Luke 3]]. Source: stored WEB Ruth 4:18–22;
 Judges 21:25.
 
+### *A man after his own heart* — 1 Samuel 13:14
+
+David's first appearance in the narrative of Samuel is unnamed. At Gilgal Samuel tells Saul *your kingdom will not
+continue. Yahweh has sought for himself a man after his own heart, and Yahweh has appointed him to be prince over
+his people* (13:14). *ʾÎš kilḇāḇô* (WLC) is read either of a man whose heart matches Yahweh's or of a man of
+Yahweh's choosing (both readings recorded). Paul applies the phrase to David at Pisidian Antioch, *I have found
+David the son of Jesse, a man after my heart, who will do all my will* (Acts 13:22, WEB checked at bible-api.com,
+2026-11-18; not stored). The name arrives at the anointing (16:13, stored WEB; not yet ingested). See
+[[Saul's Sacrifice at Gilgal]] and
+[[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]].
+
 ## Timeline / key events
 
 - 1 Samuel 16:13 *(not yet ingested)* — anointed by Samuel, and *"Yahweh's Spirit came mightily on David
@@ -76,6 +87,8 @@ Judges 21:25.
 - [[Sin Against God - Joseph at 39.9 and David at Psalm 51]]
 - [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David*; the book's first mention of him.
 - [[The Generations of Perez]] — Ruth 4:22; tenth of ten, and the last word of the book.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:14; not named; *a man after his own heart … prince over his people*.
+- [[You Have Done Foolishly - Saul at Gilgal and David at the Census]]
 
 ## Related people
 

@@ -221,6 +221,21 @@ names *Moses and Samuel* together (WEB checked at bible-api.com, 2026-11-18; not
 Source: stored WEB 1 Samuel 8:7, 9, 22; 12:1–25; Exodus 14:31; Joshua 23–24. Hebrew WLC (OpenScriptures morphhb),
 2026-11-18.
 
+### *What have you done?* — 1 Samuel 13:8–15
+
+The seven days of 10:8 come due at Gilgal. Saul waits *according to the time set by Samuel*, Samuel does not
+come, and Saul offers the burnt offering; *as soon as he had finished … behold, Samuel came* (13:8–10). Samuel
+asks *What have you done?*, the question of Yahweh to Cain (Genesis 4:10), and pronounces: *You have done
+foolishly. You have not kept the commandment of Yahweh your God, which he commanded you* (13:13). He calls his
+own instruction of 10:8 Yahweh's commandment. The kingdom *would have* been established forever and *will not
+continue*; Yahweh has already *sought for himself a man after his own heart* and appointed him *prince* (13:14).
+Then he *arose* and went up to Gibeah of Benjamin (13:15). The man who said he would not cease to pray for the
+people (12:23) is here the voice of the sentence on their king. Whether he arrived within the seventh day the text
+does not say. See [[Saul's Sacrifice at Gilgal]] and
+[[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]].
+
+Source: stored WEB 1 Samuel 10:8; 12:23; 13:8–15; Genesis 4:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -237,6 +252,7 @@ Source: stored WEB 1 Samuel 8:7, 9, 22; 12:1–25; Exodus 14:31; Joshua 23–24.
 - Summons the people to Mizpah, charges them with rejecting God, conducts the choosing of Saul, and writes *the regulations of the kingdom* in a book — 10:17–25.
 - Named with Saul in the summons to Jabesh; addressed by the people after the victory; calls them to Gilgal to *renew the kingdom* — 11:7, 12–14.
 - Gives his farewell: clears his own record, recites Yahweh's righteous acts, names himself among the deliverers, calls down thunder and rain at wheat harvest, and promises not to cease praying — 12:1–25.
+- Arrives at Gilgal as Saul finishes the burnt offering; *What have you done?*; tells him his kingdom will not continue, and that Yahweh has sought *a man after his own heart* — 13:8–15.
 
 ## Appears in
 
@@ -253,6 +269,7 @@ Source: stored WEB 1 Samuel 8:7, 9, 22; 12:1–25; Exodus 14:31; Joshua 23–24.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–25; the rebuke, the lot, the acclamation, and the written regulations.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7, 12–14; named in the summons, and the call to renew the kingdom at Gilgal.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:1–25; the audit, the history, the thunder, and the promise to keep praying.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:8–15; *What have you done?*, and the sentence on Saul's kingdom.
 
 ## Related people
 

@@ -974,6 +974,15 @@ of you"* (*wayzannēb*, from *zānāb*, *tail*), *"all who were feeble behind yo
 in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits until Yahweh has given
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
+### An army melting away — 1 Samuel 13:2–15
+
+Saul's reign opens with a standing force of three thousand (13:2), a provoking blow at Geba (13:3), and a
+Philistine muster *as the sand which is on the seashore* (13:5), the phrase of Joshua 11:4 and Judges 7:12. Israel
+hides in caves and pits, crosses the Jordan, and follows the king *trembling* (13:6–7); by the end, six hundred
+remain (13:15). Saul's sacrifice is offered to secure Yahweh's favour before the battle, and the battle is not
+fought until chapter 14. See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB Joshua 11:4; Judges 7:12; 1 Samuel
+13:2–15.
+
 ## Key passages
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7–11; the muster as one man, three companies, and the morning watch.
 - [[Israel Asks for a King]] — 1 Samuel 8:11–12, 20; the king's army, and the king who will fight Israel's battles.
@@ -1198,6 +1207,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[The Song of Deborah]] — Judges 5:1–31; the muster of the tribes, the stars and the river.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:4–16; the foxes, the slaughter, and the jawbone.
 - [[Samson at Gaza]] — Judges 16:2–3; an ambush at the city gate, escaped at midnight.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2–15; the Philistine muster and Israel's scattering.
 
 ## Related themes
 

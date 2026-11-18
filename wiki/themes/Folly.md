@@ -451,6 +451,15 @@ the woman's. See [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]].
 
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
+### *You have done foolishly* — 1 Samuel 13:13
+
+*Niskāltā* (13:13, WLC), Samuel's word to Saul at Gilgal. *Sāḵal* is not the wisdom books' *nāḇāl* or *ʾĕwîl*; it
+is an act, not a type. In Genesis–2 Samuel it occurs five times: Laban to Jacob (Genesis 31:28), Samuel to Saul,
+Saul of himself (1 Samuel 26:21), David's prayer against Ahithophel's counsel (2 Samuel 15:31), and David after the
+census (2 Samuel 24:10). See [[Saul's Sacrifice at Gilgal]] and
+[[You Have Done Foolishly - Saul at Gilgal and David at the Census]]. Source: stored WEB Genesis 31:28; 1 Samuel
+13:13; 26:21; 2 Samuel 24:10 checked at bible-api.com, 2026-11-18. Hebrew WLC, 2026-11-18.
+
 ## Key passages
 - [[The War Against Benjamin]] — Judges 20:6, 10; *lewdness and folly in Israel*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:23–24; *nəḇālâ* at Gibeah.
@@ -538,6 +547,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[Answer a Fool]] — Proverbs 26:1–12; Honour, errands, and proverbs wasted on the fool; the commands to answer and not answer him; the dog at its vomit; the man wise in his own eyes, worse than a fool.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:3, 12, 22; The fool's heavy provocation, the simple who pass on, the fool ground in a mortar.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21; *nǝbālâ*, the bride's *"folly in Israel"*.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:13; *You have done foolishly*.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

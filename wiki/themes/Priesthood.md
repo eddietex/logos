@@ -889,6 +889,15 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deuteronomy assigns the case to
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### A king at the altar — 1 Samuel 13:9–13
+
+Saul offers the burnt offering at Gilgal, and Samuel tells him his kingdom will not continue. A common reading takes
+the offence as a king usurping a priest's office (this page states it so under *Development*). The text's own
+charge is narrower: *You have not kept the commandment of Yahweh* (13:13), the order to wait for Samuel (10:8).
+Samuel himself, not of Aaron's house by 1:1, offered at Mizpah and built an altar at Ramah (7:9, 17) without
+reproach. The wiki records both readings. See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 1:1;
+7:9, 17; 10:8; 13:9–13.
+
 ## Key passages
 
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the chosen house revoked; *a faithful priest* with *a sure house*.
@@ -1125,6 +1134,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 - [[Laws for Going to War]] — Deuteronomy 20:2–4; the priest addresses the army before battle.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:5; the priests come near, chosen to minister, bless, and decide controversies, but perform no act in the rite.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:8; *"all that the priests the Levites teach you"*.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:9–13; Saul offers; whether the fault is the office or the waiting.
 
 ## Related themes
 

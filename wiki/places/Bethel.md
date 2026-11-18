@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### *The Mount of Bethel* — 1 Samuel 13:2
+
+Saul's two thousand are *in Michmash and in the Mount of Bethel*, *ûḇəhar bêṯ-ʾēl* (13:2, WLC), the hill country
+around the town. See [[Saul's Sacrifice at Gilgal]] and [[Michmash]]. Source: stored WEB 1 Samuel 13:2; Hebrew WLC,
+2026-11-18.
+
 ### Going up to God — 1 Samuel 10:3
 
 Saul's second sign is three men at the oak of Tabor *going up to God to Bethel*, *ʿōlîm ʾel-hāʾĕlōhîm bêṯ-ʾēl*
@@ -199,6 +205,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   [[Abraham]]'s covenant (17:8). **The hillside's promise is what gets handed to [[Ephraim]] and
   [[Manasseh]]**, and it reaches them as a dying man's recollection
 - [[The Kings Struck Down]] — Joshua 12:1–24; its king counted, though no capture is narrated.
+- [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2; *the Mount of Bethel*, Saul's station with Michmash.
 
 ## Related places
 
