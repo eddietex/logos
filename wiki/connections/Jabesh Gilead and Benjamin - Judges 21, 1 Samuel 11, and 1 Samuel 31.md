@@ -10,7 +10,7 @@ tags: [connection]
 - [[Wives for Benjamin]] — Judges 21:8–14: Jabesh Gilead does not come to Mizpah; it is destroyed, and
   *the women whom they had saved alive of the women of Jabesh Gilead* are given to Benjamin (14). Stored
   WEB.
-- **1 Samuel 11:1–11** *(not yet ingested; WEB checked at bible-api.com)* — Nahash the Ammonite besieges
+- [[Saul Rescues Jabesh Gilead]] — **1 Samuel 11:1–15** *(now ingested; stored WEB)* — Nahash the Ammonite besieges
   *Jabesh Gilead*; *the messengers came to Gibeah of Saul* (4); Saul cuts a yoke of oxen in pieces and
   sends them through Israel, and *they came out as one man* (7); Jabesh is *rescued* (9–11).
 - **1 Samuel 31:11–13** *(not yet ingested; WEB checked at bible-api.com)* — *When the inhabitants of
@@ -50,3 +50,15 @@ royal victory is at the place Judges' last chapter left in ruins. See [[Jabesh G
 
 Sources: stored WEB Judges 19:29; 20:1, 8, 11; 21:8–23. 1 Samuel 11:1–11; 31:11–13; 2 Samuel 2:4–7 from
 the WEB at bible-api.com, 2026-11-17 (not stored in raw).
+
+### 1 Samuel 11 now ingested — the oath reversed
+
+The rescue is now in [[Saul Rescues Jabesh Gilead]], and one more correspondence shows in the stored text. Judges
+21 began from *a great oath concerning him who didn't come up to Yahweh to Mizpah, saying, "He shall surely be put
+to death"*, *môṯ yûmāṯ* (21:5, WLC), and that oath is what sent the twelve thousand against Jabesh. Saul's summons
+threatens only oxen (11:7), and after the victory, when the people want men put to death, he says *No man shall
+be put to death today*, *lōʾ-yûmaṯ ʾîš* (11:13, WLC). The same verb in the same form is applied first to a town
+that did not come and last to men who would not accept the king. The *as one man* of the muster (11:7) is
+confirmed in the WLC (*kəʾîš ʾeḥāḏ*), as are the elders' messengers sent *to all the borders of Israel* (11:3),
+the phrase of Judges 19:29. 1 Samuel 11 still never mentions Judges 21, and the wiki's reading remains a reading.
+Sources: stored WEB Judges 19:29; 21:5; 1 Samuel 11:3, 7, 13; Hebrew WLC (OpenScriptures morphhb), 2026-11-18.

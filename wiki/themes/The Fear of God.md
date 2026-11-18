@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The dread of Yahweh fell on the people* — 1 Samuel 11:7
+
+*Paḥaḏ-YHWH* (11:7, WLC). In the WLC files searched (Genesis through 2 Samuel) *paḥad* with Yahweh's name as its
+genitive occurs only here. The other uses are *the fear of Isaac* as a name for God (Genesis 31:42, 53) and the
+dread Yahweh puts on Israel's enemies (Exodus 15:16; Deuteronomy 2:25; 11:25). Here it falls on Israel itself,
+and its effect is obedience: *they came out as one man*. Whether the dread is of Yahweh or of Saul's threat, the
+text names only Yahweh. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel 11:7; Genesis 31:42;
+Exodus 15:16; Deuteronomy 2:25; Hebrew WLC, 2026-11-18.
+
 ### *Who is able to stand before Yahweh?* — 1 Samuel 6:20
 
 After the slaughter, Beth Shemesh asks *Who is able to stand before Yahweh, this holy God? To whom shall he go
@@ -599,6 +608,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7; *the dread of Yahweh fell on the people, and they came out as one man*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:20; *Who is able to stand before Yahweh, this holy God?*
 - [[The Ark Is Captured]] — 1 Samuel 4:7, 13, 20; the Philistines afraid, Eli trembling for the ark, *Don't be afraid*.
 - [[The Dream of the Barley Loaf]] — Judges 7:10; *if you are afraid*, met with a sign, not a dismissal.

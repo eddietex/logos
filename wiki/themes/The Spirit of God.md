@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Spirit for battle — 1 Samuel 11:6
+
+*God's Spirit came mightily on Saul when he heard those words, and his anger burned hot* (11:6). The verb is
+*ṣālaḥ*, as at 10:10, but where the first rush made Saul prophesy, this one makes him a war leader, as with
+Samson. The following clause, *wayyiḥar ʾappô*, *his anger burned*, is the clause of Judges 14:19 (WLC). Here the
+Spirit is *rûaḥ ʾĕlōhîm*, *God's Spirit*, not *Yahweh's Spirit*; the WLC has the same wording at 10:10. The anger
+issues in a muster and a rescue, and the muster is moved by *the dread of Yahweh* (11:7). See
+[[The Spirit Rushed on Him - Samson, Saul, and David]] and [[Saul Rescues Jabesh Gilead]]. Source: stored WEB
+1 Samuel 10:10; 11:6–7; Judges 14:19; Hebrew WLC, 2026-11-18.
+
 ### The Spirit on the anointed — 1 Samuel 10:6, 9–10
 
 *Then Yahweh's Spirit will come mightily on you, and you will prophesy with them, and will be turned into another
@@ -173,6 +183,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 
 ## Key passages
 
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:6; *God's Spirit came mightily on Saul*, and he musters Israel.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:6, 10; the Spirit *came mightily* on Saul after his anointing, and he prophesied.
 - [[Samson and Delilah]] — Judges 16:20; *he didn't know that Yahweh had departed from him*.
 - [[Jephthah's Vow]] — Judges 11:29; the Spirit on Jephthah, followed by his vow.

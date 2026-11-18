@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *No man shall be put to death today* — 1 Samuel 11:12–13
+
+After the victory the people demand the death of those who had despised Saul. Saul refuses: *No man shall be put
+to death today; for today Yahweh has rescued Israel* (11:13). *Lōʾ-yûmaṯ ʾîš* (WLC) answers in the same verb the
+oath of Judges 21:5, *He shall surely be put to death*, *môṯ yûmāṯ*, which had sent Israel against Jabesh Gilead.
+The day of Yahweh's rescue is made a day without executions. See [[Saul Rescues Jabesh Gilead]]. Source: stored
+WEB 1 Samuel 11:12–13; Judges 21:5; Hebrew WLC, 2026-11-18.
+
 ### His soul was grieved — Judges 10:16
 
 *His soul was grieved for the misery of Israel*, *wattiqṣar napšô baʿămal yiśrāʾēl* (WLC). The WEB reads it as compassion, like 2:18. The idiom literally means *his soul became short*; in its two other uses (Numbers 21:4; Judges 16:16) it means endurance giving out. See [[His Soul Was Short - Numbers 21.4, Judges 10.16, and Judges 16.16]].
@@ -460,6 +468,7 @@ chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weigh
 
 ## Key passages
 
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:13; *No man shall be put to death today*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:16; *his soul was grieved for the misery of Israel*.
 - [[Another Generation Arose]] — Judges 2:16, 18; judges raised because Yahweh was grieved at their groaning.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:24–25; *ḥesed* promised and kept to the man of Luz.

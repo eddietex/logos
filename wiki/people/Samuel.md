@@ -189,6 +189,15 @@ in writing. The text does not say how the two relate. See [[Saul Chosen by Lot a
 Source: stored WEB 1 Samuel 7:6; 8:7, 9, 11; 10:17–25; Judges 6:9; Deuteronomy 31:26. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-17.
 
+### Named in the summons, and the renewal at Gilgal — 1 Samuel 11:7, 12–15
+
+In the rescue of Jabesh Gilead Samuel does not act until the battle is over, but he is named in its summons:
+*Whoever doesn't come out after Saul and after Samuel* (11:7). After the victory the people bring their demand
+to him, not to Saul: *Bring those men, that we may put them to death!* Saul answers in his place (11:12–13).
+Samuel then calls the people to [[Gilgal]], a town of his yearly circuit (7:16), to *renew the kingdom* (11:14).
+He is not named in the king-making, the peace offerings, or the rejoicing that follow (11:15); the next chapter
+is his farewell. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel 7:16; 11:7, 12–15.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -203,6 +212,7 @@ morphhb), 2026-11-17.
 - Told by Yahweh the day before to anoint a man from Benjamin; meets Saul as *the seer*, hosts him at the high place, and gives him the reserved portion — 9:1–25.
 - Anoints Saul in private with the vial of oil; gives three signs, all fulfilled that day; tells him to wait seven days at Gilgal — 9:26–10:8.
 - Summons the people to Mizpah, charges them with rejecting God, conducts the choosing of Saul, and writes *the regulations of the kingdom* in a book — 10:17–25.
+- Named with Saul in the summons to Jabesh; addressed by the people after the victory; calls them to Gilgal to *renew the kingdom* — 11:7, 12–14.
 
 ## Appears in
 
@@ -217,6 +227,7 @@ morphhb), 2026-11-17.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–25; the seer, told the day before, hosts the man he is to anoint.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:8; the private anointing, the three signs, and the seven days.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–25; the rebuke, the lot, the acclamation, and the written regulations.
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7, 12–14; named in the summons, and the call to renew the kingdom at Gilgal.
 
 ## Related people
 

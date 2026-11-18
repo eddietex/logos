@@ -7,6 +7,20 @@ tags: [place]
 
 ## Overview
 
+### The kingdom renewed — 1 Samuel 11:14–15
+
+After Jabesh Gilead, Samuel says *Come, and let us go to Gilgal, and renew the kingdom there* (11:14). *All the
+people went to Gilgal; and there they made Saul king before Yahweh in Gilgal*, offered *sacrifices of peace
+offerings before Yahweh*, and *Saul and all the men of Israel rejoiced greatly* (11:15). *Haggilgāl* (WLC). The
+verse names *Gilgal* twice and *there* three times. Samuel had told Saul to go down to Gilgal and wait seven days
+for burnt offerings and peace offerings (10:8); this visit has the peace offerings, no burnt offerings, and no
+waiting, and the text does not connect them. The seven days are counted at 13:8 (stored WEB; not yet ingested).
+
+Nahash had threatened to make the right eyes of Jabesh *a reproach on all Israel* (11:2); the episode ends at the
+place named for the *reproach of Egypt* rolled away (Joshua 5:9). The narrator does not draw the line. See
+[[Saul Rescues Jabesh Gilead]] and [[The Reproach of Israel - Joshua 5.9, 1 Samuel 11.2, and 17.26]]. Source:
+stored WEB 1 Samuel 10:8; 11:2, 14–15; 13:8; Joshua 5:9; Hebrew WLC, 2026-11-18.
+
 ### Wait seven days — 1 Samuel 10:8
 
 *Go down ahead of me to Gilgal; and behold, I will come down to you, to offer burnt offerings, and to sacrifice
@@ -116,6 +130,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:14–15; the kingdom renewed, Saul made king *before Yahweh*.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:8; Saul told to wait there seven days for Samuel.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:16; on Samuel's yearly circuit.
 - [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.
@@ -151,3 +166,4 @@ both pages qualified.
 - Yahweh's angel comes up from Gilgal to Bochim — Judges 2:1, [[The Angel at Bochim]].
 - Samuel judges Israel there on his yearly circuit — 1 Samuel 7:16, [[Samuel Judges Israel at Mizpah]]
 - Saul told to go down ahead of Samuel and wait seven days — 1 Samuel 10:8, [[Samuel Anoints Saul]]
+- The kingdom renewed; Saul made king before Yahweh with peace offerings (1 Samuel 11:14–15).

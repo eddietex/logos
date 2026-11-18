@@ -82,6 +82,28 @@ same procedure that exposed Achan, and the same procedure will later point to hi
 Source: stored WEB 1 Samuel 9:2; 10:16–27; 14:41–42; 15:17; Judges 9:5. Hebrew WLC (OpenScriptures morphhb),
 2026-11-17.
 
+### The first rescue, and the kingdom renewed — 1 Samuel 11:1–15
+
+The doubters' question, *How could this man save us?* (10:27), is answered in the next chapter. Messengers from
+besieged [[Jabesh Gilead]] reach *Gibeah of Saul* (11:4), and Saul is *coming following the oxen out of the field*
+(11:5): the acclaimed king has gone back to his farm. When he hears of [[Nahash (king of Ammon)]]'s demand, *God's
+Spirit came mightily on Saul … and his anger burned hot* (11:6), the verb and the clause of Samson at Judges 14:19
+(WLC). He cuts a yoke of oxen in pieces and sends them through Israel, as the Levite of Gibeah sent his concubine
+(Judges 19:29), with a threat to the oxen of anyone who does not come out *after Saul and after Samuel*; *the dread
+of Yahweh* brings Israel out *as one man* (11:7). He counts them at Bezek, divides them into three companies as
+Gideon did, and strikes Ammon from the morning watch *until the heat of the day* (11:8–11).
+
+He acts like a judge, and the narrative lets the likeness stand. Two things are his own. When the people demand
+the death of those who had said *Shall Saul reign over us?*, he refuses: *No man shall be put to death today; for
+today Yahweh has rescued Israel* (11:13). The man who *held his peace* under insult (10:27) now speaks to spare the
+men who gave it, and gives the victory to Yahweh. And the victory leads to a third king-making: at Gilgal *they
+made Saul king before Yahweh*, with peace offerings, and *Saul and all the men of Israel rejoiced greatly*
+(11:14–15). Oil, lot, and victory have each made him king, and the text does not say how the three relate. See
+[[Saul Rescues Jabesh Gilead]], [[The Spirit Rushed on Him - Samson, Saul, and David]], and
+[[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]].
+
+Source: stored WEB 1 Samuel 10:27; 11:1–15; Judges 14:19; 19:29. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -98,11 +120,17 @@ Source: stored WEB 1 Samuel 9:2; 10:16–27; 14:41–42; 15:17; Judges 9:5. Hebr
   king!* — 10:17–24.
 - Goes home to Gibeah with men whose hearts God touched; despised by worthless fellows, and holds his peace —
   10:26–27.
+- Hears the news from Jabesh Gilead while coming in from the field; the Spirit comes mightily on him; cuts a yoke
+  of oxen in pieces and musters Israel *as one man* at Bezek — 11:4–8.
+- Strikes the Ammonites in three companies from the morning watch; Jabesh rescued — 11:9–11.
+- Refuses to put the doubters to death: *today Yahweh has rescued Israel*; made king *before Yahweh* at Gilgal —
+  11:12–15.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16; anointed, changed, prophesies, and keeps the kingdom secret.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; chosen by lot, found hiding, acclaimed, and despised.
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the Spirit, the muster, the rescue, the doubters spared, and Gilgal.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -119,6 +147,7 @@ Source: stored WEB 1 Samuel 9:2; 10:16–27; 14:41–42; 15:17; Judges 9:5. Hebr
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 - [[Achan]] — the other man taken by the same procedure (Joshua 7:18)
 - [[Jotham (son of Gideon)]] — the earlier man who *hid himself* (Judges 9:5)
+- [[Nahash (king of Ammon)]] — the Ammonite he defeats at Jabesh Gilead (11:1–11)
 
 ## Themes associated
 - [[Kingship and Empire]]
@@ -131,3 +160,5 @@ Source: stored WEB 1 Samuel 9:2; 10:16–27; 14:41–42; 15:17; Judges 9:5. Hebr
 - [[Signs and Wonders]]
 - [[Seeing and Being Seen]]
 - [[Law and Obedience]]
+- [[War]]
+- [[Compassion and Mercy]]

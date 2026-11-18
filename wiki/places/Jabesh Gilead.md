@@ -7,6 +7,21 @@ tags: [place]
 
 ## Overview
 
+### Besieged by Nahash, rescued by Saul — 1 Samuel 11:1–11
+
+[[Nahash (king of Ammon)]] camps against the town. Its men offer *Make a covenant with us, and we will serve you*,
+and he demands *that all your right eyes be gouged out* (11:1–2). The elders ask for seven days to send *to all
+the borders of Israel*, *if there is no one to save us* (11:3); the messengers reach *Gibeah of Saul* (11:4).
+Saul answers with a promise, *Tomorrow, by the time the sun is hot, you will be rescued*, and *they were glad*
+(11:9). The men of Jabesh then say *Tomorrow we will come out to you, and you shall do with us all that seems good
+to you* (11:10), to someone the text does not name; it is usually read as a ruse spoken to Nahash. In the morning
+watch the Ammonite camp is broken (11:11).
+
+The town Israel destroyed in Judges 21 for not coming up to Mizpah is now the town Israel comes out *as one man*
+to save, summoned by a Benjamite from Gibeah. The narrative never mentions Judges 21. See
+[[Saul Rescues Jabesh Gilead]] and [[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]].
+Source: stored WEB 1 Samuel 11:1–11; Judges 21:5–12.
+
 ### The city that did not come — Judges 21:8–14
 
 After the war against Benjamin, the assembly asks *What one is there of the tribes of Israel who didn't
@@ -23,9 +38,8 @@ Judges gives no closer location, and no modern site is assigned here. The narrat
 town did not come. It is the third and worst case in Judges of a part of Israel that stayed away; see
 [[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]].
 
-**Ahead, in 1 Samuel** (not yet ingested; WEB checked at bible-api.com): Nahash the Ammonite besieges
-*Jabesh Gilead*, and its messengers reach *Gibeah of Saul* (1 Samuel 11:1–4); Saul, a Benjamite, musters
-Israel and saves it (11:7–11). When Saul dies, *the inhabitants of Jabesh Gilead* take his body from the
+**Ahead, in 1 Samuel** (WEB checked at bible-api.com; 1 Samuel 11 now ingested, above): Nahash the Ammonite
+besieges *Jabesh Gilead*, and Saul, a Benjamite, musters Israel and saves it (1 Samuel 11:1–11). When Saul dies, *the inhabitants of Jabesh Gilead* take his body from the
 wall of Beth Shan, bury his bones *under the tamarisk tree in Jabesh, and fasted seven days* (31:11–13),
 and David blesses them for it (2 Samuel 2:4–7). Whether the women of Judges 21 explain the bond, the text
 does not say. See [[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]].
@@ -34,6 +48,7 @@ See [[Wives for Benjamin]]. Source: stored WEB Judges 21:5–14; 1 Samuel 11:1�
 2:4–7 from bible-api.com (WEB), 2026-11-17; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–11; besieged by Nahash, rescued by Saul.
 - [[Wives for Benjamin]] — Judges 21:8–14; absent from Mizpah, destroyed, four hundred taken.
 
 ## Related places
@@ -41,8 +56,12 @@ See [[Wives for Benjamin]]. Source: stored WEB Judges 21:5–14; 1 Samuel 11:1�
 - [[Mizpeh]] — the assembly it did not attend (21:5, 8).
 - [[Shiloh]] — where its four hundred daughters were brought (21:12).
 - [[Meroz]], [[Succoth (Transjordan)]], [[Peniel]] — the earlier towns that did not come.
+- [[Gibeah (Benjamin)]] — *Gibeah of Saul*, where its messengers came (1 Samuel 11:4).
+- [[Bezek]] — where Saul counted the army that relieved it (1 Samuel 11:8).
 
 ## Events here
 - No one comes from it to Mizpah (21:8–9).
 - Struck by twelve thousand men; its men, married women, and children killed; four hundred virgins taken
   (21:10–12).
+- Besieged by Nahash the Ammonite; its men threatened with the loss of their right eyes (1 Samuel 11:1–3).
+- Rescued by Saul in the morning watch (1 Samuel 11:9–11).

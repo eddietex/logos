@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The first king's battle — 1 Samuel 11:7–11
+
+The war the people asked a king for (8:20) begins at Jabesh Gilead. Saul summons Israel with the cut pieces of a
+yoke of oxen and a threat; *the dread of Yahweh* brings them out *as one man* (11:7). He counts them at Bezek,
+sends word that rescue will come *by the time the sun is hot*, and divides the army into *three companies*, as
+Gideon and Abimelech did (Judges 7:16; 9:43). They enter the Ammonite camp *in the morning watch*, the hour of
+Yahweh's rout of Egypt at the sea (Exodus 14:24), and strike *until the heat of the day* (11:8–11). The victory is
+credited to Yahweh: *today Yahweh has rescued Israel* (11:13). See [[Saul Rescues Jabesh Gilead]]. Source: stored
+WEB 1 Samuel 8:20; 11:7–13; Exodus 14:24; Judges 7:16; 9:43.
+
 ### *Go out before us, and fight our battles* — 1 Samuel 8:11–12, 20
 
 The people want a king who will *go out before us, and fight our battles*, *wənilḥam ʾeṯ-milḥămōṯēnû* (8:20,
@@ -965,6 +975,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7–11; the muster as one man, three companies, and the morning watch.
 - [[Israel Asks for a King]] — 1 Samuel 8:11–12, 20; the king's army, and the king who will fight Israel's battles.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder, confusion, pursuit; the Philistines subdued.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–11; two defeats before the Philistines, and the ark lost.

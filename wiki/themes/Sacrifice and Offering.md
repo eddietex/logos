@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Peace offerings at Gilgal — 1 Samuel 11:15
+
+When Saul is made king at Gilgal, *they offered sacrifices of peace offerings before Yahweh*, *zəḇāḥîm šəlāmîm*
+(11:15, WLC). The subject is *all the people*; no priest and no offerer is named, and Samuel is not mentioned in
+the verse. At 10:8 Samuel had spoken of burnt offerings and peace offerings at Gilgal after seven days; only the
+peace offerings appear here, and the text does not say whether this is that occasion. The peace offering is the
+offering shared in a meal (Leviticus 3; 7:11–21), and the verse ends with rejoicing. See
+[[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel 10:8; 11:15; Leviticus 3; 7:11–21.
+
 ### Gifts on the road to Bethel, and offerings deferred to Gilgal — 1 Samuel 10:3–4, 8
 
 The three men going up *to God to Bethel* carry three young goats, three loaves, and a skin of wine (10:3), what
@@ -940,6 +949,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:15; peace offerings before Yahweh when Saul is made king at Gilgal.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:3–4, 8; the pilgrims' gifts; burnt and peace offerings reserved for Samuel at Gilgal.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:12–24; the sacrifice at the high place, blessed by Samuel; the thigh as Saul's portion.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:9–10, 17; a suckling lamb as a whole burnt offering; an altar at Ramah.

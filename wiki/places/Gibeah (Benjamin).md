@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### *Gibeah of Saul* — 1 Samuel 11:4–7
+
+*The messengers came to Gibeah of Saul*, *giḇʿaṯ šāʾûl* (11:4, WLC), the first time the town is named after its
+man. The people weep at the news from Jabesh Gilead, and Saul comes in from the field (11:4–5). From here he
+sends the pieces of a yoke of oxen *throughout all the borders of Israel* (11:7), the words of Judges 19:29, where
+a Levite sent the pieces of a woman abused in this town. In Judges the pieces brought Israel against Gibeah; here
+they bring Israel out for Jabesh Gilead. See [[Saul Rescues Jabesh Gilead]] and
+[[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]]. Source: stored WEB 1 Samuel 11:4–7;
+Judges 19:29; Hebrew WLC, 2026-11-18.
+
 ### Saul's home — 1 Samuel 10:26
 
 *Saul also went to his house to Gibeah; and the army went with him, whose hearts God had touched* (10:26). The WLC
@@ -55,6 +65,7 @@ the stored text it is Hosea's byword, *as in the days of
 Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 
 ## Appears in
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:4–7; *Gibeah of Saul*, where the news comes and the pieces are sent from.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:26; Saul goes home to Gibeah.
 - [[The War Against Benjamin]] — Judges 20:4–48.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:12–28.

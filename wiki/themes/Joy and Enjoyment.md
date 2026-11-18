@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Jabesh glad, and all Israel rejoicing — 1 Samuel 11:9, 15
+
+When the messengers bring the promise of rescue, *they were glad*, *wayyiśmāḥû* (11:9, WLC). After the
+king-making at Gilgal, *Saul and all the men of Israel rejoiced greatly*, *wayyiśmaḥ … ʿaḏ-məʾōḏ* (11:15). In 1 Samuel
+the verb *śāmaḥ* has come before only at 2:1, Hannah's *I rejoice in your salvation*, *bîšûʿāṯeḵā*, and at 6:13,
+Beth Shemesh rejoicing to see the ark (WLC). Hannah's joy was in Yahweh's *yəšûʿâ*; this one follows the
+*təšûʿâ*, *rescue*, that Saul credits to Yahweh (11:9, 13). The two nouns share the root *yāšaʿ*. See
+[[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel 2:1; 11:9, 13, 15; Hebrew WLC, 2026-11-18.
+
 ### *I rejoice in your salvation* — 1 Samuel 2:1
 
 Hannah's song opens on three verbs of joy: her heart *exults*, *ʿālaṣ*; her horn is lifted; she
@@ -339,6 +348,7 @@ foreigner, who has no Israelite father to recite about, is at the meal. See [[Fi
 [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
 
 ## Key passages
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:9, 15; Jabesh glad; Saul and all Israel *rejoiced greatly* at Gilgal.
 - [[The Song of Hannah]] — 1 Samuel 2:1; *My heart exults in Yahweh … I rejoice in your salvation*.
 - [[The Death of Samson]] — Judges 16:23–25; *to rejoice*, *when their hearts were merry*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

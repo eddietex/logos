@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The king fights their battle, and the kingdom is renewed — 1 Samuel 11:1–15
+
+The people asked for a king to *go out before us, and fight our battles* (8:20). Saul does: the Spirit comes on
+him, he musters Israel, and Jabesh Gilead is rescued (11:6–11). Then Samuel calls the people to Gilgal to *renew
+the kingdom*, *nəḥaddēš … hamməlûḵâ* (11:14, WLC), and *they made Saul king before Yahweh* (11:15). The verb
+*hiṁlîḵ*, *make king*, last had the lords of Shechem as subject, making Abimelech king (Judges 9:6, WLC); here the
+people do it *before Yahweh*. Saul has now been made king three times, by oil (10:1), by lot (10:24), and by
+acclaim after victory (11:15), and the text does not relate the three. The king's first act after the battle is
+to refuse a killing and credit the rescue to Yahweh (11:13). Source: stored WEB 1 Samuel 8:20; 11:6–15; Judges
+9:6; Hebrew WLC, 2026-11-18.
+
 ### *Long live the king!* — 1 Samuel 10:17–27
 
 The secret anointing becomes a public choosing. Samuel opens by saying the request is a rejection: *you have today
@@ -687,6 +698,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the king fights the people's battle, and is made king *before Yahweh* at Gilgal.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; the lot, *Long live the king!*, the regulations written, and the doubters.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:1, 16; anointed *prince over his inheritance*; *the matter of the kingdom* kept secret.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:16–20; Yahweh sends *a man out of the land of Benjamin* to be anointed *prince*.

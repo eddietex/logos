@@ -15,8 +15,8 @@ tags: [connection]
 - [[Samuel Anoints Saul]] — **1 Samuel 10:6, 10** — *Then Yahweh's Spirit will come mightily on you, and you
   will prophesy with them, and will be turned into another man*; *the Spirit of God came mightily on him, and
   he prophesied among them*. Stored WEB.
-- **1 Samuel 11:6** — *God's Spirit came mightily on Saul when he heard those words, and his anger
-  burned hot*. WEB at bible-api.com; not stored.
+- [[Saul Rescues Jabesh Gilead]] — **1 Samuel 11:6** — *God's Spirit came mightily on Saul when he heard those
+  words, and his anger burned hot*. Stored WEB.
 - **1 Samuel 16:13** — *Then Yahweh's Spirit came mightily on David from that day forward*. WEB at
   bible-api.com; not stored.
 - **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he prophesied in the middle of
@@ -104,3 +104,14 @@ the same way (16:13). The pattern of anointing first and the Spirit after begins
 the Spirit. The people's question, *Is Saul also among the prophets?*, is taken up in
 [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]. Sources: stored WEB 1 Samuel 10:1–10; 16:13.
 Hebrew WLC (`1Sam.xml`), 2026-11-17.
+
+### 1 Samuel 11:6 now ingested — the rush that musters Israel
+
+Saul's second *ṣālaḥ* is now in [[Saul Rescues Jabesh Gilead]], and the muster that follows it, left unchecked
+above, is now stored: *He took a yoke of oxen, and cut them in pieces … The dread of Yahweh fell on the people,
+and they came out as one man* (11:7). With 11:6 the Spirit's rush on Saul matches Samson's in its effect for the
+first time: not prophesying, as at 10:10, but anger and a battle. It differs from Samson's in that the anger
+gathers others. Samson's rushes are followed by what he does alone; Saul's is followed by a summons, a count of
+three hundred and thirty thousand, and three companies (11:7–11). The result is credited to Yahweh: *today
+Yahweh has rescued Israel*, *təšûʿâ* (11:13, WLC). Sources: stored WEB 1 Samuel 10:10; 11:6–13; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-18.

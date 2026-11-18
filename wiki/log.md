@@ -28774,3 +28774,39 @@ in the WLC only. General knowledge, not checked, and flagged where made: the var
 reading at 10:27, the 4QSamᵃ paragraph, Solomon's acclamation in 1 Kings, the etymology of *bəliyyaʿal* and its later
 use as a name (2 Corinthians 6:15), and the link between *hāḇâ ṯāmîm* (14:41) and the Thummim. No Greek text,
 Septuagint, Qumran text, or Targum was consulted.
+
+## [2026-11-18] ingest | 1 Samuel 11.1-15 — Saul Rescues Jabesh Gilead
+
+Unattended run. Created [[Saul Rescues Jabesh Gilead]], [[Nahash (king of Ammon)]], and
+[[The Reproach of Israel - Joshua 5.9, 1 Samuel 11.2, and 17.26]]. Revised [[1 Samuel]] (box checked; overview
+paragraph), [[Saul]], [[Samuel]], [[Worthless Fellows (of Saul's time)]], [[Judah]], [[Jabesh Gilead]], [[Bezek]],
+[[Gilgal]], [[Gibeah (Benjamin)]], [[Ammon]], the themes [[Kingship and Empire]], [[The Spirit of God]], [[War]],
+[[Redemption]], [[The Fear of God]], [[Compassion and Mercy]], [[Sacrifice and Offering]], and
+[[Joy and Enjoyment]], and the connections
+[[Jabesh Gilead and Benjamin - Judges 21, 1 Samuel 11, and 1 Samuel 31]] (the oath *môṯ yûmāṯ* against *lōʾ-yûmaṯ
+ʾîš*), [[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]] (*ṣemeḏ*), and
+[[The Spirit Rushed on Him - Samson, Saul, and David]] (the rush that musters), each of which had cited this chapter
+before it was ingested. Also `wiki/books/index.md` (14 / 47), People Index N-Z (one new row; Saul's, Samuel's, and
+the Worthless Fellows' rows extended) and F-M (Judah's row), Connections Index O-S (one new row) with A-C, I-N, and
+O-S rows extended, the places index (five rows), the themes index (eight rows), and the dashboard counts.
+Frontmatter totals: 500 passages, 380 people, 608 places, 88 themes, 951 connections.
+
+Judgment calls: the boundary 11:1–15 stands. Nahash is qualified as *(king of Ammon)*, from 12:12, because 2 Samuel
+17:25 names a different Nahash; whether the Nahash of 2 Samuel 10:2 and 17:27 is this one is left for 2 Samuel. The
+elders, men, and messengers of Jabesh get no pages. The places-index row for [[Gilgal]] was already malformed (its
+first cell runs into the summary with no `|`); a clause was appended to it but the row was not rebuilt, and it is
+left for a lint pass.
+
+Recorded, not resolved: the order of events at 12:12 (Nahash as the occasion of the request for a king) against
+chapters 8–11, written out on the passage and Nahash pages; why Saul is made king a third time and what *renew*
+means; whether the men of 11:12 are those of 10:27, whose words differ; to whom 11:10 is spoken; the separate count
+of Judah and the size of the numbers. No contradiction with an existing page was overwritten.
+
+Sources: 1 Samuel 11 from stored WEB, with the not-yet-ingested 1 Samuel 12:12; 13:8, 17; 17:26; 25:39; 31:11–13.
+Comparisons from stored WEB Genesis 3:1; 30:23; 31:42; 34:14; Exodus 14:24; 15:16; Numbers 16:14; Deuteronomy 2:25;
+23:3–6; Joshua 5:7, 9; Judges 6:11; 7:16, 19; 9:43; 10:8; 14:19; 16:21; 19:3, 10, 29; 21:5. 2 Samuel 10:1–2 and
+17:25–27 checked at bible-api.com (WEB), 2026-11-18, not stored; 2 Samuel 13:13 cited from the WLC only. Hebrew
+from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-18, files `Gen`,
+`Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `1Sam`, and `2Sam`; occurrence claims cover those files only.
+Recalled, not checked, and flagged where made: the theory of three combined accession accounts, the shield
+explanation of the right eye, the *ʾelep* debate, and the usual location of Bezek.

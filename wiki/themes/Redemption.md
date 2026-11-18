@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *No one to save us* — 1 Samuel 11:3, 9, 13
+
+The elders of Jabesh ask for seven days: *if there is no one to save us*, *ʾên môšîaʿ* (11:3, WLC), they will
+surrender. *Môšîaʿ* is the judges' title and God's (10:19). The answer comes in the noun: *Tomorrow … you will be
+rescued*, *tihyeh-lāḵem təšûʿâ* (11:9), and Saul gives it to Yahweh, *today Yahweh has rescued Israel*, *ʿāśâ-YHWH
+təšûʿâ* (11:13, WLC). The question *How could this man save us?* (10:27) is answered by a man who says that Yahweh
+saved. See [[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel 10:19, 27; 11:3, 9, 13; Hebrew WLC,
+2026-11-18.
+
 ### *Who himself saves you* — 1 Samuel 10:18–19, 27
 
 Samuel sets the request for a king against the God who saves. Yahweh brought Israel up from Egypt and *delivered*
@@ -435,6 +444,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:3, 9, 13; *no one to save us*; *today Yahweh has rescued Israel*.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:18–19, 27; *your God, who himself saves you*; *How could this man save us?*
 - [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the right of redemption passes from the nearer kinsman to Boaz; land and widow redeemed together.
 - [[Ruth at the Threshing Floor]] — Ruth 3:9–13; *for you are a near kinsman*; *a kinsman nearer than I*; Boaz's oath to redeem.

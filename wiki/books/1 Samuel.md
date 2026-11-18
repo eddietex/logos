@@ -156,6 +156,18 @@ it up before Yahweh (10:25). Saul goes home to Gibeah with men *whose hearts God
 fellows*, the phrase once used of Gibeah's men (Judges 19:22), ask *How could this man save us?* *But he held his
 peace* (10:26–27). The next chapter answers their question.
 
+[[Saul Rescues Jabesh Gilead]] (11:1–15) gives the answer. Nahash the Ammonite besieges Jabesh Gilead and offers
+terms: *that all your right eyes be gouged out. I will make this dishonor all Israel* (11:2). The elders ask for
+seven days to find someone *to save us* (11:3). Their messengers reach *Gibeah of Saul*, and Saul, coming in
+behind his oxen, hears them; *God's Spirit came mightily on Saul … and his anger burned hot* (11:6), the verb and
+clause of Samson (Judges 14:19). He cuts a yoke of oxen in pieces and sends them *throughout all the borders of
+Israel*, as the Levite of Gibeah had sent his concubine (Judges 19:29), and *the dread of Yahweh* brings Israel
+out *as one man* (11:7). In three companies, in the morning watch, Saul breaks the Ammonite camp (11:11). The
+people want the doubters put to death; Saul refuses, *for today Yahweh has rescued Israel* (11:13). At Gilgal they
+*renew the kingdom* and make Saul king *before Yahweh* (11:14–15), the third time he is made king. The town Israel
+destroyed at the end of Judges is the first town its king saves. Samuel's farewell will name Nahash as the reason
+the people asked for a king (12:12), against the order of chapters 8–11.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -191,7 +203,7 @@ merge, or reorder them freely.
 - [x] [[Saul Comes to the Seer]] — 1 Samuel 9:1–25
 - [x] [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16
 - [x] [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27
-- [ ] Saul Rescues Jabesh Gilead — 1 Samuel 11:1–15
+- [x] [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15
 - [ ] Samuel's Farewell Address — 1 Samuel 12:1–25
 - [ ] Saul's Sacrifice at Gilgal — 1 Samuel 13:1–15
 - [ ] No Smith in Israel — 1 Samuel 13:16–23

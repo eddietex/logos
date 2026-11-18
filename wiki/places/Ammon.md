@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Nahash at Jabesh Gilead — 1 Samuel 11:1–11
+
+[[Nahash (king of Ammon)]], *the Ammonite*, besieges Jabesh Gilead and demands the right eyes of its men (11:1–2).
+Saul's army comes into the Ammonite camp in the morning watch and strikes *the Ammonites*, *ʿammôn* (WLC),
+*until the heat of the day*, so that *no two of them were left together* (11:11). Ammon has again pressed on
+Gilead, as in the eighteen years before Jephthah (Judges 10:8). Deuteronomy's *You shall not seek their peace nor
+their prosperity* (23:6) stands behind Jabesh's offer of a covenant, though the narrative does not cite it. See
+[[Saul Rescues Jabesh Gilead]]. Source: stored WEB 1 Samuel 11:1–11; Judges 10:8; Deuteronomy 23:6.
+
 ### Subdued — Judges 11:29–33
 
 *Yahweh delivered them into his hand* (11:32). Jephthah strikes Ammon *from Aroer until you come to
@@ -156,6 +165,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–11; Nahash besieges Jabesh Gilead and is routed by Saul.
 - [[Shibboleth]] — Judges 12:1–3; the war Ephraim says it was not called to.
 - [[Jephthah's Vow]] — Judges 11:29–36; subdued by Jephthah, twenty cities struck.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; claims Gilead from the Arnon to the Jabbok; does not listen.

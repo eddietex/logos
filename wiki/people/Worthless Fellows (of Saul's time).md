@@ -24,18 +24,21 @@ WLC). Withholding a *minḥâ*, a gift to a superior, refuses the king's rank. S
 ### Spoken of after Jabesh — 1 Samuel 11:12–13
 
 After the victory at Jabesh Gilead, the people ask Samuel, *Who is he who said, 'Shall Saul reign over us?' Bring
-those men, that we may put them to death!* Saul refuses: *No man shall be put to death today* (11:12–13, stored
-WEB; not yet ingested). The text does not say that the men of 11:12 are the same men as 10:27. The wiki treats
+those men, that we may put them to death!* Saul refuses: *No man shall be put to death today; for today Yahweh has
+rescued Israel* (11:12–13). The quoted question is not the one recorded at 10:27, *How could this man save us?*,
+though it amounts to the same refusal. The rescue itself has answered 10:27 in its own verb: *təšûʿâ*, *rescue*
+(11:9, 13, WLC), from *yāšaʿ*, *save*. See [[Saul Rescues Jabesh Gilead]]. The text does not say that the men of 11:12 are the same men as 10:27. The wiki treats
 them as the same group, as most readers do, and flags that as a reading.
 
-Source: stored WEB 1 Samuel 2:30; 9:16; 10:19, 26–27; 11:12–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+Source: stored WEB 1 Samuel 2:30; 9:16; 10:19, 26–27; 11:9–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-17 and 2026-11-18.
 
 ## Timeline / key events
 - Ask *How could this man save us?*, despise Saul, and bring him no present — 1 Samuel 10:27.
-- Spared by Saul after Jabesh — 11:12–13 (not yet ingested).
+- Their death demanded by the people; spared by Saul after Jabesh — 11:12–13.
 
 ## Appears in
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:27.
+- [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:12–13; their death demanded, and refused.
 
 ## Related people
 - [[Saul]] — whom they despise; he holds his peace

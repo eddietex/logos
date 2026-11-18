@@ -13,7 +13,7 @@ tags: [connection]
   [[The Levite's Concubine at Gibeah]].
 - [[The War Against Benjamin]] — **Judges 20:6** — *"I took my concubine, and cut her in pieces, and sent
   her throughout all the country of the inheritance of Israel"* (stored WEB).
-- **1 Samuel 11:7** — *"He took a yoke of oxen, and cut them in pieces, and sent them throughout all the
+- [[Saul Rescues Jabesh Gilead]] — **1 Samuel 11:7** — *"He took a yoke of oxen, and cut them in pieces, and sent them throughout all the
   borders of Israel by the hand of messengers … The dread of Yahweh fell on the people, and they came out
   as one man"* (WEB checked at bible-api.com, 2026-11-17; 1 Samuel not yet in raw).
 - **1 Kings 11:30** — Ahijah *"tore it in twelve pieces"*, his new garment (WEB checked at bible-api.com;
@@ -68,3 +68,14 @@ files of Genesis through 1 Samuel the phrase occurs otherwise at Numbers 14:15, 
 Samuel 11 the same summons brings Israel to the rescue of Jabesh Gilead (WEB checked at bible-api.com,
 2026-11-17; not stored). See [[The War Against Benjamin]]. Source: stored WEB Numbers 14:15; Judges 6:16;
 20:1–11; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+### 1 Samuel 11 now ingested — *a couple*, *ṣemeḏ*
+
+Saul cuts *a yoke of oxen*, *ṣemeḏ bāqār* (11:7, WLC). *Ṣemeḏ*, *a pair, a yoke*, occurs in the WLC files of
+Genesis through 1 Samuel 11 only at Judges 19:3 and 19:10, the Levite's *couple of donkeys* (stored WEB; lemma
+6776), and then here; its next use is 1 Samuel 14:14, as a measure of land. The Levite travels with a *ṣemeḏ* and
+cuts up the woman; Saul cuts up the *ṣemeḏ*. The verb is the same, *wayənattəḥēhû* (11:7) and *wayənattəḥehā*
+(Judges 19:29, WLC), and so is the destination, *bəḵol-gəḇûl yiśrāʾēl*. The pieces Saul sends are animals, of the
+kind the law cuts for the burnt offering, not a person; his message is spoken and conditional, *so shall it be
+done to his oxen*. See [[Saul Rescues Jabesh Gilead]]. Sources: stored WEB Judges 19:3, 10, 29; 1 Samuel 11:7;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
