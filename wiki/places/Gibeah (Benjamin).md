@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Saul under the pomegranate, and the watchmen — 1 Samuel 14:2, 16
+
+While Jonathan crosses the pass, *Saul stayed in the uttermost part of Gibeah under the pomegranate tree which is in
+Migron* with six hundred men (14:2). *The watchmen of Saul in Gibeah of Benjamin* see the Philistine multitude melting
+away (14:16). The previous pericope had Saul and Jonathan *in Geba of Benjamin* (13:16); the shift of name is
+recorded on [[Geba]] and not resolved here. Isaiah's march ends *Gibeah of Saul has fled* (Isaiah 10:29, checked at
+bible-api.com, WEB, not stored). See [[Jonathan's Attack at Michmash]].
+
+Source: stored WEB 1 Samuel 13:16; 14:2, 16.
+
 ### Jonathan's thousand, and Samuel's departure — 1 Samuel 13:2, 15
 
 One thousand of Saul's chosen men are *with Jonathan in Gibeah of Benjamin* (13:2). After the sentence at Gilgal,
@@ -72,6 +82,7 @@ the stored text it is Hosea's byword, *as in the days of
 Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 
 ## Appears in
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:2, 16; Saul under the pomegranate, and his watchmen.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:4–7; *Gibeah of Saul*, where the news comes and the pieces are sent from.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:26; Saul goes home to Gibeah.
 - [[The War Against Benjamin]] — Judges 20:4–48.
@@ -79,6 +90,7 @@ Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2, 15; Jonathan's post, and Samuel's destination.
 
 ## Related places
+- [[Migron]] — the pomegranate tree *in the uttermost part of Gibeah* (1 Samuel 14:2)
 - [[Jerusalem]] — Jebus, passed by for Gibeah (19:10–12).
 - [[Ramah]] — the other town the Levite names (19:13).
 - [[Mizpeh]] — where the tribes gathered against Gibeah (Judges 20:1), and where Gibeah's Saul is made king (1 Samuel
@@ -89,6 +101,7 @@ Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 - [[Sodom]] — the city whose night it repeats.
 
 ## Events here
+- Saul sits under the pomegranate tree at its edge; his watchmen see the Philistine camp melt away (1 Samuel 14:2, 16).
 - Saul goes home here after he is made king at Mizpah, with the men whose hearts God touched (1 Samuel 10:26).
 - Besieged by all Israel; two Israelite defeats, then the ambush, the smoke, and the burning (20:19–48).
 - No one takes the travelers in; an Ephraimite sojourner does (19:15–21).

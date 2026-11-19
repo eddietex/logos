@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### The hidden men come out — 1 Samuel 14:22
+
+*All the men of Israel who had hidden themselves in the hill country of Ephraim, when they heard that the Philistines
+fled, even they also followed hard after them in the battle* (14:22). The verb is *hammiṯḥabbəʾîm*, the form used when
+the people *hid themselves in caves, in thickets, in rocks, in tombs, and in pits* (13:6, WLC), and the Philistines'
+taunt was *the Hebrews are coming out of the holes* (14:11). As in Gideon's day, men of the hill country of Ephraim
+join the pursuit of a rout they did not start (Judges 7:24). See [[Jonathan's Attack at Michmash]].
+
+Source: stored WEB 1 Samuel 13:6; 14:11, 22; Judges 7:24. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ### The first district of Saul's search — 1 Samuel 9:4
 
 Saul and his servant begin the search for Kish's donkeys here: *He passed through the hill country of Ephraim, and
@@ -103,6 +113,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:22; the men hidden there join the pursuit.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:4; the first district Saul searches.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1; Elkanah's region.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16–18; the Levite's home, and his host's origin.
@@ -130,6 +141,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Events here
 
+- The Israelites hidden there come out and pursue the Philistines — 1 Samuel 14:22, [[Jonathan's Attack at Michmash]]
 - Saul and his servant search it for Kish's donkeys — 1 Samuel 9:4, [[Saul Comes to the Seer]]
 - The Levite's home on its far side; his host at Gibeah an Ephraimite — Judges 19:1, 16, [[The Levite's Concubine at Gibeah]]
 - Micah keeps a house of gods with a carved and molten image and hires a Levite (Judges 17:1–13).

@@ -18,12 +18,21 @@ a bearing for [[Michmash]], as Joshua 18:12 used it for a boundary; it does not 
 names separately. See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 13:2, 5; Joshua 18:12; Hebrew
 WLC, 2026-11-18.
 
+### The battle passed over — 1 Samuel 14:23
+
+*So Yahweh saved Israel that day; and the battle passed over by Beth Aven* (14:23). The verb is *ʿāḇar* (WLC
+*ʿāḇᵊrâ ʾeṯ-bêṯ ʾāwen*), the verb of Jonathan's *go over* in the same chapter. The rout runs west and north from
+Michmash, and the next pericope extends it *from Michmash to Aijalon* (14:31, stored WEB; not yet ingested). See
+[[Jonathan's Attack at Michmash]]. Source: stored WEB 1 Samuel 14:23, 31; Hebrew WLC, 2026-11-19.
+
 ## Appears in
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:5; the Philistine camp is *eastward of* it.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:23; the battle passes over by it.
 
 ## Related places
 - [[The Jordan]] — Benjamin’s eastern boundary.
 
 ## Events here
+- The rout of the Philistines passes over by it — 1 Samuel 14:23.
 - Named in Benjamin’s allotment; no separate conquest is narrated.

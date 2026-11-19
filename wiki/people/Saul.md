@@ -155,6 +155,24 @@ Philistines* (9:16) faces them with six hundred men and two swords. See [[No Smi
 
 Source: stored WEB 1 Samuel 9:16, 20; 11:11; 13:16–23. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
 
+### Sitting under the pomegranate, and the inquiry cut off — 1 Samuel 14:1–23
+
+While Jonathan goes over the pass, Saul *stayed in the uttermost part of Gibeah under the pomegranate tree which is in
+Migron* with six hundred men and Ahijah the priest *wearing an ephod* (14:2–3). The verb is *yôšēḇ*, *sitting*
+(WLC); later he will be *sitting in Gibeah, under the tamarisk tree* with his spear (22:6, stored WEB; not yet
+ingested). Jonathan *didn't tell his father* (14:1), *lōʾ higgîḏ* (WLC), the words used when Saul kept *the matter of
+the kingdom* from his uncle (10:16).
+
+He learns of the battle from his watchmen (14:16). His first response is to count the people, *piqḏû-nāʾ* (14:17,
+WLC), as he counted them at Gilgal (13:15). His second is to ask Ahijah to bring *God's ark* (14:18). His third is to
+stop the priest while the tumult grows: *Withdraw your hand!* (14:19). He asks for guidance and does not wait for
+it, as at Gilgal he did not wait for Samuel (13:8–12). Then he and his men come to the battle and find the
+Philistines killing one another (14:20). The narrator's closing sentence gives the victory neither to Saul nor to
+Jonathan: *So Yahweh saved Israel that day* (14:23). The commission at his anointing, *He will save my people out of
+the hand of the Philistines* (9:16), is carried out by his son and by Yahweh. See [[Jonathan's Attack at Michmash]].
+
+Source: stored WEB 1 Samuel 9:16; 10:16; 13:8–15; 14:1–23; 22:6. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -181,6 +199,7 @@ Source: stored WEB 1 Samuel 9:16, 20; 11:11; 13:16–23. Hebrew WLC (OpenScriptu
 - Keeps three thousand men; Jonathan strikes the garrison at Geba, and the blow is credited to Saul; musters at Gilgal — 13:1–4.
 - Waits seven days for Samuel; offers the burnt offering; told *You have done foolishly* and that his kingdom will not continue — 13:8–15.
 - Holds Geba facing Michmash; with Jonathan, the only armed man in Israel's army — 13:16, 22.
+- Sits under the pomegranate at Gibeah while Jonathan attacks; counts the people, calls for the ark, and stops the priest mid-inquiry; joins the rout — 14:2, 16–23.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
@@ -190,6 +209,7 @@ Source: stored WEB 1 Samuel 9:16, 20; 11:11; 13:16–23. Hebrew WLC (OpenScriptu
 - [[Samuel's Farewell Address]] — 1 Samuel 12:2–5, 13–15, 25; the king as witness, and under the same *if* as the people.
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15; the seven days, the burnt offering, and the kingdom that will not continue.
 - [[No Smith in Israel]] — 1 Samuel 13:16, 22; at Geba, and one of two men with a sword.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:2, 16–20; sits at Gibeah, counts, calls for the ark, and stops the priest.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -208,6 +228,7 @@ Source: stored WEB 1 Samuel 9:16, 20; 11:11; 13:16–23. Hebrew WLC (OpenScriptu
 - [[Jotham (son of Gideon)]] — the earlier man who *hid himself* (Judges 9:5)
 - [[Nahash (king of Ammon)]] — the Ammonite he defeats at Jabesh Gilead (11:1–11)
 - [[Jonathan (son of Saul)]] — his son, who strikes the garrison at Geba (13:2–3, 16)
+- [[Ahijah (son of Ahitub)]] — the priest with the ephod, told to bring the ark and then stopped (14:3, 18–19)
 - [[David]] — not named; *a man after his own heart* (13:14)
 
 ## Themes associated
@@ -226,3 +247,4 @@ Source: stored WEB 1 Samuel 9:16, 20; 11:11; 13:16–23. Hebrew WLC (OpenScriptu
 - [[The Fear of God]]
 - [[Sacrifice and Offering]]
 - [[Folly]]
+- [[Priesthood]]

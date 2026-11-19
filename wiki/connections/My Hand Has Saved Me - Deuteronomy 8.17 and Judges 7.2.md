@@ -13,6 +13,8 @@ tags: [connection]
 - [[Gideon's Three Hundred]] — Judges 7:2; *"The people who are with you are too many for me to give the
   Midianites into their hand, lest Israel brag against me, saying, 'My own hand has saved me.'"*
 - [[The Fleece]] — Judges 6:36–37; *"If you will save Israel by my hand, as you have spoken"*.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:6; *"there is no restraint on Yahweh to save by many or by
+  few."*
 
 ## Analysis
 
@@ -43,6 +45,13 @@ hand*. Gideon's hand still strikes. It is not said to save.
 **The verb *boast*.** Judges 7:2 has *yitpāʾēr*, the hitpael of *pāʾar*, *to glorify oneself* (WLC).
 Deuteronomy 8 does not use it. Its heart-language is *your heart might be lifted up* (8:14), with *rûm*
 (WLC). The two passages describe the same temptation in different words.
+
+**Jonathan's version.** 1 Samuel 14:6 states as a confession what Judges 7 enacted: *there is no restraint on Yahweh
+to save by many or by few*, *ləhôšîaʿ bərāḇ ʾô ḇimʿāṭ* (WLC). Judges 7:2 opened with the same adjective, *rab*, *too
+many*, and the same verb, *yāšaʿ* (WLC). The difference is who speaks. In Judges Yahweh reduces the army so that
+Israel cannot say *my hand*. At Michmash an Israelite, with one companion, says beforehand that the number does not
+matter, and the narrator closes *So Yahweh saved Israel that day* (14:23). See [[Jonathan's Attack at Michmash]].
+Source: stored WEB 1 Samuel 14:6, 23; Judges 7:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
 
 ## Significance
 

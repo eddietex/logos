@@ -7,6 +7,21 @@ tags: [person]
 
 ## Overview
 
+### Trembling and confusion at the pass — 1 Samuel 14:1–23
+
+Their garrison at the pass sees Jonathan and his armour-bearer and mocks, *Behold, the Hebrews are coming out of the
+holes where they had hidden themselves!*, then calls *Come up to us, and we will show you something!* (14:11–12). The
+call is the sign Jonathan has asked for. About twenty fall in the first slaughter (14:13–14). Then *a trembling in the
+camp, in the field, and among all the people*, including *the garrison, and the raiders*; *the earth quaked*, and the
+trembling is *ḥerdaṯ ʾĕlōhîm*, literally *a trembling of God* (14:15, WLC). The multitude *melted away* (14:16), and
+when Saul arrives they are *striking each other with their swords in very great confusion* (14:20). The Hebrews who
+had been in their camp desert to Israel (14:21). Jonathan calls them *these uncircumcised* (14:6), Samson's word for
+them (Judges 14:3; 15:18). The Song of the Sea had named *the inhabitants of Philistia* first among the peoples who
+would tremble (Exodus 15:14). See [[Jonathan's Attack at Michmash]] and
+[[Yahweh Saved Israel That Day - The Sea and the Pass at Michmash]].
+
+Source: stored WEB 1 Samuel 14:1–23; Exodus 15:14; Judges 14:3; 15:18. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ### No smith in Israel — 1 Samuel 13:16–23
 
 From the camp at [[Michmash]] their *raiders*, *hammašḥîṯ* (WLC), the word of *the destroyer* in Exodus 12:23, go
@@ -218,6 +233,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Set the ark beside Dagon at Ashdod; struck with tumors and confusion at Ashdod, Gath, and Ekron — [[The Ark Among the Philistines]].
 - Hold a garrison at the hill of God when Saul is anointed — [[Samuel Anoints Saul]].
 - Their garrison at Geba struck by Jonathan; they muster at Michmash *as the sand*, and Israel hides — 1 Samuel 13:3–7. [[Saul's Sacrifice at Gilgal]]
+- Their garrison at the pass climbed by Jonathan; the camp trembles, melts away, and turns its swords on itself — 1 Samuel 14:1–23. [[Jonathan's Attack at Michmash]]
 
 ## Appears in
 
@@ -248,11 +264,13 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Samuel's Farewell Address]] — 1 Samuel 12:9; one of the three oppressors to whom Yahweh *sold* Israel.
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:3–7, 11–12; the garrison at Geba and the army at Michmash.
 - [[No Smith in Israel]] — 1 Samuel 13:16–23; the raiders, the ban on smiths, the sharpening fee, and the garrison at the pass.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; the mocking garrison, the trembling, the confusion, and the rout.
 
 ## Related people
 
 - [[Saul]] — sent to *save my people out of the hand of the Philistines* (1 Samuel 9:16).
 - [[Shamgar]] — the first in Judges to fight them (3:31).
+- [[Jonathan (son of Saul)]] — climbs into their garrison at the pass (1 Samuel 14:13).
 - [[Delilah]] — paid by their lords (16:5, 18).
 - [[The Avvim]] — named beside the five lords in Joshua 13:3.
 - [[The Caphtorim]] — named after the Casluhim in Genesis 10:14.

@@ -610,8 +610,20 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 Fear runs through Samuel's farewell: *If you will fear Yahweh* (12:14); the thunder, and *all the people greatly feared Yahweh and Samuel* (12:18); *Don't be afraid* (12:20); *Only fear Yahweh, and serve him in truth with all your heart* (12:24). The terror is answered with *don't be afraid*, and the reverence is commanded. Moses at Sinai put the two side by side the same way: *Don't be afraid … that his fear may be before you* (Exodus 20:20). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### A trembling of God — 1 Samuel 14:15
+
+After Jonathan's first slaughter, *There was a trembling in the camp, in the field, and among all the people; the
+garrison, and the raiders, also trembled; and the earth quaked, so there was an exceedingly great trembling* (14:15).
+The last words are *wattəhî ləḥerdaṯ ʾĕlōhîm* (WLC), literally *it became a trembling of God*; the WEB renders the
+divine name as an intensive. In 13:7 Israel *followed him trembling*, *ḥārədû* (WLC); now the trembling is on the
+Philistine side. The noun *ḥărāḏâ* occurs elsewhere in Genesis–2 Samuel only at Isaac's *trembled violently*
+(Genesis 27:33; morphhb lemma 2731). As at Jabesh Gilead, where *the dread of Yahweh fell on the people* (11:7), the
+fear is Yahweh's weapon. See [[Jonathan's Attack at Michmash]]. Source: stored WEB Genesis 27:33; 1 Samuel 11:7; 13:7; 14:15. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-19.
+
 ## Key passages
 
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:15; *ḥerdaṯ ʾĕlōhîm*, a trembling of God, in the Philistine camp.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7; *the dread of Yahweh fell on the people, and they came out as one man*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:20; *Who is able to stand before Yahweh, this holy God?*
 - [[The Ark Is Captured]] — 1 Samuel 4:7, 13, 20; the Philistines afraid, Eli trembling for the ark, *Don't be afraid*.

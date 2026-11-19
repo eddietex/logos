@@ -69,6 +69,16 @@ is *maggēpâ* (17, WLC), the word of the plague his namesake [[Phinehas (son of
 
 Source: stored WEB 1 Samuel 2:34; 4:4, 11, 17, 19–21; Numbers 25:8–9. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Named in his grandson's genealogy — 1 Samuel 14:3
+
+He is named once more after his death, in the line of the priest with Saul at Gibeah: *Ahijah, the son of Ahitub,
+Ichabod's brother, the son of Phinehas, the son of Eli, the priest of Yahweh in Shiloh, wearing an ephod* (14:3,
+stored WEB). The sign given to Eli was that both his sons would die in one day (2:34); the house was not ended with
+them. Through his son [[Ahitub (son of Phinehas)]], his grandson [[Ahijah (son of Ahitub)]] serves Saul. See
+[[Jonathan's Attack at Michmash]].
+
+Source: stored WEB 1 Samuel 2:34; 14:3.
+
 ## Timeline / key events
 
 - Priest at Shiloh with his brother — 1 Samuel 1:3.
@@ -76,6 +86,7 @@ Source: stored WEB 1 Samuel 2:34; 4:4, 11, 17, 19–21; Numbers 25:8–9. Hebrew
 - Named in the sign of the man of God: both brothers to die in one day — 2:34.
 - Not named; the sons whose curse brings the sentence Yahweh repeats to Samuel — 3:13–14.
 - Goes with the ark into the camp, and is slain when it is taken, the same day as his brother — 4:4, 11.
+- Named in the genealogy of his grandson Ahijah, priest with Saul — 14:3.
 
 ## Appears in
 
@@ -84,6 +95,7 @@ Source: stored WEB 1 Samuel 2:34; 4:4, 11, 17, 19–21; Numbers 25:8–9. Hebrew
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:34.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:13 (not named).
 - [[The Ark Is Captured]] — 1 Samuel 4:4, 11, 17.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:3; in Ahijah's genealogy.
 
 ## Related people
 
@@ -93,6 +105,8 @@ Source: stored WEB 1 Samuel 2:34; 4:4, 11, 17, 19–21; Numbers 25:8–9. Hebrew
 - [[Ministering Women (of Eli's time)]] — the women at the Tent's door (2:22)
 - [[Phinehas' Wife]] — his wife, who dies giving birth the same day
 - [[Ichabod]] — his son
+- [[Ahitub (son of Phinehas)]] — his son (14:3)
+- [[Ahijah (son of Ahitub)]] — his grandson (14:3)
 
 ## Themes associated
 

@@ -898,8 +898,18 @@ Samuel himself, not of Aaron's house by 1:1, offered at Mizpah and built an alta
 reproach. The wiki records both readings. See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 1:1;
 7:9, 17; 10:8; 13:9–13.
 
+### The ephod at Saul's side — 1 Samuel 14:3, 18–19
+
+The priest with Saul's army is *Ahijah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the
+priest of Yahweh in Shiloh, wearing an ephod* (14:3): Eli's house, under sentence (2:27–36), still carrying the
+ephod. Saul tells him *Bring God's ark here* (14:18; the Masoretic text reads *ark*; the Septuagint is commonly
+reported to read *ephod*, recalled, not checked), then breaks off the inquiry as the tumult grows: *Withdraw your
+hand!* (14:19). The priest's office is used and then interrupted by the king. See [[Jonathan's Attack at Michmash]] and
+[[Ahijah (son of Ahitub)]]. Source: stored WEB 1 Samuel 2:27–36; 7:1–2; 14:3, 18–19.
+
 ## Key passages
 
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:3, 18–19; Eli's great-grandson with the ephod; the inquiry cut off.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the chosen house revoked; *a faithful priest* with *a sure house*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–25; Eli's sons seize the share before the fat is burned; Samuel ministers in a linen ephod.
 - [[The Song of Hannah]] — 1 Samuel 2:11; *the child served Yahweh before Eli the priest*.

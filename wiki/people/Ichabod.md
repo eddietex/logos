@@ -23,8 +23,10 @@ son Benoni in the same way (Genesis 35:18); his father renamed him, and Ichabod'
 See [[Do Not Be Afraid, You Have a Son - Rachel and Phinehas' Wife]] and [[Names and Naming]].
 
 **Later.** He is named once more, as a point of reference in the priestly line: *Ahijah, the son of Ahitub,
-Ichabod's brother, the son of Phinehas, the son of Eli* (14:3, stored WEB; not yet ingested). Nothing else
-is said of him.
+Ichabod's brother, the son of Phinehas, the son of Eli* (14:3, stored WEB). Nothing else is said of him. His
+brother is [[Ahitub (son of Phinehas)]], and his nephew [[Ahijah (son of Ahitub)]] is the priest with Saul's army
+at Gibeah, *wearing an ephod*: the line that survived the day of Ichabod's birth is still serving, at a king's
+side. See [[Jonathan's Attack at Michmash]].
 
 Source: stored WEB 1 Samuel 4:19–22; 14:3; Genesis 35:17–18. Hebrew WLC (OpenScriptures morphhb),
 2026-11-17.
@@ -32,11 +34,12 @@ Source: stored WEB 1 Samuel 4:19–22; 14:3; Genesis 35:17–18. Hebrew WLC (Ope
 ## Timeline / key events
 
 - Born as the news of the ark's capture reaches Shiloh; named by his dying mother — 1 Samuel 4:19–22.
-- Named as the brother of Ahitub, in Ahijah's genealogy — 14:3 (not yet ingested).
+- Named as the brother of Ahitub, in Ahijah's genealogy — 14:3.
 
 ## Appears in
 
 - [[The Ark Is Captured]] — 1 Samuel 4:19–22.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:3; named in Ahijah's genealogy.
 
 ## Related people
 
@@ -44,6 +47,8 @@ Source: stored WEB 1 Samuel 4:19–22; 14:3; Genesis 35:17–18. Hebrew WLC (Ope
 - [[Phinehas (son of Eli)]] — his father, killed the same day
 - [[Eli]] — his grandfather, dead the same day
 - [[Hophni]] — his uncle
+- [[Ahitub (son of Phinehas)]] — his brother (14:3)
+- [[Ahijah (son of Ahitub)]] — his nephew (14:3)
 - [[Benjamin]] — the other son named *Benoni* by a mother dying in childbirth (Genesis 35:18)
 
 ## Themes associated

@@ -993,7 +993,18 @@ armed (13:22). Deborah's song had asked *Was there a shield or spear seen among 
 [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]. Source: stored WEB Judges
 5:8; 1 Samuel 13:16–23; 17:47.
 
+### Two men and a garrison — 1 Samuel 14:1–23
+
+Jonathan and his armour-bearer climb to the Philistine garrison and kill about twenty men (14:13–14). The rest of
+the battle is not fought by Israel: a trembling in the camp, an earthquake, the multitude melting away, and *they were
+all striking each other with their swords in very great confusion* (14:15–16, 20), as in Gideon's night (Judges
+7:22). Deserters and men who had hidden join the pursuit (14:21–22), and the narrator closes *So Yahweh saved Israel
+that day* (14:23), the words of Exodus 14:30. See [[Jonathan's Attack at Michmash]] and
+[[Yahweh Saved Israel That Day - The Sea and the Pass at Michmash]]. Source: stored WEB Exodus 14:30; Judges 7:22;
+1 Samuel 14:1–23.
+
 ## Key passages
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; two men climb to the garrison, and the camp is routed by trembling and its own swords.
 - [[No Smith in Israel]] — 1 Samuel 13:16–23; raiders in three companies, and only two swords in Israel.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7–11; the muster as one man, three companies, and the morning watch.
 - [[Israel Asks for a King]] — 1 Samuel 8:11–12, 20; the king's army, and the king who will fight Israel's battles.

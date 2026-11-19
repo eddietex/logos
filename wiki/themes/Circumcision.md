@@ -162,7 +162,16 @@ Exodus 12:48 made circumcision the condition for a stranger at the Passover. Num
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### The garrison of these uncircumcised — 1 Samuel 14:6
+
+Jonathan names the enemy by what they lack: *Come, let us go over to the garrison of these uncircumcised* (14:6),
+*hāʿărēlîm hāʾēlleh* (WLC). The word is Samson's for the Philistines (Judges 14:3; 15:18); David will use it of
+Goliath (17:26, 36) and Saul of the Philistines who he fears will abuse him (31:4) (stored WEB; not yet ingested).
+Jonathan sets it beside Yahweh's freedom to save, as though the covenant sign marks whose side Yahweh will act for.
+See [[Jonathan's Attack at Michmash]]. Source: stored WEB Judges 14:3; 15:18; 1 Samuel 14:6; 17:26, 36; 31:4. Hebrew WLC, 2026-11-19.
+
 ## Key passages
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:6; *the garrison of these uncircumcised*.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 

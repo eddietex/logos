@@ -256,8 +256,18 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 *Stand still and see this great thing … Isn't it wheat harvest today? I will call to Yahweh, that he may send thunder and rain* (12:16–17). The sign comes that day, and the people fear. Its words, *Yahweh sent thunder*, *nāṯan qōlōṯ*, are those of the hail in Egypt (Exodus 9:23, WLC). See [[Thunders in Harvest - Exodus 9 and 1 Samuel 12]]. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### A sign set before the climb, and the earth quaking — 1 Samuel 14:8–15
+
+Jonathan sets the terms himself: if the garrison says *Wait*, stay; if it says *Come up*, go, *for Yahweh has
+delivered them into our hand. This shall be the sign to us* (14:9–10), *hāʾôṯ* (WLC). Like Abraham's servant at the
+well (Genesis 24:14), he names the sign in advance; unlike Gideon with the fleece (Judges 6:36–40), he does not ask for
+it again. The answer is the Philistines' own taunt (14:12). Then *the earth quaked, so there was an exceedingly great
+trembling* (14:15), and the trembling is called *ḥerdaṯ ʾĕlōhîm* (WLC), *a trembling of God*. See [[Jonathan's Attack at Michmash]]. Source: stored
+WEB Genesis 24:14; Judges 6:36–40; 1 Samuel 14:8–15. Hebrew WLC, 2026-11-19.
+
 ## Key passages
 
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:8–15; the sign named in advance, and the earth quaking.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:2–9; three foretold meetings, *all … happened that day*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:10; *Yahweh thundered with a great thunder*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:7–12; the test of the unyoked cows.

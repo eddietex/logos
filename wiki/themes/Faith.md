@@ -384,7 +384,17 @@ Israel's strength (8–9). Hebrews 3:19 will say *they were not able to enter in
 and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Land]] and
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
+### "It may be that Yahweh will work for us" — 1 Samuel 14:6
+
+Jonathan's venture rests on a confession, not a promise: *It may be that Yahweh will work for us; for there is no
+restraint on Yahweh to save by many or by few* (14:6). He is unsure what Yahweh will do and sure of what Yahweh can
+do. He asks for a sign before he goes, not after, and acts on the harder answer (14:8–12). His armour-bearer's
+*I am with you according to your heart* (14:7) is faith in the man who has faith. Gideon had been told the same truth
+about numbers by Yahweh himself (Judges 7:2, 7). See [[Jonathan's Attack at Michmash]] and
+[[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]]. Source: stored WEB Judges 7:2, 7; 1 Samuel 14:6–12.
+
 ## Key passages
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:6; *It may be that Yahweh will work for us … to save by many or by few*.
 - [[Deborah and Barak]] — Judges 4:8; Barak's condition, and Hebrews 11:32's commendation.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones buried (32).
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

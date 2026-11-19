@@ -22,6 +22,16 @@ the Philistines at [[Michmash]]. The six hundred hold the post unarmed except fo
 next chapter puts Saul at *the uttermost part of Gibeah* (14:2, stored WEB; not yet ingested); the Geba/Gibeah
 question recorded below stays open. See [[No Smith in Israel]].
 
+### Facing the crag Seneh — 1 Samuel 14:5
+
+The southern of the two crags at the pass rises *in front of Geba* (14:5), *mûl gāḇaʿ* (WLC). The narrator's Israelite
+positions in the chapter are *the uttermost part of Gibeah* (14:2) and *Gibeah of Benjamin* (14:16), where Saul's
+watchmen stand (WLC *haggiḇʿâ*, *giḇʿaṯ binyāmin*); Geba here marks the edge of the pass. Isaiah also sets Geba just
+past the pass: *They have gone over the pass. They have taken up their lodging at Geba* (Isaiah 10:29, checked at
+bible-api.com, WEB, not stored). The Geba/Gibeah question below stays open. See [[Jonathan's Attack at Michmash]].
+
+Source: stored WEB 1 Samuel 14:2, 5, 16. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ### Geba in Judges 20:10 and Maareh Geba — Judges 20:33
 
 Two verses of the war against Benjamin have this name in the Hebrew. In verse 10 the assembly plans what it
@@ -53,8 +63,10 @@ Source: stored WEB Joshua 18:11–28.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:3; the garrison Jonathan strikes.
 - [[No Smith in Israel]] — 1 Samuel 13:16; Saul and Jonathan's position.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:5; the crag on the south faces it.
 
 ## Related places
+- [[Seneh]] — the crag *in front of Geba* (1 Samuel 14:5)
 - [[The Jordan]] — Benjamin’s eastern boundary.
 
 ## Events here

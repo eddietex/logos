@@ -112,6 +112,18 @@ death. See [[The Ark Is Captured]].
 
 Source: stored WEB 1 Samuel 1:9; 2:8, 29–31; 3:2; 4:6, 12–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### The priest of Yahweh in Shiloh, after his death — 1 Samuel 14:3
+
+His title outlives him. The priest with Saul's army is introduced by a four-generation genealogy that ends with
+Eli's name and office: *Ahijah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the priest
+of Yahweh in Shiloh, wearing an ephod* (14:3, stored WEB). The man of God had said there would *not be an old man in
+your house forever*, and that Yahweh would *raise me up a faithful priest* (2:32, 35, stored WEB); the house still
+carries the ephod a generation later, at the side of a king whose own house has just been told it will not continue
+(13:13–14). Saul calls on Ahijah to inquire, and cuts him off (14:18–19). See [[Jonathan's Attack at Michmash]] and
+[[Ahijah (son of Ahitub)]].
+
+Source: stored WEB 1 Samuel 2:32, 35; 13:13–14; 14:3, 18–19.
+
 ## Timeline / key events
 
 - Priest at Shiloh, with his sons Hophni and Phinehas — 1 Samuel 1:3, 9.
@@ -122,6 +134,7 @@ Source: stored WEB 1 Samuel 1:9; 2:8, 29–31; 3:2; 4:6, 12–22. Hebrew WLC (Op
 - A man of God pronounces judgment on his house: no old man in it, his sons to die in one day, a faithful priest to replace it — 2:27–36.
 - Teaches the boy Samuel to answer Yahweh; hears from him the sentence on his house, and accepts it: *It is Yahweh* — 3:1–18.
 - Waits on his seat for news of the ark; at the word that it is taken, falls backward and dies, at ninety-eight; *He had judged Israel forty years* — 4:12–18.
+- Named at the head of his great-grandson Ahijah's genealogy, *the priest of Yahweh in Shiloh* — 14:3.
 
 ## Appears in
 
@@ -131,6 +144,7 @@ Source: stored WEB 1 Samuel 1:9; 2:8, 29–31; 3:2; 4:6, 12–22. Hebrew WLC (Op
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:2–18.
 - [[The Ark Is Captured]] — 1 Samuel 4:13–18.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:3; at the head of Ahijah's genealogy.
 
 ## Related people
 
@@ -142,6 +156,8 @@ Source: stored WEB 1 Samuel 1:9; 2:8, 29–31; 3:2; 4:6, 12–22. Hebrew WLC (Op
 - [[Ithamar]] — his likely ancestor, by inference from 1 Chronicles 24:3
 - [[Phinehas' Wife]] — his daughter-in-law, who dies the same day
 - [[Ichabod]] — his grandson, named for the glory departed
+- [[Ahitub (son of Phinehas)]] — his grandson (14:3)
+- [[Ahijah (son of Ahitub)]] — his great-grandson, priest with Saul (14:3)
 - [[Man of Benjamin (of Eli's time)]] — who brings him the news
 
 ## Themes associated

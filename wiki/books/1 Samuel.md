@@ -201,6 +201,17 @@ down to the Philistines to have its plowshares and mattocks sharpened, at a stat
 of battle* only Saul and Jonathan carry sword or spear (13:22). The text names no metal; the pair *sword and spear*
 returns in David's *Yahweh doesn't save with sword and spear* (17:47).
 
+[[Jonathan's Attack at Michmash]] (14:1–23) is the battle the pause prepared. Jonathan and his armour-bearer go over
+to the Philistine garrison without telling Saul, who sits under a pomegranate tree at Gibeah with six hundred men
+and Ahijah, Eli's great-grandson, wearing the ephod (14:1–3). Jonathan's reason is *It may be that Yahweh will work
+for us; for there is no restraint on Yahweh to save by many or by few* (14:6). He sets a sign, receives it in the
+Philistines' taunt, climbs *on his hands and on his feet*, and twenty men fall (14:8–14). Then *the earth quaked*, a
+*trembling of God* runs through the camp, and the Philistines turn their swords on each other (14:15, 20). Saul
+counts the people, calls for *God's ark*, and breaks off the inquiry (14:17–19); deserters and men who had hidden
+join the pursuit (14:21–22). The narrator closes in the words of Exodus 14:30: *So Yahweh saved Israel that day*
+(14:23). The Masoretic *ark* of 14:18, while 7:2 places the ark at Kiriath Jearim, is an open question; the
+Septuagint is commonly reported to read *ephod* there (recalled, not checked).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -240,7 +251,7 @@ merge, or reorder them freely.
 - [x] [[Samuel's Farewell Address]] — 1 Samuel 12:1–25
 - [x] [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15
 - [x] [[No Smith in Israel]] — 1 Samuel 13:16–23
-- [ ] Jonathan's Attack at Michmash — 1 Samuel 14:1–23
+- [x] [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23
 - [ ] Saul's Rash Oath — 1 Samuel 14:24–46
 - [ ] Saul's Wars and Household — 1 Samuel 14:47–52
 - [ ] Saul Rejected over Amalek — 1 Samuel 15:1–35
@@ -337,6 +348,10 @@ merge, or reorder them freely.
 - [[Testing]] — seven days of waiting with a scattering army (13:8)
 - [[Work]] — the craftsman's trade forbidden; tools sharpened by the Philistines for a fee (13:19–21)
 - [[War]] — *neither sword nor spear was found* (13:22)
+- [[Faith]] — *It may be that Yahweh will work for us … to save by many or by few* (14:6)
+- [[Signs and Wonders]] — Jonathan's sign; *the earth quaked* (14:10, 15)
+- [[The Fear of God]] — *ḥerdaṯ ʾĕlōhîm*, a trembling of God (14:15)
+- [[Circumcision]] — *the garrison of these uncircumcised* (14:6)
 
 ## Key people
 - [[Samuel]]
@@ -367,7 +382,9 @@ merge, or reorder them freely.
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 - [[Bedan]] — named among the deliverers in Samuel's farewell, otherwise unknown (12:11)
-- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3)
+- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14)
+- [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
+- [[Ahijah (son of Ahitub)]] and [[Ahitub (son of Phinehas)]] — Eli's line, with the ephod at Saul's side (14:3, 18–19)
 
 ## Key places
 - [[Shiloh]]
@@ -395,3 +412,6 @@ merge, or reorder them freely.
 - [[Gilgal]] — the seven days, Saul's offering, and the sentence on his kingdom (13:4–15)
 - [[Ophrah (Benjamin)]], [[The Land of Shual]], [[Beth Horon]], and [[The Valley of Zeboim]] — the routes of the three
   Philistine raiding companies (13:17–18)
+- [[Migron]] — Saul's pomegranate tree, *the uttermost part of Gibeah* (14:2)
+- [[Bozez]] and [[Seneh]] — the two crags of the pass between Michmash and Geba (14:4–5)
+- [[Beth Aven]] — *the battle passed over by Beth Aven* (14:23)

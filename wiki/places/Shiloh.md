@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Eli's title — 1 Samuel 14:3
+
+After the ark is lost, Shiloh is named only in a title: Ahijah, the priest with Saul at Gibeah, is the great-grandson
+of *Eli, the priest of Yahweh in Shiloh* (14:3). The text does not say whether anything remained at Shiloh. See
+[[Jonathan's Attack at Michmash]].
+
+Source: stored WEB 1 Samuel 14:3.
+
 ### The ark sent for, and the news brought back — 1 Samuel 4:3–22
 
 After the first defeat at [[Ebenezer]], the elders say *Let us get the ark of Yahweh's covenant out of Shiloh*,
@@ -132,6 +140,7 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:3; in Eli's title.
 - [[The Ark Is Captured]] — 1 Samuel 4:3–4, 12–22; the ark taken out, the news brought back, Eli's death at the gate.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:3, 15, 21; the call by the ark, the doors opened, Yahweh appearing again.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; Yahweh's *habitation*; the word against Eli's house.

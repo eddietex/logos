@@ -28927,3 +28927,42 @@ Ecclesiastes 12:11. Hebrew from a fresh download of the Westminster Leningrad Co
 23:14; 24:16 cited from the WLC only. Recalled, not checked, and flagged where made: the locations of Ophrah, Shual,
 the valley of Zeboim, and the wilderness; the glosses *fox* and *hyenas*; the Philistine iron monopoly; the *pym*
 weights and older renderings of 13:21; the Septuagint's fourth tool in 13:20.
+
+## [2026-11-19] ingest | 1 Samuel 14.1-23 — Jonathan's Attack at Michmash
+
+Unattended run. Created [[Jonathan's Attack at Michmash]]; the people [[Jonathan's Armor Bearer]],
+[[Ahijah (son of Ahitub)]], and [[Ahitub (son of Phinehas)]]; the places [[Bozez]], [[Seneh]], and [[Migron]]; and the
+connection [[Yahweh Saved Israel That Day - The Sea and the Pass at Michmash]]. Revised [[1 Samuel]] (box checked;
+overview paragraph; key themes, people, and places), [[Jonathan (son of Saul)]], [[Saul]], [[The Philistines]],
+[[Eli]], [[Phinehas (son of Eli)]], and [[Ichabod]]; the places [[Michmash]], [[Geba]], [[Gibeah (Benjamin)]],
+[[Beth Aven]], [[The Hill Country of Ephraim]], and [[Shiloh]]; the themes [[War]], [[Faith]], [[Signs and Wonders]],
+[[The Fear of God]], [[Circumcision]], and [[Priesthood]]; and the connections
+[[Yahweh Confused Them - Hamam in the Wars of Yahweh]] (1 Samuel 14:20 now stored and checked in Hebrew) and
+[[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]] (Jonathan's *by many or by few*). Also
+`wiki/books/index.md` (18 / 47), People Index A-E (two new rows, one extended), F-M (one new, two extended), N-Z
+(three extended), the places index (three new, six extended), the themes index (six rows), Connections Index T-Z (one
+new, one extended) and I-N (one extended), and the dashboard counts. Frontmatter totals: 504 passages, 385 people,
+614 places, 88 themes, 957 connections.
+
+Judgment calls: the boundary 14:1–23 stands; 14:23's *So Yahweh saved Israel that day* closes the battle, and 14:24
+opens the oath. The unnamed armour-bearer gets a page, titled by role and master so it cannot collide with Saul's
+armour-bearer (31:4–6). Ahijah and Ahitub are qualified by father from the start, against an expected Ahijah of
+Shiloh and Ahitub father of Zadok (recalled). Ahijah is kept apart from Ahimelech son of Ahitub (22:9) until 1 Samuel
+21–22 is ingested. The pomegranate tree, *the Hebrews*, and the ark get no page. No contradiction with an existing
+page was found; the place-name tension between Migron in 14:2 (by Gibeah) and in Isaiah 10:28 (before Michmash) is
+recorded on [[Migron]].
+
+Recorded, not resolved: *ark* (MT) or *ephod* (Septuagint, recalled) in 14:18, against the ark's stay at Kiriath
+Jearim (7:2); Ahijah and Ahimelech; the location of Migron and of the pass; the meanings of *Bozez* and *Seneh*; the
+Geba/Gibeah question already open on [[Geba]]; the alternation of *yônāṯān* and *yəhônāṯān* in 14:6, 8 (observed,
+not interpreted).
+
+Sources: 1 Samuel 14:1–23 from stored WEB, with the not-yet-ingested 1 Samuel 14:24, 31, 37, 45; 16:21; 17:26, 36;
+22:6, 9–20; 29:3; 31:4–6. Comparisons from stored WEB Genesis 24:14; 27:33; Exodus 3:2; 14:13, 30; 15:14–15; 19:16;
+Deuteronomy 7:23; Joshua 2:7, 9, 24; Judges 3:28; 4:5; 6:17, 36–40; 7:2–3, 7, 15, 22, 24; 9:54; 12:5–6; 14:3; 15:18;
+Ruth 1:14; 1 Samuel 2:8, 32, 34–35; 4:21–22; 5:9, 11; 7:1–2; 8:20; 9:16; 10:7, 16, 22; 11:7; 13:6–16. Isaiah
+10:28–29 checked at bible-api.com (WEB), 2026-11-19, not stored. Hebrew from a fresh download of the Westminster
+Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-19, files `Gen` through `2Sam` and `Ruth`; occurrence claims
+cover `Gen` through `2Sam` only. Recalled, not checked, and flagged where made: the Septuagint's *ephod* in 14:18; the
+identity of Ahijah and Ahimelech; the glosses of *Ahijah*, *Ahitub*, *Bozez*, and *Seneh*; the comparison of *Seneh*
+with the bush; the modern identification of the pass; the later Ahijah of Shiloh and Ahitub father of Zadok.

@@ -16,6 +16,8 @@ tags: [connection]
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:19, 22; the same kind of rout told without the verb.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:10; *Yahweh thundered … on the Philistines, and confused
   them*.
+- [[Jonathan's Attack at Michmash]] — 1 Samuel 14:20; *striking each other with their swords in very great
+  confusion*.
 
 ## Analysis
 
@@ -102,3 +104,15 @@ narrator adds *Yahweh's hand was against the Philistines*, *wattəhî yaḏ-YHWH
 and the confusion together again, this time against Israel's enemy. See [[Samuel Judges Israel at Mizpah]] and
 [[He Will Thunder Against Them - Hannah's Song and Mizpah]]. Sources: stored WEB Deuteronomy 2:15; 1 Samuel
 7:9–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+### 1 Samuel 14 ingested — the swords of Michmash
+
+1 Samuel 14:20, cited above from bible-api.com before 1 Samuel was stored, is now stored WEB and checked in Hebrew:
+*ḥereḇ ʾîš bərēʿēhû məhûmâ gəḏôlâ məʾōḏ* (WLC), *every man's sword against his fellow, very great confusion*. The
+first three words are Judges 7:22's *ḥereḇ ʾîš bərēʿēhû* (WLC), and the noun is Deuteronomy 7:23's *məhûmâ gəḏōlâ*.
+The verb *hāmam* is absent, and so is a stated subject: at Judges 7:22 *Yahweh set* the swords, while 1 Samuel 14:20
+reports only what Saul's men found when they came to the battle. Yahweh is named in the verses around it, in
+Jonathan's *It may be that Yahweh will work for us* (14:6), in *ḥerdaṯ ʾĕlōhîm*, *a trembling of God* (14:15), and
+in the narrator's *So Yahweh saved Israel that day* (14:23). See [[Jonathan's Attack at Michmash]] and
+[[Yahweh Saved Israel That Day - The Sea and the Pass at Michmash]]. Sources: stored WEB Deuteronomy 7:23; Judges
+7:22; 1 Samuel 14:6, 15, 20, 23. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
