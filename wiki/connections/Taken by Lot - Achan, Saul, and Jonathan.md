@@ -18,6 +18,8 @@ tags: [connection]
 - [[Saul's Rash Oath]] — **1 Samuel 14:41–42** — *Therefore Saul said to Yahweh, the God of Israel, "Show the right." Jonathan and Saul
   were chosen, but the people escaped. Saul said, "Cast lots between me and Jonathan my son." Jonathan was
   selected.* Stored WEB.
+- [[Saul's Wars and Household]] — **1 Samuel 14:47** — *Now when Saul had taken the kingdom over Israel*; the active
+  of the same verb, with Saul as subject. Stored WEB.
 
 ## Analysis
 
@@ -54,6 +56,13 @@ right*, *hāḇâ ṯāmîm* (WLC), is commonly connected with the Thummim. That
 text of the verse, which is recalled and was not checked. The wiki does not carry the means from 14:42 back into
 the other two scenes. See [[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]] and
 [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]].
+
+**The man taken takes.** Five verses after the lot takes Jonathan, the narrator opens the summary of Saul's reign:
+*Saul had taken the kingdom*, *wəšāʾûl lāḵaḏ hamməlûḵâ* (1 Samuel 14:47, WLC). In 1 Samuel the verb occurs six
+times; the other five are the niphal of the lot (10:20, 21 twice; 14:41, 42), and this is the only qal, with Saul as
+subject (morphhb lemma 3920, `1Sam`). Whether the narrator meant the echo is not said, and the active verb is the
+ordinary one for capturing a city. It does mean that every use of *lāḵaḏ* in 1 Samuel is about Saul's house: how he
+was found, how his son was found, and how he held the kingdom. See [[Saul's Wars and Household]].
 
 ## Significance
 

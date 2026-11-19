@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### *He struck the Amalekites* — 1 Samuel 14:48
+
+In the summary of Saul's reign, the last war named is set apart from the list of 14:47: *He did valiantly, and
+struck the Amalekites, and delivered Israel out of the hands of those who plundered them* (14:48), *wayyak
+ʾeṯ-ʿămālēq* (WLC). It is the first act against Amalek by an Israelite king. The verse credits the war to Saul as a
+deliverance, and comes one verse before the commission of chapter 15, *go and strike Amalek, and utterly destroy
+all that they have* (15:3), whose account uses the same verb, *Saul struck the Amalekites* (15:7) (stored WEB; not
+yet ingested). The summary says nothing of Agag or the spoil. Whether it anticipates chapter 15 or records an
+earlier campaign is not said. See [[Saul's Wars and Household]].
+
+Source: stored WEB 1 Samuel 14:48; 15:3, 7. Hebrew WLC (OpenScriptures morphhb).
+
 ### *The hill country of the Amalekites* — Judges 12:15
 
 Abdon is buried *in Pirathon in the land of Ephraim, in the hill country of the Amalekites*, *bəhar
@@ -147,6 +159,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
   [[The Battle with Amalek]]
 - Ordered blotted out for striking the stragglers — Deuteronomy 25:17–19,
   [[Justice, Family Duty, Honest Weights, and Amalek]]
+- Struck by Saul, in the summary of his reign — 1 Samuel 14:48, [[Saul's Wars and Household]]
 - Spared by Saul, at the cost of Saul's kingdom — 1 Samuel 15
 - Haman the Agagite — Esther 3:1
 - The Amalekite is *in the valley*, with the Canaanite — Numbers 14:25,
@@ -156,6 +169,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 ## Appears in
 
+- [[Saul's Wars and Household]] — 1 Samuel 14:48; *struck the Amalekites*.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:15; *the hill country of the Amalekites* in Ephraim.
 - [[Israel's Repentance Under Ammon]] — Judges 10:12; *the Amalekites … oppressed you*.
 - [[The Dream of the Barley Loaf]] — Judges 7:12; in the valley with Midian, *like locusts for multitude*.
@@ -187,6 +201,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - [[Adah (wife of Esau)]] — his grandmother, in whose line he is counted
 - [[Esau]] — his grandfather, whose other descendants Israel is forbidden to abhor
 - [[Joshua (son of Nun)]] — who defeats his people at Rephidim (Exodus 17:13)
+- [[Saul]] — who strikes his people (1 Samuel 14:48; 15:7)
 
 ## Themes associated
 

@@ -18,6 +18,7 @@ tags: [connection]
   coming within the border of Israel. Yahweh's hand was against the Philistines all the days of Samuel.*
 - 1 Samuel 9:16 — of Saul: *He will save my people out of the hand of the Philistines* (same)
 - 2 Samuel 8:1 — *After this, David struck the Philistines and subdued them* (same)
+- [[Saul's Wars and Household]] — 1 Samuel 14:52; *severe war against the Philistines all the days of Saul*.
 - [[Samson's Riddle]] — Judges 14:4, 19; *he sought an occasion against the Philistines*, and thirty struck at Ashkelon.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–11; the Philistines still dominant: *that you not be servants to the
   Hebrews, as they have been to you* (4:9), and the ark taken
@@ -109,3 +110,14 @@ judgeship before the monarchy, *the border of Israel* may mean the recovered low
 may idealize; the wiki records the tension here and on [[Samuel Judges Israel at Mizpah]], and will return to it
 at 9:16 and 13:3–5. Sources: stored WEB Judges 2:18; 13:5; 1 Samuel 7:13–14; 9:16; 10:5; 13:3–5; 25:1. Hebrew
 WLC (OpenScriptures morphhb), 2026-11-17.
+
+### 1 Samuel 14:52 — all the days of Saul
+
+The summary of Saul's reign gives the Philistine wars their own closing verse: *There was severe war against the
+Philistines all the days of Saul* (14:52, stored WEB), *kōl yəmê šāʾûl* (WLC). The formula is the one 7:13 used of
+Samuel, *Yahweh's hand was against the Philistines all the days of Samuel*, *kōl yəmê šəmûʾēl* (WLC), and Judges
+2:18 of the judges. Under Samuel the Philistines were *subdued*; under Saul there is *severe war*, *hammilḥāmâ
+ḥăzāqâ* (WLC), for the whole reign. Saul did *save … out of the hand of the Philistines* in the sense of 9:16 and
+14:23, and the war did not end. The verb of subduing, *kānaʿ*, waits for David (2 Samuel 8:1, WLC). See
+[[Saul's Wars and Household]]. Sources: stored WEB Judges 2:18; 1 Samuel 7:13; 9:16; 14:23, 52. 2 Samuel 8:1
+checked at bible-api.com, 2026-11-19. Hebrew WLC (OpenScriptures morphhb).

@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Among Saul's enemies — 1 Samuel 14:47
+
+*He fought against all his enemies on every side, against Moab, and against the children of Ammon, and against
+Edom, and against the kings of Zobah, and against the Philistines* (14:47). The children of Ammon are second in the summary of Saul's
+reign, and theirs is the one war in the list the narrative has told, at Jabesh Gilead (11:1–11). The same nations recur in
+David's summary (2 Samuel 8:2, 12, 14, WEB at bible-api.com). See [[Saul's Wars and Household]] and
+[[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]].
+
+Source: stored WEB 1 Samuel 11:1–11; 14:47. 2 Samuel 8 checked at bible-api.com, 2026-11-19.
+
 ### Nahash at Jabesh Gilead — 1 Samuel 11:1–11
 
 [[Nahash (king of Ammon)]], *the Ammonite*, besieges Jabesh Gilead and demands the right eyes of its men (11:1–2).
@@ -165,6 +175,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Saul's Wars and Household]] — 1 Samuel 14:47; among the enemies Saul fought *on every side*.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–11; Nahash besieges Jabesh Gilead and is routed by Saul.
 - [[Shibboleth]] — Judges 12:1–3; the war Ephraim says it was not called to.
 - [[Jephthah's Vow]] — Judges 11:29–36; subdued by Jephthah, twenty cities struck.

@@ -254,7 +254,7 @@ secret.
 - 1 Samuel 13:8 — *He stayed seven days, according to the time set by Samuel*
 - Judges 6:12; 9:33 — *Yahweh is with you*; *as you shall find occasion*
 - Deuteronomy 32:9 — Israel as Yahweh's *inheritance*
-- 1 Samuel 14:50 — *Abner the son of Ner, Saul's uncle*
+- 1 Samuel 14:50 — *Abner the son of Ner, Saul's uncle* — [[Saul's Wars and Household]], [[Abner]], [[Ner]]
 - 2 Kings 9:1, 3 — the flask of oil at Jehu's anointing (by reference only)
 
 ## Notes

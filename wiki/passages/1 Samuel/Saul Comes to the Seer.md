@@ -306,7 +306,7 @@ completes what this one prepares: the anointing at the edge of the city, and the
 - Deuteronomy 17:15 — *whom Yahweh your God chooses*
 - 1 Samuel 10:2, 22–23; 15:17; 16:7 — the donkeys found, the tall man hiding, *little in your own sight*, *man looks
   at the outward appearance*
-- 1 Samuel 14:51; 1 Chronicles 8:33; 9:39 — Kish's father
+- 1 Samuel 14:51; 1 Chronicles 8:33; 9:39 — Kish's father — [[Saul's Wars and Household]], [[Abiel (father of Kish)]], [[Ner]]
 
 ## Notes
 

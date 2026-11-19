@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### *Severe war … all the days of Saul* — 1 Samuel 14:47, 52
+
+The summary of Saul's reign names the Philistines among the enemies he fought *on every side* (14:47), and then
+gives them a verse of their own at the end: *There was severe war against the Philistines all the days of Saul*
+(14:52). The phrase *all the days of Saul*, *kōl yəmê šāʾûl* (WLC), answers *Yahweh's hand was against the
+Philistines all the days of Samuel*, *kōl yəmê šəmûʾēl* (7:13, WLC). Under Samuel the Philistines were subdued;
+under Saul the war is *ḥăzāqâ*, *severe*, and never ends. The commission of 9:16, *He will save my people out of
+the hand of the Philistines*, is fulfilled in battles and not in peace. See [[Saul's Wars and Household]] and
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]].
+
+Source: stored WEB 1 Samuel 7:13; 9:16; 14:47, 52. Hebrew WLC (OpenScriptures morphhb).
+
 ### Trembling and confusion at the pass — 1 Samuel 14:1–23
 
 Their garrison at the pass sees Jonathan and his armour-bearer and mocks, *Behold, the Hebrews are coming out of the
@@ -238,6 +250,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 
 ## Appears in
 
+- [[Saul's Wars and Household]] — 1 Samuel 14:47, 52; *severe war against the Philistines all the days of Saul*.
 - [[The Table of Nations]] — Genesis 10:14.
 - [[The Treaty at Beersheba]] — Genesis 21:34.
 - [[Isaac in Gerar]] — Genesis 26:1, 14.

@@ -193,6 +193,26 @@ kept the law on blood and his own oath to the letter, and the people did not let
 
 Source: stored WEB Judges 15:7; 1 Samuel 8:18; 14:24–46. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
 
+### The summary of a reign — 1 Samuel 14:47–52
+
+The narrator steps out of the story to sum Saul up. *When Saul had taken the kingdom over Israel*, *lāḵaḏ
+hamməlûḵâ* (WLC), the verb by which the lot had *taken* him (10:20–21; 14:41–42), he fought *on every side*: Moab,
+Ammon, Edom, *the kings of Zobah*, the Philistines; *wherever he turned himself, he defeated them*; he *did
+valiantly*, *struck the Amalekites, and delivered Israel out of the hands of those who plundered them* (14:47–48).
+The last phrase is the language of the judges (Judges 2:16). Then his house: sons Jonathan, Ishvi, and Malchishua;
+daughters Merab and Michal; his wife Ahinoam daughter of Ahimaaz; his commander Abner son of Ner; and the
+genealogy that makes Ner and Kish sons of Abiel (14:49–51; 9:1). The last verse is a policy: *when Saul saw any
+mighty man, or any valiant man, he took him into his service* (14:52), what Samuel had warned the king would do
+(8:11), and how David will come to court (16:18–22, not yet ingested).
+
+The summary comes after the sentence of 13:13–14 and before the rejection of chapter 15, and it records the
+people's request, *fight our battles* (8:20), as fulfilled. David's summary in 2 Samuel 8 uses the same frame with
+Yahweh as the subject: *Yahweh gave victory to David wherever he went* (8:6, 14, WEB at bible-api.com). See
+[[Saul's Wars and Household]] and [[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]].
+
+Source: stored WEB Judges 2:16; 1 Samuel 8:11, 20; 9:1; 10:20–21; 13:13–14; 14:41–52; 16:18–22. 2 Samuel 8 checked
+at bible-api.com (`translation=web`), 2026-11-19. Hebrew WLC (OpenScriptures morphhb).
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -221,6 +241,8 @@ Source: stored WEB Judges 15:7; 1 Samuel 8:18; 14:24–46. Hebrew WLC (OpenScrip
 - Holds Geba facing Michmash; with Jonathan, the only armed man in Israel's army — 13:16, 22.
 - Sits under the pomegranate at Gibeah while Jonathan attacks; counts the people, calls for the ark, and stops the priest mid-inquiry; joins the rout — 14:2, 16–23.
 - Swears the people from food until evening; restrains them from eating with the blood; builds his first altar; inquires and is not answered; casts the lot that takes Jonathan and swears his death; overruled by the people — 14:24–46.
+- Summary of the reign: wars with Moab, Ammon, Edom, Zobah, the Philistines, and Amalek; his sons, daughters, wife,
+  and commander; mighty men taken into his service — 14:47–52.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
@@ -232,6 +254,7 @@ Source: stored WEB Judges 15:7; 1 Samuel 8:18; 14:24–46. Hebrew WLC (OpenScrip
 - [[No Smith in Israel]] — 1 Samuel 13:16, 22; at Geba, and one of two men with a sword.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:2, 16–20; sits at Gibeah, counts, calls for the ark, and stops the priest.
 - [[Saul's Rash Oath]] — 1 Samuel 14:24–46; the curse on eating, the first altar, the unanswered inquiry, and the lot on Jonathan.
+- [[Saul's Wars and Household]] — 1 Samuel 14:47–52; his wars on every side, his household, and his commander.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -252,6 +275,12 @@ Source: stored WEB Judges 15:7; 1 Samuel 8:18; 14:24–46. Hebrew WLC (OpenScrip
 - [[Jonathan (son of Saul)]] — his son, who strikes the garrison at Geba (13:2–3, 16)
 - [[Ahijah (son of Ahitub)]] — the priest with the ephod, told to bring the ark and then stopped (14:3, 18–19)
 - [[David]] — not named; *a man after his own heart* (13:14)
+- [[Ishvi (son of Saul)]] and [[Malchishua]] — his other sons (14:49)
+- [[Merab]] and [[Michal]] — his daughters (14:49)
+- [[Ahinoam (wife of Saul)]] — his wife, daughter of [[Ahimaaz (father of Ahinoam)]] (14:50)
+- [[Abner]] — captain of his army, son of [[Ner]] (14:50–51)
+- [[Abiel (father of Kish)]] — his grandfather (9:1; 14:51)
+- [[Amalek]] — whom he struck (14:48)
 
 ## Themes associated
 - [[Kingship and Empire]]
@@ -274,3 +303,5 @@ Source: stored WEB Judges 15:7; 1 Samuel 8:18; 14:24–46. Hebrew WLC (OpenScrip
 - [[Curse]]
 - [[Blood]]
 - [[Prayer]]
+- [[Redemption]]
+- [[The Nations]]

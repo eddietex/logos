@@ -72,6 +72,15 @@ his father's oath. See [[Saul's Rash Oath]],
 
 Source: stored WEB Joshua 7:25; Judges 11:35; 1 Samuel 14:24–46. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
 
+### First of Saul's sons — 1 Samuel 14:49
+
+*Now the sons of Saul were Jonathan, Ishvi, and Malchishua* (14:49). In the summary of the reign Jonathan is only a
+name in a list, the first of three, beside two sisters, a mother, and a cousin who commands the army. He and
+Malchishua are the two sons in every list of Saul's sons (14:49; 31:2; 1 Chronicles 8:33; 9:39, the last two WEB
+at bible-api.com). Here he is spelled *yônāṯān* (WLC). See [[Saul's Wars and Household]].
+
+Source: stored WEB 1 Samuel 14:49; 31:2. 1 Chronicles 8:33; 9:39 checked at bible-api.com, 2026-11-19. Hebrew WLC.
+
 ## Timeline / key events
 
 - Commands a thousand of Saul's three thousand at Gibeah of Benjamin — 1 Samuel 13:2.
@@ -79,12 +88,14 @@ Source: stored WEB Joshua 7:25; Judges 11:35; 1 Samuel 14:24–46. Hebrew WLC (O
 - Holds Geba with Saul; one of the two armed men in Israel's army — 13:16, 22.
 - Goes over the pass with his armour-bearer, sets a sign, climbs to the garrison, and strikes about twenty men; Yahweh routs the camp — 14:1–23.
 - Eats honey unaware of Saul's oath; *My father has troubled the land*; taken by lot; *behold, I must die*; rescued by the people — 14:27–45.
+- Named first of Saul's sons in the summary of the reign — 14:49.
 
 ## Appears in
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2–3; commands at Gibeah, strikes the garrison at Geba.
 - [[No Smith in Israel]] — 1 Samuel 13:16, 22; at Geba, and one of two men with a sword.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; *It may be that Yahweh will work for us*; the sign and the climb.
 - [[Saul's Rash Oath]] — 1 Samuel 14:27–45; the honey, *My father has troubled the land*, the lot, and the people's rescue.
+- [[Saul's Wars and Household]] — 1 Samuel 14:49; first of Saul's three sons.
 
 ## Related people
 - [[Saul]] — his father (13:16)
@@ -95,6 +106,9 @@ Source: stored WEB Joshua 7:25; Judges 11:35; 1 Samuel 14:24–46. Hebrew WLC (O
 - [[Gideon]] — the earlier deliverer whom Yahweh saved *by the three hundred* (Judges 7:7)
 - [[Jephthah's Daughter]] — the other child bound by a father's sworn word (Judges 11:34–40)
 - [[Achan]] — the man earlier taken by the same lot, and the earlier *troubler* (Joshua 7:18, 25)
+- [[Ishvi (son of Saul)]] and [[Malchishua]] — his brothers (14:49)
+- [[Merab]] and [[Michal]] — his sisters (14:49)
+- [[Abner]] — his father's commander, and his cousin by 14:51 with 9:1
 
 ## Themes associated
 - [[War]]

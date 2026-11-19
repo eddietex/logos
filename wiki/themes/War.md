@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Enemies on every side, and severe war all his days — 1 Samuel 14:47–52
+
+The summary of Saul's reign is a list of wars: *he fought against all his enemies on every side*, Moab, Ammon,
+Edom, *the kings of Zobah*, and the Philistines, and *wherever he turned himself, he defeated them* (14:47); he
+*did valiantly* and *struck the Amalekites* (14:48). It ends where it began, *There was severe war against the
+Philistines all the days of Saul*, and with the means of waging it: *when Saul saw any mighty man, or any valiant
+man, he took him into his service* (14:52). The people's request, a king to *fight our battles* (8:20), and
+Samuel's warning, *he will take your sons* (8:11), are both fulfilled in the one verse. Israel now has a standing
+commander, [[Abner]], *captain of his army* (14:50). See [[Saul's Wars and Household]] and
+[[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]]. Source: stored WEB 1 Samuel 8:11, 20;
+14:47–52.
+
 ### The first king's battle — 1 Samuel 11:7–11
 
 The war the people asked a king for (8:20) begins at Jabesh Gilead. Saul summons Israel with the cut pieces of a
@@ -1012,6 +1024,7 @@ the Philistines; and the Philistines went to their own place* (14:46). See [[Sau
 Samuel 14:24–46.
 
 ## Key passages
+- [[Saul's Wars and Household]] — 1 Samuel 14:47–52; enemies on every side, a standing commander, and severe war all Saul's days.
 - [[Saul's Rash Oath]] — 1 Samuel 14:31, 36, 46; the pursuit to Aijalon, the night raid not made, and the Philistines gone home.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; two men climb to the garrison, and the camp is routed by trembling and its own swords.
 - [[No Smith in Israel]] — 1 Samuel 13:16–23; raiders in three companies, and only two swords in Israel.

@@ -17,7 +17,8 @@ uncle's questions are the first time anyone in Saul's family hears of the trip, 
 secret. See [[Samuel Anoints Saul]].
 
 **Not identified.** The text does not name him. 1 Samuel 14:50 names *Abner the son of Ner, Saul's uncle*, and
-14:51 says *Ner the father of Abner was the son of Abiel*, as Kish was (9:1) (stored WEB; not yet ingested). The
+14:51 says *Ner the father of Abner was the son of Abiel*, as Kish was (9:1) (stored WEB; ingested at
+[[Saul's Wars and Household]]; see [[Ner]] and [[Abner]]). The
 phrase at 14:50 can be read with either Ner or Abner as the uncle. Identifying the uncle of 10:14 with Ner, or with
 Abner, is a common proposal. It is recalled, not checked, and the wiki does not make it. *Dôḏ* in the Torah is a
 father's brother (Leviticus 10:4; 25:49, WLC; lemma 1730).
@@ -37,6 +38,7 @@ Source: stored WEB 1 Samuel 9:1; 10:14–16; 14:50–51; Leviticus 10:4; 25:49. 
 - [[Saul's Servant (of the lost donkeys)]] — questioned with Saul (10:14)
 - [[Kish (father of Saul)]] — Saul's father
 - [[Samuel]] — whose words he asks about
+- [[Ner]] and [[Abner]] — one of whom 14:50 calls *Saul's uncle*; neither is identified with him
 
 ## Themes associated
 - [[Kingship and Empire]]

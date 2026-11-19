@@ -19,12 +19,19 @@ Aram Naharaim of the patriarchal accounts. It is recalled provenance, not the pr
 
 Source: stored WEB Numbers 22:36–23:26.
 
+### Zobah — 1 Samuel 14:47
+
+*The kings of Zobah* are among Saul's enemies (14:47). In 2 Samuel 8:3–6 Zobah is an Aramean kingdom whose king,
+Hadadezer, is helped by *the Syrians of Damascus* (WEB at bible-api.com). See [[Zobah]] and
+[[Saul's Wars and Household]].
+
 ## Appears in
+- [[Saul's Wars and Household]] — 1 Samuel 14:47; *the kings of Zobah*, an Aramean kingdom by 2 Samuel 8.
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26
 - [[Israel's Repentance Under Ammon]] — Judges 10:6; *the gods of Syria*.
 
 ## Related places
-- [[Pethor]] · [[Aram Naharaim]]
+- [[Pethor]] · [[Aram Naharaim]] · [[Zobah]]
 
 ## Events here
 - Recalled origin of Balaam — [[Balaam's First Two Oracles]].

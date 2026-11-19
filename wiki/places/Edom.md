@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Among Saul's enemies — 1 Samuel 14:47
+
+*He fought against all his enemies on every side, against Moab, and against the children of Ammon, and against
+Edom, and against the kings of Zobah, and against the Philistines* (14:47). Edom is the third enemy named in the summary of Saul's
+reign. No war with Edom is narrated in Saul's story; the list records one. The same nations recur in
+David's summary (2 Samuel 8:2, 12, 14, WEB at bible-api.com). See [[Saul's Wars and Household]] and
+[[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]].
+
+Source: stored WEB 1 Samuel 11:1–11; 14:47. 2 Samuel 8 checked at bible-api.com, 2026-11-19.
+
 ### The king who didn't listen — Judges 11:17–18
 
 Jephthah retells the embassy of Numbers 20:14–21: *Please let me pass through your land; but the king of
@@ -195,6 +205,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 **Joshua 12:1–24 — the list of kings.** Seir again names the direction of Mount Halak's ascent (12:7), not Edomite land taken. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Saul's Wars and Household]] — 1 Samuel 14:47; among the enemies Saul fought *on every side*.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:17–18; *the king of Edom didn't listen*.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *Mount Seir*, given to Esau (4).

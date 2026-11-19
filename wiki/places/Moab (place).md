@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Among Saul's enemies — 1 Samuel 14:47
+
+*He fought against all his enemies on every side, against Moab, and against the children of Ammon, and against
+Edom, and against the kings of Zobah, and against the Philistines* (14:47). Moab is the first enemy named in the summary of Saul's
+reign. No war with Moab is narrated in Saul's story; the list records one. The same nations recur in
+David's summary (2 Samuel 8:2, 12, 14, WEB at bible-api.com). See [[Saul's Wars and Household]] and
+[[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]].
+
+Source: stored WEB 1 Samuel 11:1–11; 14:47. 2 Samuel 8 checked at bible-api.com, 2026-11-19.
+
 ### Left behind — Ruth 1:6–18
 
 *She had heard in the country of Moab how Yahweh had visited his people in giving them bread* (1:6). The
@@ -320,6 +330,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[Saul's Wars and Household]] — 1 Samuel 14:47; among the enemies Saul fought *on every side*.
 - [[Famine and Death in Moab]] — Ruth 1:1–5; *the country of Moab*, where Elimelech's family sojourns ten years and the men die.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15, 17–18, 24–25; Moab's land not taken, an embassy refused, Chemosh, and Balak.
 

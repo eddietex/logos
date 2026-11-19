@@ -21,7 +21,7 @@ about him: *lest my father stop caring about the donkeys, and be anxious for us*
 [[Saul Comes to the Seer]].
 
 **Recorded, not resolved — Kish's father.** 1 Samuel 9:1 names Abiel. 1 Samuel 14:51 reads *Kish was the father
-of Saul; and Ner the father of Abner was the son of Abiel* (stored WEB; not yet ingested). 1 Chronicles 8:33 and
+of Saul; and Ner the father of Abner was the son of Abiel* (stored WEB; ingested at [[Saul's Wars and Household]]). 1 Chronicles 8:33 and
 9:39 read *Ner became the father of Kish* (WEB checked at bible-api.com; not yet ingested). Harmonizations (two
 men named Kish; Ner as an earlier ancestor; a scribal slip) are recalled, not verified; the wiki does not choose
 between them.
@@ -44,15 +44,26 @@ whether Kish was present. See [[Saul Chosen by Lot at Mizpah]].
 
 Source: stored WEB 1 Samuel 10:20–21; Joshua 7:14, 18.
 
+### *Kish was the father of Saul* — 1 Samuel 14:51
+
+The summary of Saul's reign names Kish once more, beside his nephew the commander: *Kish was the father of Saul;
+and Ner the father of Abner was the son of Abiel* (14:51). With 9:1, Kish and [[Ner]] are both sons of
+[[Abiel (father of Kish)]], so Abner is Saul's cousin. The disagreement with 1 Chronicles 8:33; 9:39, recorded
+above, is now in a stored, ingested verse; it is not resolved here. See [[Saul's Wars and Household]].
+
+Source: stored WEB 1 Samuel 9:1; 14:50–51. 1 Chronicles 8:33; 9:39 checked at bible-api.com, 2026-11-19.
+
 ## Timeline / key events
 - Introduced with his pedigree; his donkeys lost; sends Saul to look for them — 1 Samuel 9:1–3.
 - Stops worrying about the donkeys and worries about Saul — 10:2.
 - Named when Saul is chosen by lot at Mizpah — 10:21.
+- Named as Saul's father in the summary of the reign; Ner is his brother by 14:51 with 9:1 — 14:51.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:1–5; the father of the lost donkeys.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:2, 11; *What shall I do for my son?*; *the son of Kish*.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:21; *Saul the son of Kish was chosen*.
+- [[Saul's Wars and Household]] — 1 Samuel 14:51; *Kish was the father of Saul*.
 
 ## Related people
 - [[Saul]] — his son
@@ -60,6 +71,9 @@ Source: stored WEB 1 Samuel 10:20–21; Joshua 7:14, 18.
 - [[Benjamin]] — his tribe
 - [[Matrites]] — the family of Benjamin chosen at Mizpah (10:21)
 - [[Saul's Uncle]] — perhaps his brother; the text does not name him (10:14)
+- [[Abiel (father of Kish)]] — his father (9:1)
+- [[Ner]] — his brother by 14:51 with 9:1; his father by 1 Chronicles 8:33
+- [[Abner]] — his nephew by 14:51 with 9:1
 
 ## Themes associated
 - [[Providence]]

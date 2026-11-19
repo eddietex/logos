@@ -223,6 +223,19 @@ people answer with their own oath, *there shall not one hair of his head fall to
 God today*, and *rescued*, *pāḏâ*, *Jonathan* (14:45). The pursuit is abandoned (14:46). Jephthah's daughter had died
 under her father's vow (Judges 11:39); Jonathan is redeemed from his father's oath.
 
+[[Saul's Wars and Household]] (14:47–52) steps out of the story to sum up the reign. *When Saul had taken the
+kingdom*, *lāḵaḏ*, the verb by which the lot had taken him (10:20–21), he fought *on every side*, Moab, Ammon, Edom,
+*the kings of* [[Zobah]], and the Philistines, and *wherever he turned himself, he defeated them*; he struck the
+Amalekites and *delivered Israel out of the hands of those who plundered them*, the phrase of Judges 2:16
+(14:47–48). Then his house: sons [[Jonathan (son of Saul)]], [[Ishvi (son of Saul)]], and [[Malchishua]];
+daughters [[Merab]] and [[Michal]]; his wife [[Ahinoam (wife of Saul)]]; and his commander [[Abner]] son of [[Ner]],
+his cousin by 14:51 with 9:1, though 1 Chronicles 8:33 makes Ner Kish's father (14:49–51). It ends on *severe war
+against the Philistines all the days of Saul* and a king who takes every mighty man into his service (14:52), as
+Samuel warned (8:11), and as David will be taken (16:18–22). Placed before chapter 15, the summary gives Saul's
+reign its full military credit while the sentence of 13:13–14 stands; David's notice in 2 Samuel 8 uses the same
+frame with Yahweh as the one who gives victory. See
+[[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -264,7 +277,7 @@ merge, or reorder them freely.
 - [x] [[No Smith in Israel]] — 1 Samuel 13:16–23
 - [x] [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23
 - [x] [[Saul's Rash Oath]] — 1 Samuel 14:24–46
-- [ ] Saul's Wars and Household — 1 Samuel 14:47–52
+- [x] [[Saul's Wars and Household]] — 1 Samuel 14:47–52
 - [ ] Saul Rejected over Amalek — 1 Samuel 15:1–35
 - [ ] Samuel Anoints David — 1 Samuel 16:1–13
 - [ ] David Plays the Harp for Saul — 1 Samuel 16:14–23
@@ -368,6 +381,10 @@ merge, or reorder them freely.
 - [[Blood]] — the people eat *with the blood* (14:32–34)
 - [[Prayer]] — *he didn't answer him that day* (14:37)
 - [[Redemption]] — *the people rescued Jonathan*, *wayyip̄dû* (14:45)
+- [[War]] — enemies *on every side*; *severe war against the Philistines all the days of Saul* (14:47, 52)
+- [[Kingship and Empire]] — the summary of Saul's reign, household, and commander (14:47–52)
+- [[The Nations]] — Moab, Ammon, Edom, Zobah, the Philistines, and Amalek (14:47–48)
+- [[Redemption]] — *delivered Israel out of the hands of those who plundered them* (14:48)
 
 ## Key people
 - [[Samuel]]
@@ -401,6 +418,12 @@ merge, or reorder them freely.
 - [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45)
 - [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
 - [[Ahijah (son of Ahitub)]] and [[Ahitub (son of Phinehas)]] — Eli's line, with the ephod at Saul's side (14:3, 18–19)
+- [[Ishvi (son of Saul)]] and [[Malchishua]] — Saul's other sons (14:49)
+- [[Merab]] and [[Michal]] — Saul's daughters, *the firstborn* and *the younger* (14:49)
+- [[Ahinoam (wife of Saul)]] and [[Ahimaaz (father of Ahinoam)]] — Saul's wife and her father (14:50)
+- [[Abner]] — captain of Saul's army (14:50)
+- [[Ner]] and [[Abiel (father of Kish)]] — Abner's father, and the grandfather of Saul and Abner (9:1; 14:51)
+- [[Amalek]] — struck by Saul (14:48)
 
 ## Key places
 - [[Shiloh]]
@@ -432,3 +455,4 @@ merge, or reorder them freely.
 - [[Bozez]] and [[Seneh]] — the two crags of the pass between Michmash and Geba (14:4–5)
 - [[Beth Aven]] — *the battle passed over by Beth Aven* (14:23)
 - [[Michmash]] and [[Aijalon]] — the pursuit, *from Michmash to Aijalon* (14:31)
+- [[Moab (place)]], [[Ammon]], [[Edom]], and [[Zobah]] — among Saul's enemies *on every side* (14:47)

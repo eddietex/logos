@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Delivered Israel out of the hands of those who plundered them* — 1 Samuel 14:48
+
+Saul *delivered Israel*, *wayyaṣṣēl ʾeṯ-yiśrāʾēl*, *out of the hands of those who plundered them*, *miyyaḏ šōsēhû*
+(14:48, WLC). The phrase belongs to Judges: *Yahweh raised up judges, who saved them out of the hand of those who
+plundered them* (Judges 2:16), with *hôšîaʿ*, *save*, where 14:48 has *hiṣṣîl*, *deliver* (WLC). The king the
+people asked for performs the judges' deliverance. Here Saul is the subject; in David's summary *Yahweh gave
+victory to David* (2 Samuel 8:6, WEB at bible-api.com). See [[Saul's Wars and Household]]. Source: stored WEB Judges
+2:16; 1 Samuel 14:48. Hebrew WLC.
+
 ### *No one to save us* — 1 Samuel 11:3, 9, 13
 
 The elders of Jabesh ask for seven days: *if there is no one to save us*, *ʾên môšîaʿ* (11:3, WLC), they will
@@ -457,6 +466,7 @@ Israel* (14:45). See [[Saul's Rash Oath]] and
 Deuteronomy 7:8; 1 Samuel 14:45. Hebrew WLC.
 
 ## Key passages
+- [[Saul's Wars and Household]] — 1 Samuel 14:48; *delivered Israel out of the hands of those who plundered them*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:45; *the people rescued Jonathan*, *wayyip̄dû*.
 
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:3, 9, 13; *no one to save us*; *today Yahweh has rescued Israel*.

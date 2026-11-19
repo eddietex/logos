@@ -20,6 +20,7 @@ tags: [connection]
   destruction"*
 - **Deuteronomy 25:17–19** — *"Remember what Amalek did to you … you shall blot out the memory of
   Amalek from under the sky. You shall not forget."* — [[Justice, Family Duty, Honest Weights, and Amalek]]
+- **1 Samuel 14:48** — *He did valiantly, and struck the Amalekites* — [[Saul's Wars and Household]]
 - **1 Samuel 15** — Saul spares Agag and the best of the livestock, and loses the kingdom
 - **Esther 3:1** — *"Haman the son of Hammedatha the Agagite"*
 - **Deuteronomy 23:7** — *"You shall not abhor an Edomite, for he is your brother"*
@@ -102,6 +103,7 @@ Deuteronomy 12:10; 24:9; 25:6, 17–19; Genesis 25:29–30; Joshua 10:19 at bibl
 | **Exodus 17:8–16** | the nation | the first to attack Israel after the Exodus; a war *from generation to generation* |
 | **Numbers 24:20** | a foreign seer's verdict | *first of the nations*, and destruction at the end |
 | **Deuteronomy 25:17–19** | the law | the memory to be blotted out, and not forgotten |
+| **1 Samuel 14:48** | Saul | *struck the Amalekites, and delivered Israel*; the summary credits the war |
 | **1 Samuel 15** | Saul | spares Agag; *"Yahweh has rejected you from being king"* |
 | **1 Samuel 30** | David | an Amalekite raid on Ziklag, four hundred escape on camels |
 | **2 Samuel 1** | an Amalekite | claims to have killed Saul, and is executed for it |
@@ -145,6 +147,16 @@ a narrative. Moab and Ammon get a cave; Canaan gets a curse; Ishmael gets a wild
 **Amalek gets a line in a list.**
 
 **The Bible's most comprehensively condemned people is the one Genesis says least about.**
+
+### 1 Samuel 14:48 — credited before it is judged
+
+The first time the thread reaches a king, it does so in the summary of Saul's reign: *He did valiantly, and struck
+the Amalekites, and delivered Israel out of the hands of those who plundered them* (14:48, stored WEB). The war is
+recorded as a deliverance, in the vocabulary of Judges 2:16, one verse before chapter 15 opens with *I remember
+what Amalek did to Israel* (15:2) and tells the same war, *Saul struck the Amalekites* (15:7) (stored WEB; not yet
+ingested), as the disobedience that costs him the kingdom. The summary omits Agag and the spoil. Whether it
+summarises chapter 15 in advance or records an earlier campaign, the text does not say. Deuteronomy's command
+was to *blot out the memory of Amalek* (25:19); 14:48 says only that Saul *struck* it.
 
 ## Significance
 

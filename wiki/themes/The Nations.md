@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Enemies on every side — 1 Samuel 14:47–48
+
+The people asked for a king *like all the nations* (8:5, 20); the summary of his reign lists the nations he
+fought: Moab, Ammon, Edom, *the kings of Zobah*, the Philistines, and Amalek (14:47–48). Four of them are Israel's
+neighbours and kin by Genesis (Moab and Ammon from Lot, Edom and Amalek from Esau); Zobah is a new name, an Aramean
+kingdom in 2 Samuel 8 (WEB at bible-api.com). Israel's king is defined by the nations around him, as the people
+wished, and by war with them. See [[Saul's Wars and Household]] and [[Zobah]]. Source: stored WEB Genesis 19:37–38;
+36:12; 1 Samuel 8:5, 20; 14:47–48.
+
 ### *That we also may be like all the nations* — 1 Samuel 8:5, 20
 
 The elders ask for *a king to judge us like all the nations*, *kəḵol-haggôyim* (8:5, WLC), and when warned
@@ -700,6 +709,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Saul's Wars and Household]] — 1 Samuel 14:47–48; Moab, Ammon, Edom, Zobah, the Philistines, and Amalek.
 - [[Israel Asks for a King]] — 1 Samuel 8:5, 20; *like all the nations*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:2–9; the Philistine priests counsel glory to the God of Israel.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:7–11; the Philistines confess the God of Israel's hand on them and on Dagon.

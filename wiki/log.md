@@ -29008,3 +29008,43 @@ Judges 9:23; 11:30–40; 15:7; 16:28; 17:2; 20:2; 21:18; 1 Samuel 1:20, 28; 5:11
 reused; occurrence claims cover `Gen` through `2Sam` only. Recalled, not checked, and flagged where made: the
 alternative readings of *the first altar*; the longer Greek text of 14:41; the long-standing question why Jephthah
 did not redeem his vow by valuation. No Septuagint was consulted.
+
+## [2026-11-19] ingest | 1 Samuel 14.47-52 — Saul's Wars and Household
+
+Unattended run. Created [[Saul's Wars and Household]]; the people [[Ishvi (son of Saul)]], [[Malchishua]],
+[[Merab]], [[Michal]], [[Ahinoam (wife of Saul)]], [[Ahimaaz (father of Ahinoam)]], [[Abner]], [[Ner]], and
+[[Abiel (father of Kish)]]; the place [[Zobah]]; and the connection
+[[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]]. Revised [[1 Samuel]] (box checked; overview
+paragraph; key themes, people, and places); the people [[Saul]], [[Jonathan (son of Saul)]],
+[[Kish (father of Saul)]], [[Saul's Uncle]], [[Amalek]], and [[The Philistines]]; the places [[Moab (place)]],
+[[Ammon]], [[Edom]], and [[Aram (place)]]; the themes [[War]], [[Kingship and Empire]], [[Redemption]], and
+[[The Nations]]; the connections [[Amalek - From a Concubine's Son to Israel's First Enemy]],
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]], and
+[[Taken by Lot - Achan, Saul, and Jonathan]]; and cross-reference lines in [[Saul Comes to the Seer]] and
+[[Samuel Anoints Saul]]. Also `wiki/books/index.md` (20 / 47), People Index A-E (four new rows, one extended), F-M
+(four new, two extended), N-Z (one new, three extended), the places index (one new, four extended), the themes
+index (four rows), Connections Index O-S (one new row), A-C, D-H, and T-Z (one extended each), and the dashboard
+counts. Frontmatter totals: 506 passages, 394 people, 615 places, 88 themes, 959 connections.
+
+Judgment calls: the boundary 14:47–52 stands. Every name in 14:49–51 gets a page, since all but Ishvi, Ahimaaz,
+and Abiel act later in 1 Samuel and those three anchor the household and genealogy. Qualifiers from the start:
+Ishvi (against the Ishvi of Asher, Genesis 46:17), Ahinoam (against Ahinoam of Jezreel, 25:43), Ahimaaz (against
+Ahimaaz son of Zadok, recalled), Abiel (against Abiel of David's mighty men, recalled). Abner and Ner stay bare. The
+summary's Moab link goes to [[Moab (place)]]. Abner is called the first named Israelite *śar ṣāḇāʾ*, checked by a
+lemma-pair search of WLC Genesis–1 Samuel. No contradiction with an existing page was found; the Ner/Kish tension
+with 1 Chronicles was already recorded on [[Kish (father of Saul)]] and is now also on [[Ner]] and
+[[Abiel (father of Kish)]].
+
+Recorded, not resolved: whether Ner or Abner is *Saul's uncle* (14:50); the Chronicles genealogy; who Ishvi is;
+the sense of *yaršîaʿ* (14:47) and the Greek reading; whether 14:48 anticipates chapter 15; the location of Zobah.
+
+Sources: 1 Samuel 14:47–52 from stored WEB, with the not-yet-ingested 1 Samuel 15:2–3, 7; 16:18–22; 17:55–57;
+18:1–4, 17–27; 19:11–17; 20:25, 30; 23:1; 25:43–44; 26:5–15; 31:2. Comparisons from stored WEB Genesis 19:37–38;
+21:22, 32; 26:26; 29:26; 36:12; 46:17; Exodus 22:9; Numbers 26:44; Deuteronomy 20:9; 25:1, 19; Joshua 5:14–15;
+Judges 2:14, 16, 18; 4:2, 7; 1 Samuel 7:13; 8:5, 11, 20; 9:1, 16; 10:20–21, 26; 11:1–11; 12:9; 13:13–14, 17–18;
+14:23, 41–42. 2 Samuel 2:8; 8:1–18; 1 Chronicles 8:29–34; 9:35–40 checked at bible-api.com (`translation=web`),
+2026-11-19, not stored. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb) XML, files `Gen`
+through `2Sam`, downloaded 2026-11-19 by an earlier run and reused; occurrence claims cover `Gen` through `2Sam`
+(or the narrower range stated) only. Recalled, not checked, and flagged where made: the Septuagint at 14:47; the
+location of Zobah; the gloss of *Malchishua*; the identifications of Ishvi and of Abiel with Jeiel; the later
+Ahimaaz and Abiel; Rizpah (2 Samuel 3:7); 2 Samuel 7 before 8. No Septuagint was consulted.

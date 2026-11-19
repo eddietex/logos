@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### The summary of a reign — 1 Samuel 14:47–52
+
+*When Saul had taken the kingdom over Israel*, *lāḵaḏ hamməlûḵâ* (14:47, WLC), the narrator steps back and sums
+him up as later books sum up kings: his wars (47–48), his sons and daughters (49), his wife and his commander (50),
+his genealogy (51), and his court (52). It is the first such notice for an Israelite king in the books stored so
+far. A king now has a household that matters to the state, and a commander, [[Abner]], who is his kinsman. The
+notice comes after the sentence on Saul's kingdom (13:13–14) and before chapter 15, and records his military success
+in full. David's notice in 2 Samuel 8 has the same frame and adds *justice and righteousness* and a list of officers
+(WEB at bible-api.com). See [[Saul's Wars and Household]] and
+[[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]]. Source: stored WEB 1 Samuel 13:13–14;
+14:47–52. Hebrew WLC.
+
 ### The king fights their battle, and the kingdom is renewed — 1 Samuel 11:1–15
 
 The people asked for a king to *go out before us, and fight our battles* (8:20). Saul does: the Spirit comes on
@@ -711,6 +723,7 @@ own heart* (13:14). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Sam
 2026-11-18.
 
 ## Key passages
+- [[Saul's Wars and Household]] — 1 Samuel 14:47–52; the first summary notice of an Israelite king's reign.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the king fights the people's battle, and is made king *before Yahweh* at Gilgal.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; the lot, *Long live the king!*, the regulations written, and the doubters.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:1, 16; anointed *prince over his inheritance*; *the matter of the kingdom* kept secret.
