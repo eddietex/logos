@@ -795,7 +795,17 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 
 Samuel's history recalls the confession of the judges' era, *We have sinned, because we have forsaken Yahweh* (12:10; compare Judges 10:10), and after the thunder the people make a new one: *we have added to all our sins this evil, to ask for a king* (12:19). Samuel does not deny it, *You have indeed done all this evil*, and does not let it be the end: *yet don't turn away from following Yahweh* (12:20). He also names the opposite sin for himself: *far be it from me that I should sin against Yahweh in ceasing to pray for you* (12:23). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### In which this sin has been — 1 Samuel 14:33–39
+
+Two sins are named in the pericope and they are not the same. The people *are sinning against Yahweh, in that they
+eat meat with the blood* (14:33), a sin against the law, and Saul corrects it (14:34). When God does not answer, Saul
+looks for another: *know and see in which this sin has been today* (14:38), and the lot finds Jonathan, whose act was
+to taste honey against an oath he never heard (14:27, 43). The narrator does not call Jonathan's act a sin, and the
+people refuse its penalty (14:45). See [[Saul's Rash Oath]] and
+[[Sinning Unwittingly - Integrity, Ignorance, and Guilt]]. Source: stored WEB 1 Samuel 14:24–45.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:33–39; the people eat with the blood; Saul seeks *in which this sin has been*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:6; *We have sinned against Yahweh*, at Mizpah.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:17, 24–25; *very great before Yahweh*; sin against a man and sin against Yahweh.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 10, 15; *We have sinned*, twice.

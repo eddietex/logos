@@ -410,7 +410,16 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### Cursed is the man who eats — 1 Samuel 14:24–28
+
+Saul's oath is a curse formula, *ʾārûr hāʾîš*, *Cursed is the man* (14:24, 28, WLC), the opening of Joshua's oath
+over Jericho (Joshua 6:26), and the oath Israel swore at Mizpah over Benjamin, *Cursed is he who gives a wife to
+Benjamin* (Judges 21:18), took the same word (stored WEB; WLC). The man who falls under it is the king's son, who did
+not hear it (14:27). The curse is never carried out: the people refuse it (14:45). See [[Saul's Rash Oath]]. Source:
+stored WEB Joshua 6:26; Judges 21:18; 1 Samuel 14:24–45. Hebrew WLC.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:24–28; *Cursed is the man who eats any food until it is evening*.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:6, 9, 11–12; the tumors and confusion of Deuteronomy 28 on the Philistines.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:13; *məqalləlîm lāhem*, the sons *brought a curse on themselves*.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:30; *qālal*, *be light*, against *kāḇēḏ*, *honor*.

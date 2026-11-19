@@ -234,6 +234,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Hold a garrison at the hill of God when Saul is anointed — [[Samuel Anoints Saul]].
 - Their garrison at Geba struck by Jonathan; they muster at Michmash *as the sand*, and Israel hides — 1 Samuel 13:3–7. [[Saul's Sacrifice at Gilgal]]
 - Their garrison at the pass climbed by Jonathan; the camp trembles, melts away, and turns its swords on itself — 1 Samuel 14:1–23. [[Jonathan's Attack at Michmash]]
+- Struck from Michmash to Aijalon; not pursued by night; *went to their own place* — 1 Samuel 14:31, 36, 46. [[Saul's Rash Oath]]
 
 ## Appears in
 
@@ -265,6 +266,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:3–7, 11–12; the garrison at Geba and the army at Michmash.
 - [[No Smith in Israel]] — 1 Samuel 13:16–23; the raiders, the ban on smiths, the sharpening fee, and the garrison at the pass.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; the mocking garrison, the trembling, the confusion, and the rout.
+- [[Saul's Rash Oath]] — 1 Samuel 14:30–31, 36, 46; struck to Aijalon, spared the night raid, and gone *to their own place*.
 
 ## Related people
 

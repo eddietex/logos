@@ -14,6 +14,7 @@ tags: [connection]
 - [[The Covenant with Noah]] — Genesis 9:3–4.
 - [[The Peace Offering]] — Leviticus 3:2, 8, 13, 17.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38; food restrictions and priestly shares now ingested.
+- [[Saul's Rash Oath]] — 1 Samuel 14:32–34; the army eats *with the blood*, and Saul stops it.
 
 ## Analysis
 
@@ -69,7 +70,11 @@ Food permission is bounded in both passages. In Leviticus the same blood exclude
 ordinary eating has a prescribed altar use. This comparison neither makes Noah an Aaronic
 priest nor imports every later sacrificial rule into Genesis.
 
+The rule is broken in narrative once in the books stored so far. Saul's starving army slaughters plunder *on the
+ground* and eats *with the blood* (1 Samuel 14:32), the words of Leviticus 19:26; Saul calls it sin against Yahweh
+and has every man slaughter at a great stone (14:33–34). See [[Saul's Rash Oath]].
+
 See [[Blood]], [[Sacrifice and Offering]], and [[Law and Obedience]].
 
-**Sources:** stored WEB Genesis 9:3–4; Leviticus 1:1–2; 3:1–17; 7:23–27.
+**Sources:** stored WEB Genesis 9:3–4; Leviticus 1:1–2; 3:1–17; 7:23–27; 19:26; 1 Samuel 14:32–34.
 These comparisons are paraphrases; no source-language wording claim is made.

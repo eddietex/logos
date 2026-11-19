@@ -11,7 +11,7 @@ tags: [connection]
   parts you and me."* (*kōh yaʿăśeh YHWH lî wəḵōh yōsîp*)
 - **1 Samuel 3:17** *(not yet ingested; WEB checked at bible-api.com)* — Eli to the boy Samuel: *"God do
   so to you, and more also, if you hide anything from me."*
-- **1 Samuel 14:44** *(not yet ingested; WEB checked)* — Saul: *"God do so and more also; for you shall
+- [[Saul's Rash Oath]] — **1 Samuel 14:44** (stored WEB) — Saul: *"God do so and more also; for you shall
   surely die, Jonathan."*
 - **1 Samuel 20:13** *(not yet ingested; WEB checked)* — Jonathan to David: *"Yahweh do so to Jonathan,
   and more also, should it please my father to do you evil, if I don't disclose it to you."*
@@ -58,6 +58,6 @@ thing that may part her from Naomi. See [[Oaths and Vows]], [[Ruth (person)]], a
 
 Sources: Ruth 1:17 from stored WEB. 1 Samuel 3:17; 14:44; 20:13; 25:22 checked against the WEB at
 bible-api.com (`translation=web`), 2026-11-17, as were 3:18; 14:45; 20:17; 25:32–34; 1 Samuel is not
-stored in raw. 1 Samuel 20:12–16 is cited by reference only. Hebrew and the five-verse count from the Westminster
+stored in raw (it has since been stored, and 14:44–45 ingested as [[Saul's Rash Oath]]). 1 Samuel 20:12–16 is cited by reference only. Hebrew and the five-verse count from the Westminster
 Leningrad Codex (OpenScriptures morphhb) `Gen`, `Deut`, `Josh`, `Judg`, `Ruth`, and `1Sam` XML, downloaded
 2026-11-17; the count covers those six files only.

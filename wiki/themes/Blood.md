@@ -419,7 +419,19 @@ Aaron's sons deliver blood; he applies the calf's blood to altar horns and base 
 burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry into the tent is
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
+### Eating with the blood — 1 Samuel 14:32–34
+
+The army, kept from food all day by Saul's oath, falls on the plunder at evening, slaughters sheep and cattle *on the
+ground*, and eats *with the blood*, *ʿal haddām* (14:32, WLC). It is the wording of Leviticus 19:26, *You shall not
+eat any meat with the blood still in it* (stored WEB; WLC *lōʾ ṯōʾḵᵊlû ʿal-haddām*). Saul is told *the people are
+sinning against Yahweh*; he has a great stone rolled to him and every man slaughter at it, *and don't sin against
+Yahweh in eating meat with the blood* (14:33–34). It is the one narrated breach of Genesis 9:4 in the books stored so
+far, and the narrator ties it to the oath: the people were *very faint* (14:31). See [[Saul's Rash Oath]] and
+[[Blood Reserved from Food - Genesis 9 and Leviticus 3]]. Source: stored WEB Genesis 9:4; Leviticus 17:10–14; 19:26;
+Deuteronomy 12:16, 23; 1 Samuel 14:31–35.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:32–34; the starving army eats *with the blood*, and Saul makes them slaughter at a great stone.
 - [[The Fall of Abimelech]] — Judges 9:24; the blood of the seventy laid on Abimelech and on Shechem.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 

@@ -19,6 +19,8 @@ tags: [connection]
 - [[Samuel Anoints Saul]] — 1 Samuel 10:4 — *They will greet you*, literally *ask you of peace*. Stored WEB.
 - [[Israel Asks for a King]] — 1 Samuel 8:10 — *Samuel told all Yahweh's words to the people who asked him for a king*. Stored
   WEB.
+- [[Saul's Rash Oath]] — 1 Samuel 14:37 — *Saul asked counsel of God … But he didn't answer him that day*, *wayyišʾal
+  šāʾûl bēʾlōhîm* (WLC). Stored WEB.
 - [[The Song of Hannah]] — 1 Samuel 2:10, *his king … his anointed*, sung before any king is asked for.
   Stored WEB.
 
@@ -62,7 +64,8 @@ character's name.
 
 The book's first child is *asked of Yahweh* and given back to him; its first king will be asked of Samuel
 by the people, against Samuel's will (8:6). The same verb serves a mother's prayer and
-a nation's demand.
+a nation's demand. At 14:37 the name and the verb stand next to each other, *wayyišʾal šāʾûl*, *Saul asked*, and the
+asking goes unanswered, as Samuel warned at 8:18, *Yahweh will not answer you in that day* (stored WEB; WLC).
 
 **What 1 Samuel 8 shows, now ingested.** In the request chapter itself *šāʾal* occurs once: *the people who
 asked him for a king*, *hāʿām haššōʾălîm mēʾittô meleḵ* (8:10, WLC). The elders' own words use other verbs,

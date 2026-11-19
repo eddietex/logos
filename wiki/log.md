@@ -28966,3 +28966,45 @@ Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-19, files `Gen` through `2
 cover `Gen` through `2Sam` only. Recalled, not checked, and flagged where made: the Septuagint's *ephod* in 14:18; the
 identity of Ahijah and Ahimelech; the glosses of *Ahijah*, *Ahitub*, *Bozez*, and *Seneh*; the comparison of *Seneh*
 with the bush; the modern identification of the pass; the later Ahijah of Shiloh and Ahitub father of Zadok.
+
+## [2026-11-19] ingest | 1 Samuel 14.24-46 — Saul's Rash Oath
+
+Unattended run. Created [[Saul's Rash Oath]] and the connection
+[[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]]. Revised [[1 Samuel]] (box checked; overview
+paragraph; key themes, people, and places); the people [[Saul]], [[Jonathan (son of Saul)]],
+[[Ahijah (son of Ahitub)]], and [[The Philistines]]; the places [[Aijalon]], [[Michmash]], and [[Beth Aven]] (the
+last two had *not yet ingested* notes for 14:31); the themes [[Oaths and Vows]], [[Curse]], [[Blood]], [[Sin]],
+[[Sacrifice and Offering]], [[Prayer]], [[Providence]], [[Redemption]], [[Folly]], [[War]], and
+[[Guilt and Conscience]]; and the connections [[Taken by Lot - Achan, Saul, and Jonathan]],
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]],
+[[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]],
+[[Yahweh Saved Israel That Day - The Sea and the Pass at Michmash]],
+[[Sinning Unwittingly - Integrity, Ignorance, and Guilt]],
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]],
+[[The Valley of Achor - Trouble Turned to a Door of Hope]] (1 Samuel 14:29 added as the fifth *ʿāḵar*),
+[[Asked of Yahweh - Samuel's Name and Saul's]] (14:37, *wayyišʾal šāʾûl*), and
+[[Blood Reserved from Food - Genesis 9 and Leviticus 3]]. Also `wiki/books/index.md` (19 / 47), People Index A-E,
+F-M, and N-Z (four rows extended), the places index (two rows), the themes index (eleven rows), Connections Index
+A-C, D-H (one new row), I-N, O-S, and T-Z (nine rows extended), and the dashboard counts. Frontmatter totals: 505
+passages, 385 people, 614 places, 88 themes, 958 connections.
+
+Judgment calls: the boundary 14:24–46 stands; 14:46 abandons the pursuit, and 14:47 opens the summary of the reign.
+No new person or place page: the informant of 14:28, the forest, the honey, and the great stone get none. The unnamed
+priest of 14:36 is linked to Ahijah with *presumably*. The rout's end is filed to [[Aijalon]], the town, not
+[[The Valley of Aijalon]]. The *ʿāḵar* link joins the existing Achor connection instead of a new page; the new
+connection compares Jephthah's vow and Saul's oath as two acts of different kinds (a vow, an imposed curse-oath) with
+one story shape. No contradiction with an existing page was found.
+
+Recorded, not resolved: what the unanswered inquiry (14:37) meant; whether *the first altar* (14:35) is praise or
+criticism, and whether it is the great stone; whether *hinnî ʾāmûṯ* (14:43) is acceptance or protest; whether
+anything was paid in the people's *ransom* (14:45); the longer Greek text of 14:41 (recalled, not checked).
+
+Sources: 1 Samuel 14:24–46 from stored WEB, with the not-yet-ingested 1 Samuel 14:47–49; 15:1–3, 19; 18:1–4; 25:14.
+Comparisons from stored WEB Genesis 9:4; 29:3, 8, 10; 34:30; Exodus 3:7; 5:6–14; 13:13–15; 14:13; 21:8; 27:2; 38:2;
+Leviticus 5:4; 17:10–14; 19:26; 27:1–8; Deuteronomy 7:8; 12:16, 23; Joshua 6:26; 7:10–25; 10:12, 18; 19:42; 21:24;
+Judges 9:23; 11:30–40; 15:7; 16:28; 17:2; 20:2; 21:18; 1 Samuel 1:20, 28; 5:11; 6:2; 7:9; 8:18; 13:6, 9, 13.
+2 Samuel 14:11 checked at bible-api.com (WEB), 2026-11-19, not stored. Hebrew from the Westminster Leningrad Codex
+(OpenScriptures morphhb) XML, files `Gen` through `2Sam` and `Ruth`, downloaded 2026-11-19 by an earlier run and
+reused; occurrence claims cover `Gen` through `2Sam` only. Recalled, not checked, and flagged where made: the
+alternative readings of *the first altar*; the longer Greek text of 14:41; the long-standing question why Jephthah
+did not redeem his vow by valuation. No Septuagint was consulted.

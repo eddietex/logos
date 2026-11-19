@@ -26,15 +26,24 @@ Source: stored WEB Joshua 19:24–48. No precise modern site is assigned.
 **Not Elon's grave.** Judges 12:12 buries Elon the Zebulunite *in Aijalon in the land of Zebulun*,
 a different town of the same name (WLC *ʾayyālôn*, lemma 357 for both). See [[Aijalon (Zebulun)]].
 
+### The end of the pursuit — 1 Samuel 14:31
+
+*They struck the Philistines that day from Michmash to Aijalon. The people were very faint* (14:31). The rout that
+began at the pass runs west off the Benjamin plateau to this town, near the valley where the moon stood still
+(Joshua 10:12), with an army fasting under Saul's oath. The WLC has *ʾayyālōnâ*, *to Aijalon* (lemma 357), a place,
+not *the valley*. See [[Saul's Rash Oath]]. Source: stored WEB Joshua 10:12; 1 Samuel 14:31. Hebrew WLC.
+
 ## Appears in
 
 - [[The Tribes That Did Not Drive Out]] — Judges 1:35; held by the Amorites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
+- [[Saul's Rash Oath]] — 1 Samuel 14:31; the pursuit runs *from Michmash to Aijalon*.
 
 ## Related places
 - [[The Valley of Aijalon]] — named in the same register or as a related landmark.
 - [[Aijalon (Zebulun)]] — a namesake in Zebulun, Elon's grave (Judges 12:12).
+- [[Michmash]] — the other end of the pursuit (1 Samuel 14:31)
 
 ## Events here
 - Named in the allotment; no separate event is narrated.

@@ -618,7 +618,22 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
+### Saul's curse, and the people's counter-oath — 1 Samuel 14:24–46
+
+On the day of the rout Saul *adjured the people*: *Cursed is the man who eats any food until it is evening, and I am
+avenged of my enemies* (14:24). The people keep it out of fear, *for the people feared the oath* (14:26); Jonathan,
+who *didn't hear*, eats honey and says *My father has troubled the land* (14:27–29). Saul swears twice more in the
+same evening, *as Yahweh lives … though it is in Jonathan my son, he shall surely die* (14:39) and *God do so and more
+also; for you shall surely die, Jonathan* (14:44). The people answer with an oath of their own, *As Yahweh lives,
+there shall not one hair of his head fall to the ground* (14:45), and theirs is the one that stands. It is the second
+narrative in the books stored so far in which a leader's sworn word falls on his own child; Jephthah's vow was the
+first (Judges 11:30–40). See [[Saul's Rash Oath]],
+[[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]], and
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]]. Source: stored WEB Judges 11:30–40; 1 Samuel
+14:24–46.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:24–46; Saul's curse on eating, two further oaths against the guilty man, and the people's oath that saves Jonathan.
 
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:14, 17; Yahweh's oath against Eli's house and Eli's *God do so to you* laid on Samuel.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 21–28; Hannah's vow of a son, Elkanah's *his vow*, and the vow paid at Shiloh

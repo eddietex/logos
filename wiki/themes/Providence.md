@@ -593,7 +593,17 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The lot on Jonathan — 1 Samuel 14:40–42
+
+Saul puts himself and Jonathan on one side and the people on the other. *Show the right*: Saul and Jonathan are
+taken; *Cast lots between me and Jonathan my son*: *Jonathan was selected* (14:40–42), with the verb that took Achan
+and Saul himself (Joshua 7:18; 1 Samuel 10:20–21; WLC *wayyillāḵēḏ*). The lot finds the man who ate, and the people
+then overrule the sentence the lot was meant to carry out (14:45). The narrative presents the lot as true and the
+oath as not binding. See [[Saul's Rash Oath]] and [[Taken by Lot - Achan, Saul, and Jonathan]]. Source: stored WEB
+Joshua 7:14–18; 1 Samuel 10:20–22; 14:38–45.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:40–42; *Show the right*; the lot takes Jonathan.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–22; the lot, and Yahweh's answer to where the chosen man is hidden.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:3–17; lost donkeys and a meeting arranged the day before.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:9–12; Yahweh's hand or *a chance*, and the cows that go straight.

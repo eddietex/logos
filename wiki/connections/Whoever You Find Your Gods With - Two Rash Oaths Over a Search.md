@@ -15,7 +15,8 @@ tags: [connection]
   childbirth four chapters after the first oath
 - **Judges 11:30–40** — [[Jephthah's Vow]]; the other Old Testament oath that binds a speaker to a person
   he did not have in mind
-- **1 Samuel 14:24–45** — Saul's oath, and Jonathan eating the honey
+- **1 Samuel 14:24–45** — [[Saul's Rash Oath]]; Saul's oath, and Jonathan eating the honey. See also
+  [[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]]
 - **Exodus 22:3–4** — [[Laws of Property and Restitution]]; the later law for a stolen thing
   *"found in his hand"*: double repayment, and sale only if the thief cannot pay. Far lighter than
   either oath here. See [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]]

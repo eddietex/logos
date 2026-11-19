@@ -15,9 +15,9 @@ tags: [connection]
   tribe of Benjamin near by their families; and the family of the Matrites was chosen. Then Saul the son of Kish
   was chosen; but when they looked for him, he could not be found. Therefore they asked of Yahweh further … "Behold,
   he has hidden himself among the baggage."* Stored WEB.
-- **1 Samuel 14:41–42** — *Therefore Saul said to Yahweh, the God of Israel, "Show the right." Jonathan and Saul
+- [[Saul's Rash Oath]] — **1 Samuel 14:41–42** — *Therefore Saul said to Yahweh, the God of Israel, "Show the right." Jonathan and Saul
   were chosen, but the people escaped. Saul said, "Cast lots between me and Jonathan my son." Jonathan was
-  selected.* Stored WEB; not yet ingested.
+  selected.* Stored WEB.
 
 ## Analysis
 
@@ -38,12 +38,12 @@ city (lemma 3920). The procedure is also shared. The people are
 | what was hidden | the plunder, *hidden in the ground* in his tent (7:21) | Saul himself, *hidden among the baggage* | nothing; Jonathan says *I certainly did taste a little honey* (14:43) |
 | the outcome | stoned and burned (7:25) | acclaimed king | spared: *the people rescued Jonathan* (14:45) |
 
-(Stored WEB; 1 Samuel 14:43–45 not yet ingested. Hebrew WLC.)
+(Stored WEB. Hebrew WLC.)
 
 **What is the same and what is reversed.** Achan is taken and found to be guilty. Saul is taken and found to be
 hidden, but the selection makes him king, not a culprit. In chapter 14 the procedure that made Saul king points to
-his own son. Saul has sworn that the guilty man will die even if it is Jonathan (14:39, stored WEB; not yet
-ingested), and the lot finds Jonathan. The three scenes do not refer to each other, and the wiki does not claim the
+his own son. Saul has sworn that the guilty man will die even if it is Jonathan (14:39, stored WEB), and the lot finds
+Jonathan. The three scenes do not refer to each other, and the wiki does not claim the
 narrator of Samuel had Joshua 7 in view. What the shared verb and procedure show is narrower: Israel had one way
 of finding a man before Yahweh, and it was used to expose a thief, to choose a king, and to expose a king's son.
 
@@ -65,7 +65,10 @@ the other two scenes. See [[The Lot Is Cast into the Lap - Proverbs 16.33 and th
   *its every decision is from Yahweh* (stored WEB), and Samuel states it outright at 10:24: *him whom Yahweh has
   chosen*.
 
-See [[Saul]] and [[Achan]]. Jonathan has no page yet; he enters at 13:2.
+See [[Saul]], [[Achan]], and [[Jonathan (son of Saul)]]. In [[Saul's Rash Oath]] Jonathan's own verdict on his
+father, *My father has troubled the land* (14:29), uses *ʿāḵar*, the verb of Joshua's sentence on Achan (Joshua
+7:25, WLC): the lot that found the troubler of Israel in Joshua finds the son who named his father the troubler.
+See [[The Valley of Achor - Trouble Turned to a Door of Hope]].
 
 Sources: stored WEB Joshua 7:14–25; 1 Samuel 10:20–24; 14:39–45; Proverbs 6:2; 11:6; 16:33. Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb), files `Gen`–`2Sam` and `Prov`, downloaded 2026-11-17; occurrence claims

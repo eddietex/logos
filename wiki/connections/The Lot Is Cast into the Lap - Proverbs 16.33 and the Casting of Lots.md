@@ -31,8 +31,8 @@ tags: [connection]
   *"taken"* (stored WEB; now ingested). The mechanism is not named.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–22; tribe, family, and man *chosen* (*wayyillāḵēḏ*) until
   Saul is taken and found hiding. Stored WEB. The mechanism is not named.
-- **1 Samuel 14:41–42** — Saul: *"Cast lots between me and Jonathan my son." Jonathan was selected.*
-  *(WEB verified at bible-api.com, 2026-11-10; not yet ingested)*
+- [[Saul's Rash Oath]] — **1 Samuel 14:41–42** — Saul: *"Cast lots between me and Jonathan my son." Jonathan was selected.*
+  *(WEB verified at bible-api.com, 2026-11-10; now stored and ingested)*
 - **Jonah 1:7** — *"So they cast lots, and the lot fell on Jonah."* *(WEB verified at bible-api.com; not
   yet ingested)*
 - **Acts 1:24–26** — *"You, Lord, who know the hearts of all men, show which one of these two you have

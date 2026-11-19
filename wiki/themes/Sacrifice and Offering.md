@@ -957,7 +957,17 @@ criticise the sacrifice as such, only the commandment not kept (13:13). Chapter 
 obey is better than sacrifice* (15:22, stored WEB; not yet ingested). See [[Saul's Sacrifice at Gilgal]]. Source:
 stored WEB 1 Samuel 10:8; 13:9–13; 15:22; Hebrew WLC, 2026-11-18.
 
+### The first altar — 1 Samuel 14:33–35
+
+To stop the people eating with the blood Saul has a great stone rolled to him and every man bring his ox and sheep to
+slaughter there (14:33–34). Then *Saul built an altar to Yahweh. This was the first altar that he built to Yahweh*
+(14:35). The Hebrew, *ʾōṯô hēḥēl liḇnôṯ*, literally *it he began to build* (WLC), is read as *the first he built* by
+the WEB; whether the notice is praise, or marks how late the altar came, the text does not say. Saul's earlier
+offering at Gilgal (13:9) was made at an altar the text does not describe. See [[Saul's Rash Oath]]. Source: stored WEB
+1 Samuel 13:9; 14:33–35. Hebrew WLC.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:33–35; slaughter at the great stone, and *the first altar that he built to Yahweh*.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:15; peace offerings before Yahweh when Saul is made king at Gilgal.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:3–4, 8; the pilgrims' gifts; burnt and peace offerings reserved for Samuel at Gilgal.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:12–24; the sacrifice at the high place, blessed by Samuel; the thigh as Saul's portion.

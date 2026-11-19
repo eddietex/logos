@@ -231,7 +231,17 @@ other tribes at once.
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### Guilt by an oath not heard — 1 Samuel 14:27–45
+
+Jonathan *didn't hear when his father commanded the people with the oath* (14:27), and the lot still finds him
+(14:42). He does not plead ignorance; he says *I certainly did taste a little honey … and behold, I must die* (14:43).
+Leviticus 5:4 provides for a man who swears rashly and *it is hidden from him*; it does not provide for someone else
+who breaks such an oath unknowing. The people's verdict is not about guilt at all: *he has worked with God today*
+(14:45). See [[Saul's Rash Oath]] and [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]]. Source: stored WEB
+Leviticus 5:4; 1 Samuel 14:24–45.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:27, 43; Jonathan found by the lot for an oath he did not hear.
 
 - [[The Ark Returns to Israel]] — 1 Samuel 6:3–4, 8, 17; the Philistines' trespass offering of gold.
 - [[Wives for Benjamin]] — Judges 21:22; guilt measured by the oath's letter.

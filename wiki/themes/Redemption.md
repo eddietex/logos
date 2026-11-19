@@ -446,7 +446,18 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 Samuel's history is a history of *nāṣal*, *deliver*: *deliver us out of the hand of our enemies* (12:10), *and delivered you out of the hand of your enemies on every side* (12:11), against the *vain things which can't … deliver* (12:21) (WLC). Deliverance came by judges whom Yahweh *sent*, the last of them Samuel. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### The people ransomed Jonathan — 1 Samuel 14:45
+
+*So the people rescued Jonathan, that he didn't die* (14:45). The verb is *wayyip̄dû* (WLC), *pāḏâ*, the word of
+redeeming the firstborn (Exodus 13:13–15) and of Yahweh redeeming Israel *out of the house of bondage* (Deuteronomy
+7:8) (stored WEB; morphhb lemma 6299). In Genesis–2 Samuel it is the only use with *the people* as subject. The text
+says nothing about any payment; it gives the people's reason, that Jonathan *has worked this great salvation in
+Israel* (14:45). See [[Saul's Rash Oath]] and
+[[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]]. Source: stored WEB Exodus 13:13–15;
+Deuteronomy 7:8; 1 Samuel 14:45. Hebrew WLC.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:45; *the people rescued Jonathan*, *wayyip̄dû*.
 
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:3, 9, 13; *no one to save us*; *today Yahweh has rescued Israel*.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:18–19, 27; *your God, who himself saves you*; *How could this man save us?*

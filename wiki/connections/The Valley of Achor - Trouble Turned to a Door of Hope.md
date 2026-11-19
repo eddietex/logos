@@ -11,6 +11,8 @@ tags: [connection]
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:30: *"You have troubled me, to make me odious to
   the inhabitants of the land"* (stored WEB). The same verb, *ʿāḵar*.
 - [[Jephthah's Vow]] — Judges 11:35: *"you are one of those who trouble me"* (stored WEB), *bəʿōkərāy*.
+- [[Saul's Rash Oath]] — 1 Samuel 14:29: *"My father has troubled the land"* (stored WEB), *ʿāḵar ʾāḇî
+  ʾeṯ-hāʾāreṣ* (WLC).
 - Joshua 15:7 — the valley of Achor on Judah's northern border *(stored WEB; not yet ingested)*.
 - 1 Chronicles 2:7 — *"The son of Carmi: Achar, the troubler of Israel, who committed a trespass in
   the devoted thing."* *(WEB, verified at bible-api.com, 2026-11-10; not yet ingested)*
@@ -38,6 +40,14 @@ Genesis 34:30, Joshua 6:18 and 7:25, and here. In the earlier verses the trouble
 Simeon and Levi killed, and Achan took what was devoted. Jephthah's daughter has only come out of the
 door. In the same sentence he gives the cause, *for I have opened my mouth to Yahweh*. The trouble is his
 vow's, and his words put it on her. See [[Jephthah's Vow]]. Source: stored WEB Judges 11:35; Hebrew WLC, 2026-11-15.
+
+**The verb at Michmash.** Jonathan says of Saul, whose oath has kept the army from food, *My father has troubled
+the land* (1 Samuel 14:29, stored WEB; WLC *ʿāḵar*). In the WLC files searched (Genesis–2 Samuel) that is the
+verb's fifth and last occurrence (morphhb lemma 5916). It reverses Jephthah's use: Jephthah called his daughter his
+troubler for what his own vow had done, and Jonathan names his father as the troubler for what his oath has done.
+The lot then takes Jonathan, as it took Achan (14:42; Joshua 7:18). See
+[[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]] and
+[[Taken by Lot - Achan, Saul, and Jonathan]]. Source: stored WEB 1 Samuel 14:29, 42; Hebrew WLC, 2026-11-19.
 
 **The Chronicler's spelling.** 1 Chronicles 2:7 writes the man's name as *Achar* and glosses it
 *the troubler of Israel*, so the pun of Joshua 7:25 becomes the name itself. The text does not say

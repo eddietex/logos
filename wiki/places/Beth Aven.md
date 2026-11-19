@@ -22,7 +22,7 @@ WLC, 2026-11-18.
 
 *So Yahweh saved Israel that day; and the battle passed over by Beth Aven* (14:23). The verb is *ʿāḇar* (WLC
 *ʿāḇᵊrâ ʾeṯ-bêṯ ʾāwen*), the verb of Jonathan's *go over* in the same chapter. The rout runs west and north from
-Michmash, and the next pericope extends it *from Michmash to Aijalon* (14:31, stored WEB; not yet ingested). See
+Michmash, and the next pericope extends it *from Michmash to Aijalon* (14:31; [[Saul's Rash Oath]]). See
 [[Jonathan's Attack at Michmash]]. Source: stored WEB 1 Samuel 14:23, 31; Hebrew WLC, 2026-11-19.
 
 ## Appears in

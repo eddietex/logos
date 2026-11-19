@@ -460,7 +460,16 @@ census (2 Samuel 24:10). See [[Saul's Sacrifice at Gilgal]] and
 [[You Have Done Foolishly - Saul at Gilgal and David at the Census]]. Source: stored WEB Genesis 31:28; 1 Samuel
 13:13; 26:21; 2 Samuel 24:10 checked at bible-api.com, 2026-11-18. Hebrew WLC, 2026-11-18.
 
+### An oath against its own army — 1 Samuel 14:24–30
+
+Saul's oath keeps a tired army from food on the day of pursuit (14:24). The narrator does not call it foolish, as
+Samuel had called the sacrifice at Gilgal (13:13). Jonathan states the cost: *My father has troubled the land … How
+much more, if perhaps the people had eaten freely today of the plunder … For now has there been no great slaughter
+among the Philistines* (14:29–30). The pursuit ends early (14:46). See [[Saul's Rash Oath]]. Source: stored WEB 1
+Samuel 13:13; 14:24–46.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:24–30; the oath that left the army faint; *My father has troubled the land*.
 - [[The War Against Benjamin]] — Judges 20:6, 10; *lewdness and folly in Israel*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:23–24; *nəḇālâ* at Gibeah.
 

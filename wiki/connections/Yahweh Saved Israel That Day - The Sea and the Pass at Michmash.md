@@ -29,7 +29,7 @@ Philistines' own swords finished it (1 Samuel 14:13, 20).
 *yəšûʿaṯ YHWH ʾăšer-yaʿăśeh lāḵem hayyôm* (Exodus 14:13, WLC). Jonathan's hope before the climb uses the same verb
 with the same kind of object: *It may be that Yahweh will work for us*, *ʾûlay yaʿăśeh YHWH lānû* (1 Samuel 14:6,
 WLC). Moses promises; Jonathan says *It may be*. And afterwards the people say Jonathan *has worked this great
-salvation*, *ʿāśâ hayšûʿâ haggəḏôlâ* (14:45, WLC; stored WEB, not yet ingested), the noun of Exodus 14:13 with the
+salvation*, *ʿāśâ hayšûʿâ haggəḏôlâ* (14:45, WLC; stored WEB; [[Saul's Rash Oath]]), the noun of Exodus 14:13 with the
 verb of both. Here the words are matched by lemma (*ʿāśâ*, 6213; *yəšûʿâ*, 3444), and *ʿāśâ* is one of the commonest
 verbs in Hebrew, so the match is suggestive, not conclusive.
 
@@ -49,8 +49,8 @@ terror falling on the people the Song named first, generations later, under the 
 **What the parallel does not claim.** The text of 1 Samuel 14 does not cite Exodus, and *Yahweh saved* is common
 enough as a verb. The match is in the full sentence and in the cluster: the same closing words, with the two verbs
 of the Song in the verses before it. Where the narrator could have written *Jonathan saved Israel*, the people later
-say exactly that, *Shall Jonathan die, who has worked this great salvation in Israel?* (14:45, stored WEB; not yet
-ingested), and add at once *he has worked with God today*. The narrator's sentence at 14:23 has already decided whose
+say exactly that, *Shall Jonathan die, who has worked this great salvation in Israel?* (14:45, stored WEB;
+[[Saul's Rash Oath]]), and add at once *he has worked with God today*. The narrator's sentence at 14:23 has already decided whose
 salvation it was.
 
 ## Significance

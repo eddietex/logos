@@ -28,13 +28,25 @@ the armour-bearer, *nōśēʾ ḵēlāyw* (14:1, WLC). See [[Jonathan's Attack a
 
 Source: stored WEB 1 Samuel 2:35; 7:1–2; 14:1–19; 22:9–20. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
 
+### Let us draw near here to God — 1 Samuel 14:36–37
+
+When Saul proposes a night raid and the people agree, *the priest said, "Let us draw near here to God"* (14:36). The
+verse does not name him; Ahijah is the priest placed with Saul at 14:3 and 14:18–19, and the wiki takes the priest to
+be him, presumably. It is the priest, not the king, who stops to ask. Saul asks, and *he didn't answer him that day*
+(14:37). In 14:19 Saul had cut the priest's inquiry off; here the inquiry is made and no answer comes. See
+[[Saul's Rash Oath]].
+
+Source: stored WEB 1 Samuel 14:3, 18–19, 36–37.
+
 ## Timeline / key events
 
 - With Saul at Gibeah, wearing the ephod — 1 Samuel 14:3.
 - Told to bring the ark; stopped mid-inquiry — 14:18–19.
+- Presumably *the priest* who says *Let us draw near here to God*; the inquiry goes unanswered — 14:36–37.
 
 ## Appears in
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:3, 18–19; the priest with the ephod, told to bring the ark.
+- [[Saul's Rash Oath]] — 1 Samuel 14:36–37; presumably the unnamed priest who proposes the inquiry.
 
 ## Related people
 - [[Ahitub (son of Phinehas)]] — his father (14:3)
@@ -45,3 +57,4 @@ Source: stored WEB 1 Samuel 2:35; 7:1–2; 14:1–19; 22:9–20. Hebrew WLC (Ope
 
 ## Themes associated
 - [[Priesthood]]
+- [[Prayer]]

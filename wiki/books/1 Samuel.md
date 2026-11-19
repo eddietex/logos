@@ -212,6 +212,17 @@ join the pursuit (14:21–22). The narrator closes in the words of Exodus 14:30:
 (14:23). The Masoretic *ark* of 14:18, while 7:2 places the ark at Kiriath Jearim, is an open question; the
 Septuagint is commonly reported to read *ephod* there (recalled, not checked).
 
+[[Saul's Rash Oath]] (14:24–46) turns the victory into a near-execution. Saul *had adjured the people*, *Cursed is the
+man who eats any food until it is evening, and I am avenged of my enemies* (14:24), and the army goes hungry through
+the pursuit. Jonathan, who *didn't hear*, tastes honey and says *My father has troubled the land* (14:27–29), with the
+verb of Achan's sentence (Joshua 7:25). At evening the faint people eat plunder *with the blood*, against Leviticus
+19:26; Saul stops it at a great stone and builds *the first altar that he built to Yahweh* (14:32–35). He asks God
+whether to pursue by night, and *he didn't answer him that day* (14:37), as Samuel had warned (8:18). Saul swears the
+guilty man will die *though it is in Jonathan my son*; the lot takes Jonathan, and Saul swears again (14:39–44). The
+people answer with their own oath, *there shall not one hair of his head fall to the ground; for he has worked with
+God today*, and *rescued*, *pāḏâ*, *Jonathan* (14:45). The pursuit is abandoned (14:46). Jephthah's daughter had died
+under her father's vow (Judges 11:39); Jonathan is redeemed from his father's oath.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -252,7 +263,7 @@ merge, or reorder them freely.
 - [x] [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15
 - [x] [[No Smith in Israel]] — 1 Samuel 13:16–23
 - [x] [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23
-- [ ] Saul's Rash Oath — 1 Samuel 14:24–46
+- [x] [[Saul's Rash Oath]] — 1 Samuel 14:24–46
 - [ ] Saul's Wars and Household — 1 Samuel 14:47–52
 - [ ] Saul Rejected over Amalek — 1 Samuel 15:1–35
 - [ ] Samuel Anoints David — 1 Samuel 16:1–13
@@ -352,6 +363,11 @@ merge, or reorder them freely.
 - [[Signs and Wonders]] — Jonathan's sign; *the earth quaked* (14:10, 15)
 - [[The Fear of God]] — *ḥerdaṯ ʾĕlōhîm*, a trembling of God (14:15)
 - [[Circumcision]] — *the garrison of these uncircumcised* (14:6)
+- [[Oaths and Vows]] — Saul's curse on eating; *as Yahweh lives … he shall surely die*; the people's counter-oath (14:24, 39, 44–45)
+- [[Curse]] — *Cursed is the man who eats any food until it is evening* (14:24)
+- [[Blood]] — the people eat *with the blood* (14:32–34)
+- [[Prayer]] — *he didn't answer him that day* (14:37)
+- [[Redemption]] — *the people rescued Jonathan*, *wayyip̄dû* (14:45)
 
 ## Key people
 - [[Samuel]]
@@ -382,7 +398,7 @@ merge, or reorder them freely.
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 - [[Bedan]] — named among the deliverers in Samuel's farewell, otherwise unknown (12:11)
-- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14)
+- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45)
 - [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
 - [[Ahijah (son of Ahitub)]] and [[Ahitub (son of Phinehas)]] — Eli's line, with the ephod at Saul's side (14:3, 18–19)
 
@@ -415,3 +431,4 @@ merge, or reorder them freely.
 - [[Migron]] — Saul's pomegranate tree, *the uttermost part of Gibeah* (14:2)
 - [[Bozez]] and [[Seneh]] — the two crags of the pass between Michmash and Geba (14:4–5)
 - [[Beth Aven]] — *the battle passed over by Beth Aven* (14:23)
+- [[Michmash]] and [[Aijalon]] — the pursuit, *from Michmash to Aijalon* (14:31)

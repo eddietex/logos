@@ -510,7 +510,17 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 The people ask, *Pray for your servants to Yahweh your God, that we not die* (12:19), and Samuel answers *far be it from me that I should sin against Yahweh in ceasing to pray for you* (12:23). Not praying for the people is named a sin against Yahweh. Before that, he had *called to Yahweh*, and Yahweh sent thunder (12:18). Later Scripture remembers him for this (Psalm 99:6; Jeremiah 15:1; WEB checked at bible-api.com, not stored). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### He didn't answer him that day — 1 Samuel 14:36–37
+
+The priest says *Let us draw near here to God*, and Saul asks, *Shall I go down after the Philistines? Will you
+deliver them into the hand of Israel?* *But he didn't answer him that day* (14:36–37). The words recall Samuel's
+warning that when the people cried out because of their king *Yahweh will not answer you in that day* (8:18), and
+stand against Mizpah, where *Samuel cried to Yahweh for Israel; and Yahweh answered him* (7:9) (stored WEB; WLC
+*bayyôm hahûʾ* in both 8:18 and 14:37). Saul takes the silence as a sign of hidden sin (14:38). The text does not
+say what it meant. See [[Saul's Rash Oath]]. Source: stored WEB 1 Samuel 7:9; 8:18; 14:36–38. Hebrew WLC.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:36–37; Saul asks counsel of God, and *he didn't answer him that day*.
 
 - [[Israel Asks for a King]] — 1 Samuel 8:6, 18, 21; Samuel prays about the request; the cry Yahweh will not answer.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:5–9; *I will pray to Yahweh for you*; *Samuel cried to Yahweh for Israel; and Yahweh answered him*.

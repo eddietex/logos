@@ -173,6 +173,26 @@ the hand of the Philistines* (9:16), is carried out by his son and by Yahweh. Se
 
 Source: stored WEB 1 Samuel 9:16; 10:16; 13:8–15; 14:1–23; 22:6. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
 
+### Three oaths in one evening — 1 Samuel 14:24–46
+
+On the day of the rout Saul *had adjured the people*: *Cursed is the man who eats any food until it is evening, and I
+am avenged of my enemies* (14:24). The purpose is his own, *wᵊniqqamtî*, *I am avenged* (WLC), the form Samson used of
+his private revenge (Judges 15:7). The army goes hungry, and Jonathan, who did not hear the oath, says *My father has
+troubled the land* (14:29). At evening the people eat *with the blood*, and Saul acts promptly and lawfully: a great
+stone, slaughter at one place, *don't sin against Yahweh* (14:33–34). *This was the first altar that he built to
+Yahweh* (14:35).
+
+He proposes a night raid; the priest proposes to ask God; Saul asks, and *he didn't answer him that day* (14:36–37),
+the outcome Samuel had foretold for the people's king, *Yahweh will not answer you in that day* (8:18). The name
+*šāʾûl*, *asked*, and the verb *wayyišʾal*, *asked*, stand side by side in 14:37 (WLC). Saul swears that the guilty
+man will die *though it is in Jonathan my son* (14:39), places himself and Jonathan on one side for the lot (14:40),
+and when Jonathan is taken swears again, *God do so and more also; for you shall surely die, Jonathan* (14:44). The
+people overrule him with their own oath and *rescued Jonathan* (14:45). Saul goes up from the pursuit (14:46). He
+kept the law on blood and his own oath to the letter, and the people did not let him keep the oath. See
+[[Saul's Rash Oath]] and [[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]].
+
+Source: stored WEB Judges 15:7; 1 Samuel 8:18; 14:24–46. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -200,6 +220,7 @@ Source: stored WEB 1 Samuel 9:16; 10:16; 13:8–15; 14:1–23; 22:6. Hebrew WLC 
 - Waits seven days for Samuel; offers the burnt offering; told *You have done foolishly* and that his kingdom will not continue — 13:8–15.
 - Holds Geba facing Michmash; with Jonathan, the only armed man in Israel's army — 13:16, 22.
 - Sits under the pomegranate at Gibeah while Jonathan attacks; counts the people, calls for the ark, and stops the priest mid-inquiry; joins the rout — 14:2, 16–23.
+- Swears the people from food until evening; restrains them from eating with the blood; builds his first altar; inquires and is not answered; casts the lot that takes Jonathan and swears his death; overruled by the people — 14:24–46.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
@@ -210,6 +231,7 @@ Source: stored WEB 1 Samuel 9:16; 10:16; 13:8–15; 14:1–23; 22:6. Hebrew WLC 
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15; the seven days, the burnt offering, and the kingdom that will not continue.
 - [[No Smith in Israel]] — 1 Samuel 13:16, 22; at Geba, and one of two men with a sword.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:2, 16–20; sits at Gibeah, counts, calls for the ark, and stops the priest.
+- [[Saul's Rash Oath]] — 1 Samuel 14:24–46; the curse on eating, the first altar, the unanswered inquiry, and the lot on Jonathan.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -248,3 +270,7 @@ Source: stored WEB 1 Samuel 9:16; 10:16; 13:8–15; 14:1–23; 22:6. Hebrew WLC 
 - [[Sacrifice and Offering]]
 - [[Folly]]
 - [[Priesthood]]
+- [[Oaths and Vows]]
+- [[Curse]]
+- [[Blood]]
+- [[Prayer]]

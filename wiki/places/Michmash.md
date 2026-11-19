@@ -34,7 +34,7 @@ Jonathan goes over to the Philistine garrison *on the other side* (14:1). Betwee
 crag rose up on the north in front of Michmash, and the other on the south in front of Geba* (14:5); the names given
 are [[Bozez]] and [[Seneh]] (14:4). From the camp at Michmash the trembling spreads after Jonathan's first slaughter,
 and the Philistines turn their swords on each other (14:15, 20). The pursuit runs past Beth Aven (14:23) and, in the
-next pericope, *from Michmash to Aijalon* (14:31, stored WEB; not yet ingested). Isaiah names Michmash in the line of
+next pericope, *from Michmash to Aijalon* (14:31; see [[Saul's Rash Oath]]). Isaiah names Michmash in the line of
 an army's approach: *At Michmash he stores his baggage. They have gone over the pass* (Isaiah 10:28–29, checked at
 bible-api.com, WEB, not stored). See [[Jonathan's Attack at Michmash]].
 
@@ -44,6 +44,7 @@ Source: stored WEB 1 Samuel 14:1–31. Isaiah 10:28–29 from bible-api.com (WEB
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2, 5, 11; Saul's camp, then the Philistine camp.
 - [[No Smith in Israel]] — 1 Samuel 13:16–18, 23; the raiders' camp, and the pass.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:5, 15–23; the camp across the pass, routed.
+- [[Saul's Rash Oath]] — 1 Samuel 14:31; where the day's pursuit begins, *from Michmash to Aijalon*.
 
 ## Related places
 - [[Bethel]] — *the Mount of Bethel*, with Michmash (13:2)
@@ -53,6 +54,7 @@ Source: stored WEB 1 Samuel 14:1–31. Isaiah 10:28–29 from bible-api.com (WEB
 - [[Gilgal]] — where Saul goes down to muster (13:4)
 - [[Bozez]] · [[Seneh]] — the two crags of the pass (14:4–5)
 - [[Migron]] — named before Michmash in Isaiah 10:28
+- [[Aijalon]] — the far end of the pursuit (14:31)
 
 ## Events here
 - Saul's two thousand are stationed here — 13:2.

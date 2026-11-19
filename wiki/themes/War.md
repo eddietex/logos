@@ -1003,7 +1003,16 @@ that day* (14:23), the words of Exodus 14:30. See [[Jonathan's Attack at Michmas
 [[Yahweh Saved Israel That Day - The Sea and the Pass at Michmash]]. Source: stored WEB Exodus 14:30; Judges 7:22;
 1 Samuel 14:1–23.
 
+### The pursuit cut short — 1 Samuel 14:24–46
+
+The rout runs *from Michmash to Aijalon* (14:31), but the army is fasting under Saul's oath and is *very faint*. At
+evening it falls on the plunder (14:32). Saul's proposal of a night raid, *let us not leave a man of them* (14:36),
+goes to the priest, and God does not answer (14:37). After the lot and Jonathan's rescue, *Saul went up from following
+the Philistines; and the Philistines went to their own place* (14:46). See [[Saul's Rash Oath]]. Source: stored WEB 1
+Samuel 14:24–46.
+
 ## Key passages
+- [[Saul's Rash Oath]] — 1 Samuel 14:31, 36, 46; the pursuit to Aijalon, the night raid not made, and the Philistines gone home.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; two men climb to the garrison, and the camp is routed by trembling and its own swords.
 - [[No Smith in Israel]] — 1 Samuel 13:16–23; raiders in three companies, and only two swords in Israel.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7–11; the muster as one man, three companies, and the morning watch.

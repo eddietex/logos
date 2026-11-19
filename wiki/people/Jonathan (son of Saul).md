@@ -57,17 +57,34 @@ his own heart* (13:14). Gideon's story had made the same point about numbers (Ju
 
 Source: stored WEB 1 Samuel 13:14; 14:1–23; Judges 7:2, 7. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
 
+### My father has troubled the land — 1 Samuel 14:24–46
+
+Jonathan was over the pass when his father swore the people from food, and *didn't hear* (14:27). In the forest he
+dips the end of his rod in the honeycomb, *and his eyes brightened*. Told of the oath, he answers with a verdict on
+his father: *My father has troubled the land* (14:29), *ʿāḵar* (WLC), the verb of Joshua's sentence on Achan (Joshua
+7:25) and of Jephthah to his daughter (Judges 11:35). The lot that found Achan finds him (14:41–42). He hides nothing:
+*I certainly did taste a little honey … and behold, I must die* (14:43). The people refuse: *Shall Jonathan die, who
+has worked this great salvation in Israel? … he has worked with God today!*, and they *rescued* him, *wayyip̄dû*
+(14:45, WLC), the verb of redemption. Where Jephthah's daughter died under her father's vow, Jonathan is redeemed from
+his father's oath. See [[Saul's Rash Oath]],
+[[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]], and
+[[Taken by Lot - Achan, Saul, and Jonathan]].
+
+Source: stored WEB Joshua 7:25; Judges 11:35; 1 Samuel 14:24–46. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ## Timeline / key events
 
 - Commands a thousand of Saul's three thousand at Gibeah of Benjamin — 1 Samuel 13:2.
 - Strikes the Philistine garrison at Geba; the blow is reported as Saul's — 13:3–4.
 - Holds Geba with Saul; one of the two armed men in Israel's army — 13:16, 22.
 - Goes over the pass with his armour-bearer, sets a sign, climbs to the garrison, and strikes about twenty men; Yahweh routs the camp — 14:1–23.
+- Eats honey unaware of Saul's oath; *My father has troubled the land*; taken by lot; *behold, I must die*; rescued by the people — 14:27–45.
 
 ## Appears in
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2–3; commands at Gibeah, strikes the garrison at Geba.
 - [[No Smith in Israel]] — 1 Samuel 13:16, 22; at Geba, and one of two men with a sword.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; *It may be that Yahweh will work for us*; the sign and the climb.
+- [[Saul's Rash Oath]] — 1 Samuel 14:27–45; the honey, *My father has troubled the land*, the lot, and the people's rescue.
 
 ## Related people
 - [[Saul]] — his father (13:16)
@@ -76,9 +93,14 @@ Source: stored WEB 1 Samuel 13:14; 14:1–23; Judges 7:2, 7. Hebrew WLC (OpenScr
 - [[Samuel]] — whose sentence on Saul's kingdom falls on Saul's house (13:13–14)
 - [[Jonathan (son of Gershom)]] — an earlier Jonathan, the Danites' priest
 - [[Gideon]] — the earlier deliverer whom Yahweh saved *by the three hundred* (Judges 7:7)
+- [[Jephthah's Daughter]] — the other child bound by a father's sworn word (Judges 11:34–40)
+- [[Achan]] — the man earlier taken by the same lot, and the earlier *troubler* (Joshua 7:18, 25)
 
 ## Themes associated
 - [[War]]
 - [[Kingship and Empire]]
 - [[Faith]]
 - [[Signs and Wonders]]
+- [[Oaths and Vows]]
+- [[Redemption]]
+- [[Providence]]
