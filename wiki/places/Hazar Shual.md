@@ -24,6 +24,7 @@ Source: stored WEB Joshua 15:20–63. No modern site is assigned.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 
 ## Related places
+- [[The Land of Shual]] — a different place with a related name (1 Samuel 13:17)
 - [[Beth Pelet]] · [[Biziothiah]] — listed beside it (15:28).
 
 ## Events here

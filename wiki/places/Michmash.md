@@ -20,8 +20,17 @@ identification is commonly given but is not used here. See [[Saul's Sacrifice at
 
 Source: stored WEB 1 Samuel 13:2, 5, 11, 16. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
 
+### The raiders' camp, and the pass — 1 Samuel 13:16–23
+
+The Philistines *encamped in Michmash* (13:16), facing Saul and Jonathan at Geba, and from the camp the raiders go
+out in three companies, north, west, and east on the usual reading of the place names (13:17–18). The pericope ends
+with *the garrison of the Philistines* going out *to the pass of Michmash*, *maʿăḇar miḵmāś* (13:23, WLC), where
+Jonathan will cross (14:1–5, stored WEB; not yet ingested). *Maʿăḇar* occurs elsewhere in the WLC of Genesis–2 Samuel
+only at the ford of the Jabbok (Genesis 32:22 WEB; 32:23 WLC). See [[No Smith in Israel]].
+
 ## Appears in
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2, 5, 11; Saul's camp, then the Philistine camp.
+- [[No Smith in Israel]] — 1 Samuel 13:16–18, 23; the raiders' camp, and the pass.
 
 ## Related places
 - [[Bethel]] — *the Mount of Bethel*, with Michmash (13:2)

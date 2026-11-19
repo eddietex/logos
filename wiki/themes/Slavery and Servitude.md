@@ -509,8 +509,17 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 *hitʿammēr* occurs in the Torah only here and at 21:14, the captive wife (WLC). The chapter twice grounds
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### Dependence on the occupier — 1 Samuel 13:19–21
+
+Under the Philistines Israel is not enslaved in the narrative's terms, but it may not keep a smith, and *all the
+Israelites went down to the Philistines* to have their farm tools sharpened, at a price (13:19–21). The occupier
+controls the means of work and of war at once. Samuel had told the people the king would make them *his servants*
+(8:17); here the servitude is to the enemy the king was anointed to save them from (9:16). See
+[[No Smith in Israel]]. Source: stored WEB 1 Samuel 8:17; 9:16; 13:19–21.
+
 ## Key passages
 
+- [[No Smith in Israel]] — 1 Samuel 13:19–21; the smith forbidden, the tools sharpened by the Philistines.
 - [[Israel Asks for a King]] — 1 Samuel 8:11–17; *you will be his servants*.
 - [[Samson and Delilah]] — Judges 16:21; the prison mill.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8; *out of the house of bondage*.

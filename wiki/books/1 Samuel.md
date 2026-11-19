@@ -193,6 +193,14 @@ Yahweh *has sought for himself a man after his own heart* as *prince over his pe
 the commandment, not the altar, as the fault. Saul keeps the throne and loses the house, with six hundred men left
 (13:15).
 
+[[No Smith in Israel]] (13:16–23) pauses before the battle. Saul and Jonathan hold Geba; the Philistine *raiders*,
+*hammašḥîṯ*, the word of *the destroyer* at the Passover (Exodus 12:23, WLC), go out from Michmash in three
+companies and meet no one (13:17–18). The narrator explains why: *there was no blacksmith found throughout all the
+land of Israel; for the Philistines said, "Lest the Hebrews make themselves swords or spears"* (13:19). Israel goes
+down to the Philistines to have its plowshares and mattocks sharpened, at a stated price (13:20–21), and *in the day
+of battle* only Saul and Jonathan carry sword or spear (13:22). The text names no metal; the pair *sword and spear*
+returns in David's *Yahweh doesn't save with sword and spear* (17:47).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -231,7 +239,7 @@ merge, or reorder them freely.
 - [x] [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15
 - [x] [[Samuel's Farewell Address]] — 1 Samuel 12:1–25
 - [x] [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15
-- [ ] No Smith in Israel — 1 Samuel 13:16–23
+- [x] [[No Smith in Israel]] — 1 Samuel 13:16–23
 - [ ] Jonathan's Attack at Michmash — 1 Samuel 14:1–23
 - [ ] Saul's Rash Oath — 1 Samuel 14:24–46
 - [ ] Saul's Wars and Household — 1 Samuel 14:47–52
@@ -327,6 +335,8 @@ merge, or reorder them freely.
 - [[Law and Obedience]] — *You have not kept the commandment of Yahweh* (13:13–14)
 - [[Call and Election]] — *a man after his own heart* (13:14)
 - [[Testing]] — seven days of waiting with a scattering army (13:8)
+- [[Work]] — the craftsman's trade forbidden; tools sharpened by the Philistines for a fee (13:19–21)
+- [[War]] — *neither sword nor spear was found* (13:22)
 
 ## Key people
 - [[Samuel]]
@@ -383,3 +393,5 @@ merge, or reorder them freely.
 - [[Geba]] — the Philistine garrison Jonathan strikes (13:3)
 - [[Beth Aven]] — the Philistines camp *eastward of* it (13:5)
 - [[Gilgal]] — the seven days, Saul's offering, and the sentence on his kingdom (13:4–15)
+- [[Ophrah (Benjamin)]], [[The Land of Shual]], [[Beth Horon]], and [[The Valley of Zeboim]] — the routes of the three
+  Philistine raiding companies (13:17–18)

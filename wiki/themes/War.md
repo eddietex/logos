@@ -983,7 +983,18 @@ remain (13:15). Saul's sacrifice is offered to secure Yahweh's favour before the
 fought until chapter 14. See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB Joshua 11:4; Judges 7:12; 1 Samuel
 13:2–15.
 
+### An unarmed army — 1 Samuel 13:16–23
+
+The Philistine raiders go out in three companies unopposed (13:17–18). Israel has no smith, by Philistine order,
+*Lest the Hebrews make themselves swords or spears* (13:19), and *in the day of battle* only Saul and Jonathan are
+armed (13:22). Deborah's song had asked *Was there a shield or spear seen among forty thousand in Israel?* (Judges
+5:8), and David will say *Yahweh doesn't save with sword and spear* (17:47, stored WEB; not yet ingested). See
+[[No Smith in Israel]] and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]. Source: stored WEB Judges
+5:8; 1 Samuel 13:16–23; 17:47.
+
 ## Key passages
+- [[No Smith in Israel]] — 1 Samuel 13:16–23; raiders in three companies, and only two swords in Israel.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7–11; the muster as one man, three companies, and the morning watch.
 - [[Israel Asks for a King]] — 1 Samuel 8:11–12, 20; the king's army, and the king who will fight Israel's battles.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder, confusion, pursuit; the Philistines subdued.

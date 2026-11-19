@@ -28895,3 +28895,35 @@ files only. Recalled, not checked, and flagged where made: the Septuagint's trea
 versions' three thousand chariots at 13:5; the debate over *nəṣîḇ*; the *choice* reading of *kilḇāḇô*; the
 composite sources of Acts 13:22 (Psalm 89:20; Isaiah 44:28); the sacrifices of David and Solomon (2 Samuel 6:17–18;
 1 Kings 3:4); the content of 2 Samuel 24 beyond verse 10; the gloss of *Jonathan*.
+
+## [2026-11-19] ingest | 1 Samuel 13.16-23 — No Smith in Israel
+
+Unattended run. Created [[No Smith in Israel]], the places [[The Land of Shual]] and [[The Valley of Zeboim]], and
+the connection [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]. Revised
+[[1 Samuel]] (box checked; overview paragraph; key themes and places), [[Saul]], [[Jonathan (son of Saul)]],
+[[The Philistines]], and [[Tubal Cain]]; the places [[Michmash]], [[Geba]], [[Ophrah (Benjamin)]], [[Beth Horon]],
+[[Zeboiim]], and [[Hazar Shual]] (disambiguation lines only on the last two); the themes [[War]], [[Work]], and
+[[Slavery and Servitude]]; and the connection
+[[The Door and the Destroyer - Lot's House and the Passover Night]] (a note on *hammašḥîṯ*, *the raiders*). Also
+`wiki/books/index.md` (17 / 47), the places index (two new rows, six extended), People Index F-M and N-Z (four rows
+extended), the themes index (three rows), Connections Index T-Z (one new row) and D-H (one row extended), and the
+dashboard counts. Frontmatter totals: 503 passages, 382 people, 611 places, 88 themes, 956 connections.
+
+Judgment calls: the boundary 13:16–23 stands, with 13:23 (the garrison at the pass) kept here rather than with
+14:1. *The land of Shual* is titled [[The Land of Shual]] so it cannot collide with [[Hazar Shual]] or a later
+person Shual; *the valley of Zeboim* (*ṣəḇōʿîm*) gets its own page, kept apart from [[Zeboiim]] (*ṣəḇōyim*), with
+cross-notes on both. The Ophrah of 13:17 is filed under [[Ophrah (Benjamin)]], which the text does not state.
+*The wilderness* of 13:18 and *the Hebrews* get no page. No contradiction with an existing page was found.
+
+Recorded, not resolved: the lexical analysis of *pîm* (WEB *payim*; morphhb tags it under *peh*) and *pəṣîrâ*; the
+fourth tool of 13:20; whether the ban concerned iron (the text names no metal); the locations of Ophrah, Shual, and
+the valley of Zeboim; the Geba/Gibeah question already open on [[Geba]].
+
+Sources: 1 Samuel 13:16–23 from stored WEB, with the not-yet-ingested 1 Samuel 14:1–2, 11, 15; 17:7, 38–39, 45,
+47, 50–51; 18:4; 21:8–9; 29:3. Comparisons from stored WEB Genesis 4:22; 32:22; Exodus 12:23; 35:35; Joshua 4:3;
+10:10–11; 15:28; 19:3; Judges 1:19; 3:31; 4:3; 5:8; 7:16; 9:43, 48; 1 Samuel 2:9; 8:17; 9:16, 20; 10:16; 11:11;
+Ecclesiastes 12:11. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML,
+2026-11-19, files `Gen` through `2Sam` and `Eccl`; occurrence claims cover `Gen` through `2Sam` only. 2 Samuel 5:11;
+23:14; 24:16 cited from the WLC only. Recalled, not checked, and flagged where made: the locations of Ophrah, Shual,
+the valley of Zeboim, and the wilderness; the glosses *fox* and *hyenas*; the Philistine iron monopoly; the *pym*
+weights and older renderings of 13:21; the Septuagint's fourth tool in 13:20.

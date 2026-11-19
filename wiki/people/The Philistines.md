@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### No smith in Israel — 1 Samuel 13:16–23
+
+From the camp at [[Michmash]] their *raiders*, *hammašḥîṯ* (WLC), the word of *the destroyer* in Exodus 12:23, go
+out in three companies toward Ophrah and the land of Shual, Beth Horon, and the valley of Zeboim (13:17–18). The
+narrator then reports their policy in their own words: *Lest the Hebrews make themselves swords or spears*. There is
+no smith in Israel; every Israelite goes down to them to sharpen his plowshare, mattock, ax, and sickle, at one
+*payim* a tool (13:19–21), and on the day of battle only Saul and Jonathan are armed (13:22). The text calls it a
+decision of theirs and names no metal; the common reading that they controlled iron is not in the verse. Their
+garrison goes out to the pass of Michmash (13:23). See [[No Smith in Israel]].
+
+Source: stored WEB 1 Samuel 13:16–23; Exodus 12:23. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ### The garrison at Geba, and the army at Michmash — 1 Samuel 13:3–7
 
 Jonathan strikes *the garrison of the Philistines that was in Geba*, *nəṣîḇ pəlištîm* (13:3, WLC), the word of the
@@ -235,6 +247,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Samuel Anoints Saul]] — 1 Samuel 10:5; their garrison at the hill of God.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:9; one of the three oppressors to whom Yahweh *sold* Israel.
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:3–7, 11–12; the garrison at Geba and the army at Michmash.
+- [[No Smith in Israel]] — 1 Samuel 13:16–23; the raiders, the ban on smiths, the sharpening fee, and the garrison at the pass.
 
 ## Related people
 

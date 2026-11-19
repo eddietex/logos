@@ -13,6 +13,7 @@ Zeboiim is one of the four cities whose overthrow illustrates the threatened dev
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:23.
 
 ## Related places
+- [[The Valley of Zeboim]] — a different place, *gêʾ haṣṣəḇōʿîm* (1 Samuel 13:18, WLC), with a similar English name
 - [[Sodom]]
 - [[Gomorrah]]
 - [[Admah]]

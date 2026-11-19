@@ -85,6 +85,14 @@ mentions no destroyer, as Genesis 19:24–25, 29 says *"Yahweh rained … sulfur
 destroyed the cities"* after the angels said *"we will destroy"*. **Both narratives let the agent and God
 stand side by side without explaining how they relate.**
 
+**Added with the ingest of 1 Samuel 13:16–23 (2026-11-19): the destroyer as a raiding party.** *Hammašḥîṯ*, the
+participle with the article used as a noun, is tagged by morphhb as a noun in the WLC of Genesis–2 Samuel only at
+Exodus 12:23 and at 1 Samuel 13:17 and 14:15, where the WEB renders it *the raiders*: the Philistine force that goes
+out from Michmash in three companies (stored WEB). 2 Samuel 24:16 has the article with the participle for the
+destroying angel (WLC; not yet stored). In Samuel the word names an enemy's strike force, not an agent of God,
+and nothing in 1 Samuel 13 recalls the Passover; the overlap is recorded as vocabulary only. See
+[[No Smith in Israel]].
+
 ## Significance
 
 - **The overlap is in vocabulary and setting, and Exodus never cites Genesis 19.** The wiki records it

@@ -15,6 +15,13 @@ Samuel leaves Gilgal, Saul and Jonathan are at *Geba of Benjamin*, facing the Ph
 stored WEB; the next pericope). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 13:2–3, 16; Hebrew
 WLC, 2026-11-18.
 
+### Saul and Jonathan at Geba — 1 Samuel 13:16
+
+*Saul, and Jonathan his son, and the people who were present with them, stayed in Geba of Benjamin* (13:16), facing
+the Philistines at [[Michmash]]. The six hundred hold the post unarmed except for the king and his son (13:22). The
+next chapter puts Saul at *the uttermost part of Gibeah* (14:2, stored WEB; not yet ingested); the Geba/Gibeah
+question recorded below stays open. See [[No Smith in Israel]].
+
 ### Geba in Judges 20:10 and Maareh Geba — Judges 20:33
 
 Two verses of the war against Benjamin have this name in the Hebrew. In verse 10 the assembly plans what it
@@ -45,6 +52,7 @@ Source: stored WEB Joshua 18:11–28.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:3; the garrison Jonathan strikes.
+- [[No Smith in Israel]] — 1 Samuel 13:16; Saul and Jonathan's position.
 
 ## Related places
 - [[The Jordan]] — Benjamin’s eastern boundary.

@@ -801,7 +801,17 @@ as the neighbor eats from the vineyard (23:24) and the hired man is paid the sam
 quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timothy 5:18). See [[Justice, Family Duty, Honest Weights, and Amalek]] and
 [[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]]. Source: stored WEB Deuteronomy 25.
 
+### The forbidden trade — 1 Samuel 13:19–21
+
+*There was no blacksmith found throughout all the land of Israel* (13:19). The word is *ḥārāš*, a craftsman in any
+material, the word of the tabernacle's *engraver* (Exodus 35:35) and of Hiram's carpenters and masons (2 Samuel
+5:11, WLC; not yet stored). An occupier forbids the trade so that tools cannot become weapons, and the farmer's
+plowshare, mattock, ax, and sickle must be taken to the Philistines to be sharpened, at a fixed price (13:20–21).
+The verb *lāṭaš*, *sharpen*, is Tubal Cain's (Genesis 4:22, WLC). See [[No Smith in Israel]]. Source: stored WEB
+Genesis 4:22; Exodus 35:35; 1 Samuel 13:19–21. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ## Key passages
+- [[No Smith in Israel]] — 1 Samuel 13:19–21; no craftsman allowed, tools sharpened by the occupier for a fee.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:7, 12, 19; a day's gleaning; *May Yahweh repay your work*.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

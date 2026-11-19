@@ -39,6 +39,13 @@ mention has always attracted speculation; Genesis Rabbah makes her Noah's wife, 
 strand makes her a singer alongside Jubal, and neither is in the text. She is not the Naamah of
 1 Kings 14:21. See the notes on [[The Line of Cain and the Birth of Seth]].
 
+### The other sharpener — 1 Samuel 13:20
+
+*Lāṭaš*, the verb of Tubal Cain as *the forger* (*lōṭēš*, Genesis 4:22), occurs in the WLC of Genesis–2 Samuel only
+there and at 1 Samuel 13:20, where every Israelite goes down to the Philistines *to sharpen* (*lilṭôš*) his tools,
+because no smith is allowed in Israel. See [[No Smith in Israel]]. Source: stored WEB Genesis 4:22; 1 Samuel 13:20.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ## Timeline / key events
 
 - Born to Lamech and Zillah; becomes *"the forger of every cutting instrument of brass and iron"* —
@@ -47,6 +54,7 @@ strand makes her a singer alongside Jubal, and neither is in the text. She is no
 ## Appears in
 
 - [[The Line of Cain and the Birth of Seth]]
+- [[No Smith in Israel]] — 1 Samuel 13:20; the verb *lāṭaš*, *sharpen*, again
 
 ## Related people
 

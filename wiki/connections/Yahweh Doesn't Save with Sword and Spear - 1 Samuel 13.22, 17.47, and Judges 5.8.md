@@ -1,0 +1,61 @@
+---
+type: connection
+subtype: thread
+tags: [connection]
+---
+# Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8
+
+## Passages involved
+- [[No Smith in Israel]] — **1 Samuel 13:19, 22** — *the Philistines said, "Lest the Hebrews make themselves
+  swords or spears"* … *neither sword nor spear was found in the hand of any of the people who were with Saul and
+  Jonathan; but Saul and Jonathan his son had them.* Stored WEB.
+- **Judges 5:8** — Deborah's song: *Was there a shield or spear seen among forty thousand in Israel?* Stored WEB.
+  See [[The Song of Deborah]].
+- **Judges 3:31** — *Shamgar the son of Anath, who struck six hundred men of the Philistines with an ox goad. He
+  also saved Israel.* Stored WEB. See [[Shamgar and the Ox Goad]] and [[Shamgar]].
+- **1 Samuel 17:45, 47, 50** (not yet ingested) — David to Goliath: *You come to me with a sword, with a spear,
+  and with a javelin; but I come to you in the name of Yahweh of Armies* … *that all this assembly may know that
+  Yahweh doesn't save with sword and spear; for the battle is Yahweh's* … *there was no sword in the hand of
+  David.* Stored WEB.
+- **1 Samuel 21:8–9** (not yet ingested) — David to Ahimelech at Nob: *Isn't there here under your hand spear or
+  sword?* The priest gives him *the sword of Goliath the Philistine*. Stored WEB.
+
+## Analysis
+
+**The pair.** *Ḥereḇ* and *ḥănîṯ*, sword and spear, are named together in the Philistine ban (13:19, *ḥereḇ ʾô
+ḥănîṯ*), in the count of Israel's arms on the day of battle (13:22, *ḥereḇ waḥănîṯ*), in David's confession before
+Goliath (17:47, *lōʾ bəḥereḇ ûḇaḥănîṯ yəhôšîaʿ YHWH*), and in David's request at Nob (21:9 WLC, *ḥănîṯ ʾô
+ḥāreḇ*; WEB 21:8). All WLC. The pair recurs inside 1 Samuel as a measure of who is armed.
+
+**Israel without weapons, twice.** The Song of Deborah asks whether *a shield or spear* was seen *among forty
+thousand in Israel* (Judges 5:8), the same condition in an earlier oppression, with a different word for spear,
+*rōmaḥ* (WLC). 1 Samuel 13 explains the condition as a policy and counts it: two armed men in the whole army.
+
+**The victories that follow are not won by the missing weapons.** Shamgar had saved Israel from the Philistines
+*with an ox goad* (Judges 3:31); in 13:21 Israel pays the Philistines to sharpen its goads. At Michmash in the next
+chapter the rout is begun by Jonathan and one armour-bearer, and *the earth quaked* (14:15, stored WEB; not yet
+ingested). In the valley of Elah the one man who had no sword wins, and David draws the sword he kills Goliath with
+from Goliath's own sheath (17:50–51, stored WEB; not yet ingested). David's sentence states the principle the
+narrative has been illustrating since 13:22: *Yahweh doesn't save with sword and spear; for the battle is
+Yahweh's.*
+
+**Saul and Jonathan are the exception, and their swords go elsewhere.** Only *Saul and Jonathan his son* had them
+(13:22). Jonathan gives his sword to David with his robe (18:4); before the fight with Goliath Saul dresses David
+in his clothing, a helmet, and a coat of mail, and David straps on *his sword* and cannot go in them (17:38–39;
+whose sword *his* means the verse does not make explicit); and at Nob the only sword available is Goliath's
+(21:9). (All stored WEB; not yet ingested; the sequence is read from the stored text, not checked against later
+ingests.)
+
+## Significance
+
+- **The thread runs through the Philistine wars of 1 Samuel and states its moral at 17:47.** The verse in 13:22 is
+  the setup; the Goliath scene is where the principle is spoken.
+- **Hannah's song had already said it**: *for no man shall prevail by strength* (1 Samuel 2:9, stored WEB). See
+  [[The Song of Hannah]], which links this verse forward to the boy with a sling.
+- **What the wiki does not claim.** The text never says the Philistine ban was providential, or that Israel's lack
+  of weapons was meant to teach dependence. It records the ban, the lack, and later victories won without the
+  missing weapons, and it gives the principle in David's mouth. Whether the narrator means the connection is a
+  matter of reading.
+
+Sources: stored WEB 1 Samuel 2:9; 13:19–22; 14:15; 17:38–39, 45, 47, 50–51; 18:4; 21:8–9; Judges 3:31; 5:8. Hebrew
+from the Westminster Leningrad Codex (OpenScriptures morphhb), downloaded 2026-11-19.

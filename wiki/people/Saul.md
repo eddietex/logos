@@ -143,6 +143,18 @@ dynasty; the rejection *from being king* comes over Amalek (15:23, 26, stored WE
 Source: stored WEB 1 Samuel 10:8; 13:1–15; 15:23, 26; Genesis 43:31; 45:1. Hebrew WLC (OpenScriptures morphhb),
 2026-11-18.
 
+### Two swords in Israel — 1 Samuel 13:16–23
+
+Saul holds *Geba of Benjamin* with Jonathan and the six hundred, facing the Philistines at [[Michmash]] (13:16). The
+raiders go out in three companies, the tactic Saul himself used at Jabesh Gilead (11:11), and nobody opposes them
+(13:17–18). The Philistines have forbidden smiths, *Lest the Hebrews make themselves swords or spears* (13:19), and
+*in the day of battle* no one in the army is armed *but Saul and Jonathan his son* (13:22). The verb is *māṣāʾ*,
+*found*: *wattimmāṣēʾ ləšāʾûl*, literally *it was found with Saul* (WLC), the verb of the donkeys that *have been
+found* at the start of his story (9:20). The king commissioned to *save my people out of the hand of the
+Philistines* (9:16) faces them with six hundred men and two swords. See [[No Smith in Israel]].
+
+Source: stored WEB 1 Samuel 9:16, 20; 11:11; 13:16–23. Hebrew WLC (OpenScriptures morphhb), 2026-11-19.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -168,6 +180,7 @@ Source: stored WEB 1 Samuel 10:8; 13:1–15; 15:23, 26; Genesis 43:31; 45:1. Heb
   condition as the people — 12:2–5, 13–15, 25.
 - Keeps three thousand men; Jonathan strikes the garrison at Geba, and the blow is credited to Saul; musters at Gilgal — 13:1–4.
 - Waits seven days for Samuel; offers the burnt offering; told *You have done foolishly* and that his kingdom will not continue — 13:8–15.
+- Holds Geba facing Michmash; with Jonathan, the only armed man in Israel's army — 13:16, 22.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
@@ -176,6 +189,7 @@ Source: stored WEB 1 Samuel 10:8; 13:1–15; 15:23, 26; Genesis 43:31; 45:1. Heb
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the Spirit, the muster, the rescue, the doubters spared, and Gilgal.
 - [[Samuel's Farewell Address]] — 1 Samuel 12:2–5, 13–15, 25; the king as witness, and under the same *if* as the people.
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:1–15; the seven days, the burnt offering, and the kingdom that will not continue.
+- [[No Smith in Israel]] — 1 Samuel 13:16, 22; at Geba, and one of two men with a sword.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
