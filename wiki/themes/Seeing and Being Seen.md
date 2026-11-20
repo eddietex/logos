@@ -491,7 +491,20 @@ See [[The Twelve Spies]].
 is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to eye* (14), and the
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
+### *Yahweh looks at the heart* — 1 Samuel 16:1–13
+
+The anointing of David is told in verbs of sight. Yahweh's first word is *I have seen among his sons a king for
+myself*, *rāʾîṯî* (16:1, WLC), which the WEB renders *provided*, the sense of *yirʾeh* at Moriah (Genesis 22:8, 14).
+Samuel *looked at* Eliab and thought him the anointed (16:6). Yahweh answers with the verb three times: *for not as man
+sees; for man sees according to the eyes, and Yahweh sees according to the heart* (16:7, WLC *laʿênayim …
+lallēḇāḇ*). The youngest is then described by his looks: *beautiful of eyes, and good of appearance*, *ṭôḇ rōʾî*
+(16:12, WLC). In the Hebrew files checked (Genesis through 2 Samuel, and Ruth), the noun *rōʾî* (morphhb lemma 7210)
+occurs only there and in Hagar's name for God, *ʾĒl Rŏʾî* (Genesis 16:13). The chapter does not reject appearances: it
+says that Yahweh's choice was not made by them. See [[Samuel Anoints David]] and [[Ruddy - Esau and David]]. Source:
+stored WEB Genesis 16:13; 22:8, 14; 1 Samuel 16:1–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:1, 6–7, 12; *I have seen … a king*; *Yahweh looks at the heart*; *good of appearance*.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:21–24; the hidden man shown, *Do you see him …?*
 - [[Saul Comes to the Seer]] — 1 Samuel 9:9–19; the seer; *I have looked upon my people*; *when Samuel saw Saul*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11–13; *look at the affliction of your servant*; Eli *saw her mouth*

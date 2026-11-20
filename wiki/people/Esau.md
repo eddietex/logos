@@ -248,6 +248,7 @@ father of the Edomites"* (36:43). **After it he is not mentioned in the book aga
 - *"This is Esau, the father of the Edomites"* — his last words in the book — Genesis 36:43
 
 ## Appears in
+- [[Ruddy - Esau and David]] — Genesis 25:25; *ʾaḏmônî*, *red*, used elsewhere in the files checked only of David (1 Samuel 16:12; 17:42).
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; given Mount Seir (4).
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

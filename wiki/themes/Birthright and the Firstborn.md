@@ -178,7 +178,17 @@ The claim of 3:11–13 is repeated at the cleansing almost word for word, now wi
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### The eldest passed over — 1 Samuel 16:6–13
+
+At Bethlehem the sons of Jesse pass before Samuel in order of age, beginning with *Eliab the firstborn* (17:13): Eliab,
+Abinadab, Shammah, and seven in all (16:6–10). Yahweh rejects the first, and the chosen son is *the youngest*,
+*haqqāṭān*, not even present (16:11, WLC). Genesis had already preferred the younger: Abel, Jacob, Joseph, Ephraim.
+The word *ʾaḏmônî*, *ruddy*, used of David here, is used at Genesis 25:25 of Esau, the elder who lost the birthright
+(WLC). See [[Samuel Anoints David]] and [[Ruddy - Esau and David]]. Source: stored WEB Genesis 25:25; 1 Samuel
+16:6–13; 17:13. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:6–13; the firstborn rejected, the youngest anointed.
 
 - [[Jephthah Called from Tob]] — Judges 11:2; *You will not inherit in our father's house*.
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; firstborn of herd and flock eaten at the chosen place (6, 17).

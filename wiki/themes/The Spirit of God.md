@@ -181,7 +181,16 @@ Source: stored WEB and WLC; Isaiah 11:2 WEB at bible-api.com.
 Judges names the Spirit on Jephthah (11:29) and Samson (13:25; 14:6 and later), with different Hebrew
 verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:34) is above.
 
+### *From that day forward* — 1 Samuel 16:13
+
+*Then Yahweh's Spirit came mightily on David from that day forward* (16:13). The verb is *ṣālaḥ*, as for Samson and
+for Saul (10:6, 10; 11:6), but only here is the rush given a duration, *mēhayyôm hahûʾ wāmāʿlâ* (WLC). It follows the
+anointing, as Saul's did (10:1, 10), and in the next verse *Yahweh's Spirit departed from Saul* (16:14, stored WEB; not
+yet ingested). See [[Samuel Anoints David]] and [[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored
+WEB 1 Samuel 10:1–10; 11:6; 16:13–14. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:13; *came mightily on David from that day forward*.
 
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:6; *God's Spirit came mightily on Saul*, and he musters Israel.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:6, 10; the Spirit *came mightily* on Saul after his anointing, and he prophesied.

@@ -734,7 +734,18 @@ Israel* (30); Samuel never sees him again alive (35). See [[Saul Rejected over A
 [[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]]. Source: stored WEB 1 Samuel 8:7, 19;
 13:13–14; 15:23–35.
 
+### A second king anointed — 1 Samuel 16:1–13
+
+Yahweh says *I have provided a king for myself*, *lî meleḵ* (16:1, WLC), in contrast with the king the people asked
+for *like all the nations* (8:5). The law of the king allowed only *him whom Yahweh your God chooses … one from among
+your brothers* (Deuteronomy 17:15). Samuel says three times *Yahweh has not chosen* (16:8–10) and anoints the chosen
+one *in the middle of his brothers* (16:13). The new king is anointed while the old one reigns, and the book now has
+two anointed men; Saul remains king until his death (31:4–6, stored WEB; not yet ingested). See
+[[Samuel Anoints David]] and [[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]]. Source: stored WEB
+Deuteronomy 17:15; 1 Samuel 8:5; 16:1–13; 31:4–6. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:1, 8–13; *a king for myself*; *Yahweh has not chosen*; anointed *in the middle of his brothers*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:23–30; *rejected you from being king*; the kingdom torn away and given to a neighbor.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47–52; the first summary notice of an Israelite king's reign.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the king fights the people's battle, and is made king *before Yahweh* at Gilgal.

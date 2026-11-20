@@ -4169,6 +4169,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Sets every man's sword in Midian's camp against his fellow — [[The Sword of Yahweh and of Gideon]]
 
 ## Appears in
+- [[Samuel Anoints David]] — 1 Samuel 16:1–12; *I have provided a king for myself*; *I don't see as man sees … Yahweh looks at the heart*; *Arise! Anoint him, for this is he*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:2–3, 10–11, 22–29, 35; *I remember what Amalek did*; *It grieves me*; *the Strength of Israel will not lie nor repent*.
 
 - [[The Fall of Abimelech]] — Judges 9:22–57; sends *an evil spirit* between Abimelech and Shechem (23) and *repaid the wickedness* of both (56–57), the only acts of God in the chapter.

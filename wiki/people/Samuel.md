@@ -253,6 +253,18 @@ him as a boy (2:19, WLC). See [[Saul Rejected over Amalek]] and
 
 Source: stored WEB 1 Samuel 2:19; 7:9; 15:1–35. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### To Bethlehem with a horn of oil — 1 Samuel 16:1–13
+
+Yahweh ends Samuel's mourning with a commission: *How long will you mourn for Saul … ? Fill your horn with oil, and go*
+(16:1). Samuel's answer is fear, *If Saul hears it, he will kill me*, and Yahweh gives him a true errand that hides
+the real one, a heifer and a sacrifice (16:2–3). The elders of Bethlehem come out *trembling* (16:4). Samuel is wrong
+about the first son he sees, *Surely Yahweh's anointed is before him* (16:6), and is corrected: *I don't see as man
+sees* (16:7). The seer who had pointed out Saul's height (10:24) is told not to look at height. He anoints David *in
+the middle of his brothers*, with *the horn of oil* rather than the *vial* of Saul's anointing (10:1), and goes home to
+Ramah (16:13). See [[Samuel Anoints David]].
+
+Source: stored WEB 1 Samuel 10:1, 24; 16:1–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -271,8 +283,10 @@ Source: stored WEB 1 Samuel 2:19; 7:9; 15:1–35. Hebrew WLC (OpenScriptures mor
 - Gives his farewell: clears his own record, recites Yahweh's righteous acts, names himself among the deliverers, calls down thunder and rain at wheat harvest, and promises not to cease praying — 12:1–25.
 - Arrives at Gilgal as Saul finishes the burnt offering; *What have you done?*; tells him his kingdom will not continue, and that Yahweh has sought *a man after his own heart* — 13:8–15.
 - Gives Saul the commission against Amalek; cries to Yahweh all night; confronts Saul at Gilgal; *to obey is better than sacrifice*; the torn robe and the torn kingdom; kills Agag; goes to Ramah and mourns for Saul — 15:1–35.
+- Sent to Bethlehem with a horn of oil; looks at Eliab; anoints David *in the middle of his brothers* — 16:1–13.
 
 ## Appears in
+- [[Samuel Anoints David]] — 1 Samuel 16:1–13; told to stop mourning, sent to Bethlehem, mistaken about Eliab, and anoints David.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35; the commission, the night of crying out, the sentence, the robe, Agag, and mourning.
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 20–28.

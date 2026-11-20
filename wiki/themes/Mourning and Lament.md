@@ -367,7 +367,14 @@ Beth Shemesh (6:19). Samuel mourns a living man, and Yahweh asks in the next ver
 (16:1, stored WEB; not yet ingested). In the same verse *Yahweh grieved*, *nāḥam*, that he had made Saul king (35). See
 [[Saul Rejected over Amalek]]. Source: stored WEB 1 Samuel 6:19; 15:11, 35; 16:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### *How long will you mourn for Saul?* — 1 Samuel 16:1
+
+The question picks up the last verse of chapter 15. *ʿAḏ-māṯay ʾattâ miṯʾabbēl ʾel-šāʾûl* (16:1, WLC), with the verb
+of 15:35. Yahweh does not rebuke the mourning; he gives the mourner the next task, *Fill your horn with oil, and go*.
+See [[Samuel Anoints David]]. Source: stored WEB 1 Samuel 15:35; 16:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:1; *How long will you mourn for Saul?*
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:11, 35; Samuel cries all night, and mourns for Saul.
 
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2, 6; *lamented after Yahweh*; the fast at Mizpah.

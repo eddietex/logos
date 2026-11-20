@@ -84,3 +84,13 @@ inheritance?* (10:1). The vessel is *pak haššemen* (WLC). *Pak* occurs only he
 Samuel pours the oil, but the anointing is said to be Yahweh's. That is why Saul is later *Yahweh's anointed*, whom
 David will not touch (24:6; 26:9–23, stored WEB; not yet ingested). Sources: stored WEB 1 Samuel 2:1, 10; 9:16;
 10:1; 16:13; 24:6. Hebrew WLC (`1Sam.xml`), 2026-11-17.
+
+### 1 Samuel 16:1–13 — the horn of oil, and the anointed mistaken
+
+David's anointing is now ingested in [[Samuel Anoints David]]. Yahweh's order is *Fill your horn with oil*, *malleʾ
+qarnəḵā šemen* (16:1), and Samuel takes *the horn of oil*, *qeren haššemen* (16:13) (WLC). In Genesis through 2 Samuel,
+*qeren* is a vessel of oil only in these two verses (morphhb lemma 7161). Hannah's song had closed on *exalt the horn of
+his anointed*, *qeren məšîḥô* (2:10, WLC). The title *məšîḥô*, *his anointed*, is spoken in this chapter before any oil
+is poured, and about the wrong son: *Surely Yahweh's anointed is before him* (16:6), of Eliab. Its next uses in the book
+are David's own, for Saul, whom he will not harm (24:6, 10; 26:9–23, stored WEB; not yet ingested). Sources: stored WEB
+1 Samuel 2:10; 16:1, 6, 13; 24:6, 10. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.

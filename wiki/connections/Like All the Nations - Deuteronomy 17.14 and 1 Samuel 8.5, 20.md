@@ -81,3 +81,14 @@ checked at bible-api.com (`translation=web`), 2026-11-07; 1 Samuel 8:7, 11, 18 f
 2026-11-17. Hebrew of Deuteronomy 17:14 and 1 Samuel 8:5, 20 from WLC (morphhb), 2026-11-07;
 Deuteronomy 17:15 and 1 Samuel 8:18 from WLC (morphhb), 2026-11-17. 1 Samuel 10:19,
 24–25 from stored WEB and WLC (morphhb), 2026-11-17; Deuteronomy 17:18 from WLC, 2026-11-17.
+
+### 1 Samuel 16:8–13 — the one Yahweh chooses, from among his brothers
+
+The law of the king had two conditions: *whom Yahweh your God chooses*, *ʾăšer yiḇḥar YHWH*, and *one from among your
+brothers*, *miqqereḇ ʾaḥeḵā* (Deuteronomy 17:15, WLC). At Bethlehem Samuel says *Yahweh has not chosen*, *lōʾ-bāḥar
+YHWH*, three times (16:8–10), and anoints David *in the middle of his brothers*, *bəqereḇ ʾeḥāw* (16:13, WLC). In 1
+Samuel 16 the *brothers* are David's actual brothers, and the phrase is not a quotation. The law's two words, *choose*
+and *in the midst of the brothers*, both appear in the scene. Saul was *him whom Yahweh has chosen* (10:24), and the
+people's *king whom you have chosen* (12:13); here Yahweh's choice is made without the people. See
+[[Samuel Anoints David]]. Sources: stored WEB Deuteronomy 17:15; 1 Samuel 10:24; 12:13; 16:8–13. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-20.

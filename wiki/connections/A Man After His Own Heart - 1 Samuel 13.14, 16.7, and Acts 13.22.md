@@ -9,7 +9,7 @@ tags: [connection]
 - [[Saul's Sacrifice at Gilgal]] — **1 Samuel 13:14** — *But now your kingdom will not continue. Yahweh has sought
   for himself a man after his own heart, and Yahweh has appointed him to be prince over his people, because you
   have not kept that which Yahweh commanded you.* Stored WEB.
-- **1 Samuel 16:7** (not yet ingested) — *Don't look on his face, or on the height of his stature, because I have
+- [[Samuel Anoints David]] — **1 Samuel 16:7** — *Don't look on his face, or on the height of his stature, because I have
   rejected him; for I don't see as man sees. For man looks at the outward appearance, but Yahweh looks at the
   heart.* Stored WEB.
 - [[Saul Rejected over Amalek]] — **1 Samuel 15:28** — *Yahweh has torn the kingdom of Israel from you today, and
@@ -55,3 +55,15 @@ See [[Saul]], [[David]], [[Call and Election]], and [[A Sure House - The Faithfu
 Sources: stored WEB 1 Samuel 9:2; 10:23; 13:14; 15:28; 16:7, 13. Acts 13:21–22 checked at bible-api.com (WEB),
 2026-11-18. Hebrew WLC (OpenScriptures morphhb), 2026-11-18. Recalled, not checked: the two readings' scholarly
 attestation; the composite sources of Acts 13:22.
+
+### 1 Samuel 16:7 now ingested — the heart and the height
+
+16:7 is now in [[Samuel Anoints David]]. In context, the sentence answers Samuel's mistake about Eliab, *Surely
+Yahweh's anointed is before him* (16:6), and names what Samuel was looking at: *his face* and *the height of his
+stature*, *gəḇōah qômāṯô* (16:7, WLC). Saul had been *taller than any of the people* (9:2) and Samuel had shown him to
+the people on that basis (10:23–24). The verse is about the error of the one choosing, not about a virtue in the one
+chosen: Yahweh gives a reason for rejecting Eliab and none for choosing David. The narrator then describes David
+by his looks (16:12), not his heart. This favours neither reading of *kilḇāḇô* decisively. It does show that, in 1
+Samuel, the heart is first of all what Yahweh *sees*, *yirʾeh … lallēḇāḇ*. Eliab later claims to see David's heart,
+*the naughtiness of your heart*, *rōaʿ ləḇāḇeḵā* (17:28, stored WEB; not yet ingested). Sources: stored WEB 1 Samuel
+9:2; 10:23–24; 16:6–12; 17:28. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.

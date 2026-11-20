@@ -75,10 +75,28 @@ than you* (15:28). *Better*, *ṭôḇ*, was the word for Saul at his introducti
 
 Source: stored WEB 1 Samuel 9:2; 15:27–28; 24:4; 28:17. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
-## Timeline / key events
+### Anointed in the middle of his brothers — 1 Samuel 16:1–13
 
-- 1 Samuel 16:13 *(not yet ingested)* — anointed by Samuel, and *"Yahweh's Spirit came mightily on David
-  from that day forward"*.
+The narrative names him at last. Yahweh sends Samuel to Jesse of Bethlehem, *for I have provided a king for myself
+among his sons* (16:1), literally *I have seen*, *rāʾîṯî* (WLC). Seven sons pass before Samuel, beginning with Eliab,
+whose height Yahweh dismisses: *man looks at the outward appearance, but Yahweh looks at the heart* (16:7). David is
+not at the sacrifice. He is *the youngest*, *haqqāṭān*, and *keeping the sheep*, *rōʿeh baṣṣōʾn* (16:11, WLC). When he
+is brought he is *ruddy, with a handsome face and good appearance* (16:12). *ʾAḏmônî*, *ruddy*, occurs in the Hebrew
+files checked only for him (16:12; 17:42) and for Esau at birth (Genesis 25:25). Samuel anoints him with *the horn of
+oil … in the middle of his brothers*, and *Yahweh's Spirit came mightily on David from that day forward* (16:13). His
+name is the last thing the scene supplies. He is anointed, not made king: Saul reigns to the end of the book. Jesse
+has eight sons by 16:10 and 17:12, seven by 1 Chronicles 2:15, which calls David *the seventh* (WEB checked at
+bible-api.com); the two counts are recorded on [[Jesse]]. See [[Samuel Anoints David]],
+[[Ruddy - Esau and David]], and
+[[Taken from Following the Sheep - 1 Samuel 16.11, 2 Samuel 7.8, and Psalm 78.70-72]].
+
+Source: stored WEB Genesis 25:25; 1 Samuel 16:1–13; 17:12, 42. 1 Chronicles 2:13–15 checked at bible-api.com
+(`translation=web`), 2026-11-20. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
+## Timeline / key events
+- 1 Samuel 16:1–13 — the youngest of Jesse's sons, keeping the sheep; anointed by Samuel at Bethlehem, and the
+  Spirit comes on him *from that day forward*. [[Samuel Anoints David]]
+
 - 2 Samuel 7 *(not yet ingested)* — the promise of a lasting house.
 - 2 Samuel 12:24 *(not yet ingested)* — Solomon born to him and Bathsheba.
 - Proverbs 1:1 — named as Solomon's father. [[The Purpose of the Proverbs]]
@@ -87,6 +105,7 @@ Source: stored WEB 1 Samuel 9:2; 15:27–28; 24:4; 28:17. Hebrew WLC (OpenScript
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Samuel Anoints David]] — 1 Samuel 16:1–13; the youngest, keeping the sheep; anointed *in the middle of his brothers*, and the Spirit *from that day forward*; named at last.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:28; not named; *a neighbor of yours who is better than you*.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; named in the Preacher’s identification.
@@ -104,6 +123,7 @@ Source: stored WEB 1 Samuel 9:2; 15:27–28; 24:4; 28:17. Hebrew WLC (OpenScript
 - [[You Have Done Foolishly - Saul at Gilgal and David at the Census]]
 
 ## Related people
+- [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — his three eldest brothers
 
 - [[The Preacher (Ecclesiastes)]] — described as his son in Ecclesiastes 1:1; historical identity not settled here.
 - [[Solomon]] — his son and successor

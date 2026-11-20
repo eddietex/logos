@@ -830,7 +830,16 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### *Sanctify yourselves* — 1 Samuel 16:5
+
+At Bethlehem Samuel tells the elders *Sanctify yourselves, and come with me to the sacrifice*, *hiṯqaddəšû*, and himself
+*sanctified Jesse and his sons* (16:5, WLC). It is Joshua's word before the Jordan and before the lot that took Achan
+(Joshua 3:5; 7:13). Here the sanctified family is the one from which the king is anointed. See
+[[Samuel Anoints David]]. Source: stored WEB Joshua 3:5; 7:13; 1 Samuel 16:5. Hebrew WLC (OpenScriptures morphhb),
+2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:5; *Sanctify yourselves*, and Jesse's sons sanctified.
 
 - [[The Ark Returns to Israel]] — 1 Samuel 6:19–20; 7:1; *this holy God*, and Eleazar consecrated to keep the ark.
 - [[The Song of Hannah]] — 1 Samuel 2:2; *There is no one as holy as Yahweh*.

@@ -978,7 +978,16 @@ in Gilgal* (33). See [[Saul Rejected over Amalek]] and
 [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]]. Source: stored WEB Leviticus 27:28;
 1 Samuel 13:9–13; 15:15–22, 33. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### The heifer at Bethlehem — 1 Samuel 16:2–5
+
+*Take a heifer with you, and say, I have come to sacrifice to Yahweh* (16:2). The sacrifice at Bethlehem is the setting
+for the anointing: Samuel calls Jesse *to the sacrifice*, *bazzāḇaḥ* (16:3, 5, WLC), and has the family sanctify
+themselves for it. The chapter after *to obey is better than sacrifice* (15:22) has Samuel offer one on Yahweh's
+instruction. See [[Samuel Anoints David]]. Source: stored WEB 1 Samuel 15:22; 16:2–5. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:2–5; the heifer, and the sacrifice to which Jesse is called.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:15, 21–22; *to obey is better than sacrifice, and to listen than the fat of rams*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:33–35; slaughter at the great stone, and *the first altar that he built to Yahweh*.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:15; peace offerings before Yahweh when Saul is made king at Gilgal.

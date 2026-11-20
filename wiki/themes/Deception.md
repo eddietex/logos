@@ -430,7 +430,18 @@ is not the prescribed remedy.
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### A true errand that hides another — 1 Samuel 16:2–5
+
+Samuel fears Saul: *If Saul hears it, he will kill me.* Yahweh answers *Take a heifer with you, and say, I have come to
+sacrifice to Yahweh* (16:2). The sacrifice is real; the family is sanctified and called to it (16:5). But it is not the
+reason Samuel came, and Yahweh supplies it as cover. The text gives no verdict. Readers have disagreed about whether
+this is deception or concealment (recalled, not checked). The wiki records that the words are true and incomplete, and
+that the instruction comes from Yahweh. Compare the midwives before Pharaoh (Exodus 1:19) and Rahab (Joshua 2:4–6),
+who protect life with words spoken to a king; Rahab's are plainly false. See [[Samuel Anoints David]] and [[The Midwives and Rahab - Deceiving the King to Save Life]].
+Source: stored WEB Exodus 1:19; Joshua 2:4–6; 1 Samuel 16:2–5.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:2–5; a real sacrifice, given by Yahweh as cover for the anointing.
 - [[Samson and Delilah]] — Judges 16:5–18; *Entice him*; three lies; *you have mocked me, and told me lies*.
 - [[Ehud and Eglon]] — Judges 3:19–25; the secret message, the message from God, the locked doors.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

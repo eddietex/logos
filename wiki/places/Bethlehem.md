@@ -124,7 +124,16 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 [[Ibzan, Elon, and Abdon]] and [[Bethlehem (Zebulun)]]. Source: stored WEB Judges 12:8–10; 17:7–9;
 19:1–2, 18; Joshua 19:15; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
+### David anointed — 1 Samuel 16:1–13
+
+Samuel comes to Bethlehem with a heifer and a horn of oil. *The elders of the city came to meet him trembling, and
+said, "Do you come peaceably?"* (16:4). He sanctifies Jesse and his sons for the sacrifice, and anoints the youngest,
+David, *in the middle of his brothers* (16:5, 13). Jesse is *the Bethlehemite*, *bêṯ hallaḥmî* (16:1, WLC). Ruth ended
+with this family in this town (Ruth 4:17); the king comes from it here. See [[Samuel Anoints David]]. Source: stored
+WEB Ruth 4:17; 1 Samuel 16:1–13; Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Appears in
+- [[Samuel Anoints David]] — 1 Samuel 16:1–13; the trembling elders, the sacrifice, and David anointed among his brothers.
 
 - [[Famine and Death in Moab]] — Ruth 1:1–2; *Bethlehem Judah* in famine; Elimelech's family, *Ephrathites*, leaves for Moab.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–9, 18; the concubine's home and her father's five days of hospitality.
@@ -160,6 +169,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 - [[Canaan]] — the land the road runs through
 
 ## Events here
+- David anointed by Samuel — 1 Samuel 16:1–13, [[Samuel Anoints David]]
 
 - A Levite fetches his concubine from her father's house and is kept five days — Judges 19:1–9, [[The Levite's Concubine at Gibeah]]
 - A young Levite leaves *Bethlehem Judah* to find a place to live — Judges 17:7–9, [[Micah's Idol and Levite]]

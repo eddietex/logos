@@ -17,8 +17,8 @@ tags: [connection]
   he prophesied among them*. Stored WEB.
 - [[Saul Rescues Jabesh Gilead]] — **1 Samuel 11:6** — *God's Spirit came mightily on Saul when he heard those
   words, and his anger burned hot*. Stored WEB.
-- **1 Samuel 16:13** — *Then Yahweh's Spirit came mightily on David from that day forward*. WEB at
-  bible-api.com; not stored.
+- [[Samuel Anoints David]] — **1 Samuel 16:13** — *Then Yahweh's Spirit came mightily on David from that day
+  forward*. Stored WEB.
 - **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he prophesied in the middle of
   the house*. WEB at bible-api.com; not stored.
 
@@ -115,3 +115,12 @@ gathers others. Samson's rushes are followed by what he does alone; Saul's is fo
 three hundred and thirty thousand, and three companies (11:7–11). The result is credited to Yahweh: *today
 Yahweh has rescued Israel*, *təšûʿâ* (11:13, WLC). Sources: stored WEB 1 Samuel 10:10; 11:6–13; Hebrew WLC
 (OpenScriptures morphhb), 2026-11-18.
+
+### 1 Samuel 16:13 now ingested — the rush that stays
+
+David's *ṣālaḥ* is now in [[Samuel Anoints David]], and 16:13 is in stored WEB. Two features already noted above are
+confirmed against the WLC: the preposition is *ʾel*, *to*, not *ʿal*, and the clause carries a duration no other rush
+has, *mēhayyôm hahûʾ wāmāʿlâ*, *from that day forward*. As with Saul (10:1, 10), the oil comes first and the Spirit
+after. Unlike Saul's, no sign or deed follows: David does nothing in the verse, and Samuel goes home. The next
+verse, *Now Yahweh's Spirit departed from Saul* (16:14, stored WEB; not yet ingested), sets the two kings side by side.
+Sources: stored WEB 1 Samuel 10:1, 10; 16:13–14. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.

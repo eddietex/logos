@@ -237,6 +237,16 @@ his death* (34–35). After chapter 13 Saul had no dynasty; after chapter 15 he 
 
 Source: stored WEB Exodus 10:16–17; 1 Samuel 15:1–35. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### *Since I have rejected him* — 1 Samuel 16:1–2
+
+Saul is not in the scene at Bethlehem, but the scene is about him. Yahweh's first words are *How long will you mourn
+for Saul, since I have rejected him from being king over Israel?* (16:1). Samuel's first words are *If Saul hears it,
+he will kill me* (16:2). The king who was chosen partly for his height (9:2; 10:23–24) is in the background when
+Yahweh tells Samuel not to look at *the height of his stature* (16:7). Eliab is *rejected*, *māʾas*, in the word used
+of Saul (15:23, 26; 16:1, 7, WLC). Saul is still king when another man is anointed. See [[Samuel Anoints David]].
+
+Source: stored WEB 1 Samuel 9:2; 10:23–24; 15:23, 26; 16:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -270,8 +280,10 @@ Source: stored WEB Exodus 10:16–17; 1 Samuel 15:1–35. Hebrew WLC (OpenScript
 - Sent to devote Amalek to destruction; musters at Telaim; spares the Kenites; strikes Amalek but spares Agag and
   the best of the livestock; sets up a monument at Carmel; claims to have performed the commandment; confesses twice;
   tears Samuel's robe; rejected from being king; Samuel sees him no more — 15:1–35.
+- Absent while Samuel, fearing him, anoints David at Bethlehem — 16:1–13.
 
 ## Appears in
+- [[Samuel Anoints David]] — 1 Samuel 16:1–2, 7; not present; *rejected*, mourned, and feared; his height in the background of *Yahweh looks at the heart*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35; the ban on Amalek, Agag spared, *to obey is better than sacrifice*, and the kingdom torn away.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16; anointed, changed, prophesies, and keeps the kingdom secret.

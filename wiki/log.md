@@ -29109,3 +29109,58 @@ directory; occurrence claims cover those files only, and lemma claims follow mor
 was checked. Recalled, not checked, and flagged where made: the proposed senses of *nēṣaḥ* and *maʿădannōṯ*; the
 identification of Telaim with Telem; the usual reading of 15:29 as the irrevocability of the sentence; alternative
 readings of whose robe tore; the link of Haman to Agag. No Septuagint was consulted.
+
+## [2026-11-20] ingest | 1 Samuel 16.1-13 — Samuel Anoints David
+
+Unattended run. Created [[Samuel Anoints David]], the people [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]],
+and [[Shammah (son of Jesse)]], and the connections [[Ruddy - Esau and David]] and
+[[Taken from Following the Sheep - 1 Samuel 16.11, 2 Samuel 7.8, and Psalm 78.70-72]]. Revised [[1 Samuel]] (box
+checked; overview paragraph; key themes, people, and places); the people [[David]], [[Jesse]], [[Samuel]], [[Saul]],
+[[God]], and [[Esau]]; the places [[Bethlehem]] and [[Ramah]]; the themes [[Seeing and Being Seen]],
+[[Call and Election]], [[Kingship and Empire]], [[The Spirit of God]], [[Birthright and the Firstborn]],
+[[Deception]], [[Sacrifice and Offering]], [[Holiness]], and [[Mourning and Lament]]; and the connections
+[[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]],
+[[The Spirit Rushed on Him - Samson, Saul, and David]],
+[[His King and His Anointed - Hannah's Song and David's]], and
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]]. Also `wiki/books/index.md` (22 / 47), People
+Index A-E (two new rows; David extended), F-M (Jesse and God extended), N-Z (one new row; Samuel and Saul extended),
+the places index (two rows), the themes index (nine rows), Connections Index O-S and T-Z (one new row each; rows
+extended), D-H and I-N (rows extended), and the dashboard counts. Frontmatter totals: 508 passages, 397 people, 616
+places, 88 themes, 962 connections.
+
+Judgment calls: the boundary 16:1–13 stands; 16:14 turns to Saul. Each named son of Jesse gets a qualified page,
+since an Eliab and an Abinadab already exist, and a son of Saul named Abinadab (31:2) and other men named Shammah are
+ahead. No page for the elders of Bethlehem (16:4) or the unnamed four sons. The Deuteronomy 17:15 link (*whom Yahweh
+your God chooses … from among your brothers*) went into the existing
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]] rather than a new page. Samuel's sacrifice as cover
+(16:2) is recorded under [[Deception]] as true but incomplete words given by Yahweh, with no verdict.
+
+Index repair: the themes index row for [[The Spirit of God]] had a stray note (*1 Samuel 11:6: the Spirit came
+mightily on Saul for battle*) in its name cell, before the first separator; it was moved to the end of the summary
+cell.
+
+Contradiction flagged: Jesse has eight sons by 1 Samuel 16:10 and 17:12, seven by 1 Chronicles 2:13–15 (*David the
+seventh*), which also names the third son *Shimea* for *Shammah*. Recorded on [[Jesse]] and
+[[Shammah (son of Jesse)]], not reconciled.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`): *ʾaḏmônî* occurs only at
+Genesis 25:25 and 1 Samuel 16:12; 17:42; the noun *rōʾî* (lemma 7210) only at Genesis 16:13 and 1 Samuel 16:12;
+*qeren* is a vessel of oil only at 1 Samuel 16:1, 13; *qômâ* is used of a person only at 1 Samuel 16:7 and 28:20;
+after 16:6, *məšîaḥ* next occurs at 24:7 (WLC numbering); 16:13 has *ṣālaḥ … ʾel* with *mēhayyôm hahûʾ wāmāʿlâ*;
+*bāzâ* (lemma 959) at Genesis 25:34 and 1 Samuel 17:42.
+
+Recorded, not resolved: seven or eight sons; whether 16:2 counts as a deception; why the elders tremble (16:4); the
+sense of *lōʾ nāsōḇ* (16:11); whether 16:7 explains *kilḇāḇô* (13:14); whether *ʾaḏmônî* is hair or skin; who outside
+Jesse's household knew of the anointing.
+
+Sources: 1 Samuel 16:1–13 from stored WEB, with the not-yet-ingested 1 Samuel 16:14, 18; 17:12–15, 28, 34, 42, 58;
+19:18; 24:6, 10; 26:9–23; 28:20; 31:2, 4–6. Comparisons from stored WEB Genesis 4:2, 8; 16:13; 22:8, 14; 25:23, 25,
+30, 34; 36:13; 37:2, 18–28; 39:6; 48:15; Exodus 1:19; 3:1; Numbers 27:17; Deuteronomy 17:15; Joshua 2:4–6; 3:5; 7:13;
+Judges 6:15; Ruth 4:17; 1 Samuel 2:1, 10, 35; 8:5; 9:2, 22–24; 10:1, 16, 23–24; 11:15; 12:3, 5, 13; 13:7, 14; 14:15;
+15:17, 22–23, 26, 28, 33–35. 2 Samuel 5:2; 7:8; Psalm 78:70–72; 1 Chronicles 2:13–15; Acts 13:22; Psalm 89:20
+checked at bible-api.com (`translation=web`), 2026-11-20, not stored. Hebrew from the Westminster Leningrad Codex
+(OpenScriptures morphhb) XML, files `Gen` through `2Sam` and `Ruth`, reused from an earlier session's scratch
+directory; occurrence claims cover those files only, and lemma claims follow morphhb's tagging. The Hebrew of Psalm 78
+and 1 Chronicles was not checked. Recalled, not checked, and flagged where made: the usual reading of *lōʾ nāsōḇ*;
+the range of views on Samuel's pretext; the lexical relation of *ʾaḏmônî* to *ʾāḏōm*; the hair-or-skin debate; the
+meaning of the name Eliab. No Septuagint was consulted.

@@ -397,7 +397,18 @@ people at Mizpah (10:19); it returns in the next chapter for Saul (16:1) and for
 *little in your own sight* (17), the humility of 9:21 recalled against him. See [[Saul Rejected over Amalek]].
 Source: stored WEB 1 Samuel 8:7; 9:21; 10:19; 15:17–28; 16:1, 7. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### *Yahweh has not chosen this one, either* — 1 Samuel 16:6–13
+
+The choice of David is told as a series of refusals. Eliab is *rejected*, *māʾas* (16:7), the verb used of Saul. Then
+*Yahweh has not chosen*, *lōʾ-bāḥar YHWH*, for Abinadab, for Shammah, and for the seven (16:8–10, WLC). The chosen son
+is absent, *the youngest*, *keeping the sheep* (16:11), and the word for him is *this is he* (16:12). Yahweh gives a
+reason for passing over Eliab, *Yahweh looks at the heart* (16:7), and none for choosing David. See
+[[Samuel Anoints David]] and
+[[Taken from Following the Sheep - 1 Samuel 16.11, 2 Samuel 7.8, and Psalm 78.70-72]]. Source: stored WEB 1 Samuel
+16:6–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Samuel Anoints David]] — 1 Samuel 16:6–13; *rejected*; *Yahweh has not chosen*, three times; *this is he*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:17, 23, 26–28; *rejected*, *māʾas*, and a neighbor *better than you*.
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–24; chosen by lot, found hiding, *him whom Yahweh has chosen*.

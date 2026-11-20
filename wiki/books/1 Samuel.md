@@ -251,6 +251,20 @@ who is better than you*, and *the Strength of Israel will not lie nor repent* (1
 *Yahweh grieved that he had made Saul king* (15:35). Samuel kills Agag *before Yahweh in Gilgal* and does not see Saul
 again while he lives (15:33–35). See [[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]].
 
+[[Samuel Anoints David]] (16:1–13) finds the man the two sentences on Saul had left unnamed. Yahweh ends Samuel's
+mourning, *How long will you mourn for Saul … ? Fill your horn with oil, and go*, and sends him to Jesse of
+Bethlehem, *for I have provided a king for myself among his sons*, literally *I have seen*, *rāʾîṯî* (16:1, WLC).
+Afraid of Saul, Samuel goes with a heifer and a real sacrifice as cover (16:2–5). He takes the eldest, Eliab, for
+*Yahweh's anointed*, and is told *Don't look on his face, or on the height of his stature … for man looks at the
+outward appearance, but Yahweh looks at the heart* (16:6–7), the noun of 13:14's *after his own heart*. Seven sons
+pass, and *Yahweh has not chosen these* (16:10). The youngest is *keeping the sheep*; brought in, he is *ruddy, with a
+handsome face*, a word used elsewhere in the Hebrew files checked only of Esau at birth (Genesis 25:25). Samuel
+anoints him with *the horn of oil … in the middle of his brothers*, and *Yahweh's Spirit came mightily on David from
+that day forward*, the first time the narrative names him (16:11–13). He is anointed, not crowned; Saul reigns until
+chapter 31. 16:10 and 17:12 give Jesse eight sons, 1 Chronicles 2:15 seven, with *David the seventh*; both counts are
+recorded. See [[Ruddy - Esau and David]] and
+[[Taken from Following the Sheep - 1 Samuel 16.11, 2 Samuel 7.8, and Psalm 78.70-72]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -294,7 +308,7 @@ merge, or reorder them freely.
 - [x] [[Saul's Rash Oath]] — 1 Samuel 14:24–46
 - [x] [[Saul's Wars and Household]] — 1 Samuel 14:47–52
 - [x] [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35
-- [ ] Samuel Anoints David — 1 Samuel 16:1–13
+- [x] [[Samuel Anoints David]] — 1 Samuel 16:1–13
 - [ ] David Plays the Harp for Saul — 1 Samuel 16:14–23
 - [ ] Goliath Defies Israel — 1 Samuel 17:1–11
 - [ ] David Comes to the Camp — 1 Samuel 17:12–40
@@ -410,6 +424,11 @@ merge, or reorder them freely.
 - [[Compassion and Mercy]] — *ḥāmal*: *don't spare them*; *Saul and the people spared* (15:3, 9)
 - [[Mourning and Lament]] — *Samuel mourned for Saul* (15:35)
 - [[Vengeance]] — *As your sword has made women childless* (15:33)
+- [[Seeing and Being Seen]] — *I have seen … a king*; *Yahweh looks at the heart* (16:1, 7)
+- [[Call and Election]] — *Yahweh has not chosen*; *this is he* (16:8–12)
+- [[Birthright and the Firstborn]] — the eldest passed over, the youngest anointed (16:6–13)
+- [[The Spirit of God]] — *came mightily on David from that day forward* (16:13)
+- [[Deception]] — the sacrifice that covers the anointing (16:2)
 
 ## Key people
 - [[Samuel]]
@@ -451,6 +470,8 @@ merge, or reorder them freely.
 - [[Amalek]] — struck by Saul (14:48); devoted to destruction, the best spared (15:2–9)
 - [[Agag]] — king of the Amalekites, spared by Saul and killed by Samuel (15:8–9, 32–33)
 - [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
+- [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11)
+- [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9)
 
 ## Key places
 - [[Shiloh]]
@@ -488,3 +509,4 @@ merge, or reorder them freely.
 - [[Carmel (Judah)]] — presumably, where Saul sets up a monument (15:12)
 - [[Gilgal]] — the second rejection, and Agag's death (15:12–33)
 - [[Ramah]] and [[Gibeah (Benjamin)]] — where Samuel and Saul go, never to meet again while Saul lives (15:34–35)
+- [[Bethlehem]] — Jesse's town, where David is anointed (16:1–13)
