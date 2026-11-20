@@ -16,7 +16,7 @@ tags: [connection]
 - **Judges 17:5; 18:14–20** — Micah's household shrine, with an ephod and *teraphim*, and the Danites
   who carry the lot of it off — [[Micah's Idol and Levite]] (17:5) and [[The Danite Migration]]
   (18:14–20)
-- **1 Samuel 15:23** — *"stubbornness is as idolatry and teraphim"*
+- **1 Samuel 15:23** — *"stubbornness is as idolatry and teraphim"* — [[Saul Rejected over Amalek]]
 - **1 Samuel 19:11–17** — Michal puts *teraphim* in David's bed and tells her father's men he is sick
 - **2 Kings 23:24** — Josiah purges *teraphim* along with mediums and household idols
 - **Ezekiel 21:21** — the king of Babylon at the crossroads, shaking arrows and consulting *teraphim*

@@ -82,6 +82,7 @@ the stored text it is Hosea's byword, *as in the days of
 Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:34; *Gibeah of Saul*, his house.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:2, 16; Saul under the pomegranate, and his watchmen.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:4–7; *Gibeah of Saul*, where the news comes and the pieces are sent from.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:26; Saul goes home to Gibeah.
@@ -101,6 +102,7 @@ Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 - [[Sodom]] — the city whose night it repeats.
 
 ## Events here
+- Saul goes up to his house at *Gibeah of Saul* after his rejection (1 Samuel 15:34).
 - Saul sits under the pomegranate tree at its edge; his watchmen see the Philistine camp melt away (1 Samuel 14:2, 16).
 - Saul goes home here after he is made king at Mizpah, with the men whose hearts God touched (1 Samuel 10:26).
 - Besieged by all Israel; two Israelite defeats, then the ambush, the smoke, and the burning (20:19–48).

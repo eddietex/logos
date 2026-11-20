@@ -647,7 +647,19 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 Samuel's history names *the Baals and the Ashtaroth* (12:10), and his charge warns against turning aside *after vain things which can't profit or deliver, for they are vain*, *tōhû* (12:21, WLC). The verse does not name the vain things; idols are the usual reading. *Deliver* is the verb used of Yahweh's deliverances in 12:10–11. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### *As idolatry and teraphim* — 1 Samuel 15:23
+
+Samuel compares disobedience to forbidden worship: *rebellion is as the sin of witchcraft, and stubbornness is as
+idolatry and teraphim* (15:23). The Hebrew is compressed, *ḥaṭṭaʾṯ qesem meri wəʾāwen ûṯərāp̄îm hap̄ṣar* (WLC).
+*Qesem*, divination, is among the arts Deuteronomy 18:10 forbids; the teraphim are Laban's household gods (Genesis
+31:19) and Micah's (Judges 17:5). The comparison does not accuse Saul of idolatry; it ranks his stubbornness with it.
+The teraphim will appear in Saul's own house (19:13), and the king who expels the mediums will consult one (28:3–25)
+(stored WEB; not yet ingested). See [[Saul Rejected over Amalek]] and
+[[The Teraphim - Household Gods in Genesis and After]]. Source: stored WEB Genesis 31:19; Deuteronomy 18:10; Judges
+17:5; 1 Samuel 15:23; 19:13; 28:3. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:23; *stubbornness is as idolatry and teraphim*.
 - [[Israel Asks for a King]] — 1 Samuel 8:7–8; *forsaken me, and served other gods, so they also do to you*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–4; the foreign gods, the Baals, and the Ashtaroth put away; *serve him only*.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:2–7; Dagon twice fallen before the ark, set up again by hand, and broken.

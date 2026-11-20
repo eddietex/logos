@@ -14,7 +14,7 @@ tags: [connection]
 - **Proverbs 15:8** — *"The sacrifice made by the wicked is an abomination to Yahweh, but the prayer
   of the upright is his delight."* — [[A Gentle Answer]]
 - **1 Samuel 15:22** — *"Behold, to obey is better than sacrifice, and to listen than the fat of
-  rams."* *(WEB verified at bible-api.com; not yet ingested)*
+  rams."* — [[Saul Rejected over Amalek]] *(stored WEB, now ingested)*
 - **Hosea 6:6** — *"For I desire mercy, and not sacrifice; and the knowledge of God more than burnt
   offerings."* *(WEB verified at bible-api.com; not yet ingested)*
 - **Micah 6:8** — *"What does Yahweh require of you, but to act justly, to love mercy, and to walk
@@ -31,7 +31,7 @@ the reader to stop offering.
 
 **The same ranking appears in narrative and prophecy.** Samuel's rebuke of Saul sets obeying
 Yahweh's voice above burnt offerings and the fat of rams (1 Samuel 15:22), answering a king who,
-on the chapter's account (not yet ingested; paraphrased here), excused disobedience by appeal to
+on the chapter's account, excused disobedience by appeal to
 sacrifice. Hosea's *"mercy, and not sacrifice"* uses a
 negation that the parallel line glosses as *more than* (6:6). Micah answers a question about what
 offering would suffice with justice, mercy, and humility (6:8). Proverbs states the same
@@ -54,3 +54,13 @@ the two verses share Hebrew vocabulary. Source: stored WEB Ecclesiastes 5:1.
 The thread runs through the law's own sacrificial system and does not oppose it; it tells the
 worshipper what the offering cannot replace. See [[Sacrifice and Offering]], [[Righteousness]],
 and [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
+
+### 1 Samuel 15 now ingested
+
+Saul's appeal to sacrifice is explicit: the best animals were spared *to sacrifice to Yahweh your God* (15:15, 21).
+Samuel's line is a question and an answer: *Has Yahweh as great delight in burnt offerings and sacrifices, as in
+obeying Yahweh's voice? Behold, to obey*, *šəmōaʿ*, *is better than sacrifice, and to listen*, *ləhaqšîḇ*, *than the
+fat of rams* (22, WLC). Like Proverbs 21:3 it ranks rather than abolishes. Unlike Proverbs, it answers a particular
+offering whose animals should not have existed, so the sacrifice is not merely less than obedience but was the means
+of disobedience. See [[Saul Rejected over Amalek]]. Source: stored WEB 1 Samuel 15:15–22. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-20.

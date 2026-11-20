@@ -387,7 +387,18 @@ The chosen man is unnamed until 16:13, where Yahweh *looks at the heart* (16:7, 
 [[Saul's Sacrifice at Gilgal]] and [[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]]. Source:
 stored WEB 1 Samuel 13:14; 16:7, 13; Hebrew WLC, 2026-11-18.
 
+### Rejected — 1 Samuel 15:23, 26
+
+*Because you have rejected Yahweh's word, he has also rejected you from being king* (15:23). The verb, *māʾas*, is the
+one Yahweh used of the people's request, *they have rejected me as the king over them* (8:7), and Samuel of the same
+people at Mizpah (10:19); it returns in the next chapter for Saul (16:1) and for Eliab, *I have rejected him* (16:7)
+(WLC, morphhb lemma 3988). The king chosen by lot is now *rejected*, and *a neighbor of yours who is better than you*
+(15:28) has been chosen, still unnamed. Saul was told he had been *made the head of the tribes of Israel* although
+*little in your own sight* (17), the humility of 9:21 recalled against him. See [[Saul Rejected over Amalek]].
+Source: stored WEB 1 Samuel 8:7; 9:21; 10:19; 15:17–28; 16:1, 7. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:17, 23, 26–28; *rejected*, *māʾas*, and a neighbor *better than you*.
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:20–24; chosen by lot, found hiding, *him whom Yahweh has chosen*.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:1–16; the private anointing; *God is with you*; *another heart*; the chosen man's silence.

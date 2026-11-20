@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The Defeat at Hormah]] — Numbers 14:40–43
 - Numbers 22:18; 24:13 — Balaam *(stored WEB, not yet ingested)*
-- 1 Samuel 15:11, 24 — Saul *(WEB checked, not yet ingested)*
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:11, 24 — Saul *(stored WEB, now ingested)*
 
 ## Analysis
 
@@ -41,3 +41,13 @@ drawn by the wiki.
 
 - The phrase is rare and its two narrative uses are both about failed confession.
 - *Sinned* is not by itself a turn. See [[Sin]] and [[Guilt and Conscience]].
+
+### 1 Samuel 15 now ingested
+
+The table stands as written against the WLC. Saul's confession continues with a second borrowed sentence:
+*wəʿattâ śāʾ nāʾ ʾeṯ-ḥaṭṭāʾṯî*, *Now therefore, please pardon my sin* (15:25, WLC), the words of Pharaoh after the
+locusts, *wəʿattâ śāʾ nāʾ ḥaṭṭāʾṯî* (Exodus 10:17, WLC), whose confession also began *ḥāṭāʾṯî* (10:16). In Genesis–2
+Samuel *śāʾ nāʾ* with *ḥaṭṭāʾṯ* occurs only in those two verses (morphhb). Like Israel at Kadesh and Pharaoh in Egypt,
+Saul confesses and the decision stands. Whether the narrator intends either echo is not stated. See
+[[Saul Rejected over Amalek]]. Source: stored WEB Exodus 10:16–17; Numbers 14:40–45; 1 Samuel 15:11, 24–25. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-20.

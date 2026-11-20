@@ -241,7 +241,18 @@ does not say she sinned by vowing, and the wiki leaves open whether *forgive* he
 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
+### *Please pardon my sin* — 1 Samuel 15:25–26
+
+Saul asks *please pardon my sin, and turn again with me, that I may worship Yahweh* (15:25). The request, *śāʾ nāʾ
+ʾeṯ-ḥaṭṭāʾṯî*, uses *nāśāʾ*, *lift* or *carry*, the verb of *forgiving iniquity* in the self-description of Exodus 34:7
+(*nōśēʾ*, WLC), and it repeats Pharaoh's *please forgive my sin* (Exodus 10:17, WLC); in Genesis–2 Samuel *śāʾ nāʾ* with
+*ḥaṭṭāʾṯ* occurs only in those two verses (morphhb lemmas 5375, 4994, 2403). It is addressed to Samuel, and Samuel
+refuses: *I will not return with you* (26). The request is for pardon from the prophet and for the prophet's company
+in worship; whether Yahweh forgave is not asked or answered. See [[Saul Rejected over Amalek]]. Source: stored WEB
+Exodus 10:16–17; 34:7; 1 Samuel 15:24–31. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:25–26; *please pardon my sin*, refused.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *He will not forgive your disobedience nor your sins* (19), against Exodus 34:7.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

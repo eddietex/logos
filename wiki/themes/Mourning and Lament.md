@@ -359,7 +359,16 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 (WEB at bible-api.com). The Hebrew *bǝʾōnî* is lexically uncertain; morphhb assigns it to *ʾāwen*,
 *trouble*. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:14.
 
+### *Samuel mourned for Saul* — 1 Samuel 15:11, 35
+
+The chapter begins with Samuel angry and crying to Yahweh all night (15:11), and ends *Samuel came no more to see Saul
+until the day of his death; for Samuel mourned for Saul* (35), *hiṯʾabbēl* (WLC), the verb of the people's mourning at
+Beth Shemesh (6:19). Samuel mourns a living man, and Yahweh asks in the next verse *How long will you mourn for Saul?*
+(16:1, stored WEB; not yet ingested). In the same verse *Yahweh grieved*, *nāḥam*, that he had made Saul king (35). See
+[[Saul Rejected over Amalek]]. Source: stored WEB 1 Samuel 6:19; 15:11, 35; 16:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:11, 35; Samuel cries all night, and mourns for Saul.
 
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2, 6; *lamented after Yahweh*; the fast at Mizpah.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:19; *the people mourned*.

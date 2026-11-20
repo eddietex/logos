@@ -16,7 +16,7 @@ tags: [connection]
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, go up with Judah *(stored WEB, now ingested)*
 - [[Deborah and Barak]] — Judges 4:11; *the children of Hobab*, and Heber's tent by Kedesh *(stored WEB, now ingested)*
 - [[Jael and Sisera]] — Judges 4:17–22; Jael's tent, and Heber's peace with Jabin *(stored WEB, now ingested)*
-- 1 Samuel 15:6 — Saul spares the Kenites for their kindness to Israel *(WEB checked, not yet ingested)*
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:6; Saul spares the Kenites for their kindness to Israel *(stored WEB, now ingested)*
 
 ## Analysis
 
@@ -104,3 +104,11 @@ generations. See [[Hobab]], [[Jethro]], and [[The Nations]].
 
 Source: WEB of Genesis and Numbers from `raw/bible/`; Judges and 1 Samuel from bible-api.com (`translation=web`),
 2026-11-01. Hebrew from WLC (morphhb). No commentary was consulted.
+
+### 1 Samuel 15 now ingested
+
+The Kenites are now *among the Amalekites* (15:6), south, where Judges 1:16 left them *in the south of Arad*. Saul's
+warning sets their *ḥeseḏ* and Amalek's attack on the same occasion, *when they came up out of Egypt* (15:2, 6, WLC):
+one people is spared and one destroyed for what each did on the same journey. The chapter still does not name Hobab or
+say what the kindness was. See [[Saul Rejected over Amalek]]. Source: stored WEB Judges 1:16; 1 Samuel 15:2, 6.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-20.

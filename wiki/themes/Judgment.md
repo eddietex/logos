@@ -1190,7 +1190,18 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 *Wəʾiššāp̄əṭâ ʾittəḵem lip̄nê YHWH* (12:7, WLC): the last judge uses the judges' verb, *šāp̄aṭ*, in the Niphal, to enter into judgment with Israel. The evidence is the history of Yahweh's acts; the verdict is the thunder in wheat harvest, *your wickedness is great* (12:17). See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### Two sentences — 1 Samuel 15
+
+The chapter carries out one sentence and pronounces another. Against Amalek, Yahweh says *I remember*, *pāqaḏtî*
+(15:2, WLC), the verb of attending to and settling an account, and orders the ban (3); Samuel completes it on Agag
+with a sentence in kind, *As your sword has made women childless, so your mother will be childless among women* (33).
+Against Saul, the sentence of 13:13–14 (no dynasty) becomes rejection from the kingship itself: *he has also
+rejected you from being king* (23, 26), *Yahweh has torn the kingdom of Israel from you today* (28), and it is not
+reversed by confession (24–26) or by Samuel's night of crying to Yahweh (11). See [[Saul Rejected over Amalek]].
+Source: stored WEB 1 Samuel 13:13–14; 15:1–35. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:2–3, 23–28, 33; the ban on Amalek and the rejection of Saul.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:19; the men of Beth Shemesh struck for looking into the ark.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:6–12; Yahweh's hand on Ashdod, Gath, and Ekron, with tumors and confusion.
 - [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sentence on Eli's house carried out in one day.

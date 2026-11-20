@@ -14,8 +14,8 @@ tags: [connection]
   WEB.
 - Compare Genesis 43:33–34 — Benjamin, *the youngest according to his youth*, seated at Joseph's table and given a
   portion *five times as much*. Stored WEB.
-- Compare 1 Samuel 15:17 — *Though you were little in your own sight, weren't you made the head of the tribes of
-  Israel?* Stored WEB; not yet ingested.
+- Compare [[Saul Rejected over Amalek]] — 1 Samuel 15:17 — *Though you were little in your own sight, weren't you
+  made the head of the tribes of Israel?* Stored WEB.
 
 ## Analysis
 
@@ -48,8 +48,11 @@ tribe lacking in Israel today* (Judges 21:3); see [[Wives for Benjamin]]. The fi
 nearly ceased to exist.
 
 The motif returns against Saul. At Gilgal, after Amalek, Samuel will say *Though you were little in your own sight,
-weren't you made the head of the tribes of Israel?* (1 Samuel 15:17, stored WEB; not yet ingested), turning the
-humility of 9:21 into the measure of his fall. The wiki will take that up when 15 is ingested.
+weren't you made the head of the tribes of Israel?* (1 Samuel 15:17, stored WEB), turning the humility of 9:21 into
+the measure of his fall. *Little*, *qāṭōn* (WLC), is the adjective of 9:21's *the smallest of the tribes*,
+*miqqaṭannê*, there in the plural (WLC). Samuel's question follows Saul's excuse that *the people* spared
+the animals (15:15): the man who was small in his own eyes was made head, and now speaks as though the people were
+in charge of him. See [[Saul Rejected over Amalek]].
 
 ## Significance
 

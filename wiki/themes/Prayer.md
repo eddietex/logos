@@ -519,7 +519,16 @@ stand against Mizpah, where *Samuel cried to Yahweh for Israel; and Yahweh answe
 *bayyôm hahûʾ* in both 8:18 and 14:37). Saul takes the silence as a sign of hidden sin (14:38). The text does not
 say what it meant. See [[Saul's Rash Oath]]. Source: stored WEB 1 Samuel 7:9; 8:18; 14:36–38. Hebrew WLC.
 
+### *He cried to Yahweh all night* — 1 Samuel 15:11
+
+When Yahweh tells him he regrets making Saul king, *Samuel was angry; and he cried to Yahweh all night* (15:11).
+*Wayyizʿaq* (WLC) is the verb of Samuel's intercession at Mizpah, *Samuel cried to Yahweh for Israel; and Yahweh
+answered him* (7:9), and of Samuel's warning that the people *will cry out* because of their king (8:18) (morphhb lemma
+2199). The night's content is not given, and it does not change the word Samuel carries in the morning. See
+[[Saul Rejected over Amalek]]. Source: stored WEB 1 Samuel 7:8–9; 8:18; 15:10–16. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:11; Samuel angry, crying to Yahweh all night.
 - [[Saul's Rash Oath]] — 1 Samuel 14:36–37; Saul asks counsel of God, and *he didn't answer him that day*.
 
 - [[Israel Asks for a King]] — 1 Samuel 8:6, 18, 21; Samuel prays about the request; the cry Yahweh will not answer.

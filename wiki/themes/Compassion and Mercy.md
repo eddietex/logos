@@ -466,7 +466,17 @@ false witness (19:21) is used once more, of a wife who seized a man's private pa
 same chapter the guilty man's beating is capped so that *"your brother"* is not degraded (3). The
 chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
+### *Don't spare them* — 1 Samuel 15:3, 9, 15
+
+*Ḥāmal*, *spare* or *have pity*, appears three times in the chapter (WLC): the command *don't spare them* (15:3), the
+narrator's *Saul and the people spared Agag, and the best of the sheep* (9), and Saul's *the people spared the best*
+(15). It is the verb of Pharaoh's daughter, who *had compassion* on the crying infant Moses (Exodus 2:6, WLC). Here
+the sparing is selective: the people were destroyed, and the king and the best animals were kept, the animals *to
+sacrifice*. The text does not present it as mercy, and the wiki does not read it as mercy. See
+[[Saul Rejected over Amalek]]. Source: stored WEB Exodus 2:6; 1 Samuel 15:3, 8–9, 15. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:3, 9, 15; *ḥāmal*, commanded not to spare, and sparing the king and the best.
 
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:13; *No man shall be put to death today*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:16; *his soul was grieved for the misery of Israel*.

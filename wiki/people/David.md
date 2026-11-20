@@ -63,6 +63,18 @@ David the son of Jesse, a man after my heart, who will do all my will* (Acts 13:
 [[Saul's Sacrifice at Gilgal]] and
 [[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]].
 
+### *A neighbor of yours who is better than you* — 1 Samuel 15:28
+
+Still unnamed, David is the subject of the second sentence on Saul. When the skirt of Samuel's robe tears, Samuel
+says *Yahweh has torn the kingdom of Israel from you today, and has given it to a neighbor of yours who is better
+than you* (15:28). *Better*, *ṭôḇ*, was the word for Saul at his introduction, with no one in Israel better than he
+(9:2, WLC). At Endor Samuel will repeat the sentence and add the name: *given it to your neighbor, even to David*
+(28:17), and at En Gedi David will cut the skirt of Saul's robe (24:4) (stored WEB; not yet ingested). See
+[[Saul Rejected over Amalek]] and
+[[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]].
+
+Source: stored WEB 1 Samuel 9:2; 15:27–28; 24:4; 28:17. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Timeline / key events
 
 - 1 Samuel 16:13 *(not yet ingested)* — anointed by Samuel, and *"Yahweh's Spirit came mightily on David
@@ -75,6 +87,7 @@ David the son of Jesse, a man after my heart, who will do all my will* (Acts 13:
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:28; not named; *a neighbor of yours who is better than you*.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; named in the Preacher’s identification.
 - [[You Are All Beautiful]] — Song of Solomon 4:4; named only in *"David's tower"*, a comparison for

@@ -257,7 +257,16 @@ Leviticus 19:18 forbids.
 
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
+### *As your sword has made women childless* — 1 Samuel 15:32–33
+
+Saul spared Agag; Samuel kills him. *As your sword has made women childless, so your mother will be childless among
+women* (15:33): the sentence is in kind, *šikkəlâ … tiškal* (WLC), the verb of Jacob's *You have bereaved me of my
+children* (Genesis 42:36). It answers Exodus 17:16, *Yahweh will have war with Amalek from generation to generation*,
+in the person of one king, *before Yahweh in Gilgal*. See [[Saul Rejected over Amalek]]. Source: stored WEB Genesis
+42:36; Exodus 17:16; 1 Samuel 15:32–33. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:32–33; Agag killed *before Yahweh in Gilgal*, a sentence in kind.
 - [[The Death of Samson]] — Judges 16:28; *avenged … for my two eyes*.
 - [[Jephthah's Vow]] — Judges 11:36; *Yahweh has taken vengeance for you*.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:18–21; Gideon kills the kings of Midian for his brothers killed at Tabor.

@@ -722,7 +722,20 @@ keeps the throne for now; the house is what he loses, and the title *prince*, *n
 own heart* (13:14). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 13:13–14; Hebrew WLC,
 2026-11-18.
 
+### Rejected from being king — 1 Samuel 15
+
+The second sentence on Saul removes what the first left. At Gilgal in chapter 13 he lost a dynasty (*your kingdom will
+not continue*, 13:14); at Gilgal in chapter 15 he loses the kingship: *he has also rejected you from being king* (15:23),
+*from being king over Israel* (26), *Yahweh has torn the kingdom of Israel from you today, and has given it to a
+neighbor of yours who is better than you* (28). Saul's own account explains the failure in terms of the monarchy's
+origin: *I feared the people, and obeyed their voice* (24), when the king had been given because the people would
+not listen to Yahweh (8:7, 19). He keeps the throne and asks to be *honored … before the elders of my people, and before
+Israel* (30); Samuel never sees him again alive (35). See [[Saul Rejected over Amalek]] and
+[[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]]. Source: stored WEB 1 Samuel 8:7, 19;
+13:13–14; 15:23–35.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:23–30; *rejected you from being king*; the kingdom torn away and given to a neighbor.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47–52; the first summary notice of an Israelite king's reign.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:1–15; the king fights the people's battle, and is made king *before Yahweh* at Gilgal.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; the lot, *Long live the king!*, the regulations written, and the doubters.

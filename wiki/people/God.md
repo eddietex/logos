@@ -3207,7 +3207,9 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
 Yahweh proposes consuming Israel and making a nation of Moses, then relents after Moses appeals to
 the exodus and the oath (32:7–14). The narrator’s statement of relenting is retained alongside the
 denials of divine repentance in Numbers 23:19 and 1 Samuel 15:29 (WEB verified at bible-api.com,
-2026-10-24); see [[Divine Grief and Relenting]]. Relenting from total destruction does not remove
+2026-10-24); see [[Divine Grief and Relenting]]. 1 Samuel 15 itself, now ingested, says both: *It grieves me that I
+have set up Saul to be king* (11) and *Yahweh grieved* (35), around *the Strength of Israel will not lie nor repent*
+(29). See [[Saul Rejected over Amalek]]. Relenting from total destruction does not remove
 all judgment: God assigns erasure to the sinner, reaffirms angelic guidance with punishment still
 pending, and strikes the people (32:33–35). See [[The Golden Calf]].
 
@@ -4167,6 +4169,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Sets every man's sword in Midian's camp against his fellow — [[The Sword of Yahweh and of Gideon]]
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:2–3, 10–11, 22–29, 35; *I remember what Amalek did*; *It grieves me*; *the Strength of Israel will not lie nor repent*.
 
 - [[The Fall of Abimelech]] — Judges 9:22–57; sends *an evil spirit* between Abimelech and Shechem (23) and *repaid the wickedness* of both (56–57), the only acts of God in the chapter.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; named only in Gideon's mouth (3, 7, 19), including the oath *As Yahweh lives*.

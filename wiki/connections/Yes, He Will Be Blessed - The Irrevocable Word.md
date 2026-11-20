@@ -27,7 +27,7 @@ tags: [connection]
   have sworn to them by Yahweh, the God of Israel. Now therefore we may not touch them."*
 - [[Jephthah's Vow]] — **Judges 11:35** — Jephthah: *"I have opened my mouth to Yahweh, and I can't go back."*
 - **1 Samuel 15:29** — *"Also the Strength of Israel will not lie nor repent; for he is not a man,
-  that he should repent."*
+  that he should repent."* — [[Saul Rejected over Amalek]]
 - **Isaiah 55:11** — *"so is my word that goes out of my mouth: it will not return to me void."*
 - **Romans 11:29** — *"For the gifts and the calling of God are irrevocable."*
 

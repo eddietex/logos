@@ -62,6 +62,7 @@ stretch *"the wilderness of Etham"* (WEB; *not yet ingested*); the wiki records 
 [[Bitter Water at Marah]] and [[Etham]].
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:7; *as you go to Shur, that is before Egypt*, the bounds of Saul's battle.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49, comparison rather than an explicit identification.
 

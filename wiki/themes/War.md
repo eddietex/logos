@@ -1023,7 +1023,22 @@ goes to the priest, and God does not answer (14:37). After the lot and Jonathan'
 the Philistines; and the Philistines went to their own place* (14:46). See [[Saul's Rash Oath]]. Source: stored WEB 1
 Samuel 14:24–46.
 
+### The war against Amalek — 1 Samuel 15:1–9
+
+The only war in 1 Samuel commanded by a prophet in Yahweh's name with the ban: *strike Amalek, and utterly destroy all
+that they have … kill both man and woman, infant and nursing baby* (15:3). The reason is Amalek's attack *on the way …
+when he came up out of Egypt* (2), the war Yahweh had sworn *from generation to generation* (Exodus 17:16) and
+Deuteronomy had deferred until Israel had rest (25:19). Saul musters two hundred and ten thousand at Telaim, sends the
+Kenites away, strikes Amalek *from Havilah as you go to Shur*, and destroys *all the people*, but spares Agag and the
+best of the livestock (4–9). The war is won and the command is broken; the kingdom is lost over what was kept, not
+over the fighting. Amalekites are still raiding in 30:1 (stored WEB; not yet ingested). The chapter asks whether
+Saul obeyed, not whether the command was just; the wiki records the command without defending it. See
+[[Saul Rejected over Amalek]] and
+[[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]]. Source: stored WEB
+Exodus 17:8–16; Deuteronomy 25:17–19; 1 Samuel 15:1–9; 30:1.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:1–9; the ban on Amalek, Agag and the best spared.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47–52; enemies on every side, a standing commander, and severe war all Saul's days.
 - [[Saul's Rash Oath]] — 1 Samuel 14:31, 36, 46; the pursuit to Aijalon, the night raid not made, and the Philistines gone home.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; two men climb to the garrison, and the camp is routed by trembling and its own swords.

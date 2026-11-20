@@ -32,8 +32,8 @@ tags: [connection]
 - Deuteronomy 7:2, 26 — *"you shall utterly destroy them"*; *"for it is a devoted thing."* *(same)*
 - Joshua 6:17; 7:1 — *"The city shall be devoted"*; Achan *"took some of the devoted things."*
   *(same)*
-- 1 Samuel 15:3, 9 — *"utterly destroy all that they have"*; Saul and the people *"were not willing
-  to utterly destroy them."* *(same)*
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:3, 9 — *"utterly destroy all that they have"*; Saul and the
+  people *"were not willing to utterly destroy them."* (now ingested)
 - Ezekiel 44:29 — *"every devoted thing in Israel shall be theirs."* *(same)*
 - [[The War Against Midian]] — Numbers 31; a war of vengeance with no *ḥērem* vocabulary, whose plunder is
   kept, divided, and levied.
@@ -190,8 +190,12 @@ things go wholly to Yahweh (Leviticus 27:28). The war is named vengeance (31:2�
 
 ## Significance
 
-Leviticus supplies the rule behind later stories: Achan's theft and Saul's mercy are breaches of the
-*not sold, not redeemed* clause, whether or not the narrators are citing it. Joshua 6 and 7 are now ingested; 1 Samuel 15 remains to be ingested. See [[War]], [[Holiness]], and
+Leviticus supplies the rule behind later stories: Achan's theft and Saul's sparing are breaches of the
+*not sold, not redeemed* clause, whether or not the narrators are citing it. Joshua 6 and 7 and 1 Samuel 15 are now
+ingested. *(Revised 2026-11-20: this paragraph said "Saul's mercy". 1 Samuel 15 does not present the sparing as
+mercy: the people were destroyed and the king and the best animals kept, the animals by Saul's account to be
+sacrificed (15:8–9, 15). The verb is *ḥāmal*, *spare* (WLC), which elsewhere can mean compassion (Exodus 2:6), so
+"mercy" is a possible reading of the word but not of the scene; the page now says "sparing".)* See [[War]], [[Holiness]], and
 [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 Sources: WEB from stored raw files and bible-api.com, 2026-10-30. Hebrew from WLC (morphhb, GitHub),
@@ -208,3 +212,16 @@ of Yahweh precedes the command. The ban at Jabesh also stops short of its own wo
 kept alive, as in Numbers 31:18. See [[Wives for Benjamin]] and
 [[Every Woman Who Has Known a Man - Numbers 31 and Jabesh Gilead]]. Source: stored WEB Numbers 31:18;
 Deuteronomy 13:12–18; Judges 1:17; 21:5–12; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+### 1 Samuel 15 now ingested — the chief of the devoted things
+
+The chapter uses *ḥāram* seven times and *ḥērem* once (15:3, 8, 9 twice, 15, 18, 20; 21, WLC). Saul's defence turns on
+the noun: the people took *the chief of the devoted things*, *rēʾšîṯ haḥērem*, *to sacrifice to Yahweh your God in
+Gilgal* (21). If, as Leviticus 27:28 says, *everything devoted to destruction is most holy to Yahweh*, then offering it to Yahweh
+might be argued to honour the ban rather than break it. Samuel does not argue the category. He answers that *to obey
+is better than sacrifice* (22), and the narrator's verse 9 has already given the motive the defence omits: they *were
+not willing* to destroy what was *good*, and destroyed what was *vile and refuse*. What Achan hid in his tent (Joshua
+7:21), Saul brings openly to the altar, and both are judged as keeping what was not theirs to keep. The verse 3
+command to kill *infant and nursing baby* stands in the text; the chapter's question is whether Saul obeyed it, and
+this page, as above, does not try to make it easier. See [[Saul Rejected over Amalek]]. Source: stored WEB Leviticus
+27:28; Joshua 7:21; 1 Samuel 15:3–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.

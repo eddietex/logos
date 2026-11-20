@@ -7,6 +7,20 @@ tags: [person]
 
 ## Overview
 
+### The ban, and Agag — 1 Samuel 15
+
+Samuel gives Saul Yahweh's word: *I remember what Amalek did to Israel, how he set himself against him on the way,
+when he came up out of Egypt* (15:2), the charge of Deuteronomy 25:17–18, and the order Deuteronomy deferred: *strike
+Amalek, and utterly destroy all that they have* (3). Saul strikes them *from Havilah as you go to Shur, that is before
+Egypt* (7), the desert line of Genesis 25:18, and *utterly destroyed all the people with the edge of the sword* (8),
+but spares [[Agag]] their king and the best of the livestock (9). Samuel kills Agag at Gilgal (33). *Haḥaṭṭāʾîm*,
+*the sinners the Amalekites* (18, WLC), is Samuel's addition in retelling the command. The destruction is not
+complete in the narrative: Amalekites raid Ziklag (30:1, stored WEB; not yet ingested), and an Amalekite claims to
+have killed Saul (2 Samuel 1:8–10, WEB checked at bible-api.com). See [[Saul Rejected over Amalek]].
+
+Source: stored WEB Genesis 25:18; Deuteronomy 25:17–19; 1 Samuel 15:1–35; 30:1. 2 Samuel 1:8–10 checked at
+bible-api.com (`translation=web`), 2026-11-20. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ### *He struck the Amalekites* — 1 Samuel 14:48
 
 In the summary of Saul's reign, the last war named is set apart from the list of 14:47: *He did valiantly, and
@@ -160,7 +174,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - Ordered blotted out for striking the stragglers — Deuteronomy 25:17–19,
   [[Justice, Family Duty, Honest Weights, and Amalek]]
 - Struck by Saul, in the summary of his reign — 1 Samuel 14:48, [[Saul's Wars and Household]]
-- Spared by Saul, at the cost of Saul's kingdom — 1 Samuel 15
+- Struck by Saul from Havilah to Shur; Agag and the best of the livestock spared, at the cost of Saul's kingdom — 1 Samuel 15, [[Saul Rejected over Amalek]]
 - Haman the Agagite — Esther 3:1
 - The Amalekite is *in the valley*, with the Canaanite — Numbers 14:25,
   [[The People Refuse the Land]]
@@ -168,6 +182,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
   14:43–45, [[The Defeat at Hormah]]
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:2–9, 18–20, 32–33; the ban, the battle, and Agag.
 
 - [[Saul's Wars and Household]] — 1 Samuel 14:48; *struck the Amalekites*.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:15; *the hill country of the Amalekites* in Ephraim.
@@ -202,6 +217,8 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - [[Esau]] — his grandfather, whose other descendants Israel is forbidden to abhor
 - [[Joshua (son of Nun)]] — who defeats his people at Rephidim (Exodus 17:13)
 - [[Saul]] — who strikes his people (1 Samuel 14:48; 15:7)
+- [[Agag]] — their king, spared by Saul and killed by Samuel (1 Samuel 15:8, 33)
+- [[Samuel]] — who brings the order and kills Agag (1 Samuel 15:1–3, 33)
 
 ## Themes associated
 

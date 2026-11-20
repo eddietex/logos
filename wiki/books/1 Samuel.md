@@ -236,6 +236,21 @@ reign its full military credit while the sentence of 13:13–14 stands; David's 
 frame with Yahweh as the one who gives victory. See
 [[Saul's Wars and David's Wars - 1 Samuel 14.47-52 and 2 Samuel 8]].
 
+[[Saul Rejected over Amalek]] (15:1–35) removes the kingship itself. Samuel brings Yahweh's word, *I remember what
+Amalek did to Israel … when he came up out of Egypt*, the charge of Deuteronomy 25:17, and the order: *strike Amalek,
+and utterly destroy all that they have* (15:2–3). Saul spares the Kenites for their old *kindness*, strikes Amalek
+*from Havilah as you go to Shur*, and takes Agag alive; *Saul and the people spared Agag, and the best*, *and were not
+willing to utterly destroy them* (15:6–9). Yahweh tells Samuel *It grieves me that I have set up Saul to be king*,
+*niḥamtî*, the word of the flood (15:11; Genesis 6:7, WLC). At Gilgal Saul says *I have performed the commandment of
+Yahweh*, and Samuel hears *the bleating of the sheep* (15:13–14). Saul says the best was kept *to sacrifice*; Samuel
+answers *to obey is better than sacrifice, and to listen than the fat of rams*, and *Because you have rejected
+Yahweh's word, he has also rejected you from being king* (15:22–23). Saul confesses, *because I feared the people, and
+obeyed their voice*, in Pharaoh's words, *please forgive my sin* (15:24–25; Exodus 10:16–17). The skirt of Samuel's
+robe tears in his hand: *Yahweh has torn the kingdom of Israel from you today, and has given it to a neighbor of yours
+who is better than you*, and *the Strength of Israel will not lie nor repent* (15:27–29), in a chapter that ends
+*Yahweh grieved that he had made Saul king* (15:35). Samuel kills Agag *before Yahweh in Gilgal* and does not see Saul
+again while he lives (15:33–35). See [[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -278,7 +293,7 @@ merge, or reorder them freely.
 - [x] [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23
 - [x] [[Saul's Rash Oath]] — 1 Samuel 14:24–46
 - [x] [[Saul's Wars and Household]] — 1 Samuel 14:47–52
-- [ ] Saul Rejected over Amalek — 1 Samuel 15:1–35
+- [x] [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35
 - [ ] Samuel Anoints David — 1 Samuel 16:1–13
 - [ ] David Plays the Harp for Saul — 1 Samuel 16:14–23
 - [ ] Goliath Defies Israel — 1 Samuel 17:1–11
@@ -385,6 +400,16 @@ merge, or reorder them freely.
 - [[Kingship and Empire]] — the summary of Saul's reign, household, and commander (14:47–52)
 - [[The Nations]] — Moab, Ammon, Edom, Zobah, the Philistines, and Amalek (14:47–48)
 - [[Redemption]] — *delivered Israel out of the hands of those who plundered them* (14:48)
+- [[Law and Obedience]] — *to obey is better than sacrifice, and to listen than the fat of rams* (15:22)
+- [[Sacrifice and Offering]] — *the chief of the devoted things, to sacrifice to Yahweh your God* (15:21)
+- [[Divine Grief and Relenting]] — *It grieves me*; *will not … repent*; *Yahweh grieved* (15:11, 29, 35)
+- [[Call and Election]] — *he has also rejected you from being king* (15:23, 26)
+- [[Sin]] — *I have sinned*, twice (15:24, 30)
+- [[Forgiveness]] — *please pardon my sin*, refused (15:25–26)
+- [[Idolatry]] — *stubbornness is as idolatry and teraphim* (15:23)
+- [[Compassion and Mercy]] — *ḥāmal*: *don't spare them*; *Saul and the people spared* (15:3, 9)
+- [[Mourning and Lament]] — *Samuel mourned for Saul* (15:35)
+- [[Vengeance]] — *As your sword has made women childless* (15:33)
 
 ## Key people
 - [[Samuel]]
@@ -423,7 +448,9 @@ merge, or reorder them freely.
 - [[Ahinoam (wife of Saul)]] and [[Ahimaaz (father of Ahinoam)]] — Saul's wife and her father (14:50)
 - [[Abner]] — captain of Saul's army (14:50)
 - [[Ner]] and [[Abiel (father of Kish)]] — Abner's father, and the grandfather of Saul and Abner (9:1; 14:51)
-- [[Amalek]] — struck by Saul (14:48)
+- [[Amalek]] — struck by Saul (14:48); devoted to destruction, the best spared (15:2–9)
+- [[Agag]] — king of the Amalekites, spared by Saul and killed by Samuel (15:8–9, 32–33)
+- [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
 
 ## Key places
 - [[Shiloh]]
@@ -456,3 +483,8 @@ merge, or reorder them freely.
 - [[Beth Aven]] — *the battle passed over by Beth Aven* (14:23)
 - [[Michmash]] and [[Aijalon]] — the pursuit, *from Michmash to Aijalon* (14:31)
 - [[Moab (place)]], [[Ammon]], [[Edom]], and [[Zobah]] — among Saul's enemies *on every side* (14:47)
+- [[Telaim]] — Saul's muster against Amalek (15:4)
+- [[Havilah]] and [[Shur]] — the bounds of the battle (15:7)
+- [[Carmel (Judah)]] — presumably, where Saul sets up a monument (15:12)
+- [[Gilgal]] — the second rejection, and Agag's death (15:12–33)
+- [[Ramah]] and [[Gibeah (Benjamin)]] — where Samuel and Saul go, never to meet again while Saul lives (15:34–35)

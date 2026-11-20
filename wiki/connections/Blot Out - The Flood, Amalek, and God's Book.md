@@ -132,3 +132,15 @@ Israel's own tribes, and the danger is Israel's own war. The phrase repeats the 
 name not be blotted out of Israel* (Deuteronomy 25:6). See [[Wives for Benjamin]] and
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25:6; Judges
 21:17; Hebrew WLC, 2026-11-17.
+
+### 1 Samuel 15 — the war to blot out, and a monument
+
+The command Deuteronomy deferred is given to Saul: *I remember what Amalek did to Israel* (15:2), *strike Amalek, and
+utterly destroy all that they have* (3). The chapter uses *ḥāram*, not *māḥâ*, *blot out* (WLC), but its occasion is the
+Deuteronomy 25:17–19 charge, repeated nearly word for word in 15:2. Two other verbal threads cross it. The flood's
+*niḥamtî*, *I am sorry that I have made them* (Genesis 6:7), returns letter for letter as *It grieves me that I have
+set up Saul* (15:11, WLC); the regret that preceded the first wiping-out now falls on Israel's king. And on the way
+back from blotting out Amalek's memory, Saul *set up a monument for himself*, a *yāḏ* (15:12, WLC), the word for
+Absalom's pillar raised *to keep my name in memory* (2 Samuel 18:18, WEB checked at bible-api.com; WLC). See
+[[Saul Rejected over Amalek]]. Source: stored WEB Genesis 6:7; Deuteronomy 25:17–19; 1 Samuel 15:2–12. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-20.

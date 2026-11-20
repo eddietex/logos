@@ -21,7 +21,7 @@ tags: [connection]
 - **Deuteronomy 25:17–19** — *"Remember what Amalek did to you … you shall blot out the memory of
   Amalek from under the sky. You shall not forget."* — [[Justice, Family Duty, Honest Weights, and Amalek]]
 - **1 Samuel 14:48** — *He did valiantly, and struck the Amalekites* — [[Saul's Wars and Household]]
-- **1 Samuel 15** — Saul spares Agag and the best of the livestock, and loses the kingdom
+- **1 Samuel 15** — Saul spares Agag and the best of the livestock, and loses the kingdom — [[Saul Rejected over Amalek]]
 - **Esther 3:1** — *"Haman the son of Hammedatha the Agagite"*
 - **Deuteronomy 23:7** — *"You shall not abhor an Edomite, for he is your brother"*
 
@@ -169,3 +169,15 @@ was to *blot out the memory of Amalek* (25:19); 14:48 says only that Saul *struc
   genealogy it ever writes.
 - Numbers 14:43–45 is Amalek's only victory over Israel so far in the wiki, against the army that
   went up without the ark or Moses. See [[The Defeat at Hormah]].
+
+### 1 Samuel 15 now ingested
+
+Samuel's oracle opens with Deuteronomy's charge in Deuteronomy's words, *what Amalek did … on the way, when he came
+up out of Egypt* (1 Samuel 15:2; Deuteronomy 25:17), and gives Saul the war Deuteronomy deferred until Israel had
+*rest from all your enemies all around* (25:19), just after the summary credits Saul with fighting *on every side*
+(14:47). The verb of *I remember* is *pāqaḏtî* (15:2, WLC), not the *zāḵar* of Exodus 17:14 and Deuteronomy 25:17.
+The battle line, *from Havilah as you go to Shur, that is before Egypt* (15:7), is Ishmael's line from Genesis 25:18.
+Saul destroys *all the people* and spares the king and the best animals (8–9); Samuel kills Agag (33). The table's
+later rows (chapter 30; 2 Samuel 1) show that *all the people* did not end the Amalekites in the narrative, and the
+chapter does not reconcile its verse 8 with them. See [[Saul Rejected over Amalek]]. Source: stored WEB Genesis 25:18;
+Deuteronomy 25:17–19; 1 Samuel 14:47; 15:1–35. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.

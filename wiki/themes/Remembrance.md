@@ -865,7 +865,19 @@ third-year declaration answers the last word of chapter 25, *"You shall not forg
 have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] and
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
+### *I remember what Amalek did* — 1 Samuel 15:2, 12
+
+Yahweh's word begins *I remember what Amalek did to Israel … when he came up out of Egypt* (15:2), the substance of
+Deuteronomy's *Remember what Amalek did to you* (25:17). The verb is not *zāḵar*, as in Exodus 17:14 and Deuteronomy
+25:17, but *pāqaḏ* (WLC), *attend to* or *visit*, the verb of Yahweh *visiting* Hannah (2:21) and, two verses later,
+of Saul *counting* the army (15:4) (morphhb lemma 6485). The war is to blot out Amalek's memory; on the way back the
+king *set up a monument for himself*, *maṣṣîḇ lô yāḏ* (12, WLC), a *hand*, the word later used of Absalom's pillar,
+*yaḏ ʾaḇšālôm*, set up because *I have no son to keep my name in memory* (2 Samuel 18:18, WLC; WEB checked at
+bible-api.com). See [[Saul Rejected over Amalek]] and [[Blot Out - The Flood, Amalek, and God's Book]]. Source:
+stored WEB Exodus 17:14; Deuteronomy 25:17–19; 1 Samuel 2:21; 15:2–4, 12. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:2, 12; *I remember*, *pāqaḏtî*; and a monument for himself.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:12; the stone named Ebenezer, *Yahweh helped us until now*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 19; *remember me, and not forget*; *Yahweh remembered her*
 

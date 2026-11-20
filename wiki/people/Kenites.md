@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Spared for their kindness — 1 Samuel 15:6
+
+Before he strikes Amalek, Saul warns the Kenites: *Go, depart, go down from among the Amalekites, lest I destroy you
+with them; for you showed kindness to all the children of Israel, when they came up out of Egypt.* *So the Kenites
+departed* (15:6). The kindness is *ḥeseḏ* (WLC), and the occasion, *when they came up out of Egypt*, is the same one
+on which Amalek attacked (15:2). The chapter does not say what the kindness was; Hobab's guiding in the wilderness
+(Numbers 10:29–32) is the likeliest referent in the stored text. The Kenites, who had gone up with Judah to the south
+of Arad (Judges 1:16), are now living among the Amalekites. See [[Saul Rejected over Amalek]] and
+[[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]].
+
+Source: stored WEB Numbers 10:29–32; Judges 1:16; 1 Samuel 15:2, 6. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ### *The wife of Heber the Kenite* — Judges 5:24
 
 The Song blesses a Kenite woman *above women* (5:24). The tribes of Israel who stayed home are
@@ -56,8 +68,10 @@ Source: stored WEB Numbers 23:27–24:25.
 
 - Numbers 23:27–24:25 — named in Balaam’s oracle, not a separate narrated encounter.
 - Judges 1:16 — Go up from Jericho with Judah and settle south of Arad — [[Judah's Conquests and Achsah's Springs]]
+- 1 Samuel 15:6 — Warned by Saul to leave the Amalekites, for their kindness to Israel — [[Saul Rejected over Amalek]]
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:6; warned away from Amalek for their *kindness* to Israel.
 - [[Jael and Sisera]] — Judges 4:17–22; the house of Heber at peace with Jabin; Jael kills Sisera.
 - [[Deborah and Barak]] — Judges 4:11; Heber separates from them and pitches near Kedesh.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, settle with Judah.
@@ -68,6 +82,7 @@ Source: stored WEB Numbers 23:27–24:25.
 - [[Heber the Kenite]] — the household that separated (Judges 4:11).
 - [[Balaam]]
 - [[Jael]] — wife of Heber the Kenite (Judges 4:17).
+- [[Saul]] — who warns them to leave the Amalekites (1 Samuel 15:6).
 
 ## Themes associated
 - [[Kingship and Empire]]

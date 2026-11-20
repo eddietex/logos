@@ -66,6 +66,7 @@ Zion carrying gold and frankincense. **Genesis does not connect the two, and nei
 but the trade route is the same one.** See [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:7; *from Havilah as you go to Shur*, the bounds of Saul's battle.
 
 - [[The Garden of Eden]] — Genesis 2:11; the land of the Pishon, *"where there is gold"*, in the one
   passage that describes it rather than listing it

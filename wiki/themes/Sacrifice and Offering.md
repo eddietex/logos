@@ -966,7 +966,20 @@ the WEB; whether the notice is praise, or marks how late the altar came, the tex
 offering at Gilgal (13:9) was made at an altar the text does not describe. See [[Saul's Rash Oath]]. Source: stored WEB
 1 Samuel 13:9; 14:33–35. Hebrew WLC.
 
+### *The chief of the devoted things* — 1 Samuel 15:15, 21–22
+
+Saul's defence is that the best animals were kept *to sacrifice to Yahweh your God* (15:15), *the chief of the devoted
+things*, *rēʾšîṯ haḥērem* (21, WLC), brought to Gilgal. Since what is devoted already belongs to Yahweh (Leviticus
+27:28), the defence is not empty, and Samuel does not argue the category. He answers with a ranking: *Has Yahweh as
+great delight in burnt offerings and sacrifices, as in obeying Yahweh's voice? Behold, to obey is better than
+sacrifice, and to listen than the fat of rams* (22). Chapter 13 had foreshadowed the principle with Saul's burnt
+offering at the same place; here it is stated. The only sacrifice in the chapter is Agag, cut in pieces *before Yahweh
+in Gilgal* (33). See [[Saul Rejected over Amalek]] and
+[[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]]. Source: stored WEB Leviticus 27:28;
+1 Samuel 13:9–13; 15:15–22, 33. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:15, 21–22; *to obey is better than sacrifice, and to listen than the fat of rams*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:33–35; slaughter at the great stone, and *the first altar that he built to Yahweh*.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:15; peace offerings before Yahweh when Saul is made king at Gilgal.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:3–4, 8; the pilgrims' gifts; burnt and peace offerings reserved for Samuel at Gilgal.

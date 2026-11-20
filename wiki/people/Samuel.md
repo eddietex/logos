@@ -236,6 +236,23 @@ does not say. See [[Saul's Sacrifice at Gilgal]] and
 
 Source: stored WEB 1 Samuel 10:8; 12:23; 13:8–15; Genesis 4:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-18.
 
+### The second sentence on Saul — 1 Samuel 15
+
+Samuel opens with his own authority, *Yahweh sent me to anoint you*, and gives Saul the order against Amalek (15:1–3).
+When Yahweh tells him in the night *It grieves me that I have set up Saul to be king*, *Samuel was angry; and he cried
+to Yahweh all night* (11), with the verb of his intercession at Mizpah (7:9, WLC); whom he was angry with, the text
+does not say. In the morning he goes to find Saul at Gilgal and does not accept his greeting: *Then what does this
+bleating of the sheep in my ears …?* (14). He puts the case in a poem, *to obey is better than sacrifice, and to
+listen than the fat of rams* (22), refuses Saul's first plea, turns the torn skirt of his own robe into the sign of the
+torn kingdom (27–28), and adds *the Strength of Israel will not lie nor repent* (29), in a chapter whose narrator says
+twice that Yahweh *grieved* (11, 35). He grants Saul's second plea and returns with him to worship (30–31). Then he does
+what the king did not, and cuts Agag in pieces *before Yahweh in Gilgal* (33). He goes home to Ramah, does not see Saul
+again while he lives, and *mourned for Saul* (34–35). The *robe*, *məʿîl*, Saul tears is the garment Hannah made for
+him as a boy (2:19, WLC). See [[Saul Rejected over Amalek]] and
+[[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]].
+
+Source: stored WEB 1 Samuel 2:19; 7:9; 15:1–35. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -253,8 +270,10 @@ Source: stored WEB 1 Samuel 10:8; 12:23; 13:8–15; Genesis 4:10. Hebrew WLC (Op
 - Named with Saul in the summons to Jabesh; addressed by the people after the victory; calls them to Gilgal to *renew the kingdom* — 11:7, 12–14.
 - Gives his farewell: clears his own record, recites Yahweh's righteous acts, names himself among the deliverers, calls down thunder and rain at wheat harvest, and promises not to cease praying — 12:1–25.
 - Arrives at Gilgal as Saul finishes the burnt offering; *What have you done?*; tells him his kingdom will not continue, and that Yahweh has sought *a man after his own heart* — 13:8–15.
+- Gives Saul the commission against Amalek; cries to Yahweh all night; confronts Saul at Gilgal; *to obey is better than sacrifice*; the torn robe and the torn kingdom; kills Agag; goes to Ramah and mourns for Saul — 15:1–35.
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35; the commission, the night of crying out, the sentence, the robe, Agag, and mourning.
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 20–28.
 - [[The Song of Hannah]] — 1 Samuel 2:11.
@@ -274,6 +293,7 @@ Source: stored WEB 1 Samuel 10:8; 12:23; 13:8–15; Genesis 4:10. Hebrew WLC (Op
 ## Related people
 
 - [[Saul]] — the man from Benjamin he is told to anoint *prince* (9:16), and anoints (10:1)
+- [[Agag]] — the king of Amalek he kills at Gilgal (15:32–33)
 - [[Band of Prophets (of Samuel's time)]] — the prophets of the third sign (10:5); a company he heads at 19:20
 - [[Joel (son of Samuel)]] and [[Abijah (son of Samuel)]] — his sons, corrupt judges at Beersheba (8:2–3)
 - [[Hannah]] — his mother
@@ -303,3 +323,6 @@ Source: stored WEB 1 Samuel 10:8; 12:23; 13:8–15; Genesis 4:10. Hebrew WLC (Op
 - [[Signs and Wonders]]
 - [[Integrity]]
 - [[The Fear of God]]
+- [[Law and Obedience]]
+- [[Mourning and Lament]]
+- [[Divine Grief and Relenting]]

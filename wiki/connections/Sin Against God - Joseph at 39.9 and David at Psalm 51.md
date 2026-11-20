@@ -80,7 +80,8 @@ states it is **a seventeen-year-old slave in Egypt**.
 **David has the law and quotes none of it.** 2 Samuel 12:13 is four words — ***ḥāṭāʾtî la-YHWH***, *I
 have sinned against Yahweh* — **and it is the shortest confession by a king in the Hebrew Bible.**
 Nathan's reply is immediate. **The comparison worth making is with Saul**, who says *"I have sinned"*
-twice (1 Samuel 15:24, 30) and both times attaches a request: *"honour me now before the elders."*
+twice (1 Samuel 15:24, 30; [[Saul Rejected over Amalek]]) and both times attaches a request: first *"please
+pardon my sin, and turn again with me"*, then *"honor me now before the elders."*
 **David attaches nothing.**
 
 ### The verbal detail

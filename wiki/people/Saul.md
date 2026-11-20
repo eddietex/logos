@@ -213,6 +213,30 @@ Yahweh as the subject: *Yahweh gave victory to David wherever he went* (8:6, 14,
 Source: stored WEB Judges 2:16; 1 Samuel 8:11, 20; 9:1; 10:20–21; 13:13–14; 14:41–52; 16:18–22. 2 Samuel 8 checked
 at bible-api.com (`translation=web`), 2026-11-19. Hebrew WLC (OpenScriptures morphhb).
 
+### Rejected over Amalek — 1 Samuel 15
+
+Samuel brings a commission in Yahweh's name: *strike Amalek, and utterly destroy all that they have* (15:3). Saul
+musters two hundred and ten thousand at [[Telaim]], warns the Kenites away for their old kindness, and strikes Amalek
+*from Havilah as you go to Shur* (4–7). He takes King [[Agag]] alive, and *Saul and the people spared Agag, and the
+best* of the flocks and herds, *and were not willing to utterly destroy them* (9). Yahweh tells Samuel *It grieves me
+that I have set up Saul to be king* (11). Saul sets up *a monument for himself* at Carmel and goes down to Gilgal
+(12), and greets Samuel with *I have performed the commandment of Yahweh* (13), the very verb of the charge against
+him (11, WLC). Asked about the bleating of the sheep, he says *the people* spared them *to sacrifice to Yahweh your
+God* (15, 21); he insists *I have obeyed Yahweh's voice* (20). Samuel answers *to obey is better than sacrifice* and
+*Because you have rejected Yahweh's word, he has also rejected you from being king* (22–23).
+
+Then Saul confesses, twice. The first time, *I have sinned … because I feared the people, and obeyed their voice*,
+with Pharaoh's words, *please forgive my sin* (24–25; Exodus 10:16–17, WLC), and Samuel refuses to return with him.
+Saul grabs the skirt of Samuel's robe and it tears, and Samuel makes it the sign: *Yahweh has torn the kingdom of
+Israel from you today, and has given it to a neighbor of yours who is better than you* (27–28). The second time, he
+asks *please honor me now before the elders of my people*, and Samuel goes back with him, and Saul worships (30–31).
+Samuel kills Agag himself. The two men go to Ramah and Gibeah, and *Samuel came no more to see Saul until the day of
+his death* (34–35). After chapter 13 Saul had no dynasty; after chapter 15 he has a throne without the kingdom. See
+[[Saul Rejected over Amalek]] and
+[[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]].
+
+Source: stored WEB Exodus 10:16–17; 1 Samuel 15:1–35. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -243,8 +267,12 @@ at bible-api.com (`translation=web`), 2026-11-19. Hebrew WLC (OpenScriptures mor
 - Swears the people from food until evening; restrains them from eating with the blood; builds his first altar; inquires and is not answered; casts the lot that takes Jonathan and swears his death; overruled by the people — 14:24–46.
 - Summary of the reign: wars with Moab, Ammon, Edom, Zobah, the Philistines, and Amalek; his sons, daughters, wife,
   and commander; mighty men taken into his service — 14:47–52.
+- Sent to devote Amalek to destruction; musters at Telaim; spares the Kenites; strikes Amalek but spares Agag and
+  the best of the livestock; sets up a monument at Carmel; claims to have performed the commandment; confesses twice;
+  tears Samuel's robe; rejected from being king; Samuel sees him no more — 15:1–35.
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35; the ban on Amalek, Agag spared, *to obey is better than sacrifice*, and the kingdom torn away.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16; anointed, changed, prophesies, and keeps the kingdom secret.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:17–27; chosen by lot, found hiding, acclaimed, and despised.
@@ -281,6 +309,9 @@ at bible-api.com (`translation=web`), 2026-11-19. Hebrew WLC (OpenScriptures mor
 - [[Abner]] — captain of his army, son of [[Ner]] (14:50–51)
 - [[Abiel (father of Kish)]] — his grandfather (9:1; 14:51)
 - [[Amalek]] — whom he struck (14:48)
+- [[Agag]] — the Amalekite king he takes alive and spares (15:8–9, 20)
+- [[Kenites]] — whom he warns away from Amalek for their kindness (15:6)
+- [[Pharaoh (of the Exodus)]] — the earlier king whose *I have sinned … please forgive my sin* he repeats (Exodus 10:16–17; 1 Samuel 15:24–25)
 
 ## Themes associated
 - [[Kingship and Empire]]
@@ -305,3 +336,8 @@ at bible-api.com (`translation=web`), 2026-11-19. Hebrew WLC (OpenScriptures mor
 - [[Prayer]]
 - [[Redemption]]
 - [[The Nations]]
+- [[Sin]]
+- [[Forgiveness]]
+- [[Divine Grief and Relenting]]
+- [[Judgment]]
+- [[Idolatry]]

@@ -29048,3 +29048,64 @@ through `2Sam`, downloaded 2026-11-19 by an earlier run and reused; occurrence c
 (or the narrower range stated) only. Recalled, not checked, and flagged where made: the Septuagint at 14:47; the
 location of Zobah; the gloss of *Malchishua*; the identifications of Ishvi and of Abiel with Jeiel; the later
 Ahimaaz and Abiel; Rizpah (2 Samuel 3:7); 2 Samuel 7 before 8. No Septuagint was consulted.
+
+## [2026-11-20] ingest | 1 Samuel 15.1-35 — Saul Rejected over Amalek
+
+Unattended run. Created [[Saul Rejected over Amalek]], the place [[Telaim]], and the connection
+[[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]]. Revised [[1 Samuel]] (box checked;
+overview paragraph; key themes, people, and places); the people [[Saul]], [[Samuel]], [[Amalek]], [[Agag]] (rewritten),
+[[Kenites]], [[David]], and [[God]]; the places [[Havilah]], [[Shur]], [[Egypt]], [[Carmel (Judah)]], [[Gilgal]],
+[[Ramah]], [[Gibeah (Benjamin)]], and [[Telem]]; the themes [[Law and Obedience]], [[Sacrifice and Offering]], [[War]],
+[[Judgment]], [[Divine Grief and Relenting]], [[Kingship and Empire]], [[Call and Election]], [[Sin]],
+[[Forgiveness]], [[The Fear of God]], [[Idolatry]], [[Compassion and Mercy]], [[Remembrance]],
+[[Mourning and Lament]], [[Vengeance]], and [[Prayer]]; and the connections
+[[Amalek - From a Concubine's Son to Israel's First Enemy]],
+[[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]],
+[[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]],
+[[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]],
+[[Transgressing the Mouth of Yahweh - Numbers 14 and 1 Samuel 15]],
+[[God Does Not Repent - Balaam and the Golden Calf]], [[Yes, He Will Be Blessed - The Irrevocable Word]],
+[[The Teraphim - Household Gods in Genesis and After]],
+[[A Man After His Own Heart - 1 Samuel 13.14, 16.7, and Acts 13.22]],
+[[The Least in My Father's House - Judges 6.15 and 1 Samuel 9.21]],
+[[Sin Against God - Joseph at 39.9 and David at Psalm 51]], and [[Blot Out - The Flood, Amalek, and God's Book]].
+Also `wiki/books/index.md` (21 / 47), People Index A-E (Agag summary rewritten; Amalek and David extended), F-M
+(Kenites and God extended), N-Z (Saul and Samuel extended), the places index (one new row, eight extended), the
+themes index (sixteen rows), Connections Index T-Z (one new row, one extended), A-C, D-H, and I-N (rows extended),
+and the dashboard counts. Frontmatter totals: 507 passages, 394 people, 616 places, 88 themes, 960 connections.
+
+Judgment calls: the boundary 15:1–35 stands; 16:1 opens a new commission. One new place page, [[Telaim]], kept apart
+from [[Telem]] with the common identification recorded as a proposal. No page for *the city of Amalek* (15:5) or *the
+elders of my people* (15:30). The Carmel of 15:12 is linked to [[Carmel (Judah)]] with *presumably*. [[Agag]] stays a
+single bare page for the narrated king and the Agag of Numbers 24:7, with the identity left open; it is not given a
+title-figure qualifier, since the text does not call Agag a title. The People Index A-E row for [[Amalek]] had a stray
+fourth cell after its last pipe (a 1 Samuel 14:48 note); it was folded into the summary cell and the row repaired.
+
+Contradiction flagged and revised: [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]]
+called Saul's act "Saul's mercy"; the chapter does not present the sparing as mercy (the people killed, the king and
+the best animals kept, the animals by Saul's account for sacrifice, 15:8–9, 15). The page now says "sparing", with a
+dated note giving both readings and the evidence for each, and noting that *ḥāmal* can mean compassion elsewhere
+(Exodus 2:6).
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`): *niḥamtî* occurs only at
+Genesis 6:7 and 1 Samuel 15:11; *śāʾ nāʾ* with *ḥaṭṭāʾṯ* only at Exodus 10:17 and 1 Samuel 15:25, both after
+*ḥāṭāʾṯî*; 1 Samuel 15:11, 29 (twice), 35 and Exodus 32:14 are niphal *nāḥam*, Numbers 23:19 hitpael; *nēṣaḥ* occurs
+only at 1 Samuel 15:29 and 2 Samuel 2:26; *wayšassēp̄* (15:33) only here; *maʿădannōṯ* (15:32) shares a lemma only with
+Genesis 49:20; *ḥāram* seven times in 1 Samuel 15.
+
+Recorded, not resolved: how 15:29 relates to 15:11, 35; whether Saul's *chief of the devoted things* (15:21) had any
+standing; who grabbed whose robe (15:27); the senses of *maʿădannōṯ*, *wayšassēp̄*, and *nēṣaḥ yiśrāʾēl*; how *all the
+people* (15:8) fits the Amalekites of chapter 30 and 2 Samuel 1; whether the Agag of Numbers 24:7 is this man; the
+size of the muster (15:4).
+
+Sources: 1 Samuel 15:1–35 from stored WEB, with the not-yet-ingested 1 Samuel 16:1, 7; 18:4; 19:13; 24:4–6, 11, 20;
+25:2; 27:8; 28:3–25; 30:1, 17–18. Comparisons from stored WEB Genesis 6:6–7; 25:18; 27:45; 31:19; 42:36; 49:20; Exodus
+2:6; 10:16–17; 17:8–16; 32:14; 34:7; Leviticus 27:28–29; Numbers 10:29–32; 14:40–45; 22:7; 23:19, 23; 24:7, 20;
+Deuteronomy 18:10; 25:17–19; Joshua 7:21; 15:21–24, 55; Judges 1:16; 17:5; 1 Samuel 2:19, 21; 6:19; 7:9; 8:7, 9, 18–20,
+22; 9:2, 21; 10:19; 11:15; 12:14–15; 13:8–15; 14:2, 47–48. 1 Kings 11:29–31; Esther 3:1; 2 Samuel 1:8–10; 2:26; 18:18
+checked at bible-api.com (`translation=web`), 2026-11-20, not stored. Hebrew from the Westminster Leningrad Codex
+(OpenScriptures morphhb) XML, files `Gen` through `2Sam` and `Ruth`, downloaded 2026-11-20 to a session scratch
+directory; occurrence claims cover those files only, and lemma claims follow morphhb's tagging. No Hebrew of 1 Kings
+was checked. Recalled, not checked, and flagged where made: the proposed senses of *nēṣaḥ* and *maʿădannōṯ*; the
+identification of Telaim with Telem; the usual reading of 15:29 as the irrevocability of the sentence; alternative
+readings of whose robe tore; the link of Haman to Agag. No Septuagint was consulted.

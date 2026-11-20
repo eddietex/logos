@@ -804,7 +804,19 @@ to taste honey against an oath he never heard (14:27, 43). The narrator does not
 people refuse its penalty (14:45). See [[Saul's Rash Oath]] and
 [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]]. Source: stored WEB 1 Samuel 14:24–45.
 
+### *I have sinned*, twice — 1 Samuel 15:24–30
+
+Saul confesses only after his defence fails: *I have sinned; for I have transgressed the commandment of Yahweh, and
+your words, because I feared the people, and obeyed their voice* (15:24). The confession uses Israel's phrase at
+Kadesh, *ʿāḇar ʾeṯ-pî YHWH* (Numbers 14:41, WLC), and its first words are Pharaoh's, *ḥāṭāʾṯî … wəʿattâ śāʾ nāʾ
+ḥaṭṭāʾṯî* (Exodus 10:16–17; 1 Samuel 15:24–25, WLC). The second confession asks for honour before the elders (30).
+Samuel had named the fault in other terms: *rebellion is as the sin of witchcraft* (*ḥaṭṭaʾṯ qesem*, 23). Confession
+does not reverse the sentence. See [[Saul Rejected over Amalek]] and
+[[Transgressing the Mouth of Yahweh - Numbers 14 and 1 Samuel 15]]. Source: stored WEB Exodus 10:16–17; Numbers
+14:40–41; 1 Samuel 15:23–30. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:24–30; *I have sinned*, twice, after the defence fails.
 - [[Saul's Rash Oath]] — 1 Samuel 14:33–39; the people eat with the blood; Saul seeks *in which this sin has been*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:6; *We have sinned against Yahweh*, at Mizpah.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:17, 24–25; *very great before Yahweh*; sin against a man and sin against Yahweh.

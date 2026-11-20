@@ -1619,7 +1619,21 @@ not kept that which Yahweh commanded you* (13:14). The commandment in view is Sa
 days (10:8), which Samuel now calls Yahweh's. Saul kept most of it and acted at its end. See
 [[Saul's Sacrifice at Gilgal]]. Source: stored WEB 1 Samuel 10:8; 13:13–14.
 
+### *To obey is better than sacrifice* — 1 Samuel 15
+
+The chapter is built on *listening* to a *voice*: *listen to the voice of Yahweh's words* (15:1); *Why then didn't you
+obey Yahweh's voice …?* (19); *But I have obeyed Yahweh's voice* (20); *to obey is better than sacrifice, and to listen
+than the fat of rams* (22); *I feared the people, and obeyed their voice* (24) (stored WEB; *šāmaʿ bəqôl*, WLC). Saul
+obeyed most of the command and kept the best of what was devoted, and claims to have *performed the commandment of
+Yahweh* (13) in the very verb, hiphil *qûm*, of Yahweh's charge that he *has not performed my commandments* (11, WLC).
+Samuel's answer ranks obedience above worship and treats partial obedience as rejection: *Because you have rejected
+Yahweh's word, he has also rejected you from being king* (23). The condition of the farewell, *If you will … listen to
+his voice … But if you will not listen* (12:14–15), is applied to the king. See [[Saul Rejected over Amalek]] and
+[[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]]. Source: stored WEB 1 Samuel 12:14–15;
+15:1–24. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:1, 13, 19–24; *to obey is better than sacrifice*.
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:25; *the regulations of the kingdom*, written and laid up before Yahweh.
 - [[The War Against Benjamin]] — Judges 20:13, 37–48; Deuteronomy's formula and the condemned city's fire.

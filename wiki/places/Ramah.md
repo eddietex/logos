@@ -83,6 +83,7 @@ come *to Samuel to Ramah* to ask for a king (8:4, stored WEB; not yet ingested).
 Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:34; Samuel goes home, and sees Saul no more.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–27; the anointing at the edge of the unnamed city often identified with Ramah.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–25; often identified with the seer's unnamed city (not named in the text).
 - [[Israel Asks for a King]] — 1 Samuel 8:4; the elders ask Samuel for a king.
@@ -104,6 +105,7 @@ Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptur
 - [[Mizpeh]] · [[Gilgal]] · [[Bethel]] — the towns of Samuel's circuit, with Ramah his return (1 Samuel 7:16–17).
 
 ## Events here
+- Samuel goes home after the rejection of Saul — 1 Samuel 15:34, [[Saul Rejected over Amalek]]
 - Possibly the city at whose edge Samuel anoints Saul — 1 Samuel 9:26–10:1, [[Samuel Anoints Saul]] (identification not made by the text)
 - Possibly the city where Samuel meets Saul and hosts him at the high place — 1 Samuel 9:6–25, [[Saul Comes to the Seer]] (identification not made by the text)
 - Samuel's house; he judges Israel there and builds an altar to Yahweh — 1 Samuel 7:17, [[Samuel Judges Israel at Mizpah]]

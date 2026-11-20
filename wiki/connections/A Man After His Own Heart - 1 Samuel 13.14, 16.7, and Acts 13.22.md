@@ -12,8 +12,9 @@ tags: [connection]
 - **1 Samuel 16:7** (not yet ingested) — *Don't look on his face, or on the height of his stature, because I have
   rejected him; for I don't see as man sees. For man looks at the outward appearance, but Yahweh looks at the
   heart.* Stored WEB.
-- **1 Samuel 15:28** (not yet ingested) — *Yahweh has torn the kingdom of Israel from you today, and has given it
-  to a neighbor of yours who is better than you.* Stored WEB.
+- [[Saul Rejected over Amalek]] — **1 Samuel 15:28** — *Yahweh has torn the kingdom of Israel from you today, and
+  has given it to a neighbor of yours who is better than you.* Stored WEB. See also
+  [[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]].
 - **Acts 13:21–22** (not yet stored) — *Afterward they asked for a king, and God gave to them Saul the son of Kish,
   a man of the tribe of Benjamin, for forty years. When he had removed him, he raised up David to be their king, to
   whom he also testified, 'I have found David the son of Jesse, a man after my heart, who will do all my will.'*

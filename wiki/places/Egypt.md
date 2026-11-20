@@ -540,6 +540,7 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:2, 6–7; Amalek's attack and the Kenites' kindness *when they came up out of Egypt*; Shur *before Egypt*.
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:18; *I brought Israel up out of Egypt*.
 - [[Israel Asks for a King]] — 1 Samuel 8:8; *since the day that I brought them up out of Egypt*.

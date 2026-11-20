@@ -140,6 +140,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:12–33; the confrontation, the confessions, the torn robe, and Agag's death.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:14–15; the kingdom renewed, Saul made king *before Yahweh*.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:8; Saul told to wait there seven days for Samuel.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:16; on Samuel's yearly circuit.
@@ -170,6 +171,7 @@ both pages qualified.
 - [[Bochim]] — where the angel goes up to from Gilgal (Judges 2:1).
 
 ## Events here
+- Saul is rejected from being king; Samuel cuts Agag in pieces *before Yahweh in Gilgal* — 1 Samuel 15:12–33, [[Saul Rejected over Amalek]].
 - Ehud turns back at *the stone idols that were by Gilgal* and later passes them in escape — Judges 3:19, 26, [[Ehud and Eglon]].
 
 - Named as a landmark near the mountains of blessing and curse — Deuteronomy 11:30,

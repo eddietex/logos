@@ -179,7 +179,22 @@ Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It 
 (20), and what he then does is a different act from what he first announced. See
 [[The People Refuse the Land]].
 
+### *It grieves me* and *will not repent* — 1 Samuel 15:11, 29, 35
+
+The chapter flagged above as containing both sides is now ingested. Yahweh says *It grieves me that I have set up Saul
+to be king*, *niḥamtî* (15:11, WLC), letter for letter the form of *I am sorry that I have made them* at the flood
+(Genesis 6:7, WLC); in Genesis–2 Samuel the form occurs only in those two verses (morphhb lemma 5162). The chapter ends
+*Yahweh grieved that he had made Saul king* (35). Between them Samuel says *the Strength of Israel will not lie nor
+repent; for he is not a man, that he should repent* (29), with the same niphal verb twice (WLC), in words largely
+shared with Balaam's *God is not a man, that he should lie, nor a son of man, that he should repent* (Numbers 23:19),
+where the verb is hitpael (WLC). The chapter does not reconcile them. The common reading takes 29 of the sentence just
+pronounced, that the tearing of the kingdom will not be revoked, which fits approach 2 above; the narrator's 11 and 35
+then report regret over a past act, as at Genesis 6:6–7. That reading is the usual one, not the text's own. See
+[[Saul Rejected over Amalek]] and [[God Does Not Repent - Balaam and the Golden Calf]]. Source: stored WEB Genesis
+6:6–7; Numbers 23:19; 1 Samuel 15:11, 29, 35. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:11, 29, 35; *it grieves me*, *will not … repent*, and *Yahweh grieved*, in one chapter.
 
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:30; a *forever* promise to Eli's house withdrawn: *But now … Far be it from me*.
 - [[Wives for Benjamin]] — Judges 21:6, 15; *nāḥam* used of Israel's grief for Benjamin.

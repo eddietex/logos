@@ -621,7 +621,15 @@ Philistine side. The noun *ḥărāḏâ* occurs elsewhere in Genesis–2 Samuel
 fear is Yahweh's weapon. See [[Jonathan's Attack at Michmash]]. Source: stored WEB Genesis 27:33; 1 Samuel 11:7; 13:7; 14:15. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-19.
 
+### *I feared the people* — 1 Samuel 15:24
+
+Samuel's farewell had made fearing Yahweh the condition of the monarchy: *If you will fear Yahweh, and serve him, and
+listen to his voice …* (12:14). Saul's confession names the other fear: *because I feared the people, and obeyed their
+voice* (15:24), *yārēʾṯî ʾeṯ-hāʿām* (WLC). The king feared the wrong one, and listened to the wrong voice. See
+[[Saul Rejected over Amalek]]. Source: stored WEB 1 Samuel 12:14, 24; 15:24. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
 ## Key passages
+- [[Saul Rejected over Amalek]] — 1 Samuel 15:24; *I feared the people, and obeyed their voice*.
 
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:15; *ḥerdaṯ ʾĕlōhîm*, a trembling of God, in the Philistine camp.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:7; *the dread of Yahweh fell on the people, and they came out as one man*.

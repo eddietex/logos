@@ -16,6 +16,7 @@ Source: stored WEB Joshua 15:20–63. No modern site is assigned.
 
 ## Related places
 - [[Ziph (Negev)]] · [[Bealoth]] — listed beside it (15:24).
+- [[Telaim]] — Saul's muster (1 Samuel 15:4), commonly proposed as the same place (recalled, not checked).
 
 ## Events here
 - Allotted to Judah (15:24); nothing else is narrated.
