@@ -10,6 +10,7 @@ tags: [connection]
   reproach of Egypt from you." Therefore the name of that place was called Gilgal, to this day.* Stored WEB.
 - [[Saul Rescues Jabesh Gilead]] — **1 Samuel 11:2** — *On this condition I will make it with you, that all your
   right eyes be gouged out. I will make this dishonor all Israel.* Stored WEB. The story ends at Gilgal (11:14–15).
+- [[Goliath Defies Israel]] — **1 Samuel 17:10** — *I defy the armies of Israel today!* Stored WEB.
 - **1 Samuel 17:26** — *What shall be done to the man who kills this Philistine, and takes away the reproach from
   Israel?* Stored WEB; not yet ingested.
 
@@ -27,6 +28,11 @@ away*. Nahash promises to *put*, *śîm*, a reproach on all Israel (WLC). David 
 *hēsîr*, the reproach from Israel (WLC), and the reproach is Goliath's defiance. In two of the three the reproach
 is tied to the uncircumcised: Israel's own wilderness generation at Gilgal (Joshua 5:7), and *this
 uncircumcised Philistine* (1 Samuel 17:26). Nahash's threat is tied to the body in another way, a mutilation.
+
+**The verb behind the reproach.** Goliath's *I defy the armies of Israel today!* (1 Samuel 17:10) is *ḥēraptî*,
+from *ḥārap̄* (lemma 2778), the verb of the same root as *ḥerpâ* (WLC). In the WLC files of Genesis through 2 Samuel
+it occurs in nine verses, five in 1 Samuel 17 (10, 25, 26, 36, 45). So the *reproach* David asks about in 17:26 is the
+noun of what Goliath said he was doing in 17:10. See [[Goliath Defies Israel]].
 
 **Gilgal.** The 1 Samuel 11 episode begins with the threat of reproach and ends at Gilgal, where *they made Saul
 king before Yahweh* (11:15). 1 Samuel does not mention Joshua 5:9 or the meaning of the name. The wiki records

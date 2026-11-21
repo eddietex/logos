@@ -18,10 +18,24 @@ tags: [connection]
 - [[The Whole Land Taken]] — Joshua 11:21–22; the Anakim cut off, and the remnant left in Gaza,
   Gath, and Ashdod
 - Joshua 14:12–15; 15:13–14 *(not yet ingested)* — Caleb and the Anakim at Hebron
-- 1 Samuel 17:4–7 *(not yet ingested)* — Goliath of Gath
+- [[Goliath Defies Israel]] — 1 Samuel 17:4–7; Goliath of Gath, six cubits and a span
 - 2 Samuel 21:15–22 *(not yet ingested)* — the last four *"born to the giant in Gath"*
 
 ## Analysis
+
+### Goliath of Gath — 1 Samuel 17:4–11
+
+The tradition's last measured man is now ingested. *Goliath, of Gath, whose height was six cubits and a span* (17:4),
+in bronze helmet, scale mail of five thousand shekels, greaves, and javelin, with an iron spearhead of six hundred
+shekels (5–7). 1 Samuel 17 does not call him one of the Anakim, the Rephaim, or the Nephilim; it calls him *ʾîš
+habbēnayim*, *the man of the between* (WLC), and the link to this page is Gath (Joshua 11:22) and his size. The
+Septuagint and a Qumran manuscript are reported to give *four cubits and a span* (recalled, not checked). Israel's
+answer, *dismayed, and greatly afraid* (17:11), repeats the fear of Kadesh before the Anakim (Deuteronomy 1:21, 28),
+in the verbs Moses had forbidden. 2 Samuel 21:19, in the Hebrew, credits a Goliath the Gittite to Elhanan; see
+[[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]].
+
+See [[Goliath Defies Israel]] and [[Goliath]]. Source: stored WEB Deuteronomy 1:21, 28; Joshua 11:22; 1 Samuel
+17:4–11; 2 Samuel 21:19 checked at bible-api.com. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
 ### Possession without merit — Deuteronomy 9:1–6
 

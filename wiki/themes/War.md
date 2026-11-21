@@ -1037,7 +1037,19 @@ Saul obeyed, not whether the command was just; the wiki records the command with
 [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]]. Source: stored WEB
 Exodus 17:8–16; Deuteronomy 25:17–19; 1 Samuel 15:1–9; 30:1.
 
+### Single combat proposed — 1 Samuel 17:1–11
+
+Two armies gather, camp on facing mountains, and *set the battle in array* (17:1–3), and neither attacks. Goliath
+proposes that one fight decide the war and the stake be servitude: *Choose a man for yourselves, and let him come down
+to me … if I prevail against him and kill him, then you will be our servants* (17:8–9). The narrator spends four
+verses on his equipment, bronze and iron (17:4–7); Israel, at 13:19–22, had *neither sword nor spear* but Saul's and
+Jonathan's. The answer to the challenge is fear: *dismayed, and greatly afraid* (17:11), the verbs of the commands *Don't
+be afraid, neither be dismayed* given before Israel's earlier wars (Deuteronomy 1:21; Joshua 8:1; 10:25) (WLC). See
+[[Goliath Defies Israel]] and [[Afraid and Dismayed - Deuteronomy 1.21, Joshua 1.9, and 1 Samuel 17.11]]. Source: stored
+WEB Deuteronomy 1:21; Joshua 8:1; 10:25; 1 Samuel 13:19–22; 17:1–11. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Goliath Defies Israel]] — 1 Samuel 17:1–11; armies arrayed, the champion's armor, single combat for servitude, and Israel dismayed.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–9; the ban on Amalek, Agag and the best spared.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47–52; enemies on every side, a standing commander, and severe war all Saul's days.
 - [[Saul's Rash Oath]] — 1 Samuel 14:31, 36, 46; the pursuit to Aijalon, the night raid not made, and the Philistines gone home.

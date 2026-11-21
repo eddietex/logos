@@ -29213,3 +29213,48 @@ stored. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb) XML
 follow morphhb's tagging. The Hebrew of 1 Kings 22 was not checked. Recalled, not checked, and flagged where made: the
 range of meanings of *rāʿâ*; *kinnôr* as a lyre; the explanations of 16:14–23 beside 17:55–58; the Septuagint's
 shorter text of chapters 17–18; *rûaḥ šeqer* in 1 Kings 22. No Septuagint was consulted.
+
+## [2026-11-21] ingest | 1 Samuel 17.1-11 — Goliath Defies Israel
+
+Unattended run. Created [[Goliath Defies Israel]]; the person [[Goliath]]; the places [[Ephes Dammim]] and
+[[Valley of Elah]]; and the connections [[Afraid and Dismayed - Deuteronomy 1.21, Joshua 1.9, and 1 Samuel 17.11]]
+and [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]]. Revised [[1 Samuel]] (box checked; overview paragraph;
+key themes, people, and places); the people [[Saul]], [[The Philistines]], and [[The Anakim]]; the places [[Gath]]
+(the "not yet ingested" forward reference now linked), [[Azekah]], and [[Socoh (lowland)]]; the themes [[War]],
+[[Kingship and Empire]], and [[Slavery and Servitude]]; the connections [[The Nephilim and the Giants of Canaan]] and
+[[The Reproach of Israel - Joshua 5.9, 1 Samuel 11.2, and 17.26]]; and the passage [[No Smith in Israel]]
+(cross-reference). Also `wiki/books/index.md` (24 / 47), People Index A-E, F-M (new row), and N-Z, the places index
+(two new rows, three extended), the themes index (three rows), Connections Index A-C and D-H (one new row each), I-N
+and O-S (rows extended), and the dashboard counts. Frontmatter totals: 510 passages, 398 people, 618 places, 88
+themes, 966 connections.
+
+Judgment calls: the boundary 17:1–11 stands; 17:12 restarts with Jesse and David. The Socoh of 17:1 is taken as
+[[Socoh (lowland)]], because Joshua 15:35 lists *Socoh, Azekah* together; *which belongs to Judah* does not decide it
+alone. No page for Goliath's shield bearer (17:7, 41), who is unnamed. No page for 1 Chronicles 11:13's *Pasdammim*;
+its identity with Ephes Dammim is left open on [[Ephes Dammim]]. The *g-b-h* root (9:2; 10:23; 16:7; 17:4), the scale
+armor and the food laws, the two javelins (Joshua 8:18, 26), and Saul's hearing *those words* (11:6; 17:11) are noted,
+not argued.
+
+Contradiction flagged: 1 Samuel 17 has David kill Goliath of Gath; the WLC of 2 Samuel 21:19 has Elhanan strike
+*Goliath the Gittite*, with no word for *brother*; the WEB supplies *brother* from 1 Chronicles 20:5. Recorded on
+[[Goliath Defies Israel]], [[Goliath]], and [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]]; not reconciled.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`): *bēnayim* (1143) only at
+1 Samuel 17:4, 23; *ḥāṯaṯ* (2865) only at Deuteronomy 1:21; 31:8; Joshua 1:9; 8:1; 10:25; 1 Samuel 17:11; *ḥārap̄*
+(2778 a) at Judges 5:18; 8:15; 1 Samuel 17:10, 25, 26, 36, 45; 2 Samuel 21:21; 23:9; *kîḏôn* (3591) at Joshua 8:18, 26;
+1 Samuel 17:6, 45; *mənôr* (4500) only at 1 Samuel 17:7 and 2 Samuel 21:19; *qaśqeśeṯ* (7193) at Leviticus 11:9, 10,
+12; Deuteronomy 14:9, 10; 1 Samuel 17:5; *širyôn* (8302) only at 1 Samuel 17:5, 38; *ṣinnâ* (6793) only at 1 Samuel
+17:7, 41; *ʾep̄es dammîm* only at 17:1; neither *Yahweh* nor *God* in 17:1–11; ketiv *wḥṣ*, qere *wəʿēṣ* at 17:7.
+
+Recorded, not resolved: the height (six cubits, or the reported four); the relation of 1 Samuel 17 to 2 Samuel
+21:19; the sense of *ʾîš habbēnayim*; whether *bārâ*, *choose*, is the verb *eat*; whether Pasdammim is Ephes Dammim.
+
+Sources: 1 Samuel 17:1–11 from stored WEB, with the not-yet-ingested 1 Samuel 17:16, 19, 23, 25–26, 36, 38, 41, 45,
+50–51; 21:9–10; 22:10; 27:2. Comparisons from stored WEB Leviticus 11:9–12; Numbers 13:33; Deuteronomy 1:21, 28;
+3:11; 14:9–10; 31:8; Joshua 1:9; 8:1, 18, 26; 10:10–11, 25; 11:22; 15:35, 48; Judges 5:18; 8:15; 1 Samuel 8:17, 20;
+9:2; 10:23; 11:6; 13:19–22; 16:7, 18. 2 Samuel 21:19–22; 23:9 and 1 Chronicles 11:13; 20:5 checked at bible-api.com
+(`translation=web`), 2026-11-21, not stored. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb) XML,
+files `Gen` through `2Sam` and `Ruth`, downloaded 2026-11-21; occurrence claims cover those files only, and lemma
+claims follow morphhb's tagging. The Hebrew of 1 Chronicles was not checked. Recalled, not checked, and flagged where
+made: the sense of *ʾîš habbēnayim*; the Septuagint and Qumran height; the meanings of *ʾep̄es* and *dammîm* and of
+*ʾēlâ*; the explanations of 2 Samuel 21:19. No Septuagint or Qumran text was consulted.

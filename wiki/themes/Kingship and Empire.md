@@ -750,7 +750,17 @@ The man anointed in secret enters the house of the king he is to replace, as har
 before him* (16:21–22). Saul loves him and does not know. Kingship passes in this book not by a coup but by
 overlap, and the overlap begins inside Saul's own court. See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The king who was to go out — 1 Samuel 17:1–11
+
+The people asked for a king who would *go out before us, and fight our battles* (8:20, *wəyāṣāʾ ləp̄ānênû*, WLC).
+In the valley of Elah the one who *went out* is the Philistine champion (17:4, *wayyēṣēʾ*), who calls Israel
+*servants to Saul* and asks for *a man* (17:8). Saul, taller than all the people (9:2), hears and is *dismayed, and
+greatly afraid* with all Israel (17:11). The narrator does not comment; the gap is left open for the next pericope.
+See [[Goliath Defies Israel]]. Source: stored WEB 1 Samuel 8:20; 9:2; 17:1–11; Hebrew WLC (OpenScriptures morphhb),
+2026-11-21.
+
 ## Key passages
+- [[Goliath Defies Israel]] — 1 Samuel 17:4, 8, 11; the champion goes out; the king is afraid.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:21–22; the anointed successor as the king's harpist and armor bearer.
 - [[Samuel Anoints David]] — 1 Samuel 16:1, 8–13; *a king for myself*; *Yahweh has not chosen*; anointed *in the middle of his brothers*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:23–30; *rejected you from being king*; the kingdom torn away and given to a neighbor.

@@ -276,6 +276,19 @@ house. In 17:55–58 he will ask whose son David is; the two accounts are record
 [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]] and
 [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]].
 
+[[Goliath Defies Israel]] (17:1–11) opens the Philistine war in Judah's lowland. The Philistines camp between Socoh
+and Azekah, at Ephes Dammim; Saul and Israel camp in the valley of Elah; *there was a valley between them* (17:1–3).
+Out comes *a champion … named Goliath, of Gath*, six cubits and a span, and the narrator itemizes his bronze, his
+iron spearhead, and his shield bearer (17:4–7). *Champion* is *ʾîš habbēnayim*, *the man of the between* (WLC). He
+offers single combat for servitude, *Choose a man for yourselves*, and *I defy the armies of Israel today!* (17:8–10).
+*Saul and all Israel … were dismayed, and greatly afraid* (17:11). *Ḥāṯaṯ*, *dismayed*, occurs in the Hebrew files
+checked otherwise only in the commands *Don't be afraid, neither be dismayed* of Deuteronomy and Joshua (WLC). Neither
+*Yahweh* nor *God* is named in the pericope. The king asked for to *go out before us, and fight our battles* (8:20),
+taller than all the people (9:2), hears and is afraid. 2 Samuel 21:19 in the Hebrew has Elhanan kill Goliath the
+Gittite; the WEB adds *brother* from 1 Chronicles 20:5; both accounts are recorded. See
+[[Afraid and Dismayed - Deuteronomy 1.21, Joshua 1.9, and 1 Samuel 17.11]] and
+[[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -321,7 +334,7 @@ merge, or reorder them freely.
 - [x] [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35
 - [x] [[Samuel Anoints David]] — 1 Samuel 16:1–13
 - [x] [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23
-- [ ] Goliath Defies Israel — 1 Samuel 17:1–11
+- [x] [[Goliath Defies Israel]] — 1 Samuel 17:1–11
 - [ ] David Comes to the Camp — 1 Samuel 17:12–40
 - [ ] David Kills Goliath — 1 Samuel 17:41–54
 - [ ] Jonathan Loves David — 1 Samuel 17:55–18:5
@@ -444,6 +457,8 @@ merge, or reorder them freely.
 - [[Praise and Song]] — David's harp (16:16–23)
 - [[Love]] — *He loved him greatly* (16:21)
 - [[Healing]] — *Saul was refreshed, and was well* (16:23)
+- [[War]] — two armies arrayed, and single combat proposed (17:1–10)
+- [[Slavery and Servitude]] — *you will be our servants and serve us* (17:9)
 
 ## Key people
 - [[Samuel]]
@@ -487,6 +502,7 @@ merge, or reorder them freely.
 - [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
 - [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9)
+- [[Goliath]] — the champion of Gath who defies Israel (17:4–10)
 
 ## Key places
 - [[Shiloh]]
@@ -525,3 +541,6 @@ merge, or reorder them freely.
 - [[Gilgal]] — the second rejection, and Agag's death (15:12–33)
 - [[Ramah]] and [[Gibeah (Benjamin)]] — where Samuel and Saul go, never to meet again while Saul lives (15:34–35)
 - [[Bethlehem]] — Jesse's town, where David is anointed (16:1–13)
+- [[Socoh (lowland)]], [[Azekah]], and [[Ephes Dammim]] — the Philistine muster and camp (17:1)
+- [[Valley of Elah]] — Israel's camp, and the valley between the armies (17:2–3)
+- [[Gath]] — Goliath's city (17:4)

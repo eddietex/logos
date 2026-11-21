@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Gath, and a champion not called Anakim — 1 Samuel 17:4
+
+Joshua left some of the Anakim *in Gaza, in Gath, and in Ashdod* (Joshua 11:22). Goliath of Gath, six cubits and a
+span, comes out against Israel in 1 Samuel 17:4. The chapter never calls him one of the Anakim, the Rephaim, or the
+Nephilim; the link is the city, and the size. Israel's response, *dismayed, and greatly afraid* (17:11), uses the
+verbs Moses had used in forbidding fear before the land whose people were *greater and taller than we* (Deuteronomy
+1:21, 28) (WLC; stored WEB). See [[Goliath Defies Israel]] and [[The Nephilim and the Giants of Canaan]].
+
+Source: stored WEB Deuteronomy 1:21, 28; Joshua 11:22; 1 Samuel 17:4, 11. Hebrew WLC (OpenScriptures morphhb),
+2026-11-21.
+
 ### Struck by Judah, driven out by Caleb — Judges 1:10, 20
 
 The chapter names the three twice. In verse 10 *Judah* goes against *the Canaanites who lived in
@@ -96,6 +107,7 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 
 ## Appears in
 
+- [[Goliath Defies Israel]] — 1 Samuel 17:4; Goliath of Gath, not named as one of them.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:10, 20; the three at Hebron, struck by Judah and driven out by Caleb.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 
@@ -116,6 +128,7 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 - [[The Nephilim]] — whom the spies say they come from
 - [[Caleb (son of Jephunneh)]] — who will ask for their country
 - [[The Ten Spies]] — who reported them
+- [[Goliath]] — of Gath, where their remnant stayed; not called Anakim (1 Samuel 17:4)
 
 ## Themes associated
 

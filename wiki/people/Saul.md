@@ -264,6 +264,19 @@ Abimelech (Judges 9:23); both die asking an armor bearer to kill them (Judges 9:
 
 Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### Dismayed before the champion — 1 Samuel 17:1–11
+
+Saul and *the men of Israel* camp in the valley of Elah against the Philistines (17:2). Goliath of Gath, six cubits
+and a span, comes out and calls Israel *servants to Saul* (17:4, 8), and asks for *a man* (17:8, 10). *When Saul and
+all Israel heard those words of the Philistine, they were dismayed, and greatly afraid* (17:11). The people had asked
+for a king to *go out before us, and fight our battles* (8:20); Saul was taller than all the people (9:2; 10:23), the
+root *g-b-h* that 17:4 uses of Goliath's *height* (WLC). At Jabesh Gilead the Spirit came mightily on Saul *when he
+heard those words* (11:6); here he hears *those words* and is afraid (WLC). *Ḥāṯaṯ*, *dismayed*, is in the Hebrew files
+checked otherwise only in the commands not to be dismayed in Deuteronomy and Joshua. See [[Goliath Defies Israel]]
+and [[Afraid and Dismayed - Deuteronomy 1.21, Joshua 1.9, and 1 Samuel 17.11]].
+
+Source: stored WEB 1 Samuel 8:20; 9:2; 10:23; 11:6; 17:1–11; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -300,8 +313,10 @@ Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 202
 - Absent while Samuel, fearing him, anoints David at Bethlehem — 16:1–13.
 - Yahweh's Spirit departs; troubled by an evil spirit from Yahweh; sends for David the harpist, loves him, makes him
   his armor bearer, and is refreshed when he plays — 16:14–23.
+- Camps in the valley of Elah; hears Goliath's challenge and is *dismayed, and greatly afraid* with all Israel — 17:1–11.
 
 ## Appears in
+- [[Goliath Defies Israel]] — 1 Samuel 17:2, 8, 11; camped at Elah; Israel called *servants to Saul*; dismayed and afraid.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23; the Spirit departs, an evil spirit troubles him, and David's harp refreshes him; *He loved him greatly*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–2, 7; not present; *rejected*, mourned, and feared; his height in the background of *Yahweh looks at the heart*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35; the ban on Amalek, Agag spared, *to obey is better than sacrifice*, and the kingdom torn away.
@@ -343,6 +358,7 @@ Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 202
 - [[Amalek]] — whom he struck (14:48)
 - [[Agag]] — the Amalekite king he takes alive and spares (15:8–9, 20)
 - [[Kenites]] — whom he warns away from Amalek for their kindness (15:6)
+- [[Goliath]] — the champion who calls Israel *servants to Saul* and defies its armies (17:8–10)
 - [[Pharaoh (of the Exodus)]] — the earlier king whose *I have sinned … please forgive my sin* he repeats (Exodus 10:16–17; 1 Samuel 15:24–25)
 
 ## Themes associated

@@ -1,0 +1,59 @@
+---
+type: person
+also_known_as: [the champion, the Philistine of Gath, Goliath the Gittite]
+tags: [person]
+---
+# Goliath
+
+## Overview
+
+### The champion of Gath — 1 Samuel 17:1–11
+
+*A champion out of the camp of the Philistines named Goliath, of Gath, whose height was six cubits and a span went
+out* (17:4). *Champion* is *ʾîš habbēnayim*, literally *the man of the between* (WLC); in the Hebrew files checked
+(Genesis through 2 Samuel, and Ruth) the term occurs only at 17:4 and 17:23, and the verse before it has the valley
+*between them* (17:3). The narrator measures him and his equipment piece by piece: a bronze helmet, a coat of scale
+mail of five thousand shekels of bronze, bronze greaves, a bronze javelin between his shoulders, a spear with a shaft
+*like a weaver's beam* and a head of six hundred shekels of iron, and a shield bearer before him (17:5–7). The
+Septuagint and a Qumran manuscript are reported to give his height as four cubits and a span (recalled, not checked;
+neither was consulted).
+
+He speaks for the Philistines, not for a god. He offers single combat: *Choose a man for yourselves, and let him come
+down to me*; the loser's people will be the winner's *servants* (17:8–9). Then *I defy the armies of Israel today!
+Give me a man, that we may fight together!* (17:10). *Ḥārap̄*, *defy*, is the verb the chapter will use of him five
+times (17:10, 25, 26, 36, 45, WLC). Saul and all Israel are *dismayed, and greatly afraid* (17:11).
+
+He comes from [[Gath]], one of the three cities where the Anakim remnant stayed after Joshua (Joshua 11:22). 1 Samuel
+17 does not call him one of the Anakim or of the Rephaim. 2 Samuel 21:15–22 later lists four men *born to the giant in
+Gath* (21:22, WEB checked at bible-api.com; not stored). See
+[[The Nephilim and the Giants of Canaan]].
+
+**Contradiction flagged.** 1 Samuel 17 has David kill him (17:50–51, stored WEB; not yet ingested). 2 Samuel 21:19
+reads in the WLC *Elhanan … struck Goliath the Gittite*, with the same *weaver's beam*; the WEB adds *brother*, from
+1 Chronicles 20:5, *Lahmi the brother of Goliath the Gittite* (WEB checked at bible-api.com; not stored). Recorded, not
+reconciled. See [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]] and [[Goliath Defies Israel]].
+
+Source: stored WEB 1 Samuel 17:1–11, 23, 25–26, 36, 45, 50–51; Joshua 11:22. 2 Samuel 21:19–22 and 1 Chronicles
+20:5 checked at bible-api.com (`translation=web`), 2026-11-21. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
+## Timeline / key events
+
+- Comes out from the Philistine camp between Socoh and Azekah; his height and armor; challenges Israel to single
+  combat and defies its armies — 1 Samuel 17:1–10, [[Goliath Defies Israel]]
+- Comes out *morning and evening* for forty days (17:16); killed by David (17:41–54) — not yet ingested
+- His sword kept at Nob behind the ephod and given to David (21:9; 22:10) — not yet ingested
+
+## Appears in
+- [[Goliath Defies Israel]] — 1 Samuel 17:1–11; the champion of Gath, his armor, his challenge, and *I defy the armies
+  of Israel today!*
+
+## Related people
+- [[The Philistines]] — his people, whose champion he is (17:4)
+- [[Saul]] — the king whose *servants* he calls Israel (17:8)
+- [[The Anakim]] — the remnant left in Gath (Joshua 11:22); not named in 1 Samuel 17
+- [[David]] — who will fight him (17:32–51; not yet ingested)
+
+## Themes associated
+- [[War]]
+- [[Slavery and Servitude]]
+- [[The Nations]]

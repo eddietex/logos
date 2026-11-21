@@ -178,6 +178,7 @@ fought with exactly the weapons this one counts.
 - [[Slavery and Servitude]] — an occupied people dependent on the occupier for its tools (13:19–21)
 
 ## Cross-references
+- 1 Samuel 17:5–7 — Goliath's bronze armor and iron spearhead — [[Goliath Defies Israel]]
 - 1 Samuel 17:47; 21:8; Judges 5:8 — sword and spear, and their absence —
   [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]
 - Exodus 12:23; 1 Samuel 14:15; 2 Samuel 24:16 — *hammašḥîṯ*, the destroyer —

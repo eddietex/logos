@@ -517,8 +517,17 @@ controls the means of work and of war at once. Samuel had told the people the ki
 (8:17); here the servitude is to the enemy the king was anointed to save them from (9:16). See
 [[No Smith in Israel]]. Source: stored WEB 1 Samuel 8:17; 9:16; 13:19–21.
 
+### Servants as the stake of a duel — 1 Samuel 17:8–9
+
+Goliath names Israel *servants to Saul* and proposes that the duel decide whose servants each people will be: *then
+will we be your servants; but if I prevail against him and kill him, then you will be our servants and serve us*
+(17:8–9). *ʿĔḇeḏ* comes three times in two verses, and the verb *ʿāḇaḏ* once (WLC). Samuel had warned that the king
+would make the people *his servants* (8:17); the Philistine offers them a different master. See
+[[Goliath Defies Israel]]. Source: stored WEB 1 Samuel 8:17; 17:8–9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[Goliath Defies Israel]] — 1 Samuel 17:8–9; *you servants to Saul*; *you will be our servants and serve us*.
 - [[No Smith in Israel]] — 1 Samuel 13:19–21; the smith forbidden, the tools sharpened by the Philistines.
 - [[Israel Asks for a King]] — 1 Samuel 8:11–17; *you will be his servants*.
 - [[Samson and Delilah]] — Judges 16:21; the prison mill.

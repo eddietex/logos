@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Goliath *of Gath* — 1 Samuel 17:4
+
+*A champion out of the camp of the Philistines named Goliath, of Gath*, *miggaṯ* (17:4, WLC). The battle is not at
+Gath but in Judah's lowland, between Socoh and Azekah (17:1). Gath is one of the cities where the Anakim remnant stayed
+(Joshua 11:22); 1 Samuel 17 does not call Goliath one of them. Gath will later be David's refuge under Achish (21:10;
+27:2, stored WEB; not yet ingested). See [[Goliath Defies Israel]] and [[Goliath]].
+
+Source: stored WEB Joshua 11:22; 1 Samuel 17:1, 4; 21:10; 27:2. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ### *From Ekron even to Gath* — 1 Samuel 7:14
 
 *The cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath* (7:14),
@@ -36,11 +45,12 @@ The Gittites are listed among the five Philistine lordships whose territory rema
 
 See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
 
-One of three cities where some of the Anakim remain after Joshua cuts them off from the hill country (11:22). Joshua 13:3 counts *the Gittites* among the Philistine peoples whose land still remains. Gath will later be the home of Goliath (1 Samuel 17, not yet ingested; reference only).
+One of three cities where some of the Anakim remain after Joshua cuts them off from the hill country (11:22). Joshua 13:3 counts *the Gittites* among the Philistine peoples whose land still remains. Gath is the home of [[Goliath]] (1 Samuel 17:4).
 
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
 ## Appears in
+- [[Goliath Defies Israel]] — 1 Samuel 17:4; Goliath's city.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *from Ekron even to Gath*, the towns restored.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:17; one golden tumor for Gath.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:8–9; the second city struck.
@@ -56,3 +66,4 @@ Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 - [[The Whole Land Taken]] — Some of the Anakim remain there (22).
 - Counted in the Philistine trespass offering — 1 Samuel 6:17, [[The Ark Returns to Israel]]
 - Towns *from Ekron even to Gath* restored to Israel — 1 Samuel 7:14, [[Samuel Judges Israel at Mizpah]]
+- Home of Goliath, the Philistine champion — 1 Samuel 17:4, [[Goliath Defies Israel]]

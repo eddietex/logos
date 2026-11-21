@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The camp at Ephes Dammim, and the champion — 1 Samuel 17:1–11
+
+The Philistines gather *at Socoh, which belongs to Judah*, and camp *between Socoh and Azekah, in Ephesdammim* (17:1),
+inside Judah's lowland (Joshua 15:35). They hold one mountain and Israel the other, with a valley between (17:3). Their
+champion, Goliath of Gath, offers that one fight decide which people serves the other: *then will we be your
+servants; but if I prevail … you will be our servants and serve us* (17:9). He speaks as *a Philistine*, *hălôʾ
+ʾānōḵî happəlištî* (17:8, WLC), and names no god. See [[Goliath Defies Israel]] and [[Goliath]].
+
+Source: stored WEB Joshua 15:35; 1 Samuel 17:1–11. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ### *Severe war … all the days of Saul* — 1 Samuel 14:47, 52
 
 The summary of Saul's reign names the Philistines among the enemies he fought *on every side* (14:47), and then
@@ -247,9 +257,11 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Their garrison at Geba struck by Jonathan; they muster at Michmash *as the sand*, and Israel hides — 1 Samuel 13:3–7. [[Saul's Sacrifice at Gilgal]]
 - Their garrison at the pass climbed by Jonathan; the camp trembles, melts away, and turns its swords on itself — 1 Samuel 14:1–23. [[Jonathan's Attack at Michmash]]
 - Struck from Michmash to Aijalon; not pursued by night; *went to their own place* — 1 Samuel 14:31, 36, 46. [[Saul's Rash Oath]]
+- Camp at Ephes Dammim between Socoh and Azekah; their champion Goliath defies Israel — 1 Samuel 17:1–11. [[Goliath Defies Israel]]
 
 ## Appears in
 
+- [[Goliath Defies Israel]] — 1 Samuel 17:1–11; the camp in Judah's lowland, and the champion of Gath.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47, 52; *severe war against the Philistines all the days of Saul*.
 - [[The Table of Nations]] — Genesis 10:14.
 - [[The Treaty at Beersheba]] — Genesis 21:34.
@@ -283,6 +295,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 
 ## Related people
 
+- [[Goliath]] — their champion, of Gath (1 Samuel 17:4).
 - [[Saul]] — sent to *save my people out of the hand of the Philistines* (1 Samuel 9:16).
 - [[Shamgar]] — the first in Judges to fight them (3:31).
 - [[Jonathan (son of Saul)]] — climbs into their garrison at the pass (1 Samuel 14:13).
