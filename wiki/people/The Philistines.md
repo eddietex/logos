@@ -258,9 +258,11 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Their garrison at the pass climbed by Jonathan; the camp trembles, melts away, and turns its swords on itself — 1 Samuel 14:1–23. [[Jonathan's Attack at Michmash]]
 - Struck from Michmash to Aijalon; not pursued by night; *went to their own place* — 1 Samuel 14:31, 36, 46. [[Saul's Rash Oath]]
 - Camp at Ephes Dammim between Socoh and Azekah; their champion Goliath defies Israel — 1 Samuel 17:1–11. [[Goliath Defies Israel]]
+- Their battle line faces Israel's in the valley of Elah; called *uncircumcised* by David — 1 Samuel 17:19–26. [[David Comes to the Camp]]
 
 ## Appears in
 
+- [[David Comes to the Camp]] — 1 Samuel 17:19–21, 26, 36; *army against army*; *this uncircumcised Philistine*.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; the camp in Judah's lowland, and the champion of Gath.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47, 52; *severe war against the Philistines all the days of Saul*.
 - [[The Table of Nations]] — Genesis 10:14.

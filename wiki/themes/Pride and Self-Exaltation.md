@@ -355,7 +355,14 @@ The king reads the law *"that his heart not be lifted up above his brothers"* (1
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+**The charge of pride — 1 Samuel 17:28.** *I know your pride*, *zəḏōnəḵā* (17:28, WLC). *Zāḏôn* occurs in the
+Hebrew files checked only here and in Deuteronomy's laws against the man who *does presumptuously* (17:12) and the
+prophet who speaks *presumptuously* (18:22). The accuser is Eliab, whose *height of … stature* Yahweh told Samuel not
+to look at (16:7); the accused is the boy whose *heart* Yahweh had looked at. See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:12–40; 16:7;
+Deuteronomy 17:12; 18:22; Hebrew WLC (OpenScriptures morphhb).
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:28; Eliab's *I know your pride*, *zāḏôn*.
 
 - [[The Song of Hannah]] — 1 Samuel 2:3–10; *Don't keep talking so exceedingly proudly*; *no man shall prevail by strength*.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:18, 20; *For Yahweh and for Gideon!*

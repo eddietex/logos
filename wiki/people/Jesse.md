@@ -52,13 +52,29 @@ See [[David Plays the Harp for Saul]].
 
 Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### David sent to his brothers — 1 Samuel 17:12–18
+
+Chapter 17 introduces him again, *that Ephrathite of Bethlehem Judah, whose name was Jesse; and he had eight sons. The
+man was an elderly old man in the days of Saul* (17:12). His three eldest are with Saul (17:13). He sends David with
+parched grain, ten loaves, and ten cheeses for *the captain of their thousand*, and the charge *see how your brothers
+are doing, and bring back news* (17:17–18). The Hebrew has *tip̄qōḏ ləšālôm*, *visit them for welfare*, and *their
+ʿărubbâ you shall take*, a word found only here in the files checked and usually glossed *pledge* (WLC; the gloss
+recalled, not checked). Jacob sent Joseph on the same kind of errand, *see whether it is well with your brothers*
+(Genesis 37:14, stored WEB). *Ephrathite* is the word for Elimelech's family, *Ephrathites of Bethlehem Judah* (Ruth
+1:2, stored WEB). See [[David Comes to the Camp]] and
+[[Sent to See His Brothers - Joseph at Shechem and David at Elah]].
+
+Source: stored WEB 1 Samuel 17:12–18; Genesis 37:14; Ruth 1:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
 
 - Named as Obed's son and David's father — Ruth 4:17, 22
 - Called to the sacrifice at Bethlehem; his sons pass before Samuel; David anointed — 1 Samuel 16:1–13
 - Sends David to Saul with bread, wine, and a young goat; asked to let him stay — 1 Samuel 16:19–22
+- Old, with eight sons; sends David to the camp with food for his brothers — 1 Samuel 17:12–18
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:12, 17–18; *that Ephrathite*, old; sends David to his brothers.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–22; *a son of Jesse the Bethlehemite*; sends David to Saul with a gift.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; *the Bethlehemite*; his sons pass before Samuel, and the youngest is sent for.
 - [[The Birth of Obed]] — Ruth 4:17; *the father of Jesse, the father of David*.

@@ -20,8 +20,11 @@ and 16:1. Eliab is passed over in the same terms as the king, though he had neve
 
 **Later.** He is *the firstborn* among the three eldest who follow Saul to the war with the Philistines (17:13). When
 David arrives at the camp, Eliab's *anger burned against David*: *I know your pride, and the naughtiness of your
-heart* (17:28, WLC *rōaʿ ləḇāḇeḵā*). The man whose heart Yahweh looked past claims to read his brother's heart (stored
-WEB; not yet ingested). 1 Chronicles 2:13 lists him as Jesse's firstborn (WEB checked at bible-api.com).
+heart* (17:28, WLC *rōaʿ ləḇāḇeḵā*). The man whose heart Yahweh looked past claims to read his brother's heart
+(stored WEB). He also asks *With whom have you left those few sheep in the wilderness?*, when the narrator has twice
+said David *left* them with a keeper (17:20, 22, 28, WLC *nāṭaš*). The eldest brother's hostility to the youngest sent
+by their father recalls Joseph's brothers at Dothan (Genesis 37:14, 18–20, stored WEB); the text does not draw the
+line. See [[David Comes to the Camp]] and [[Sent to See His Brothers - Joseph at Shechem and David at Elah]]. 1 Chronicles 2:13 lists him as Jesse's firstborn (WEB checked at bible-api.com).
 
 **Name.** *ʾĔlîʾāḇ*, conventionally *my God is father* (recalled, not checked). The same name belongs to
 [[Eliab (father of Dathan and Abiram)]], a Reubenite of the wilderness, hence the qualifier.
@@ -32,10 +35,11 @@ Source: stored WEB 1 Samuel 9:2; 10:23–24; 15:23, 26; 16:1, 6–7; 17:13, 28. 
 ## Timeline / key events
 
 - Looked at by Samuel as *Yahweh's anointed*, and rejected — 1 Samuel 16:6–7.
-- Follows Saul to the battle as Jesse's firstborn — 1 Samuel 17:13 (not yet ingested).
-- Angry with David at the battle line — 1 Samuel 17:28 (not yet ingested).
+- Follows Saul to the battle as Jesse's firstborn — 1 Samuel 17:13. [[David Comes to the Camp]]
+- Angry with David at the battle line: *I know your pride* — 1 Samuel 17:28. [[David Comes to the Camp]]
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:13, 28; *the firstborn*, with Saul at the war; *Eliab's anger burned against David*.
 - [[Samuel Anoints David]] — 1 Samuel 16:6–7; the eldest, tall; *I have rejected him … Yahweh looks at the heart*.
 
 ## Related people

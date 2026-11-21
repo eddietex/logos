@@ -33,17 +33,30 @@ reads in the WLC *Elhanan … struck Goliath the Gittite*, with the same *weaver
 1 Chronicles 20:5, *Lahmi the brother of Goliath the Gittite* (WEB checked at bible-api.com; not stored). Recorded, not
 reconciled. See [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]] and [[Goliath Defies Israel]].
 
-Source: stored WEB 1 Samuel 17:1–11, 23, 25–26, 36, 45, 50–51; Joshua 11:22. 2 Samuel 21:19–22 and 1 Chronicles
+**Before David — 1 Samuel 17:16–40.** He *came near morning and evening, and presented himself forty days* (17:16).
+When David reaches the line he comes up again and says *the same words; and David heard them* (17:23). Israel flees
+from him (17:24). His *I defy*, *ḥēraptî* (17:10), is answered three times: the soldiers say *he has surely come up to
+defy Israel* (17:25), and David twice calls him *this uncircumcised Philistine* who has defied *the armies of the
+living God* (17:26, 36, WLC *maʿarḵôṯ ʾĕlōhîm ḥayyîm*), the ranks Goliath had called *the armies of Israel* (17:10).
+Saul's word for him is *a man of war from his youth* (17:33), the phrase a servant had used of David (16:18, WLC). Saul
+then dresses David in a bronze helmet and coat of mail (17:38), the two pieces Goliath wears first (17:5). See
+[[David Comes to the Camp]] and [[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]].
+
+Source: stored WEB 1 Samuel 16:18; 17:1–11, 16, 23–26, 33, 36, 38, 45, 50–51; Joshua 11:22. 2 Samuel 21:19–22 and 1 Chronicles
 20:5 checked at bible-api.com (`translation=web`), 2026-11-21. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
 ## Timeline / key events
 
 - Comes out from the Philistine camp between Socoh and Azekah; his height and armor; challenges Israel to single
   combat and defies its armies — 1 Samuel 17:1–10, [[Goliath Defies Israel]]
-- Comes out *morning and evening* for forty days (17:16); killed by David (17:41–54) — not yet ingested
+- Comes out *morning and evening* for forty days; heard by David; called *this uncircumcised Philistine* — 1 Samuel
+  17:16–36, [[David Comes to the Camp]]
+- Killed by David (17:41–54) — not yet ingested
 - His sword kept at Nob behind the ephod and given to David (21:9; 22:10) — not yet ingested
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:16, 23–26, 33, 36–37; forty days; *the same words*; *this uncircumcised Philistine*; *a man
+  of war from his youth*.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; the champion of Gath, his armor, his challenge, and *I defy the armies
   of Israel today!*
 
@@ -51,7 +64,8 @@ Source: stored WEB 1 Samuel 17:1–11, 23, 25–26, 36, 45, 50–51; Joshua 11:2
 - [[The Philistines]] — his people, whose champion he is (17:4)
 - [[Saul]] — the king whose *servants* he calls Israel (17:8)
 - [[The Anakim]] — the remnant left in Gath (Joshua 11:22); not named in 1 Samuel 17
-- [[David]] — who will fight him (17:32–51; not yet ingested)
+- [[David]] — who hears him, names him *uncircumcised*, and goes out to him (17:23–40); the fight is 17:41–54, not yet
+  ingested
 
 ## Themes associated
 - [[War]]

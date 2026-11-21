@@ -34,6 +34,9 @@ tags: [connection]
 - [[Samson's Riddle]] — Judges 14:3; *the uncircumcised Philistines*, the literal use beside the figurative.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:18; *fall into the hands of the uncircumcised*.
 
+- [[David Comes to the Camp]] — **1 Samuel 17:26, 36** — *who is this uncircumcised Philistine, that he should defy the armies of the
+  living God?* Stored WEB. The word in its plain bodily sense, as an insult and a boundary.
+
 ## Analysis
 
 ### The requirement now ingested

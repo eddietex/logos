@@ -235,7 +235,14 @@ scattering from him* (13:8). The word *test* is not used. The scene is a waiting
 judged by Samuel as a commandment not kept (13:13). See [[Saul's Sacrifice at Gilgal]]. Source: stored WEB
 1 Samuel 13:8–13.
 
+**Untested armor — 1 Samuel 17:39.** David straps on Saul's sword and *tried to move; for he had not tested it*, and
+says *I can't go with these; for I have not tested them* (17:39). *Nissâ* is the verb of God testing Abraham and
+Israel (Genesis 22:1; Exodus 16:4; Deuteronomy 8:2) and of Israel testing God (Exodus 17:2, 7; Deuteronomy 6:16)
+(WLC). Here it means only *try out*, and it is the reason a young man goes to the fight without armor. See
+[[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:12–40; Hebrew WLC (OpenScriptures morphhb).
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:39; *I have not tested them*.
 - [[Gideon's Three Hundred]] — Judges 7:4; *I will test them*, with *ṣārap*, the refiner's verb.
 - [[The Fleece]] — Judges 6:39; *let me make a trial*, a man testing God with the verb God used of testing Israel.
 - [[The Nations Left to Test Israel]] — Judges 3:1, 4; *to know whether they would listen*.

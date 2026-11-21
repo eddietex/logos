@@ -218,7 +218,15 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+**Eliab's anger — 1 Samuel 17:28.** *Eliab's anger burned against David*, and he accuses him of *pride* and
+*naughtiness of … heart* and of coming *that you might see the battle* (17:28). The text does not name envy, and does
+not say why Eliab is angry. But he is the eldest, passed over in 16:6–7 when David was anointed *in the middle of his
+brothers* (16:13), and the scene recalls Joseph's brothers, who *envied him* (Genesis 37:11) when he was sent to them.
+The wiki notes the pattern and leaves the motive where the text leaves it. See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel
+16:6–13; 17:28; Genesis 37:11.
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:28; Eliab's anger, unexplained, at the youngest brother.
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:6–7; Peninnah, the *rival*, provokes Hannah year by year
 

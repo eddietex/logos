@@ -14,6 +14,8 @@ tags: [connection]
   provisions for the journey and the memory of Egypt as the motive — [[Release the Servant with Gifts]]
 - **Leviticus 25:39–46** — the impoverished brother who is not to *"serve as a slave"*, released at
   the Year of Jubilee; foreign slaves held *"forever"* — [[The Poor Brother and Redemption from Service]]
+- [[David Comes to the Camp]] — **1 Samuel 17:25** — the king *will make his father's house free in Israel*; the same adjective,
+  *ḥop̄šî*, used of a household and a king. Stored WEB.
 - **Jeremiah 34:8–17** — Zedekiah's covenant of release, the freed servants taken back, and God's
   answering *"liberty … to the sword"* *(not yet ingested)*
 
@@ -96,6 +98,13 @@ the journey, and the memory of Egypt. Leviticus goes further in one direction, s
 is not to be a slave at all, and stays behind in another, since foreigners may be held for ever.
 None of the texts abolishes the institution. See [[Slavery and Servitude]], where the same tension
 runs through the whole theme.
+
+**Outside the law — 1 Samuel 17:25.** In the Hebrew files checked, *ḥop̄šî*, *free* (lemma 2670), occurs eight
+times. Seven are in the servant laws above (Exodus 21:2, 5, 26, 27; Deuteronomy 15:12, 13, 18). The eighth is the
+king's promise at the valley of Elah, to *make his father's house free* (WLC). What a household was freed from is not
+said; release from royal taxes or service is the usual reading (recalled, not checked). The word that marked the end
+of a servant's term marks here a release granted by the king whom Samuel warned would make Israel *his servants*
+(1 Samuel 8:17). See [[David Comes to the Camp]].
 
 See also [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]],
 [[With Harshness - Exodus 1.13-14 and Leviticus 25]], and

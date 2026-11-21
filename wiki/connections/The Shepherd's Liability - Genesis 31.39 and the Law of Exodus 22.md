@@ -15,6 +15,8 @@ tags: [connection]
   cast it to the dogs"* — [[Laws of Holiness and Compassion]]
 - **Amos 3:12** — the shepherd rescuing *"two legs, or a piece of an ear"* from a lion's mouth: the
   evidence the law asks for
+- [[David Comes to the Camp]] — **1 Samuel 17:34–37** — *when a lion or a bear came, and took a lamb out of the flock, I went out after
+  him, and struck him, and rescued it out of his mouth.* Stored WEB.
 - **John 10:11–13** — the good shepherd who does not run, against the hireling who does
 
 ## Analysis
@@ -59,6 +61,13 @@ recorded. **The narrator supplies no comment**, exactly as it supplied none for 
 (Genesis 31:39). **The same carcass the keeper brings as evidence is one a holy people may not eat**,
 and it goes *"to the dogs"*. The two rules do not refer to each other. See
 [[Laws of Holiness and Compassion]].
+
+**David's version — 1 Samuel 17:34–37.** Jacob paid for what the beasts took; the law excused the keeper who could
+show the remains; David tells Saul that he went after the lion or bear, *rescued*, *hiṣṣaltî*, the lamb from its mouth,
+and killed the beast (17:35, WLC). Amos 3:12 uses the same verb, *nāṣal*, for the shepherd who *rescues out of the
+mouth of the lion two legs* (WEB checked at bible-api.com; the Hebrew of Amos not checked). David does not argue from
+liability. He argues from rescue, and then turns the verb to Yahweh: *Yahweh who delivered me … he will deliver me*
+(17:37). See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:34–37; Hebrew WLC (OpenScriptures morphhb).
 
 ## Significance
 

@@ -759,7 +759,13 @@ greatly afraid* with all Israel (17:11). The narrator does not comment; the gap 
 See [[Goliath Defies Israel]]. Source: stored WEB 1 Samuel 8:20; 9:2; 17:1–11; Hebrew WLC (OpenScriptures morphhb),
 2026-11-21.
 
+**The king's reward and the king's armor — 1 Samuel 17:25–39.** The king promises riches, a daughter, and freedom
+for the champion's killer (17:25), but does not go down himself. He calls David *a youth*, sends him with *Yahweh will
+be with you*, and dresses him in his own armor, which David cannot use (17:33, 37–39). See [[David Comes to the Camp]].
+Source: stored WEB 1 Samuel 17:12–40; Hebrew WLC (OpenScriptures morphhb).
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:25, 33–39; the king's reward, and the king's armor taken off.
 - [[Goliath Defies Israel]] — 1 Samuel 17:4, 8, 11; the champion goes out; the king is afraid.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:21–22; the anointed successor as the king's harpist and armor bearer.
 - [[Samuel Anoints David]] — 1 Samuel 16:1, 8–13; *a king for myself*; *Yahweh has not chosen*; anointed *in the middle of his brothers*.

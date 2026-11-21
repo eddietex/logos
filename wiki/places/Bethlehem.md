@@ -136,9 +136,17 @@ WEB Ruth 4:17; 1 Samuel 16:1–13; Hebrew WLC (OpenScriptures morphhb), 2026-11-
 
 Saul's servant identifies David by his town, *a son of Jesse the Bethlehemite* (16:18), and Jesse sends him from it to
 Saul's court with bread, wine, and a young goat (16:20). 17:15 has him going *back and forth from Saul to feed his
-father's sheep at Bethlehem* (stored WEB; not yet ingested). See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+father's sheep at Bethlehem* (stored WEB). See [[David Plays the Harp for Saul]] and [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
+### Jesse's house sends David to the war — 1 Samuel 17:12–20
+
+Chapter 17 names the town in Ruth's words: Jesse is *that Ephrathite of Bethlehem Judah* (17:12), as Elimelech's sons
+were *Ephrathites of Bethlehem Judah* (Ruth 1:2). David keeps his father's sheep *at Bethlehem* (17:15), and goes from
+it to the valley of Elah with grain, loaves, and cheeses (17:17–20). Eliab places the flock *in the wilderness* (17:28).
+See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:12–28; Ruth 1:2.
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:12, 15; *that Ephrathite of Bethlehem Judah*; David's father's sheep.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–20; *the Bethlehemite*; David sent from his father's house to Saul.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; the trembling elders, the sacrifice, and David anointed among his brothers.
 
@@ -177,6 +185,7 @@ father's sheep at Bethlehem* (stored WEB; not yet ingested). See [[David Plays t
 
 ## Events here
 - David anointed by Samuel — 1 Samuel 16:1–13, [[Samuel Anoints David]]
+- David sent from his father's sheep to his brothers at the war — 1 Samuel 17:15–20, [[David Comes to the Camp]]
 
 - A Levite fetches his concubine from her father's house and is kept five days — Judges 19:1–9, [[The Levite's Concubine at Gibeah]]
 - A young Levite leaves *Bethlehem Judah* to find a place to live — Judges 17:7–9, [[Micah's Idol and Levite]]

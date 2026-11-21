@@ -453,7 +453,15 @@ exists so that he is not *"degraded in your sight"*. Two verses later the levira
 for it at the gate (9–10). One chapter keeps the guilty brother's dignity and shames the brother who
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
+**The youngest sent to his brothers — 1 Samuel 17:17–28.** Jesse sends David to *see how your brothers are doing*
+(17:18), and David *greeted his brothers*, literally asked them *of šālôm* (17:22, WLC). The eldest answers with anger:
+*I know your pride, and the naughtiness of your heart* (17:28). The pattern is Genesis 37: Jacob sends Joseph to *see
+whether it is well with your brothers* (37:14), and the brothers plot against him (37:18–20). David's brothers do no
+harm, and David turns *toward another* (17:30). See [[David Comes to the Camp]] and
+[[Sent to See His Brothers - Joseph at Shechem and David at Elah]]. Source: stored WEB 1 Samuel 17:12–40; Genesis 37:14–20; Hebrew WLC.
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:17–30; sent to his brothers' *šālôm*; Eliab's anger.
 - [[Wives for Benjamin]] — Judges 21:6, 22; *Benjamin their brother*, and the brothers of Shiloh.
 - [[The War Against Benjamin]] — Judges 20:13, 23, 28; *their brothers*, and *Benjamin my brother*.
 - [[Shibboleth]] — Judges 12:4–6; the tribes of Joseph's two sons at war.

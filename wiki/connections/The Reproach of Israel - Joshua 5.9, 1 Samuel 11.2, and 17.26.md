@@ -11,8 +11,8 @@ tags: [connection]
 - [[Saul Rescues Jabesh Gilead]] — **1 Samuel 11:2** — *On this condition I will make it with you, that all your
   right eyes be gouged out. I will make this dishonor all Israel.* Stored WEB. The story ends at Gilgal (11:14–15).
 - [[Goliath Defies Israel]] — **1 Samuel 17:10** — *I defy the armies of Israel today!* Stored WEB.
-- **1 Samuel 17:26** — *What shall be done to the man who kills this Philistine, and takes away the reproach from
-  Israel?* Stored WEB; not yet ingested.
+- [[David Comes to the Camp]] — **1 Samuel 17:26** — *What shall be done to the man who kills this Philistine, and takes away the
+  reproach from Israel?* Stored WEB.
 
 ## Analysis
 
@@ -41,6 +41,13 @@ the shared word and the shared place and does not claim the narrator intends the
 **Who removes it.** At Gilgal Yahweh rolls the reproach away. In 1 Samuel 11 the reproach never falls, and Saul
 gives the rescue to Yahweh (11:13). In 1 Samuel 17 David asks what will be done for *the man* who takes it
 away. The three texts place the removal differently, and the wiki leaves the comparison there.
+
+**How David hears it.** In 17:25–36 the verb *ḥārap̄* comes three more times after Goliath's own *ḥēraptî* (17:10):
+the soldiers say *he has surely come up to defy Israel* (25), and David twice says the Philistine has *defied the
+armies of the living God* (26, 36) (WLC). David changes the object Goliath gave the verb, from *the armies of Israel*
+to *the armies of the living God*. In 2 Kings 19:4, 16 the same English, *to defy the living God*, is used of
+Sennacherib's envoys (WEB checked at bible-api.com; the Hebrew of 2 Kings not checked). See [[David Comes to the Camp]] and
+[[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]].
 
 ## Significance
 

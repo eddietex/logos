@@ -289,6 +289,18 @@ Gittite; the WEB adds *brother* from 1 Chronicles 20:5; both accounts are record
 [[Afraid and Dismayed - Deuteronomy 1.21, Joshua 1.9, and 1 Samuel 17.11]] and
 [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]].
 
+[[David Comes to the Camp]] (17:12–40) introduces David again, *the son of that Ephrathite of Bethlehem Judah*, the
+youngest of eight, going *back and forth from Saul* to the sheep (17:12–15). Jesse sends him with bread to *see how
+your brothers are doing* (17:17–18), an errand shaped like Jacob's sending of Joseph (Genesis 37:14). At the camp he
+hears *the same words* (17:23), and his first words in the book name the God no one else has named:
+*who is this uncircumcised Philistine, that he should defy the armies of the living God?* (17:26). Eliab charges him
+with pride; Saul calls him *a youth* against *a man of war* (17:28, 33). David answers from the flock, *Yahweh who
+delivered me out of the paw of the lion … will deliver me out of the hand of this Philistine*, and Saul answers *Go!
+Yahweh will be with you* (17:37). Dressed in Saul's bronze helmet and mail, the armor Goliath wears, David takes it
+off, *for I have not tested them*, and goes with a staff, five smooth stones, and a sling (17:38–40). See
+[[Sent to See His Brothers - Joseph at Shechem and David at Elah]] and
+[[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -335,7 +347,7 @@ merge, or reorder them freely.
 - [x] [[Samuel Anoints David]] — 1 Samuel 16:1–13
 - [x] [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23
 - [x] [[Goliath Defies Israel]] — 1 Samuel 17:1–11
-- [ ] David Comes to the Camp — 1 Samuel 17:12–40
+- [x] [[David Comes to the Camp]] — 1 Samuel 17:12–40
 - [ ] David Kills Goliath — 1 Samuel 17:41–54
 - [ ] Jonathan Loves David — 1 Samuel 17:55–18:5
 - [ ] Saul's Jealousy of David — 1 Samuel 18:6–16
@@ -459,6 +471,10 @@ merge, or reorder them freely.
 - [[Healing]] — *Saul was refreshed, and was well* (16:23)
 - [[War]] — two armies arrayed, and single combat proposed (17:1–10)
 - [[Slavery and Servitude]] — *you will be our servants and serve us* (17:9)
+- [[Faith]] — *Yahweh who delivered me out of the paw of the lion … will deliver me* (17:37)
+- [[Brotherhood]] — sent to *see how your brothers are doing*; Eliab's anger (17:18, 28)
+- [[Pride and Self-Exaltation]] — *I know your pride* (17:28)
+- [[Testing]] — *I have not tested them* (17:39)
 
 ## Key people
 - [[Samuel]]
@@ -501,7 +517,7 @@ merge, or reorder them freely.
 - [[Agag]] — king of the Amalekites, spared by Saul and killed by Samuel (15:8–9, 32–33)
 - [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
 - [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11)
-- [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9)
+- [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9), and with Saul at the war; Eliab's anger at David (17:13, 28)
 - [[Goliath]] — the champion of Gath who defies Israel (17:4–10)
 
 ## Key places
@@ -540,7 +556,7 @@ merge, or reorder them freely.
 - [[Carmel (Judah)]] — presumably, where Saul sets up a monument (15:12)
 - [[Gilgal]] — the second rejection, and Agag's death (15:12–33)
 - [[Ramah]] and [[Gibeah (Benjamin)]] — where Samuel and Saul go, never to meet again while Saul lives (15:34–35)
-- [[Bethlehem]] — Jesse's town, where David is anointed (16:1–13)
+- [[Bethlehem]] — Jesse's town, where David is anointed (16:1–13) and keeps the sheep (17:15)
 - [[Socoh (lowland)]], [[Azekah]], and [[Ephes Dammim]] — the Philistine muster and camp (17:1)
 - [[Valley of Elah]] — Israel's camp, and the valley between the armies (17:2–3)
 - [[Gath]] — Goliath's city (17:4)

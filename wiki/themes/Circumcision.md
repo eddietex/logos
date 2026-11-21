@@ -170,7 +170,13 @@ Goliath (17:26, 36) and Saul of the Philistines who he fears will abuse him (31:
 Jonathan sets it beside Yahweh's freedom to save, as though the covenant sign marks whose side Yahweh will act for.
 See [[Jonathan's Attack at Michmash]]. Source: stored WEB Judges 14:3; 15:18; 1 Samuel 14:6; 17:26, 36; 31:4. Hebrew WLC, 2026-11-19.
 
+**This uncircumcised Philistine — 1 Samuel 17:26, 36.** David's first words name Goliath *this uncircumcised
+Philistine* and set him against *the armies of the living God* (17:26). He repeats it to Saul, as the ground for
+comparing the champion to the lion and bear (17:36). Jonathan had used the word of the Philistine garrison (14:6). See
+[[David Comes to the Camp]] and [[Uncircumcised Lips, Ears, and Heart]]. Source: stored WEB 1 Samuel 17:12–40; 14:6; Hebrew WLC.
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:26, 36; *this uncircumcised Philistine*.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:6; *the garrison of these uncircumcised*.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

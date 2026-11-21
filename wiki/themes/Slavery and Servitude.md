@@ -525,7 +525,15 @@ will we be your servants; but if I prevail against him and kill him, then you wi
 would make the people *his servants* (8:17); the Philistine offers them a different master. See
 [[Goliath Defies Israel]]. Source: stored WEB 1 Samuel 8:17; 17:8–9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+**Free from the crown, and *your servant* — 1 Samuel 17:25–36.** The king's reward includes to *make his father's
+house free in Israel* (17:25). *Ḥop̄šî*, *free*, is in the Hebrew files checked otherwise only the release of the
+Hebrew servant (Exodus 21:2, 5, 26–27; Deuteronomy 15:12–13, 18, WLC); here the master releasing is the king. David
+calls himself Saul's *servant* three times (17:32, 34, 36), the word Goliath used to mock Israel (17:8). See
+[[David Comes to the Camp]] and [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]]. Source: stored WEB 1 Samuel 17:12–40; Exodus
+21:2–27; Deuteronomy 15:12–18; Hebrew WLC.
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:25, 32–36; *make his father's house free*; *your servant*.
 
 - [[Goliath Defies Israel]] — 1 Samuel 17:8–9; *you servants to Saul*; *you will be our servants and serve us*.
 - [[No Smith in Israel]] — 1 Samuel 13:19–21; the smith forbidden, the tools sharpened by the Philistines.

@@ -29258,3 +29258,50 @@ files `Gen` through `2Sam` and `Ruth`, downloaded 2026-11-21; occurrence claims 
 claims follow morphhb's tagging. The Hebrew of 1 Chronicles was not checked. Recalled, not checked, and flagged where
 made: the sense of *ʾîš habbēnayim*; the Septuagint and Qumran height; the meanings of *ʾep̄es* and *dammîm* and of
 *ʾēlâ*; the explanations of 2 Samuel 21:19. No Septuagint or Qumran text was consulted.
+
+## [2026-11-21] ingest | 1 Samuel 17.12-40 — David Comes to the Camp
+
+Unattended run. Created [[David Comes to the Camp]] and the connections
+[[Sent to See His Brothers - Joseph at Shechem and David at Elah]] and
+[[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]]. Revised [[1 Samuel]] (box checked; overview paragraph; key
+themes, people, and places); the people [[David]], [[Jesse]], [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]],
+[[Shammah (son of Jesse)]], [[Goliath]], [[Saul]], [[The Philistines]], and [[Merab]]; the places [[Bethlehem]] and
+[[Valley of Elah]]; the themes [[Faith]], [[Brotherhood]], [[Envy]], [[Pride and Self-Exaltation]], [[Circumcision]],
+[[Testing]], [[Slavery and Servitude]], [[Wealth and Possessions]], [[Kingship and Empire]], and [[War]]; and the
+connections [[The Reproach of Israel - Joshua 5.9, 1 Samuel 11.2, and 17.26]] (17:26 no longer "not yet ingested"),
+[[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]],
+[[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]],
+[[Uncircumcised Lips, Ears, and Heart]], and [[The Spirit Rushed on Him - Samson, Saul, and David]]. Also
+`wiki/books/index.md` (25 / 47), People Index A-E, F-M, and N-Z (rows extended), the places index (two rows), the
+themes index (ten rows; the Circumcision row's missing cell divider, a pre-existing defect, repaired), Connections
+Index D-H, O-S (one new row), and T-Z (one new row), and the dashboard counts. Frontmatter totals: 511 passages, 398
+people, 618 places, 88 themes, 968 connections.
+
+Judgment calls: the boundary 17:12–40 stands; 17:40 ends as David *came near to the Philistine* and 17:41 begins the
+fight. No new person or place page: the keeper of the sheep (17:20), the keeper of the baggage (17:22), and *the
+captain of their thousand* (17:18) are unnamed. [[Merab]] is linked for the unnamed daughter of 17:25 because she is
+the first Saul offers (18:17); 18:17 does not cite the promise, and both pages say so. The seam between 16:14–23 and
+17:12–31 is described on the passage page; the existing contradiction note on [[David Plays the Harp for Saul]] stays
+the main record, and the seven-or-eight-sons contradiction stays on [[Jesse]] and [[Samuel Anoints David]].
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`): *ʾĕlōhîm ḥayyîm* as a title
+only at Deuteronomy 5:26 and 1 Samuel 17:26, 36 (Joshua 3:10 *ʾēl ḥay*); no *Yahweh* or *God* in 1 Samuel 17:1–25;
+*šālôm* directly before *brothers* only at Genesis 37:14; *ḥop̄šî* (2670) otherwise only in the servant laws (Exodus
+21:2, 5, 26, 27; Deuteronomy 15:12, 13, 18); *zāḏôn* (2087) only at Deuteronomy 17:12; 18:22; 1 Samuel 17:28; *dōḇ*
+(1677) only at 1 Samuel 17:34, 36, 37 and 2 Samuel 17:8; *ʾîš milḥāmâ* at 1 Samuel 16:18 and 17:33 among others,
+first at Exodus 15:3; *nāṭaš* at 17:20, 22, 28; *maʿgālâ* (4570) only at 17:20; 26:5, 7; *ʿărubbâ* (6161), *ḥallūq*
+(2512), *yalqûṭ* (3219), and *qôḇaʿ* (6959) only in 17:18–40; *nissâ* (5254) nineteen verses, 17:39 the only one about
+armor.
+
+Recorded, not resolved: the relation of 17:12–31 to 16:14–23 and the reported Septuagint shorter text; the sense of
+*ʿărubbâ*; what *ḥop̄šî* meant for a household; *hălôʾ dāḇār hûʾ* as *cause* or *word*; *zāqān* of a lion.
+
+Sources: 1 Samuel 17:12–40 from stored WEB, with the not-yet-ingested 1 Samuel 17:41, 43, 46–47, 49–50, 55–58; 18:4,
+17, 27; 21:13; 25:29; 26:5, 7. Comparisons from stored WEB Genesis 14:23; 22:1; 30:37–41; 32:10; 37:2–33; 49:9;
+Exodus 15:3; 16:4; 17:2, 7; 20:20; 21:2–27; Numbers 14:22; Deuteronomy 4:34; 5:26; 6:16; 8:2; 15:12–18; 17:12; 18:22;
+28:56; Joshua 3:10; Judges 6:39; 14:3, 5–9; 15:18; 20:16; Ruth 1:2; 1 Samuel 2:7; 8:17; 14:6; 16:6–22; 17:5–10.
+2 Samuel 17:8, 2 Kings 19:4, 16, Amos 3:12, and 1 Chronicles 2:13–15 checked at bible-api.com (`translation=web`),
+2026-11-21, not stored. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb) XML, downloaded
+2026-11-21; occurrence claims cover those files only, and lemma claims follow morphhb's tagging. The Hebrew of 2 Kings
+and Amos was not checked. Recalled, not checked, and flagged where made: the Septuagint's shorter text; the glosses of
+*ʿărubbâ*, *ḥop̄šî*, *dāḇār*, and *zāqān*. No Septuagint text was consulted.

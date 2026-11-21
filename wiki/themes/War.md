@@ -1048,7 +1048,14 @@ be afraid, neither be dismayed* given before Israel's earlier wars (Deuteronomy 
 [[Goliath Defies Israel]] and [[Afraid and Dismayed - Deuteronomy 1.21, Joshua 1.9, and 1 Samuel 17.11]]. Source: stored
 WEB Deuteronomy 1:21; Joshua 8:1; 10:25; 1 Samuel 13:19–22; 17:1–11. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+**The camp and the battle line — 1 Samuel 17:16–24.** The standoff lasts *forty days*, the champion coming out
+*morning and evening* (17:16). The army goes out to the line *shouting for the battle*, *army against army* (17:20–21),
+and flees when Goliath comes up (17:24). The Hebrew of 17:20–22 has the camp's *maʿgālâ*, the *keeper of the baggage*,
+and *maʿărāḵâ*, the battle line, four times (WLC). Saul's objection is a soldier's: *he a man of war from his youth*
+(17:33). David's is not: *Yahweh … will deliver me* (17:37). See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:12–40; Hebrew WLC.
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:16–40; forty days, the battle line, and the shepherd sent out.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; armies arrayed, the champion's armor, single combat for servitude, and Israel dismayed.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–9; the ban on Amalek, Agag and the best spared.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47–52; enemies on every side, a standing commander, and severe war all Saul's days.

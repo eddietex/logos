@@ -990,7 +990,14 @@ from a poor man (12–13), and not from a widow at all (17). *ʿĂbôṭ*, the p
 in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh your God"* (13). See
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
+**The king will enrich him — 1 Samuel 17:25.** *Yaʿšərennû hammeleḵ ʿōšer gāḏôl*, *the king will enrich him with
+great riches* (17:25, WLC; WEB *will give great riches*). In the Hebrew files checked the verb *ʿāšar* occurs
+otherwise at Genesis 14:23, Abram's *lest you should say, 'I have made Abram rich'*, and 1 Samuel 2:7, Hannah's
+*Yahweh makes poor, and makes rich*. David asks about the reward but speaks of the reproach (17:26). See [[David Comes to the Camp]].
+Source: stored WEB 1 Samuel 17:12–40; Genesis 14:23; 1 Samuel 2:7; Hebrew WLC.
+
 ## Key passages
+- [[David Comes to the Camp]] — 1 Samuel 17:25; *the king will give great riches to the man who kills him*.
 
 - [[Israel Asks for a King]] — 1 Samuel 8:3, 11–17; dishonest gain and bribes; the king's taking.
 - [[The Song of Hannah]] — 1 Samuel 2:5, 7; *Yahweh makes poor, and makes rich*.

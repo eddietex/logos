@@ -58,6 +58,11 @@ last thing the narrator said about Yahweh and Samson was *he didn't know that Ya
 (16:20). Whether the strength at the pillars is the Spirit's return, the text does not say. See
 [[The Death of Samson]].
 
+**The lion without the Spirit — 1 Samuel 17:34–37.** Samson tore a young lion when *Yahweh's Spirit came mightily
+on him* (Judges 14:6). David also kills a lion, and a bear, but his account names no Spirit; it names Yahweh *who
+delivered me* (17:37). The narrator said the Spirit came on David *from that day forward* at his anointing (16:13),
+and does not repeat it here. See [[David Comes to the Camp]]. Source: stored WEB Judges 14:5–6; 1 Samuel 16:13; 17:34–37.
+
 ## Significance
 
 - **The verb names the Spirit's force, not its fruit.** Samson tears a lion and kills thirty men for their

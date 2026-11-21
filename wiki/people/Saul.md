@@ -277,6 +277,22 @@ and [[Afraid and Dismayed - Deuteronomy 1.21, Joshua 1.9, and 1 Samuel 17.11]].
 
 Source: stored WEB 1 Samuel 8:20; 9:2; 10:23; 11:6; 17:1–11; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The king's reward and the king's armor — 1 Samuel 17:12–40
+
+The king offers what the people expected kings to give and take: *great riches*, *his daughter*, and to *make his
+father's house free* (17:25). *Ḥop̄šî*, *free*, is otherwise in the Hebrew files checked the word for the Hebrew
+servant who *goes out free* (Exodus 21:2; Deuteronomy 15:12, WLC). When David's words reach him he sends for David
+(17:31) and refuses him: *you are but a youth, and he a man of war from his youth* (17:33). The narrator had a
+servant call David *a man of war* at 16:18 (WLC), and by 17:33 Saul seems not to know it (see the contradiction note
+above). David answers with the lion and the bear and *Yahweh who delivered me*, and Saul says *Go! Yahweh will be
+with you* (17:37). It is the first time in chapter 17 Saul names Yahweh, and the words are close to 16:18's *Yahweh is
+with him*. He dresses David in his *clothing*, a bronze helmet, and mail, the armor of a man like Goliath, and David
+takes it off (17:38–39). The king who was to go out before the people now sends a shepherd out in his armor, and the
+armor does not fit the shepherd. See [[David Comes to the Camp]].
+
+Source: stored WEB 1 Samuel 16:18; 17:25, 31–39; Exodus 21:2; Deuteronomy 15:12; Hebrew WLC (OpenScriptures morphhb),
+2026-11-21.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -314,8 +330,11 @@ Source: stored WEB 1 Samuel 8:20; 9:2; 10:23; 11:6; 17:1–11; Hebrew WLC (OpenS
 - Yahweh's Spirit departs; troubled by an evil spirit from Yahweh; sends for David the harpist, loves him, makes him
   his armor bearer, and is refreshed when he plays — 16:14–23.
 - Camps in the valley of Elah; hears Goliath's challenge and is *dismayed, and greatly afraid* with all Israel — 17:1–11.
+- Offers riches, his daughter, and freedom to Goliath's killer; hears David, refuses and then sends him, *Yahweh will
+  be with you*; dresses him in his armor — 17:25, 31–39.
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:25, 31–39; the reward; *you are but a youth*; *Go! Yahweh will be with you*; the armor.
 - [[Goliath Defies Israel]] — 1 Samuel 17:2, 8, 11; camped at Elah; Israel called *servants to Saul*; dismayed and afraid.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23; the Spirit departs, an evil spirit troubles him, and David's harp refreshes him; *He loved him greatly*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–2, 7; not present; *rejected*, mourned, and feared; his height in the background of *Yahweh looks at the heart*.

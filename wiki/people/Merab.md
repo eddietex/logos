@@ -19,13 +19,19 @@ privately hopes the Philistines will kill him; at the time she should have been 
 the Meholathite as wife* (18:17–19, stored WEB). Then her younger sister loves David (18:20). As with Leah and
 Rachel, the elder is given and the younger is loved, though here the elder goes to another man.
 
-Source: stored WEB 1 Samuel 14:49; 18:17–20; Genesis 29:26. Hebrew WLC (OpenScriptures morphhb).
+**The king's daughter promised.** At the battle line Israel's soldiers say the king *will give him his daughter* to
+the man who kills Goliath (17:25); the daughter is not named. Merab is the first Saul offers David (18:17), but 18:17
+gives a different condition, *be valiant for me*, and does not refer back to 17:25 (stored WEB). See [[David Comes to the Camp]].
+
+Source: stored WEB 1 Samuel 14:49; 17:25; 18:17–20; Genesis 29:26. Hebrew WLC (OpenScriptures morphhb).
 
 ## Timeline / key events
 - Named as Saul's firstborn daughter — 1 Samuel 14:49.
+- Not named; the king's daughter promised to Goliath's killer — 17:25. [[David Comes to the Camp]]
 - Promised to David and given to Adriel the Meholathite — 18:17–19 (not yet ingested).
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:25; not named; *will give him his daughter*.
 - [[Saul's Wars and Household]] — 1 Samuel 14:49; *the firstborn*.
 
 ## Related people

@@ -111,7 +111,35 @@ youth?* (stored WEB; not yet ingested). Both accounts are recorded on [[David Pl
 
 Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The shepherd at the battle line — 1 Samuel 17:12–40
+
+Chapter 17 introduces him again, as if 16:14–23 had not happened: *the son of that Ephrathite of Bethlehem Judah*,
+the youngest of eight, going *back and forth from Saul to feed his father's sheep* (17:12–15). Jesse sends him with
+food to *see how your brothers are doing* (17:17–18), as Jacob sent Joseph (Genesis 37:14). He leaves the sheep with
+a keeper and the baggage with a keeper, runs to the line, and hears Goliath (17:20–23).
+
+His first words in the book are a question: *What shall be done to the man who kills this Philistine, and takes away
+the reproach from Israel? For who is this uncircumcised Philistine, that he should defy the armies of the living God?*
+(17:26). He is the first in chapter 17 to name God (WLC). Eliab accuses him of *pride* and *naughtiness of … heart*
+(17:28); Saul calls him *a youth* against *a man of war* (17:33). He answers with the flock: the lion and the bear
+taken by the beard and killed, and *Yahweh who delivered me out of the paw of the lion, and out of the paw of the bear,
+he will deliver me out of the hand of this Philistine* (17:34–37). He takes off Saul's helmet, mail, and sword, *for
+I have not tested them*, and goes with a staff, *five smooth stones out of the brook*, a shepherd's bag, and a sling
+(17:38–40). In the files checked, *bear* is used only of these beasts and of Hushai's simile for him, *like a bear
+robbed of her cubs … Your father is a man of war* (2 Samuel 17:8, WEB checked at bible-api.com; WLC). See
+[[David Comes to the Camp]], [[Sent to See His Brothers - Joseph at Shechem and David at Elah]], and
+[[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]].
+
+**The seam, again.** 17:12–15 introduces a David whom 16:18–22 had already brought to court, and 17:15 reads as a
+bridge between the two. The contradiction note above stands.
+
+Source: stored WEB 1 Samuel 16:18–22; 17:12–40; Genesis 37:14. 2 Samuel 17:8 checked at bible-api.com
+(`translation=web`), 2026-11-21. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
+- 1 Samuel 17:12–40 — sent by Jesse to his brothers at the valley of Elah; hears Goliath; *the armies of the living
+  God*; rebuked by Eliab; volunteers before Saul; the lion and the bear; refuses Saul's armor and takes five stones.
+  [[David Comes to the Camp]]
 - 1 Samuel 16:14–23 — sent for from the sheep to play the harp for Saul; loved, made his armor bearer, and kept at
   court; the evil spirit departs when he plays. [[David Plays the Harp for Saul]]
 - 1 Samuel 16:1–13 — the youngest of Jesse's sons, keeping the sheep; anointed by Samuel at Bethlehem, and the
@@ -125,6 +153,7 @@ Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 202
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:12–40; the youngest, sent with food; his first words; *Yahweh who delivered me*; five smooth stones.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–23; *skillful in playing … and Yahweh is with him*; loved by Saul, his armor bearer, and his harpist.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; the youngest, keeping the sheep; anointed *in the middle of his brothers*, and the Spirit *from that day forward*; named at last.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:28; not named; *a neighbor of yours who is better than you*.

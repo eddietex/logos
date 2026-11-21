@@ -26,9 +26,10 @@ Source: stored WEB 1 Samuel 7:1; 16:8–10; 17:13; 31:2. 1 Chronicles 2:13 check
 ## Timeline / key events
 
 - Passes before Samuel, and is not chosen — 1 Samuel 16:8.
-- Follows Saul to the battle — 1 Samuel 17:13 (not yet ingested).
+- Follows Saul to the battle — 1 Samuel 17:13. [[David Comes to the Camp]]
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:13; *next to him Abinadab*, one of the three who followed Saul.
 - [[Samuel Anoints David]] — 1 Samuel 16:8; the second son; *Yahweh has not chosen this one, either*.
 
 ## Related people

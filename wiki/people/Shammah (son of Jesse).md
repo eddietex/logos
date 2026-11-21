@@ -26,9 +26,10 @@ Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 ## Timeline / key events
 
 - Passes before Samuel, and is not chosen — 1 Samuel 16:9.
-- Follows Saul to the battle — 1 Samuel 17:13 (not yet ingested).
+- Follows Saul to the battle — 1 Samuel 17:13. [[David Comes to the Camp]]
 
 ## Appears in
+- [[David Comes to the Camp]] — 1 Samuel 17:13; *the third Shammah*, one of the three who followed Saul.
 - [[Samuel Anoints David]] — 1 Samuel 16:9; the third son; *Yahweh has not chosen this one, either*.
 
 ## Related people
