@@ -67,9 +67,11 @@ Source: stored WEB 1 Samuel 5:4; 17:4–6, 23, 41–54; 21:9. Hebrew WLC (OpenSc
   17:16–36, [[David Comes to the Camp]]
 - Disdains and curses David; struck in the forehead by a stone; beheaded with his own sword; his head brought to
   Jerusalem and his armor to David's tent — 1 Samuel 17:41–54, [[David Kills Goliath]]
+- His head carried by David before Saul, after Abner brings him — 1 Samuel 17:57, [[Jonathan Loves David]]
 - His sword kept at Nob behind the ephod and given to David (21:9; 22:10) — not yet ingested
 
 ## Appears in
+- [[Jonathan Loves David]] — 1 Samuel 17:55, 57; *the Philistine*; his head in David's hand before Saul, after 17:54 has taken it to Jerusalem.
 - [[David Kills Goliath]] — 1 Samuel 17:41–54; *Am I a dog?*; the stone in the forehead; beheaded; *their champion*.
 - [[David Comes to the Camp]] — 1 Samuel 17:16, 23–26, 33, 36–37; forty days; *the same words*; *this uncircumcised Philistine*; *a man
   of war from his youth*.

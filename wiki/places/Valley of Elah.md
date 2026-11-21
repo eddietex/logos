@@ -40,7 +40,16 @@ valley of Elah* (21:9, stored WEB; not yet ingested). See [[David Kills Goliath]
 
 Source: stored WEB 1 Samuel 17:41–53; 21:9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### After the fight — 1 Samuel 17:55–18:5
+
+The narrator returns to the field at the moment *Saul saw David go out against the Philistine* (17:55): Abner brings
+David to Saul *as David returned from the slaughter*, with the head in his hand (17:57). The place is not named again in
+the pericope, and 18:5 moves David out to wherever Saul sends him. See [[Jonathan Loves David]].
+
+Source: stored WEB 1 Samuel 17:55–18:5.
+
 ## Appears in
+- [[Jonathan Loves David]] — 1 Samuel 17:55–57; Saul watches, and Abner brings David from the slaughter.
 - [[David Kills Goliath]] — 1 Samuel 17:41–53; the fight between the lines, and the pursuit from the valley.
 - [[David Comes to the Camp]] — 1 Samuel 17:19–24; Israel *fighting with the Philistines*; the battle line where David hears Goliath.
 - [[Goliath Defies Israel]] — 1 Samuel 17:2–3; Israel's camp, and the valley between the armies.

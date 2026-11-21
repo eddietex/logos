@@ -30,7 +30,7 @@ tags: [connection]
 **There is no Hebrew word for "rainbow".** The noun in Genesis 9:13, 14, and 16 is **qešet**, which
 occurs some seventy times in the Hebrew Bible and in nearly every other instance means a **war bow**
 — Ishmael grows up an archer (Genesis 21:20), Isaac tells Esau to take his quiver and his bow
-(27:3), Jonathan strips off his bow for David (1 Samuel 18:4), and God bends his against the wicked
+(27:3), Jonathan strips off his bow for David (1 Samuel 18:4, [[Jonathan Loves David]]), and God bends his against the wicked
 (Psalm 7:12). Genesis 9 is one of only a handful of places where the referent is meteorological, and
 Hebrew supplies no separate term to mark the difference. A reader in Hebrew hears *I have set my bow
 in the cloud* and has to decide, from context alone, which bow is meant.

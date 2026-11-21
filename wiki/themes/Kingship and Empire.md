@@ -764,7 +764,18 @@ for the champion's killer (17:25), but does not go down himself. He calls David 
 be with you*, and dresses him in his own armor, which David cannot use (17:33, 37–39). See [[David Comes to the Camp]].
 Source: stored WEB 1 Samuel 17:12–40; Hebrew WLC (OpenScriptures morphhb).
 
+### The king's son and the king's armor — 1 Samuel 17:55–18:5
+
+Saul asks *whose son* the young man is, and then *took him that day, and would let him go no more home* (17:55–18:2),
+the *taking* Samuel had warned of (8:11). His son meanwhile gives David *the robe that was on him*, his clothing, his
+sword, his bow, and his sash (18:4). The king's clothing David had taken off (17:38–39); the heir's he keeps. The text
+does not interpret the gift; Jonathan's later *you will be king over Israel, and I will be next to you* (23:17, stored
+WEB; not yet ingested) is what makes it read as a sign of succession, and the reading is the wiki's. See
+[[Jonathan Loves David]] and [[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]]. Source: stored WEB
+1 Samuel 8:11; 17:38–39, 55–58; 18:1–5; 23:17.
+
 ## Key passages
+- [[Jonathan Loves David]] — 1 Samuel 17:55–18:5; the king takes David; the king's son gives him robe and sword.
 - [[David Comes to the Camp]] — 1 Samuel 17:25, 33–39; the king's reward, and the king's armor taken off.
 - [[Goliath Defies Israel]] — 1 Samuel 17:4, 8, 11; the champion goes out; the king is afraid.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:21–22; the anointed successor as the king's harpist and armor bearer.

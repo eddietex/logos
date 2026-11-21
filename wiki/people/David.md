@@ -107,7 +107,8 @@ Saul (16:16–23; 18:10; 19:9, WLC). See [[David Plays the Harp for Saul]] and
 [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]].
 
 **Contradiction flagged.** Here Saul knows David, his father, and his name; in 17:55–58 he asks *whose son is this
-youth?* (stored WEB; not yet ingested). Both accounts are recorded on [[David Plays the Harp for Saul]], and not reconciled.
+youth?* (stored WEB). Both accounts are recorded on [[David Plays the Harp for Saul]] and
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]], and not reconciled.
 
 Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
@@ -156,7 +157,27 @@ details are recorded as unexplained. Goliath's sword is later at Nob (21:9, not 
 
 Source: stored WEB 1 Samuel 16:12; 17:41–54; 21:9; Judges 1:21. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### Jesse's son in Saul's house — 1 Samuel 17:55–18:5
+
+Brought before Saul by Abner with the head still in his hand, he is asked *Whose son are you, you young man?* and
+answers *I am the son of your servant Jesse the Bethlehemite* (17:57–58). It is his only line in the pericope, and it
+names his father, not himself. Saul's ignorance of him after 16:18–22 is recorded on
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]], not reconciled.
+
+Everything else is done to him. *The soul of Jonathan was knit with the soul of David* (18:1); Saul *took him that
+day* and kept him from his father's house (18:2), ending the coming and going of 17:15; Jonathan makes a covenant
+with him and gives him his robe, his clothing, his sword, his bow, and his sash (18:3–4). Saul's clothing he had taken
+off, *I can't go with these* (17:39); Jonathan's, the same word *maddîm* (WLC), he keeps. Sent out by Saul, he
+*behaved himself wisely*, *yaśkîl* (WLC; the verb of *good success* in Joshua 1:7–8), and is set over the men of war,
+*good in the sight of all the people* (18:5). The text does not say whether he loved Jonathan in return; the narrator
+gives the love only from Jonathan's side here. See [[Jonathan Loves David]].
+
+Source: stored WEB 1 Samuel 16:18–22; 17:15, 38–39, 55–58; 18:1–5; Joshua 1:7–8. Hebrew WLC (OpenScriptures morphhb),
+2026-11-21.
+
 ## Timeline / key events
+- 1 Samuel 17:55–18:5 — names his father to Saul; loved by Jonathan, who makes a covenant with him and gives him his
+  robe and sword; kept by Saul and set over the men of war. [[Jonathan Loves David]]
 - 1 Samuel 17:41–54 — answers Goliath *in the name of Yahweh of Armies*; kills him with a sling and a stone and cuts
   off his head with Goliath's sword; the head to Jerusalem, the armor to his tent. [[David Kills Goliath]]
 - 1 Samuel 17:12–40 — sent by Jesse to his brothers at the valley of Elah; hears Goliath; *the armies of the living
@@ -175,6 +196,7 @@ Source: stored WEB 1 Samuel 16:12; 17:41–54; 21:9; Judges 1:21. Hebrew WLC (Op
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Jonathan Loves David]] — 1 Samuel 17:55–18:5; *the son of your servant Jesse*; Jonathan's love, covenant, and robe; *behaved himself wisely*.
 - [[David Kills Goliath]] — 1 Samuel 17:41–54; *in the name of Yahweh of Armies*; *the battle is Yahweh's*; the stone, the sword, and the head.
 - [[David Comes to the Camp]] — 1 Samuel 17:12–40; the youngest, sent with food; his first words; *Yahweh who delivered me*; five smooth stones.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–23; *skillful in playing … and Yahweh is with him*; loved by Saul, his armor bearer, and his harpist.

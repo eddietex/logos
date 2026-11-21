@@ -697,8 +697,20 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
+### Jonathan and David — 1 Samuel 18:3
+
+*Then Jonathan and David made a covenant, because he loved him as his own soul* (18:3), *wayyiḵrōṯ … bərîṯ* (WLC).
+It is the first covenant in 1 Samuel made between two persons; the men of Jabesh had asked one of Nahash, and
+got terms of mutilation (11:1–2, stored WEB). No terms are given here, and no oath; the only stated ground is love,
+and the only act that goes with it is Jonathan's gift of his robe and weapons (18:4). Its sequels name Yahweh, *a
+covenant of Yahweh* (20:8) and *a covenant before Yahweh* (23:18) (stored WEB; not yet ingested). Saul will describe it
+as a plot: *my son makes a treaty with the son of Jesse* (22:8, stored WEB), *kāraṯ* without *bərîṯ*, beside
+*conspired*, *qāšar* (WLC). See [[Jonathan Loves David]]. Source: stored WEB 1 Samuel 11:1–2; 18:1–4; 20:8; 22:8; 23:18.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[Jonathan Loves David]] — 1 Samuel 18:3; *Jonathan and David made a covenant*, grounded in love; no terms given.
 - [[Gideon's Ephod and Death]] — Judges 8:33; Israel makes *Baal Berith* its god.
 - [[Another Generation Arose]] — Judges 2:20; *this nation transgressed my covenant*.
 - [[The Angel at Bochim]] — Judges 2:1–2; *I will never break my covenant with you*, and no covenant with the land's inhabitants.

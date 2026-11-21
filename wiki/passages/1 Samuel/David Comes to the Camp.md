@@ -107,8 +107,9 @@ Eliab puts the flock *in the wilderness* (28).
 court as Saul's harpist and armor bearer, and Saul asked Jesse to let him *stand before me* (16:22). Here David is
 introduced again, as the youngest of eight, still with the sheep (12–14), and Saul treats him as a stranger with no
 war in him (33). Verse 15, *David went back and forth from Saul*, reads as the narrator's own bridge between the two.
-The sharper conflict is at 17:55–58, where Saul asks whose son he is (stored WEB; not yet ingested); the contradiction
-is flagged on [[David Plays the Harp for Saul]] and on [[David]], and is not reconciled here. Septuagint Codex
+The sharper conflict is at 17:55–58, where Saul asks whose son he is (stored WEB; [[Jonathan Loves David]]); the contradiction
+is flagged on [[David Plays the Harp for Saul]], on [[David]], and on
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]], and is not reconciled here. Septuagint Codex
 Vaticanus is reported to lack 17:12–31 and 17:55–18:5 (recalled, not checked; no Septuagint text was consulted).
 
 Inside the story, the pericope turns on who names God. The previous eleven verses did not (17:1–11, WLC). The soldiers
@@ -185,7 +186,7 @@ one of Saul's young men said of David at 16:18, *and Yahweh is with him*.
 - **Saul's armor.** *Qôḇaʿ nəḥōšeṯ*, a bronze helmet, and a *širyôn*, coat of mail (38, WLC). Goliath's helmet and mail
   were the same two things, bronze helmet and coat of mail (17:5); his helmet is spelled *kôḇaʿ* there and *qôḇaʿ* here,
   and morphhb gives them two lemmas (3553, 6959). Saul dresses David as the Philistine is dressed. His *mad*, *clothing*
-  (38–39, lemma 4055), is the word for the garment Jonathan gives David at 18:4 (WLC; stored WEB; not yet ingested).
+  (38–39, lemma 4055), is the word for the garment Jonathan gives David at 18:4 (WLC; stored WEB; [[Jonathan Loves David]]).
 - **The staff and the stones.** *Maqlô*, his staff (40; lemma 4731), the word for Jacob's rods in Genesis 30:37–41 and
   for the staff with which Jacob crossed the Jordan (Genesis 32:10 WEB; 32:11 WLC), and the one Goliath will mock,
   *sticks* (17:43) (stored WEB). *Ḥallūqê ʾăḇānîm*, smooth stones (lemma 2512), and *yalqûṭ*, pouch (lemma 3219), each

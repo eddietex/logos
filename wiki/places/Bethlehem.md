@@ -145,7 +145,15 @@ were *Ephrathites of Bethlehem Judah* (Ruth 1:2). David keeps his father's sheep
 it to the valley of Elah with grain, loaves, and cheeses (17:17–20). Eliab places the flock *in the wilderness* (17:28).
 See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:12–28; Ruth 1:2.
 
+### *Jesse the Bethlehemite* — 1 Samuel 17:58
+
+Asked whose son he is, David names his father and his town: *I am the son of your servant Jesse the Bethlehemite*
+(17:58), *bêṯ hallaḥmî* (WLC), as at 16:1 and 16:18. Saul then keeps him from going *home to his father's house*
+(18:2), and Bethlehem drops out of David's story for now. See [[Jonathan Loves David]]. Source: stored WEB 1 Samuel 16:1, 18;
+17:58; 18:2.
+
 ## Appears in
+- [[Jonathan Loves David]] — 1 Samuel 17:58; *your servant Jesse the Bethlehemite*.
 - [[David Comes to the Camp]] — 1 Samuel 17:12, 15; *that Ephrathite of Bethlehem Judah*; David's father's sheep.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–20; *the Bethlehemite*; David sent from his father's house to Saul.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; the trembling elders, the sacrifice, and David anointed among his brothers.

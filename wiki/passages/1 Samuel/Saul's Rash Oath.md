@@ -232,7 +232,7 @@ in the books stored so far whose oath binds him against his child. Jephthah's da
 Jonathan is redeemed by the people's. See [[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]] and
 [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]]. Read with [[The Sin of Achan]], the lot that
 found the troubler of Israel finds the man who called his father its troubler. Jonathan will next be seen loving
-David (18:1–4, stored WEB; not yet ingested). Saul's next commission, against Amalek (15:1–3, stored WEB; not yet
+David (18:1–4, stored WEB; [[Jonathan Loves David]]). Saul's next commission, against Amalek (15:1–3, stored WEB; not yet
 ingested), will turn on *pounce on the plunder* and on *the voice of the people*.
 
 ## Key verses

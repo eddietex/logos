@@ -519,7 +519,16 @@ looking face* (17:42). Goliath sees what Samuel saw at 16:12, *ruddy, with a han
 their champion was dead*. See [[David Kills Goliath]] and [[Ruddy - Esau and David]]. Source: stored WEB 1 Samuel
 16:7, 12; 17:42, 51. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### *Good in the sight of all the people* — 1 Samuel 17:55; 18:5
+
+The pericope opens with Saul's eyes, *When Saul saw David go out against the Philistine* (17:55), and the sight
+produces only a question, *whose son is this youth?* It closes with the eyes of others: *It was good in the sight of
+all the people, and also in the sight of Saul's servants* (18:5), *bəʿênê* twice (WLC). Saul's own eyes are left out,
+and the next unit supplies them: *Saul watched David from that day and forward* (18:9, stored WEB; not yet ingested).
+See [[Jonathan Loves David]]. Source: stored WEB 1 Samuel 17:55; 18:5, 9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Jonathan Loves David]] — 1 Samuel 17:55; 18:5; *When Saul saw*; *good in the sight of all the people*.
 - [[David Kills Goliath]] — 1 Samuel 17:42, 51; *he looked … and saw David*, and despised him.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:17–18; *see for me*; *I have seen a son of Jesse*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1, 6–7, 12; *I have seen … a king*; *Yahweh looks at the heart*; *good of appearance*.

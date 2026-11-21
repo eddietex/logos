@@ -66,14 +66,27 @@ recalled, not checked). Jacob sent Joseph on the same kind of errand, *see wheth
 
 Source: stored WEB 1 Samuel 17:12–18; Genesis 37:14; Ruth 1:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### *Your servant Jesse the Bethlehemite* — 1 Samuel 17:55–18:2
+
+Saul asks three times *whose son* the young man is, and David answers with his father: *I am the son of your servant
+Jesse the Bethlehemite* (17:58), *yišay bêṯ hallaḥmî* (WLC), the phrase of 16:1 and 16:18. The reward for killing
+Goliath was to *make his father's house free in Israel* (17:25), which may be why the king asks about the father; the
+text does not say. The next verse but one takes David from him: Saul *would let him go no more home to his father's
+house* (18:2). In 16:22 Saul had asked Jesse's leave; here he does not. See [[Jonathan Loves David]] and
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]].
+
+Source: stored WEB 1 Samuel 16:1, 18, 22; 17:25, 55–58; 18:2. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
 
 - Named as Obed's son and David's father — Ruth 4:17, 22
 - Called to the sacrifice at Bethlehem; his sons pass before Samuel; David anointed — 1 Samuel 16:1–13
 - Sends David to Saul with bread, wine, and a young goat; asked to let him stay — 1 Samuel 16:19–22
 - Old, with eight sons; sends David to the camp with food for his brothers — 1 Samuel 17:12–18
+- Named by David to Saul, *your servant Jesse the Bethlehemite*; David kept from his house — 1 Samuel 17:58; 18:2
 
 ## Appears in
+- [[Jonathan Loves David]] — 1 Samuel 17:58; 18:2; *the son of your servant Jesse the Bethlehemite*.
 - [[David Comes to the Camp]] — 1 Samuel 17:12, 17–18; *that Ephrathite*, old; sends David to his brothers.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–22; *a son of Jesse the Bethlehemite*; sends David to Saul with a gift.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; *the Bethlehemite*; his sons pass before Samuel, and the youngest is sent for.

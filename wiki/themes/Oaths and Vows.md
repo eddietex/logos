@@ -632,7 +632,16 @@ first (Judges 11:30–40). See [[Saul's Rash Oath]],
 [[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]]. Source: stored WEB Judges 11:30–40; 1 Samuel
 14:24–46.
 
+### *As your soul lives, O king* — 1 Samuel 17:55
+
+Abner answers Saul's question on oath: *As your soul lives, O king, I can't tell* (17:55). *Ḥê-nap̄šəḵā … ʾim-yāḏāʿtî*
+(WLC) is literally *by the life of your soul … if I know*, the clipped oath in which *if* swears the negative. Hannah
+had sworn by Eli's life the same way, *as your soul lives, my lord* (1:26). See [[Jonathan Loves David]] and
+[[By the Life of Pharaoh - Oaths Sworn by a King]]. Source: stored WEB 1 Samuel 1:26; 17:55. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Jonathan Loves David]] — 1 Samuel 17:55; Abner's *As your soul lives, O king, I can't tell*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:24–46; Saul's curse on eating, two further oaths against the guilty man, and the people's oath that saves Jonathan.
 
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:14, 17; Yahweh's oath against Eli's house and Eli's *God do so to you* laid on Samuel.

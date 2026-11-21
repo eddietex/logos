@@ -41,7 +41,7 @@ tags: [connection]
 - **Job 42:10–11** — *"Yahweh turned the captivity of Job, when he prayed for his friends"*; then
   *"all his brothers, and all his sisters"* came and *"ate bread with him in his house"* —
   [[The Restoration of Job]]
-- **1 Samuel 18:1, 3** *(not yet ingested)* — *"the soul of Jonathan was knit with the soul of David,
+- **1 Samuel 18:1, 3** — [[Jonathan Loves David]]; *"the soul of Jonathan was knit with the soul of David,
   and Jonathan loved him as his own soul"*; *"Then Jonathan and David made a covenant"*
 
 - **Ecclesiastes 4:10** — *"For if they fall, the one will lift up his fellow; but woe to him who is
@@ -82,9 +82,10 @@ friends"*: the one who was owed kindness gives it, by intercession, to the men w
 comfort him — after the adversity, not during it. Proverbs 17:17's brother born for adversity
 arrives late.
 
-**Jonathan is the narrative instance the wiki has not yet reached.** 1 Samuel 18 has the friend who
-loves David *"as his own soul"* (18:1, 3; WEB at bible-api.com), across the line of a father's
-enmity; the friendship will be read in full when [[David]]'s story is ingested.
+**Jonathan is the narrative instance.** 1 Samuel 18 has the friend who loves David *"as his own soul"*
+(18:1, 3), *kənap̄šô*, the phrase Deuteronomy uses for *"your friend, who is as your own soul"* (13:6
+WEB; 13:7 WLC). In 18:1–5 the love is stated, sealed in a covenant, and given a body in the robe and
+weapons; the father's enmity it will cross begins at 18:9 and is not yet ingested. See [[Jonathan Loves David]].
 
 ### Proverbs 19 in context
 
@@ -151,4 +152,6 @@ covering. Job shows what it costs when the friends' speech, not their absence, i
 
 Sources: Proverbs 16:28; 17:9, 17; 18:19, 24; 19:7; 27:6, 10; Job 2:11; 6:14–18; 16:20; 19:13, 19, 21;
 42:10–11; Genesis 2:24; 33:4; 50:17 copied from `raw/bible/` (WEB). 1 Samuel 18:1, 3 and Ruth 1:14 checked at
-bible-api.com (`translation=web`) on 2026-10-25; those books were not fetched into raw.
+bible-api.com (`translation=web`) on 2026-10-25; 1 Samuel has since been stored, and 18:1, 3 and
+Deuteronomy 13:6 were re-read from `raw/bible/` on 2026-11-21. Hebrew of 1 Samuel 18:1, 3 and Deuteronomy
+13:7 from the WLC (OpenScriptures morphhb).

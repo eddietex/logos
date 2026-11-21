@@ -118,8 +118,8 @@ loves him. The reader knows what Saul does not.
 - **Stood before him.** *Wayyaʿămōḏ ləp̄ānāw* (21), and Saul's *yaʿămāḏ-nāʾ dāwiḏ ləp̄ānay* (22) (WLC). *To stand
   before* is the language of service at court. The servants in verse 16 are those *in front of you*, *ləp̄ānêḵā*.
 - **He loved him greatly.** *Wayyeʾĕhāḇēhû məʾōḏ* (21, WLC). The subject is not named, but the natural reading is
-  that Saul loved David. It is the first time in 1 Samuel that anyone is said to love David. Jonathan, *all Israel and
-  Judah*, Michal, and Saul's servants follow (18:1, 3, 16, 20, 22, stored WEB; not yet ingested). See [[Love]].
+  that Saul loved David. It is the first time in 1 Samuel that anyone is said to love David. Jonathan (18:1, 3; [[Jonathan Loves David]]), *all Israel and
+  Judah*, Michal, and Saul's servants follow (18:16, 20, 22, stored WEB; not yet ingested). See [[Love]].
 - **His armor bearer.** *Nōśēʾ ḵēlîm* (21, WLC). In the Hebrew files checked the phrase is used of Abimelech's young
   man (Judges 9:54), of Jonathan's (14:1, 6, 7, 12), of David here, of Saul's at Gilboa (31:4–6), and of Joab's ten young men
   (2 Samuel 18:15). Abimelech and Saul, the two men troubled by *an evil spirit from God* in those books, both die by
@@ -143,11 +143,12 @@ time the narrative shows him making music.
 
 **Contradiction flagged.** In this pericope Saul knows David by name, sends to Jesse for him, loves him, makes him his
 armor bearer, and asks Jesse's leave to keep him (19–22). In 17:55–58, after Goliath, Saul asks Abner *whose son is
-this youth?* and David answers *I am the son of your servant Jesse the Bethlehemite* (stored WEB; not yet ingested).
+this youth?* and David answers *I am the son of your servant Jesse the Bethlehemite* (stored WEB; see [[Jonathan Loves David]]).
 17:15 has David going *back and forth from Saul* to the sheep. Readers have explained this by a court musician who was
 not well known, by Saul's question being about the family rather than the man, or by two sources placed side by side;
 the Septuagint is reported to lack parts of chapters 17–18 (all recalled, not checked; no Septuagint was consulted).
-The wiki records both accounts and does not reconcile them. The same note is on [[David]] and [[Saul]].
+The wiki records both accounts and does not reconcile them. The same note is on [[David]] and [[Saul]], and the two
+scenes are set side by side on [[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]].
 
 ## Key verses
 

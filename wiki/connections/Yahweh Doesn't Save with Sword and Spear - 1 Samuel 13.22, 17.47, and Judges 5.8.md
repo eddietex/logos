@@ -40,7 +40,7 @@ narrative has been illustrating since 13:22: *Yahweh doesn't save with sword and
 Yahweh's.*
 
 **Saul and Jonathan are the exception, and their swords go elsewhere.** Only *Saul and Jonathan his son* had them
-(13:22). Jonathan gives his sword to David with his robe (18:4); before the fight with Goliath Saul dresses David
+(13:22). Jonathan gives his sword to David with his robe (18:4; [[Jonathan Loves David]]); before the fight with Goliath Saul dresses David
 in his clothing, a helmet, and a coat of mail, and David straps on *his sword* and cannot go in them (17:38–39;
 whose sword *his* means the verse does not make explicit); and at Nob the only sword available is Goliath's
 (21:9). (All stored WEB; not yet ingested; the sequence is read from the stored text, not checked against later

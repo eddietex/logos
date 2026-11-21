@@ -60,7 +60,7 @@ the divine form rather than replacing it.**
 
 | text | formula | speaker |
 |---|---|---|
-| **1 Samuel 17:55** | *"as your soul lives, O king"* | Abner to Saul |
+| **1 Samuel 17:55** | *"as your soul lives, O king"* | Abner to Saul ([[Jonathan Loves David]]) |
 | **1 Samuel 20:3** | *"as Yahweh lives, and as your soul lives"* | David to Jonathan |
 | **1 Samuel 25:26** | *"as Yahweh lives, and as your soul lives"* | Abigail to David |
 | **2 Samuel 11:11** | *"as you live, and as your soul lives"* | **Uriah to David** |

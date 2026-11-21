@@ -654,12 +654,24 @@ Source: stored WEB Song 8:13–14.
 ### *He loved him greatly* — 1 Samuel 16:21
 
 The first love for David in 1 Samuel is Saul's: *David came to Saul, and stood before him. He loved him greatly*
-(16:21), *wayyeʾĕhāḇēhû məʾōḏ* (WLC). The subject is not named; the natural reading is Saul. Jonathan, all Israel and
-Judah, Michal, and Saul's servants follow (18:1–3, 16, 20, 22, stored WEB; not yet ingested), and Saul's love becomes
+(16:21), *wayyeʾĕhāḇēhû məʾōḏ* (WLC). The subject is not named; the natural reading is Saul. Jonathan (18:1–3, see below), all Israel and
+Judah, Michal, and Saul's servants follow (18:16, 20, 22, stored WEB; not yet ingested), and Saul's love becomes
 fear (18:12). See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
+### *As his own soul* — 1 Samuel 18:1–3
+
+Jonathan is the second to love David: *the soul of Jonathan was knit with the soul of David, and Jonathan loved him
+as his own soul* (18:1), and the covenant follows *because he loved him as his own soul* (18:3). *Kənap̄šô*, *as his
+own soul* (WLC), is Deuteronomy's phrase for the closest friend, *your friend, who is as your own soul* (13:6 WEB); the
+verb *qāšar*, *knit*, with *nepeš* on both sides is otherwise only Jacob's life *bound up in the boy's life* (Genesis
+44:30) in the Hebrew files checked. The love is given from Jonathan's side only; the text does not say David returned
+it here. It is expressed at once in a covenant and a gift, the robe, the clothing, and the weapons (18:4). See
+[[Jonathan Loves David]] and [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]]. Source: stored WEB
+Genesis 44:30; Deuteronomy 13:6; 1 Samuel 18:1–4. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
 ## Key passages
 
+- [[Jonathan Loves David]] — 1 Samuel 18:1, 3; *Jonathan loved him as his own soul*; love as the ground of a covenant.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:21; *He loved him greatly*, the first love for David in the book.
 - [[Ruth at the Threshing Floor]] — Ruth 3:10; *more kindness in the latter end than at the beginning*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; *who has not abandoned his kindness to the living and to the dead*.

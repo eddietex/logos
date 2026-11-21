@@ -16,6 +16,9 @@ ingested; not quoted). The verse is the only mention of Jerusalem in 1 Samuel (s
 ahead to David's city, record a later act, or come from a later hand (the usual explanations, recalled, not checked).
 The wiki records the tension and does not choose. See [[David Kills Goliath]].
 
+Three verses later the head is still *in his hand* when Abner brings David to Saul (17:57); the narrative of 17:55–58
+goes back in time to David's going out, and the text does not reconcile the two. See [[Jonathan Loves David]].
+
 Source: stored WEB 1 Samuel 17:54; Judges 1:21; 19:10–12.
 
 ### Jebus, *the city of a foreigner* — Judges 19:10–12
@@ -130,6 +133,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 **Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jonathan Loves David]] — 1 Samuel 17:57; the head still in David's hand, after 17:54.
 - [[David Kills Goliath]] — 1 Samuel 17:54; David brings Goliath's head there, while the city is still Jebusite in the narrative.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:10–12; *Jebus*, passed by as *the city of a foreigner*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8, 21; burned by Judah, and still held by the Jebusites beside Benjamin.

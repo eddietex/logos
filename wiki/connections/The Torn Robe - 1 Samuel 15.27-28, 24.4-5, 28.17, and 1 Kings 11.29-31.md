@@ -33,7 +33,7 @@ Hebrew for 1 Samuel from the WLC (OpenScriptures morphhb), 2026-11-20; *məʿîl
 checked.
 
 **The robe in 1 Samuel.** *Məʿîl* is the word for the *little robe* Hannah made for Samuel each year (2:19), for
-Jonathan's robe given to David (18:4), for Saul's robe at En Gedi (24:4, 11), and for the robe the medium sees on
+Jonathan's robe given to David (18:4; [[Jonathan Loves David]]), for Saul's robe at En Gedi (24:4, 11), and for the robe the medium sees on
 the old man coming up at Endor (28:14) (stored WEB; WLC). In 15:27 it is Samuel's, if the WEB's reading of the
 pronouns is right. Who grabbed and whose robe tore is not grammatically certain, and some readings have Samuel
 tear Saul's robe; the WEB makes it Saul grabbing Samuel's (recalled that alternatives exist, not checked).

@@ -186,7 +186,7 @@ to save by many or by few* (14:6), and Israel without *sword nor spear* (13:22) 
 mirrors Saul's. The Philistine falls, his head is cut off by his own sword, and his armor is set in a tent; at Gilboa
 Saul falls on *the sword*, and the Philistines cut off his head and put his armor *in the house of the Ashtaroth*
 (31:4, 9–10, stored WEB; not yet ingested). The next pericope returns to Saul's question, *whose son is this youth?*
-(17:55), and to Jonathan.
+(17:55), and to Jonathan; see [[Jonathan Loves David]].
 
 ## Key verses
 

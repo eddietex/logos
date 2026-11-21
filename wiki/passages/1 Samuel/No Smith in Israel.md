@@ -133,7 +133,7 @@ says *Yahweh doesn't save with sword and spear* (17:47), and *there was no sword
 - **In the day of battle.** *Bəyôm milḥemeṯ* (22, WLC). The battle is the one of chapter 14, not yet begun. The
   verse is the narrator speaking ahead.
 - **But Saul and Jonathan his son had them.** The two named men are armed. Jonathan's sword passes to David with
-  his robe (18:4, stored WEB; not yet ingested); David later goes to Nob unarmed and is given Goliath's sword,
+  his robe (18:4, stored WEB; [[Jonathan Loves David]]); David later goes to Nob unarmed and is given Goliath's sword,
   *there is no other except that here* (21:9, stored WEB; not yet ingested).
 - **The garrison … the pass.** *Maṣṣaḇ pəlištîm* (23, WLC), from the same root as *nəṣîḇ*, the garrison Jonathan
   struck at Geba (13:3; the roots are matched by form, and morphhb gives the nouns different lemmas, 4673 and

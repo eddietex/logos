@@ -61,7 +61,7 @@ for *like all the nations* (8:5) is described, at the height of his reign, in th
 replaced.
 
 The household list prepares the story ahead. Every name in verses 49–51 except Ishvi, Ahimaaz, and Abiel acts
-in the chapters that follow (stored WEB; not yet ingested). Jonathan loves David (18:1–4). Merab is promised to
+in the chapters that follow (stored WEB; not yet ingested). Jonathan loves David (18:1–4; [[Jonathan Loves David]]). Merab is promised to
 David and given to another man (18:17–19). Michal loves David and marries him (18:20–27). Abner seats himself
 beside Saul at the new moon (20:25) and guards him in the camp David enters (26:5–15). Malchishua dies with
 Jonathan and Abinadab at Gilboa (31:2). The last verse, *when Saul saw any mighty man … he took him*, is the

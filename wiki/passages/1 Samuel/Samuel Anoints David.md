@@ -58,7 +58,7 @@ and goes home to [[Ramah]] (13).
 
 **Where it happens.** The whole scene is at Bethlehem, Jesse's town, which Ruth left as the town of Elimelech's family
 and ended as the town of Obed, *the father of Jesse, the father of David* (Ruth 4:17). The Hebrew calls Jesse *bêṯ
-hallaḥmî*, *the Bethlehemite* (1, WLC), the form used again at 16:18 and 17:58 (stored WEB; not yet ingested).
+hallaḥmî*, *the Bethlehemite* (1, WLC), the form used again at 16:18 and 17:58 (stored WEB; [[Jonathan Loves David]]).
 Samuel's journey starts from Ramah, where 15:34 left him, and ends there (13). Bethlehem is in Judah, Saul's Gibeah
 in Benjamin, a short distance apart, and Samuel's fear in verse 2 assumes Saul would hear.
 

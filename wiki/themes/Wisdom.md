@@ -849,7 +849,18 @@ does not establish comprehensive understanding or remove its cost. See
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### *Behaved himself wisely* — 1 Samuel 18:5
+
+*David went out wherever Saul sent him, and behaved himself wisely* (18:5), *yaśkîl* (WLC; *śāḵal*, lemma 7919). In
+the Hebrew files checked the verb occurs in 1 Samuel only in chapter 18 (5, 14, 15, 30). Before it, it is the tree
+*desired to make one wise* (Genesis 3:6), Jacob *guiding his hands knowingly* (48:14), Deuteronomy's *that you may
+prosper* (29:9 WEB) and *Oh that they were wise* (32:29), and Joshua's *that you may have good success* (1:7–8)
+(stored WEB). The one Hebrew word covers acting wisely and succeeding, and the WEB chooses between them by context.
+See [[Jonathan Loves David]]. Source: stored WEB Genesis 3:6; 48:14; Deuteronomy 29:9; 32:29; Joshua 1:7–8; 1 Samuel 18:5,
+14, 30. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Jonathan Loves David]] — 1 Samuel 18:5; *behaved himself wisely*, *yaśkîl*, the first of four in chapter 18.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:11–12; *it became a proverb, "Is Saul also among the prophets?"*
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; *taśkîl*, *good success*, from meditating on the law (7–8).

@@ -29354,3 +29354,56 @@ in the WLC only and are paraphrased, not quoted; no 2 Samuel WEB was checked thi
 Leningrad Codex (OpenScriptures morphhb) XML; occurrence claims cover those files only, and lemma claims follow
 morphhb's tagging. Recalled, not checked, and flagged where made: the source question in 17:50–51; the explanations of
 Jerusalem in 17:54; the Septuagint's *Gath* at 17:52; *Shaaraim* as *two gates*. No Septuagint text was consulted.
+
+## [2026-11-21] ingest | 1 Samuel 17.55-18.5 — Jonathan Loves David
+
+Unattended run. Created [[Jonathan Loves David]] and the connection
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]]. Revised [[1 Samuel]] (box checked; overview paragraph;
+key themes and people); the people [[Jonathan (son of Saul)]], [[David]], [[Saul]], [[Abner]], [[Jesse]], and
+[[Goliath]]; the places [[Valley of Elah]], [[Bethlehem]], and [[Jerusalem]]; the themes [[Love]], [[Covenant]],
+[[Wisdom]], [[Oaths and Vows]], [[Kingship and Empire]], and [[Seeing and Being Seen]]; the connections
+[[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]],
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]],
+[[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]],
+[[By the Life of Pharaoh - Oaths Sworn by a King]], [[The Bow in the Cloud]], and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]; and the passages
+[[David Plays the Harp for Saul]], [[David Comes to the Camp]], [[David Kills Goliath]], [[No Smith in Israel]],
+[[Samuel Anoints David]], [[Saul's Rash Oath]], and [[Saul's Wars and Household]] ("not yet ingested" notes for
+17:55–18:5 resolved where they occurred). Also `wiki/books/index.md` (27 / 47), People Index A-E, F-M, and N-Z (six
+rows extended), the places index (three rows), the themes index (six rows), Connections Index A-C (two extended),
+D-H (two extended), and T-Z (one new, two extended), and the dashboard counts. Frontmatter totals: 513 passages, 398
+people, 619 places, 88 themes, 970 connections.
+
+Judgment calls: the boundary 17:55–18:5 stands; 18:6 opens the women's song and Saul's jealousy. No new person or place
+pages. The new connection holds the 16:18–22 / 17:55–58 doublet, which three earlier pages had flagged; it records
+the readings offered (recalled, not checked) and does not reconcile them. The reading of Jonathan's robe and sword as
+a sign of succession is the wiki's, from 23:17, and is marked so on every page that makes it.
+
+**Corrections flagged on an existing page.** [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]]
+quoted 18:4 as *with his clothing, even to his sword, and to his bow, and to his belt*; the stored WEB reads *and his
+clothing, even including his sword, his bow, and his sash*, and the quotation was corrected. The same page said
+1 Samuel 25:29 uses *qāšar*; the WLC has *ṣərûrâ*, *ṣārar* (lemma 6887). Both corrections are written out on the page
+with the date, not silently overwritten, and its "twice in the Hebrew Bible" claim is now scoped to the files checked.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`, downloaded fresh
+2026-11-21): *ʿelem* (5958) only at 1 Samuel 17:56 and 20:22; *qāšar* (7194) with *nepeš* on both sides only at
+Genesis 44:30 and 1 Samuel 18:1, and *qāšar* again at 22:8 of Jonathan and David; *kə-* + *nepeš* only at Deuteronomy
+13:7 and 23:25 and 1 Samuel 18:1, 3 (WLC numbering); *pāšaṭ* in the *hitpael* only at 18:4; *ḥăḡôr* (2290) only at
+Genesis 3:7, 1 Samuel 18:4, and 2 Samuel 18:11; 20:8; *maddîm* (4055) in 1 Samuel at 4:12; 17:38–39; 18:4; *məʿîl* (4598)
+seventeen verses, from Exodus 28:4 to 2 Samuel 13:18; *śāḵal* (7919) in 1 Samuel only at 18:5, 14, 15, 30; *bərîṯ* in
+1 Samuel at 4:3–5; 11:1; 18:3; 20:8; 23:18. Jonathan's name in 1 Samuel is the long *yəhônāṯān* (3083) at 14:6, 8 and
+from 18:1 on (except 19:1), and the short *yônāṯān* (3129) in 13–14 and 19:1. The ketiv/qere at 18:1 is recorded.
+
+Recorded, not resolved: why Saul and Abner do not know David after 16:14–23; why the head is in David's hand at 17:57
+after 17:54; whether *whose son* asks about the man or the father of 17:25; whether Jonathan was at Elah; what the
+covenant of 18:3 committed either man to.
+
+Sources: 1 Samuel 17:55–18:5 from stored WEB, with the not-yet-ingested 1 Samuel 18:6–9, 14–16, 20, 22, 30; 19:1,
+24; 20:8, 17, 22; 22:8; 23:17–18; 24:4–5, 11; 25:29; 28:14; 31:3, 8–9. Comparisons from stored WEB Genesis 3:6–7;
+27:4; 34:3; 44:30; 48:14; Deuteronomy 6:5; 10:12; 11:13; 13:3, 6; 23:24; 29:9; 30:6; 32:29; Joshua 1:7–8; 22:5;
+23:11; Judges 3:16; Ruth 4:15; 1 Samuel 1:26; 2:4, 19; 4:3–5, 12; 8:11; 10:12; 11:1–2; 13:22; 14:6, 8, 49, 52;
+15:27; 16:1, 18–22; 17:15, 25, 31–39, 54. 2 Samuel 1:18, 22; 13:18; 18:11; 20:8 were read in the WLC only and are
+paraphrased, not quoted; no 2 Samuel WEB was checked this run. Hebrew from the Westminster Leningrad Codex
+(OpenScriptures morphhb) XML; occurrence claims cover those files only, and lemma and stem claims follow morphhb's
+tagging. Recalled, not checked, and flagged where made: the readings of the 16/17 tension; the Septuagint's shorter
+text. No Septuagint text was consulted.

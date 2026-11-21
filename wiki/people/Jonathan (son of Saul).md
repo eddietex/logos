@@ -30,7 +30,7 @@ Source: stored WEB 1 Samuel 13:1–16; Judges 18:30. Hebrew WLC (OpenScriptures 
 Called *Jonathan his son* (13:16), he holds Geba with Saul while the Philistine raiders go out from Michmash. With no
 smith in Israel, *neither sword nor spear was found in the hand of any of the people … but Saul and Jonathan his son
 had them* (13:22). The verse sets up his attack on the garrison at *the pass of Michmash* (13:23; 14:1, stored WEB;
-not yet ingested). His sword later passes to David with his robe (18:4, stored WEB; not yet ingested). See
+not yet ingested). His sword later passes to David with his robe (18:4, stored WEB; see [[Jonathan Loves David]]). See
 [[No Smith in Israel]] and
 [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]].
 
@@ -81,6 +81,27 @@ at bible-api.com). Here he is spelled *yônāṯān* (WLC). See [[Saul's Wars an
 
 Source: stored WEB 1 Samuel 14:49; 31:2. 1 Chronicles 8:33; 9:39 checked at bible-api.com, 2026-11-19. Hebrew WLC.
 
+### Knit to David — 1 Samuel 17:55–18:5
+
+Unnamed since 14:49, and not said to have been at Elah, Jonathan returns the moment David finishes speaking to Saul:
+*the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul* (18:1). The verb is
+*qāšar*, *tie*, with *nepeš* on both sides; in the Hebrew files checked the idiom occurs otherwise only at Genesis
+44:30, Jacob's life *bound up in the boy's life* (WLC; stored WEB). Saul will use the same verb of his son and David,
+*all of you have conspired against me* (22:8, stored WEB; not yet ingested). *As his own soul*, *kənap̄šô*, is
+Deuteronomy's phrase for the closest friend (13:6 WEB). He is the second person said to love David, after Saul (16:21).
+
+He *made a covenant* with David, and the only reason given is love (18:3). Then he *stripped himself* (the only
+reflexive *hitpael* of *pāšaṭ* in the files checked, WLC) of *the robe that was on him*, and gave it with his
+clothing, his sword, his bow, and his sash (18:4). The sword is one of the two of 13:22; the clothing, *maddîm*, is
+the word for the clothing of Saul's that David took off (17:38–39, WLC). The text does not say what the gift means. At
+Horesh Jonathan will say *you will be king over Israel, and I will be next to you* (23:17, stored WEB; not yet
+ingested), and the wiki reads the robe in that light. From 18:1 the WLC spells his name in the long form
+*yəhônāṯān* almost throughout chapters 18–20 (except 19:1), where before it had used it only at 14:6, 8. See
+[[Jonathan Loves David]] and [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]].
+
+Source: stored WEB 1 Samuel 13:22; 16:21; 17:38–39; 18:1–5; 22:8; 23:17; Genesis 44:30; Deuteronomy 13:6. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
 
 - Commands a thousand of Saul's three thousand at Gibeah of Benjamin — 1 Samuel 13:2.
@@ -89,6 +110,7 @@ Source: stored WEB 1 Samuel 14:49; 31:2. 1 Chronicles 8:33; 9:39 checked at bibl
 - Goes over the pass with his armour-bearer, sets a sign, climbs to the garrison, and strikes about twenty men; Yahweh routs the camp — 14:1–23.
 - Eats honey unaware of Saul's oath; *My father has troubled the land*; taken by lot; *behold, I must die*; rescued by the people — 14:27–45.
 - Named first of Saul's sons in the summary of the reign — 14:49.
+- His soul *knit* with David's; loves him *as his own soul*; makes a covenant; gives him his robe, clothing, sword, bow, and sash — 18:1–4.
 
 ## Appears in
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2–3; commands at Gibeah, strikes the garrison at Geba.
@@ -96,9 +118,11 @@ Source: stored WEB 1 Samuel 14:49; 31:2. 1 Chronicles 8:33; 9:39 checked at bibl
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:1–23; *It may be that Yahweh will work for us*; the sign and the climb.
 - [[Saul's Rash Oath]] — 1 Samuel 14:27–45; the honey, *My father has troubled the land*, the lot, and the people's rescue.
 - [[Saul's Wars and Household]] — 1 Samuel 14:49; first of Saul's three sons.
+- [[Jonathan Loves David]] — 1 Samuel 18:1–4; *knit with the soul of David*; the covenant; the robe and the sword.
 
 ## Related people
 - [[Saul]] — his father (13:16)
+- [[David]] — whom he loves *as his own soul*, and with whom he makes a covenant (18:1–3)
 - [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
 - [[The Philistines]] — whose garrison he strikes (13:3)
 - [[Samuel]] — whose sentence on Saul's kingdom falls on Saul's house (13:13–14)
@@ -118,3 +142,5 @@ Source: stored WEB 1 Samuel 14:49; 31:2. 1 Chronicles 8:33; 9:39 checked at bibl
 - [[Oaths and Vows]]
 - [[Redemption]]
 - [[Providence]]
+- [[Love]]
+- [[Covenant]]

@@ -260,7 +260,8 @@ Abimelech (Judges 9:23); both die asking an armor bearer to kill them (Judges 9:
 [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]].
 
 **Contradiction flagged.** Saul knows David and Jesse here (16:19–22), and asks Abner *whose son is this youth?* in
-17:55–58 (stored WEB; not yet ingested). Recorded, not reconciled; see [[David Plays the Harp for Saul]].
+17:55–58 (stored WEB). Recorded, not reconciled; see [[David Plays the Harp for Saul]] and
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]].
 
 Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
@@ -291,6 +292,26 @@ takes it off (17:38–39). The king who was to go out before the people now send
 armor does not fit the shepherd. See [[David Comes to the Camp]].
 
 Source: stored WEB 1 Samuel 16:18; 17:25, 31–39; Exodus 21:2; Deuteronomy 15:12; Hebrew WLC (OpenScriptures morphhb),
+2026-11-21.
+
+### Whose son, and the man he keeps — 1 Samuel 17:55–18:5
+
+*When Saul saw David go out against the Philistine*, he asked Abner *whose son is this youth?*, ordered him to find
+out, and asked David himself, *Whose son are you, you young man?* (17:55–58). It is always *ben-mî*, *whose son*
+(WLC), and the reward he had promised the killer included making *his father's house free in Israel* (17:25); the
+text does not say which he is asking about, the man or the father. After 16:19–22, where he sent to Jesse by name, the
+question does not fit, and the contradiction stands as flagged above.
+
+Then he *took him that day, and would let him go no more home to his father's house* (18:2). *Lāqaḥ* is the verb of
+Samuel's warning, *he will take your sons* (8:11); in 16:22 he had asked Jesse's leave, and here he does not. He sends
+David out, and David *behaved himself wisely*, and Saul *set him over the men of war* (18:5). The verse records that
+it was good *in the sight of all the people, and also in the sight of Saul's servants*, and says nothing of Saul's own
+sight, which the next verses turn to: *Saul watched David from that day and forward* (18:9, stored WEB; not yet
+ingested). His son, meanwhile, loves David, makes a covenant with him, and gives him the robe and the sword (18:1–4);
+Saul will call it conspiracy, *qāšar*, the verb of 18:1 (22:8, stored WEB; not yet ingested). See
+[[Jonathan Loves David]].
+
+Source: stored WEB 1 Samuel 8:11; 16:19–22; 17:25, 55–58; 18:1–9; 22:8. Hebrew WLC (OpenScriptures morphhb),
 2026-11-21.
 
 ## Timeline / key events
@@ -332,8 +353,11 @@ Source: stored WEB 1 Samuel 16:18; 17:25, 31–39; Exodus 21:2; Deuteronomy 15:1
 - Camps in the valley of Elah; hears Goliath's challenge and is *dismayed, and greatly afraid* with all Israel — 17:1–11.
 - Offers riches, his daughter, and freedom to Goliath's killer; hears David, refuses and then sends him, *Yahweh will
   be with you*; dresses him in his armor — 17:25, 31–39.
+- Asks Abner and then David *whose son* he is; takes David and keeps him from going home; sets him over the men of
+  war — 17:55–58; 18:2, 5.
 
 ## Appears in
+- [[Jonathan Loves David]] — 1 Samuel 17:55–58; 18:2, 5; *whose son is this youth?*; takes David, and sets him over the men of war.
 - [[David Comes to the Camp]] — 1 Samuel 17:25, 31–39; the reward; *you are but a youth*; *Go! Yahweh will be with you*; the armor.
 - [[Goliath Defies Israel]] — 1 Samuel 17:2, 8, 11; camped at Elah; Israel called *servants to Saul*; dismayed and afraid.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23; the Spirit departs, an evil spirit troubles him, and David's harp refreshes him; *He loved him greatly*.

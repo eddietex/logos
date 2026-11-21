@@ -22,19 +22,33 @@ of foreign commanders, Phicol to Abimelech (Genesis 21:22, 32; 26:26) and Sisera
 *captains of armies* Deuteronomy appoints for war (20:9) (stored WEB; WLC). See
 [[Saul's Wars and Household]].
 
-**Ahead (not yet ingested).** Saul asks him *whose son is this youth?* and he brings David with Goliath's head
-(17:55–57); he sits beside Saul at the new moon (20:25); he sleeps beside Saul in the camp David enters, and is
+**Ahead (not yet ingested).** He sits beside Saul at the new moon (20:25); he sleeps beside Saul in the camp David enters, and is
 mocked by David for not guarding the king (26:5–15) (stored WEB). After Saul's death he makes *Ishbosheth the son
 of Saul* king (2 Samuel 2:8, WEB at bible-api.com).
 
-Source: stored WEB 1 Samuel 9:1; 14:50–51; 17:55–57; 20:25; 26:5–15; Judges 4:2, 7. 2 Samuel 2:8 checked at
+Source: stored WEB 1 Samuel 9:1; 14:50–51; 20:25; 26:5–15; Judges 4:2, 7. 2 Samuel 2:8 checked at
 bible-api.com (`translation=web`), 2026-11-19. Hebrew WLC (OpenScriptures morphhb).
+
+### I can't tell — 1 Samuel 17:55–57
+
+His first act in the narrative is to not know. Saul, watching David go out, asks him *Abner, whose son is this
+youth?*, and he answers on oath, *As your soul lives, O king, I can't tell* (17:55). *Ḥê-nap̄šəḵā … ʾim-yāḏāʿtî*,
+literally *if I know*, is the form of oath that swears a negative (WLC); Hannah had used *as your soul lives* to Eli
+(1:26, stored WEB). Told *Inquire whose son the young man is!*, he takes David as he returns from the killing and
+brings him *before Saul with the head of the Philistine in his hand* (17:56–57). The captain of the army does not
+know the king's armor bearer of 16:21; the tension is recorded on
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]], not reconciled. See [[Jonathan Loves David]] and
+[[By the Life of Pharaoh - Oaths Sworn by a King]].
+
+Source: stored WEB 1 Samuel 1:26; 16:21; 17:55–57. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
 ## Timeline / key events
 - Named as captain of Saul's army, son of Ner — 1 Samuel 14:50–51.
+- Asked *whose son is this youth?*; swears he does not know; brings David with Goliath's head to Saul — 17:55–57.
 
 ## Appears in
 - [[Saul's Wars and Household]] — 1 Samuel 14:50–51; *captain of his army*.
+- [[Jonathan Loves David]] — 1 Samuel 17:55–57; *As your soul lives, O king, I can't tell*; brings David to Saul.
 
 ## Related people
 - [[Saul]] — his king, and his cousin by 14:51 with 9:1
@@ -49,3 +63,4 @@ bible-api.com (`translation=web`), 2026-11-19. Hebrew WLC (OpenScriptures morphh
 ## Themes associated
 - [[War]]
 - [[Kingship and Empire]]
+- [[Oaths and Vows]]

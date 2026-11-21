@@ -314,6 +314,18 @@ Jerusalem, the only time 1 Samuel names the city, which in the narrative is stil
 [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]] and
 [[The Head and the Armor - Goliath at Elah and Saul at Gilboa]].
 
+[[Jonathan Loves David]] (17:55–18:5) goes back to the moment David went out. Saul asks Abner *whose son is this
+youth?*, Abner swears he does not know, and David, the head still in his hand, answers *I am the son of your servant
+Jesse the Bethlehemite* (17:55–58). After 16:18–22, where Saul sent to Jesse for him by name, the question does not
+fit; the two accounts are recorded, not reconciled. Then *the soul of Jonathan was knit with the soul of David, and
+Jonathan loved him as his own soul* (18:1), the verb *qāšar* that Judah used of Jacob and Benjamin (Genesis 44:30) and
+that Saul will use for conspiracy (22:8). Saul keeps David and does not let him go home; Jonathan makes a covenant with
+him and gives him his robe, his clothing, his sword, his bow, and his sash (18:2–4). Saul's clothing David had taken
+off (17:39); Jonathan's he keeps, and one of the two swords of 13:22 is now his. David *behaved himself wisely* and is
+set over the men of war, *good in the sight of all the people* (18:5). See
+[[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]] and
+[[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -362,7 +374,7 @@ merge, or reorder them freely.
 - [x] [[Goliath Defies Israel]] — 1 Samuel 17:1–11
 - [x] [[David Comes to the Camp]] — 1 Samuel 17:12–40
 - [x] [[David Kills Goliath]] — 1 Samuel 17:41–54
-- [ ] Jonathan Loves David — 1 Samuel 17:55–18:5
+- [x] [[Jonathan Loves David]] — 1 Samuel 17:55–18:5
 - [ ] Saul's Jealousy of David — 1 Samuel 18:6–16
 - [ ] David Marries Michal — 1 Samuel 18:17–30
 - [ ] Jonathan Speaks for David — 1 Samuel 19:1–7
@@ -492,6 +504,10 @@ merge, or reorder them freely.
 - [[Seeing and Being Seen]] — Goliath *saw David* and disdained him (17:42)
 - [[Burial and the Grave]] — the birds and the beasts promised the dead (17:44, 46)
 - [[War]] and [[Faith]] — *the battle is Yahweh's*; *no sword in the hand of David* (17:47, 50)
+- [[Love]] — *Jonathan loved him as his own soul* (18:1, 3)
+- [[Covenant]] — *Jonathan and David made a covenant* (18:3)
+- [[Wisdom]] — *behaved himself wisely*, *yaśkîl* (18:5)
+- [[Oaths and Vows]] — *As your soul lives, O king, I can't tell* (17:55)
 
 ## Key people
 - [[Samuel]]
@@ -522,18 +538,18 @@ merge, or reorder them freely.
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 - [[Bedan]] — named among the deliverers in Samuel's farewell, otherwise unknown (12:11)
-- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45)
+- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45); loves David *as his own soul*, makes a covenant with him, and gives him his robe and sword (18:1–4)
 - [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
 - [[Ahijah (son of Ahitub)]] and [[Ahitub (son of Phinehas)]] — Eli's line, with the ephod at Saul's side (14:3, 18–19)
 - [[Ishvi (son of Saul)]] and [[Malchishua]] — Saul's other sons (14:49)
 - [[Merab]] and [[Michal]] — Saul's daughters, *the firstborn* and *the younger* (14:49)
 - [[Ahinoam (wife of Saul)]] and [[Ahimaaz (father of Ahinoam)]] — Saul's wife and her father (14:50)
-- [[Abner]] — captain of Saul's army (14:50)
+- [[Abner]] — captain of Saul's army (14:50); does not know *whose son* David is, and brings him to Saul (17:55–57)
 - [[Ner]] and [[Abiel (father of Kish)]] — Abner's father, and the grandfather of Saul and Abner (9:1; 14:51)
 - [[Amalek]] — struck by Saul (14:48); devoted to destruction, the best spared (15:2–9)
 - [[Agag]] — king of the Amalekites, spared by Saul and killed by Samuel (15:8–9, 32–33)
 - [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
-- [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11)
+- [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11); *your servant Jesse the Bethlehemite* (17:58)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9), and with Saul at the war; Eliab's anger at David (17:13, 28)
 - [[Goliath]] — the champion of Gath who defies Israel (17:4–10), killed with a stone and beheaded with his own sword (17:49–51)
 
