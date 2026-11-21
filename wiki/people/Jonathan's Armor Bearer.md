@@ -39,6 +39,7 @@ Source: stored WEB 1 Samuel 13:14; 14:1–17. Hebrew WLC (OpenScriptures morphhb
 - [[Saul]] — whose count finds him missing (14:17)
 - [[The Philistines]] — the garrison he climbs into (14:11–14)
 - [[Abimelech (son of Gideon)]] — an earlier man with an armour-bearer, whom he asks to kill him (Judges 9:54)
+- [[David]] — given the same title, *nōśēʾ ḵēlîm*, as Saul's armor bearer (16:21, WLC); see [[David Plays the Harp for Saul]]
 
 ## Themes associated
 - [[War]]

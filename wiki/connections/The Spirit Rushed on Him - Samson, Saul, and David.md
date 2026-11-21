@@ -124,3 +124,12 @@ has, *mēhayyôm hahûʾ wāmāʿlâ*, *from that day forward*. As with Saul (10
 after. Unlike Saul's, no sign or deed follows: David does nothing in the verse, and Samuel goes home. The next
 verse, *Now Yahweh's Spirit departed from Saul* (16:14, stored WEB; not yet ingested), sets the two kings side by side.
 Sources: stored WEB 1 Samuel 10:1, 10; 16:13–14. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
+
+### 1 Samuel 16:14 now ingested — the Spirit departs
+
+[[David Plays the Harp for Saul]] confirms the next verse: *Now Yahweh's Spirit departed from Saul* (16:14). The verb is *sārâ* (lemma 5493), and
+it returns at the end of the pericope for the evil spirit, *the evil spirit departed from him* (16:23), at 18:12,
+*Yahweh … had departed from Saul*, and at Endor (28:15–16) (WLC). Samson's *Yahweh had departed from him* (Judges
+16:20) is the same verb (stored WEB). The rush on David stays; the rush on Saul is withdrawn, and an evil spirit is
+sent in its place. See [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]]. Sources: stored WEB Judges 16:20; 1 Samuel 16:14–23; 18:12; 28:15–16. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-21.

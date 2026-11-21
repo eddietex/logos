@@ -211,8 +211,17 @@ Numbers 10 has no song, only a signal over the offerings. Chronicles and Ezra ke
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### David's harp — 1 Samuel 16:14–23
+
+Music enters the story of David before battle does. Saul's servants seek *a skillful player on the harp*, and
+David is found, *skillful in playing* (16:16, 18). When he plays, *Saul was refreshed, and was well, and the evil
+spirit departed from him* (16:23). The music is not called praise; it is a remedy, played *with his hand*. David is
+later *the sweet psalmist of Israel* (2 Samuel 23:1, WEB checked at bible-api.com). See [[David Plays the Harp for Saul]] and
+[[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:16–23; David's harp, and Saul *refreshed*.
 - [[The Song of Hannah]] — 1 Samuel 2:1–10; Hannah's song, from the Rock to *his anointed*.
 - [[Jephthah's Vow]] — Judges 11:34; the daughter's tambourines and dances.
 - [[The Dream of the Barley Loaf]] — Judges 7:15; Gideon worships when he hears the dream.

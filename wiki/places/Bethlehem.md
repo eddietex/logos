@@ -132,7 +132,14 @@ David, *in the middle of his brothers* (16:5, 13). Jesse is *the Bethlehemite*, 
 with this family in this town (Ruth 4:17); the king comes from it here. See [[Samuel Anoints David]]. Source: stored
 WEB Ruth 4:17; 1 Samuel 16:1–13; Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### David sent from Bethlehem to Saul — 1 Samuel 16:18–20
+
+Saul's servant identifies David by his town, *a son of Jesse the Bethlehemite* (16:18), and Jesse sends him from it to
+Saul's court with bread, wine, and a young goat (16:20). 17:15 has him going *back and forth from Saul to feed his
+father's sheep at Bethlehem* (stored WEB; not yet ingested). See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Appears in
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:18–20; *the Bethlehemite*; David sent from his father's house to Saul.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; the trembling elders, the sacrifice, and David anointed among his brothers.
 
 - [[Famine and Death in Moab]] — Ruth 1:1–2; *Bethlehem Judah* in famine; Elimelech's family, *Ephrathites*, leaves for Moab.

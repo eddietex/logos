@@ -69,7 +69,7 @@ sentence of 15:28 gave the kingdom *to a neighbor of yours who is better than yo
 finds the man and names him, in the last clause.
 
 It does not make him king. Saul remains king to the end of the book, and the next pericope brings David into Saul's
-service as a harpist (16:14–23, stored WEB; not yet ingested). The anointing is secret in the same way Saul's was:
+service as a harpist ([[David Plays the Harp for Saul]], 16:14–23). The anointing is secret in the same way Saul's was:
 done by Samuel on Yahweh's word, with a few witnesses, and followed by the Spirit. The difference is that Saul's
 secret was kept by Saul (10:16), while this one is witnessed by David's family, and nothing in the narrative says that
 anyone outside it knows. Eliab's anger at David at the battle line (17:28, stored WEB; not yet ingested) does not
@@ -170,7 +170,7 @@ God who sees* (Genesis 16:13, WLC; stored WEB). See [[Seeing and Being Seen]].
   WEB; not yet ingested).
 
 **How it connects.** Chapters 13–15 were Saul's three failures; chapter 16 begins the long overlap of two anointed
-men. The next pericope, *David Plays the Harp for Saul* (16:14–23, planned, not yet ingested), sends the Spirit away
+men. The next pericope, [[David Plays the Harp for Saul]] (16:14–23), sends the Spirit away
 from the first and brings the second into his house. A servant will say *I have seen a son of Jesse the
 Bethlehemite*, *rāʾîṯî bēn ləyišay bêṯ hallaḥmî* (16:18, WLC; stored WEB), the same words Yahweh used in verse 1.
 From here to the end of 2 Samuel, David is the main figure of the narrative.

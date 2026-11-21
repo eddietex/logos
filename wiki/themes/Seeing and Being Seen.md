@@ -503,7 +503,14 @@ occurs only there and in Hagar's name for God, *ʾĒl Rŏʾî* (Genesis 16:13). 
 says that Yahweh's choice was not made by them. See [[Samuel Anoints David]] and [[Ruddy - Esau and David]]. Source:
 stored WEB Genesis 16:13; 22:8, 14; 1 Samuel 16:1–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### *I have seen a son of Jesse* — 1 Samuel 16:17–18
+
+Saul says *Provide me*, literally *see for me*, *rəʾû-nāʾ lî* (16:17), and a servant answers *rāʾîṯî bēn
+ləyišay*, *I have seen a son of Jesse* (16:18, WLC), Yahweh's word of 16:1. The servant sees what Samuel was told not
+to look at, and more: *a handsome person; and Yahweh is with him*. See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:17–18; *see for me*; *I have seen a son of Jesse*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1, 6–7, 12; *I have seen … a king*; *Yahweh looks at the heart*; *good of appearance*.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:21–24; the hidden man shown, *Do you see him …?*
 - [[Saul Comes to the Seer]] — 1 Samuel 9:9–19; the seer; *I have looked upon my people*; *when Samuel saw Saul*.

@@ -744,7 +744,14 @@ two anointed men; Saul remains king until his death (31:4–6, stored WEB; not y
 [[Samuel Anoints David]] and [[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]]. Source: stored WEB
 Deuteronomy 17:15; 1 Samuel 8:5; 16:1–13; 31:4–6. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### The successor in the king's service — 1 Samuel 16:14–23
+
+The man anointed in secret enters the house of the king he is to replace, as harpist and armor bearer, *stood
+before him* (16:21–22). Saul loves him and does not know. Kingship passes in this book not by a coup but by
+overlap, and the overlap begins inside Saul's own court. See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:21–22; the anointed successor as the king's harpist and armor bearer.
 - [[Samuel Anoints David]] — 1 Samuel 16:1, 8–13; *a king for myself*; *Yahweh has not chosen*; anointed *in the middle of his brothers*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:23–30; *rejected you from being king*; the kingdom torn away and given to a neighbor.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47–52; the first summary notice of an Israelite king's reign.

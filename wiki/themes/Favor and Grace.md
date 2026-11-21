@@ -269,7 +269,14 @@ are identified on the passage and connection pages.
 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
+### *He has found favor in my sight* — 1 Samuel 16:22
+
+Saul asks Jesse to let David stay, *for he has found favor in my sight*, *kî-māṣāʾ ḥēn bəʿênāy* (16:22, WLC), the
+idiom of Noah before Yahweh (Genesis 6:8) and of Ruth before Boaz (Ruth 2:10). Here it is a king's favor for his
+servant, and it will not last. See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:22; *he has found favor in my sight*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:26; *increased in favor both with Yahweh, and also with men*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 10, 13; *ḥēn* three times; *Why have I found favor … since I am a foreigner?*
 - [[The Call of Gideon]] — Judges 6:17; *If now I have found favor in your sight, then show me a sign*.

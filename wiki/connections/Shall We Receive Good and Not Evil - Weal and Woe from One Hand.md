@@ -95,6 +95,12 @@ sufficient for you"*. **That is Job's structure exactly — an affliction delega
 not explained — with the permission disclosed to the sufferer, which is the one thing Job never
 gets.**
 
+### *An evil spirit from Yahweh* — 1 Samuel 16:14
+
+1 Samuel puts the claim in narrative: *an evil spirit from Yahweh troubled* Saul (16:14), and the same at 19:9
+(stored WEB). Judges 9:23 has *God sent an evil spirit*. Whether *rāʿâ* there means moral evil or harm is not settled
+here (recalled, not checked). See [[David Plays the Harp for Saul]] and [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]].
+
 ## Significance
 
 - **It is the fullest statement in Scripture of a single divine agency**, made at the worst possible

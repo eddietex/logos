@@ -347,7 +347,14 @@ oppression"*. *ʿOnyēnû* and *laḥăṣēnû* are what Yahweh saw at the bush
 the *"toil"* Joseph was made to forget (Genesis 41:51) (WLC). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:6–7; Exodus 3:7, 9; Genesis 41:51.
 
+### *An evil spirit from Yahweh troubled him* — 1 Samuel 16:14–15
+
+Saul's affliction is named in a strong verb, *bāʿaṯ*, *terrify* (16:14–15, WLC), and its source is named *from
+Yahweh*. The text does not describe what Saul felt. The remedy is music, and it works for a time (16:23). See [[David Plays the Harp for Saul]] and
+[[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:14–15; Saul *troubled* by an evil spirit from Yahweh.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *I went out full, and Yahweh has brought me home again empty*.
 - [[Ruth Clings to Naomi]] — Ruth 1:13; Naomi's reading of her losses, *Yahweh's hand has gone out against me*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:25–28; the night at Gibeah, and the morning at the door.

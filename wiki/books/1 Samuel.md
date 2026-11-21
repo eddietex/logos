@@ -265,6 +265,17 @@ chapter 31. 16:10 and 17:12 give Jesse eight sons, 1 Chronicles 2:15 seven, with
 recorded. See [[Ruddy - Esau and David]] and
 [[Taken from Following the Sheep - 1 Samuel 16.11, 2 Samuel 7.8, and Psalm 78.70-72]].
 
+[[David Plays the Harp for Saul]] (16:14–23) turns from the new anointed to the old. *Now Yahweh's Spirit departed
+from Saul, and an evil spirit from Yahweh troubled him* (16:14). His servants propose a harpist, and one of them has
+already *seen* the man: *a son of Jesse the Bethlehemite who is skillful in playing, a mighty man of valor, a man of
+war, prudent in speech, and a handsome person; and Yahweh is with him* (16:18). David comes from the sheep with
+Jesse's gift of bread, wine, and a young goat; Saul *loved him greatly*, makes him his armor bearer, and asks to keep
+him (16:19–22). When David plays, *Saul was refreshed, and was well, and the evil spirit departed from him* (16:23).
+One verb, *sārâ*, *departed*, opens and closes the pericope (WLC). Saul does not know whom he has taken into his
+house. In 17:55–58 he will ask whose son David is; the two accounts are recorded, not reconciled. See
+[[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]] and
+[[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -309,7 +320,7 @@ merge, or reorder them freely.
 - [x] [[Saul's Wars and Household]] — 1 Samuel 14:47–52
 - [x] [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35
 - [x] [[Samuel Anoints David]] — 1 Samuel 16:1–13
-- [ ] David Plays the Harp for Saul — 1 Samuel 16:14–23
+- [x] [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23
 - [ ] Goliath Defies Israel — 1 Samuel 17:1–11
 - [ ] David Comes to the Camp — 1 Samuel 17:12–40
 - [ ] David Kills Goliath — 1 Samuel 17:41–54
@@ -429,6 +440,10 @@ merge, or reorder them freely.
 - [[Birthright and the Firstborn]] — the eldest passed over, the youngest anointed (16:6–13)
 - [[The Spirit of God]] — *came mightily on David from that day forward* (16:13)
 - [[Deception]] — the sacrifice that covers the anointing (16:2)
+- [[The Spirit of God]] — *Yahweh's Spirit departed from Saul*; *an evil spirit from Yahweh* (16:14)
+- [[Praise and Song]] — David's harp (16:16–23)
+- [[Love]] — *He loved him greatly* (16:21)
+- [[Healing]] — *Saul was refreshed, and was well* (16:23)
 
 ## Key people
 - [[Samuel]]

@@ -256,6 +256,8 @@ secret.
 - Deuteronomy 32:9 — Israel as Yahweh's *inheritance*
 - 1 Samuel 14:50 — *Abner the son of Ner, Saul's uncle* — [[Saul's Wars and Household]], [[Abner]], [[Ner]]
 - 2 Kings 9:1, 3 — the flask of oil at Jehu's anointing (by reference only)
+- 1 Samuel 16:16, 23 — the harp again, played for Saul after the Spirit leaves him —
+  [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]]
 
 ## Notes
 

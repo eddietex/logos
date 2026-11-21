@@ -197,6 +197,8 @@ bearing — the story has finally travelled far enough east that it has stopped 
 - Jude 14–15 — *"Enoch, the seventh from Adam"*, which is the Sethite Enoch of Genesis 5 and not
   the one this passage names, and which makes the counterpoint between the two seventh generations
   explicit.
+- 1 Samuel 16:16, 23 — Jubal's *kinnôr* in David's hand —
+  [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]]
 
 ## Notes
 

@@ -438,6 +438,8 @@ follows at once (10:1; see [[Tola and Jair]]). See [[Kingship and Empire]] and [
 - [[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]].
 - [[The Bramble and the Thistle - Plant Fables in Judges 9 and 2 Kings 14]].
 - 1 Samuel 10:7; 31:4; 2 Samuel 11:21 (WEB checked at bible-api.com; not yet ingested).
+- 1 Samuel 16:14; 18:10; 19:9 — an evil spirit from God on Saul; Saul's armor bearer at 31:4 —
+  [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]]
 
 ## Notes
 

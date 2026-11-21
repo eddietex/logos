@@ -651,8 +651,16 @@ or young stag. Desire continues after the strong-love sayings and vineyard excha
 no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
+### *He loved him greatly* — 1 Samuel 16:21
+
+The first love for David in 1 Samuel is Saul's: *David came to Saul, and stood before him. He loved him greatly*
+(16:21), *wayyeʾĕhāḇēhû məʾōḏ* (WLC). The subject is not named; the natural reading is Saul. Jonathan, all Israel and
+Judah, Michal, and Saul's servants follow (18:1–3, 16, 20, 22, stored WEB; not yet ingested), and Saul's love becomes
+fear (18:12). See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:21; *He loved him greatly*, the first love for David in the book.
 - [[Ruth at the Threshing Floor]] — Ruth 3:10; *more kindness in the latter end than at the beginning*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; *who has not abandoned his kindness to the living and to the dead*.
 - [[Ruth Clings to Naomi]] — Ruth 1:8, 14–17; *ḥeseḏ* to the dead and the living; Ruth *joined with her*.

@@ -29164,3 +29164,52 @@ directory; occurrence claims cover those files only, and lemma claims follow mor
 and 1 Chronicles was not checked. Recalled, not checked, and flagged where made: the usual reading of *lōʾ nāsōḇ*;
 the range of views on Samuel's pretext; the lexical relation of *ʾaḏmônî* to *ʾāḏōm*; the hair-or-skin debate; the
 meaning of the name Eliab. No Septuagint was consulted.
+
+## [2026-11-21] ingest | 1 Samuel 16.14-23 — David Plays the Harp for Saul
+
+Unattended run. Created [[David Plays the Harp for Saul]] and the connections
+[[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]] and
+[[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]]. Revised [[1 Samuel]] (box checked; overview
+paragraph; key themes); the people [[David]], [[Saul]], [[Jesse]], [[God]], [[Jubal]], and [[Jonathan's Armor Bearer]];
+the place [[Bethlehem]]; the themes [[The Spirit of God]], [[Praise and Song]], [[Healing]], [[Love]],
+[[Favor and Grace]], [[Seeing and Being Seen]], [[Kingship and Empire]], and [[Suffering]]; the connections
+[[The Spirit Rushed on Him - Samson, Saul, and David]], [[I Will Be With You - The Promise of Presence]], and
+[[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]]; and the passages [[Samuel Anoints David]]
+(forward references now linked), [[The Fall of Abimelech]], [[Samuel Anoints Saul]], and
+[[The Line of Cain and the Birth of Seth]] (cross-references). Also `wiki/books/index.md` (23 / 47), People Index A-E,
+F-M, and N-Z (rows extended), the places index (one row), the themes index (eight rows), Connections Index D-H (two
+new rows), I-N and O-S (rows extended), and the dashboard counts. Frontmatter totals: 509 passages, 397 people, 616
+places, 88 themes, 964 connections.
+
+Judgment calls: the boundary 16:14–23 stands; 16:14 turns to Saul and 17:1 opens the Philistine war. No page for
+the young man who recommends David (16:18) or for Saul's servants. *He loved him* (16:21) is read with Saul as
+subject, the natural reading, and the ambiguity noted. The *sārâ* frame (16:14, 23; 18:12; 28:15–16; Judges 16:20) went
+into the existing [[The Spirit Rushed on Him - Samson, Saul, and David]] rather than a new page. The *rāwaḥ*/*rûaḥ*
+sound and the 10:3 / 16:20 likeness of gifts are noted, not argued.
+
+Index repair: the themes index row for [[Holiness]] had a stray note (*1 Samuel 16:5: Sanctify yourselves*) in its
+name cell; it was moved to the end of the summary cell.
+
+Contradiction flagged: Saul knows David, his father, and his name in 16:19–22, and asks *whose son is this youth?* in
+17:55–58. Recorded on [[David Plays the Harp for Saul]], [[David]], and [[Saul]], not reconciled; to be revisited when
+17:55–18:5 is ingested.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`): *kinnôr* (3658) occurs at
+Genesis 4:21; 31:27; 1 Samuel 10:5; 16:16, 23; 2 Samuel 6:5; *nāḡan* (5059) only at 1 Samuel 16:16–18, 23; 18:10;
+19:9; *rāwaḥ* (7304) only at 1 Samuel 16:23; *bāʿaṯ* (1204) only at 1 Samuel 16:14–15 and 2 Samuel 22:5; *rûaḥ* with
+*rāʿâ* only at Judges 9:23 and 1 Samuel 16:14–16, 23; 18:10; 19:9; *nōśēʾ ḵēlîm* at Judges 9:54; 1 Samuel 14:1, 6, 7, 12;
+16:21; 31:4; 2 Samuel 18:15; *sûr* (5493) at Judges 16:20 and 1 Samuel 16:14, 23; 18:12; 28:15–16; 2 Samuel 6:5
+*played* is *śāḥaq* (7832).
+
+Recorded, not resolved: what the evil spirit is, and the sense of *rāʿâ*; how 16:19–22 and 17:55–58 fit; whether
+Saul's court is at Gibeah here; whether the gift of 16:20 recalls 10:3.
+
+Sources: 1 Samuel 16:14–23 from stored WEB, with the not-yet-ingested 1 Samuel 17:15, 26, 33, 55–58; 18:1–3, 10–16,
+20, 22; 19:9–10; 28:15–16; 31:4–6. Comparisons from stored WEB Genesis 4:20–22; 6:8; 29:17; 31:27; 39:2, 6; 41:33,
+39; Judges 9:5–6, 23–24, 54, 56–57; 16:20; Ruth 2:10; 1 Samuel 3:19; 9:1, 7; 10:3–10, 26; 14:1; 15:34; 16:1, 11, 13.
+2 Samuel 6:5; 18:15; 22:5; 23:1; 1 Kings 22:19–23 checked at bible-api.com (`translation=web`), 2026-11-21, not
+stored. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb) XML, files `Gen` through `2Sam` and
+`Ruth`, reused from an earlier session's scratch directory; occurrence claims cover those files only, and lemma claims
+follow morphhb's tagging. The Hebrew of 1 Kings 22 was not checked. Recalled, not checked, and flagged where made: the
+range of meanings of *rāʿâ*; *kinnôr* as a lyre; the explanations of 16:14–23 beside 17:55–58; the Septuagint's
+shorter text of chapters 17–18; *rûaḥ šeqer* in 1 Kings 22. No Septuagint was consulted.

@@ -35,6 +35,7 @@ the musician. Genesis prefers this kind of resonance to actual etymology through
 
 ## Appears in
 
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:16, 23, by allusion: David with the *kinnôr*, the first instrument named with Jubal (Genesis 4:21). See [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]].
 - [[The Line of Cain and the Birth of Seth]]
 - [[Why Do the Wicked Live]] — Job 21:12, by allusion: *"They sing to the tambourine and harp, and
   rejoice at the sound of the pipe."* *Kinnôr* and *ʿûgāb*, his pair, are the music of the

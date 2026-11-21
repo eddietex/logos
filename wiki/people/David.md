@@ -93,7 +93,27 @@ bible-api.com); the two counts are recorded on [[Jesse]]. See [[Samuel Anoints D
 Source: stored WEB Genesis 25:25; 1 Samuel 16:1–13; 17:12, 42. 1 Chronicles 2:13–15 checked at bible-api.com
 (`translation=web`), 2026-11-20. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### The harpist in Saul's house — 1 Samuel 16:14–23
+
+The first thing David does after his anointing is play for the king he will replace. Saul's servants look for *a
+skillful player on the harp*, and a young man answers *I have seen a son of Jesse the Bethlehemite who is skillful in
+playing, a mighty man of valor, a man of war, prudent in speech, and a handsome person; and Yahweh is with him*
+(16:18). Saul sends for *David your son, who is with the sheep* (16:19). David comes with Jesse's gift, *stood before
+him*, and *He loved him greatly; and he became his armor bearer* (16:21); Saul asks to keep him, *for he has found
+favor in my sight* (16:22). When the evil spirit comes, *David took the harp, and played with his hand; so Saul was
+refreshed* (16:23). He says nothing in the pericope; his first quoted words are at 17:26. He is the first person in
+1 Samuel said to be loved, and the verb *nāḡan*, *play*, is used in the Hebrew files checked only of his playing for
+Saul (16:16–23; 18:10; 19:9, WLC). See [[David Plays the Harp for Saul]] and
+[[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]].
+
+**Contradiction flagged.** Here Saul knows David, his father, and his name; in 17:55–58 he asks *whose son is this
+youth?* (stored WEB; not yet ingested). Both accounts are recorded on [[David Plays the Harp for Saul]], and not reconciled.
+
+Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
+- 1 Samuel 16:14–23 — sent for from the sheep to play the harp for Saul; loved, made his armor bearer, and kept at
+  court; the evil spirit departs when he plays. [[David Plays the Harp for Saul]]
 - 1 Samuel 16:1–13 — the youngest of Jesse's sons, keeping the sheep; anointed by Samuel at Bethlehem, and the
   Spirit comes on him *from that day forward*. [[Samuel Anoints David]]
 
@@ -105,6 +125,7 @@ Source: stored WEB Genesis 25:25; 1 Samuel 16:1–13; 17:12, 42. 1 Chronicles 2:
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:18–23; *skillful in playing … and Yahweh is with him*; loved by Saul, his armor bearer, and his harpist.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; the youngest, keeping the sheep; anointed *in the middle of his brothers*, and the Spirit *from that day forward*; named at last.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:28; not named; *a neighbor of yours who is better than you*.
 

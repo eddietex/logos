@@ -247,6 +247,23 @@ of Saul (15:23, 26; 16:1, 7, WLC). Saul is still king when another man is anoint
 
 Source: stored WEB 1 Samuel 9:2; 10:23–24; 15:23, 26; 16:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### The Spirit departed, and the harp — 1 Samuel 16:14–23
+
+*Now Yahweh's Spirit departed from Saul, and an evil spirit from Yahweh troubled him* (16:14). The verb is *sārâ*
+(lemma 5493), and it closes the pericope too, when *the evil spirit departed from him* (16:23, WLC). *Troubled*,
+*bāʿaṯ*, is stronger: *terrify*, *overwhelm*. Saul's servants name the spirit and propose music; Saul agrees, sends to
+Jesse for David, *loved him greatly*, makes him his armor bearer, and asks to keep him (16:15–22). When David plays,
+*Saul was refreshed, and was well* (16:23). *Rāwaḥ*, *refreshed*, occurs in the Hebrew files checked only here (WLC).
+The same verb *sûr* returns in 18:12, *Yahweh … had departed from Saul*, and at Endor, *God has departed from me*
+(28:15) (stored WEB; not yet ingested). The only other man in the stored books troubled by *an evil spirit from God* is
+Abimelech (Judges 9:23); both die asking an armor bearer to kill them (Judges 9:54; 1 Samuel 31:4). See [[David Plays the Harp for Saul]] and
+[[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]].
+
+**Contradiction flagged.** Saul knows David and Jesse here (16:19–22), and asks Abner *whose son is this youth?* in
+17:55–58 (stored WEB; not yet ingested). Recorded, not reconciled; see [[David Plays the Harp for Saul]].
+
+Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -281,8 +298,11 @@ Source: stored WEB 1 Samuel 9:2; 10:23–24; 15:23, 26; 16:1–7. Hebrew WLC (Op
   the best of the livestock; sets up a monument at Carmel; claims to have performed the commandment; confesses twice;
   tears Samuel's robe; rejected from being king; Samuel sees him no more — 15:1–35.
 - Absent while Samuel, fearing him, anoints David at Bethlehem — 16:1–13.
+- Yahweh's Spirit departs; troubled by an evil spirit from Yahweh; sends for David the harpist, loves him, makes him
+  his armor bearer, and is refreshed when he plays — 16:14–23.
 
 ## Appears in
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23; the Spirit departs, an evil spirit troubles him, and David's harp refreshes him; *He loved him greatly*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–2, 7; not present; *rejected*, mourned, and feared; his height in the background of *Yahweh looks at the heart*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35; the ban on Amalek, Agag spared, *to obey is better than sacrifice*, and the kingdom torn away.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.

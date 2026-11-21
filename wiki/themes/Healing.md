@@ -178,7 +178,14 @@ Moses prays five Hebrew words, with *rāpāʾ*. Yahweh answers with seven days o
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### *You will be well* — 1 Samuel 16:16, 23
+
+Saul's servants promise a remedy, *he will play with his hand, and you will be well*, *wəṭôḇ lāḵ* (16:16), and the
+last verse reports it: *Saul was refreshed, and was well* (16:23, WLC). *Rāwaḥ*, *refreshed*, *given breathing room*,
+occurs in the Hebrew files checked only here. The relief does not last (18:10; 19:9). See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[David Plays the Harp for Saul]] — 1 Samuel 16:16, 23; *you will be well*; *Saul was refreshed, and was well*.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
