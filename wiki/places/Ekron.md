@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### *To the gates of Ekron* — 1 Samuel 17:52
+
+Israel and Judah pursue the Philistines *as far as Gai and to the gates of Ekron*, and the wounded fall on the road
+*even to Gath and to Ekron* (17:52). Ekron is named twice in the verse, at both ends of it. *Gates*, *šaʿărê*, sits
+beside the name *Shaaraim*, *šaʿărayim*, in the same verse (WLC); that the name means *two gates* is commonly said
+(recalled, not checked; morphhb gives it its own lemma, 8189). See [[David Kills Goliath]].
+
+Source: stored WEB 1 Samuel 17:52. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ### *From Ekron even to Gath* — 1 Samuel 7:14
 
 *The cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath* (7:14),
@@ -65,6 +74,7 @@ Ekron marks the northern boundary of the stretch from the Shihor (Joshua 13:3). 
 Source: stored WEB Joshua 13:1–7.
 
 ## Appears in
+- [[David Kills Goliath]] — 1 Samuel 17:52; the pursuit *to the gates of Ekron*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *from Ekron even to Gath*, the towns restored.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:16–17; the lords return there; one golden tumor.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:10–12; the third city struck, which demands the ark be sent home.
@@ -78,6 +88,7 @@ Source: stored WEB Joshua 13:1–7.
 - [[Shihor]] · [[Gaza]] · [[Ashdod]] · [[Gath]]
 
 ## Events here
+- Israel pursues the Philistines to its gates — 1 Samuel 17:52, [[David Kills Goliath]]
 - The ark arrives; a deadly confusion; the city's cry goes up to heaven — 1 Samuel 5:10–12, [[The Ark Among the Philistines]]
 - Named in the inventory of land remaining; no new conquest narrated.
 - Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]

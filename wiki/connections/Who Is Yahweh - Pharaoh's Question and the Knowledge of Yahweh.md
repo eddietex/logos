@@ -182,3 +182,14 @@ severe on us, and on Dagon our god* (7). They never name Yahweh in the chapter. 
 comparison with Pharaoh themselves, *as the Egyptians and Pharaoh hardened their hearts* (6:6, stored WEB;
 not yet ingested). See [[Heavy Hand and Departed Glory - Kabed in 1 Samuel 4-6]]. Sources: stored WEB
 Exodus 12:12; 1 Samuel 5:3–7; 6:6.
+
+### *That all the earth may know* — 1 Samuel 17:46–47
+
+David gives the duel the Exodus purpose clause: *that all the earth may know that there is a God in Israel, and that
+all this assembly may know that Yahweh doesn't save with sword and spear* (17:46–47). *Wəyēḏəʿû kol-hāʾāreṣ* (WLC)
+recalls *that you may know that there is no one like me in all the earth* (Exodus 9:14) and *that all the peoples of
+the earth may know that Yahweh's hand is mighty* (Joshua 4:24). Here the knowledge is addressed to two audiences at
+once: the nations through the Philistine, and Israel, *all this assembly*, which had been *dismayed, and greatly
+afraid* (17:11). *Yēš ʾĕlōhîm*, *there is a God*, occurs as a pair only here in the files checked (WLC). See
+[[David Kills Goliath]]. Source: stored WEB Exodus 9:14; Joshua 4:24; 1 Samuel 17:11, 46–47; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-21.

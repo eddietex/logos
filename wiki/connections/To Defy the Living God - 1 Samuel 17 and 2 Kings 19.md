@@ -31,7 +31,8 @@ of Israel's encounter and conquest.
 **The defiance.** Goliath's *I defy the armies of Israel* (*ḥēraptî ʾeṯ-maʿarḵôṯ yiśrāʾēl*, 17:10) is turned by David
 into a defiance of *the armies of the living God* (*ḥērēp̄ maʿarḵôṯ ʾĕlōhîm ḥayyîm*, 17:26, 36) (WLC). The ranks are
 the same; David names their owner. Goliath himself never mentions Israel's God in 17:1–11; he curses David *by his
-gods* only at 17:43 (stored WEB; not yet ingested).
+gods* only at 17:43 (stored WEB). David's last word to him uses the verb once more, of Yahweh: *the God of the armies
+of Israel, whom you have defied*, *ʾăšer ḥēraptā* (17:45, WLC); the ranks Goliath named are now said to be God's.
 
 **The second defiance.** In 2 Kings 19 an Assyrian envoy, and then his king, are said *to defy the living God* (19:4,
 16, WEB). The WEB uses the same English phrase. The Hebrew of 2 Kings was not checked, so the wiki does not claim the
@@ -43,7 +44,7 @@ stories a foreign champion or king taunts Israel, and the reply is that the livi
 1 Samuel 17 is where the wiki first sees a human enemy's taunt reframed as an insult to the living God. The move
 belongs to David: no one else in the chapter names God before him (17:1–25, WLC). It turns the duel from a contest of
 champions into a question about God, which is the claim David makes at 17:46–47, *that all the earth may know that
-there is a God in Israel* (stored WEB; not yet ingested). See [[The Reproach of Israel - Joshua 5.9, 1 Samuel 11.2, and 17.26]],
+there is a God in Israel* (stored WEB; see [[David Kills Goliath]]). See [[The Reproach of Israel - Joshua 5.9, 1 Samuel 11.2, and 17.26]],
 [[The Names of God]], and [[Goliath]].
 
 Sources: stored WEB Deuteronomy 5:26; Joshua 3:10; 1 Samuel 17:10, 26, 36, 43, 46–47. 2 Kings 19:4, 16 checked at

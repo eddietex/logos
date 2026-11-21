@@ -326,8 +326,19 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 *Yahweh will not forsake his people for his great name's sake*, *baʿăḇûr šəmô haggāḏôl* (12:22, WLC). Joshua had pleaded after Ai, *What will you do for your great name?* (Joshua 7:9). The reason Yahweh will not abandon Israel after the request for a king is not Israel but his name. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+
+### *In the name of Yahweh of Armies* — 1 Samuel 17:45
+
+*I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied* (17:45). David
+glosses the title: *ṣəḇāʾôṯ*, *armies*, is set beside *maʿarḵôṯ yiśrāʾēl*, *the battle lines of Israel*, the phrase
+Goliath had used without God in it (17:10, WLC). The two Hebrew words for *armies* are different, and the WEB renders
+both *armies*. In the files checked, *bəšēm YHWH ṣəḇāʾôṯ* occurs only here and at 2 Samuel 6:2, 18, when the ark is
+brought up (WLC; 2 Samuel paraphrased). Against it Goliath *cursed David by his gods* (17:43). See
+[[David Kills Goliath]]. Source: stored WEB 1 Samuel 17:10, 43, 45. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[David Kills Goliath]] — 1 Samuel 17:45; *in the name of Yahweh of Armies, the God of the armies of Israel*.
 - [[The Song of Hannah]] — 1 Samuel 2:2–3; *rock like our God*; *a God of knowledge*, *ʾēl dēʿôṯ*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 11; *Yahweh of Armies*, its first occurrence in the books stored so far; Hannah the first to use it
 

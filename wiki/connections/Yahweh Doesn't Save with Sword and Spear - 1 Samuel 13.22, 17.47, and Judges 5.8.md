@@ -13,7 +13,7 @@ tags: [connection]
   See [[The Song of Deborah]].
 - **Judges 3:31** — *Shamgar the son of Anath, who struck six hundred men of the Philistines with an ox goad. He
   also saved Israel.* Stored WEB. See [[Shamgar and the Ox Goad]] and [[Shamgar]].
-- **1 Samuel 17:45, 47, 50** (not yet ingested) — David to Goliath: *You come to me with a sword, with a spear,
+- [[David Kills Goliath]] — **1 Samuel 17:45, 47, 50** — David to Goliath: *You come to me with a sword, with a spear,
   and with a javelin; but I come to you in the name of Yahweh of Armies* … *that all this assembly may know that
   Yahweh doesn't save with sword and spear; for the battle is Yahweh's* … *there was no sword in the hand of
   David.* Stored WEB.
@@ -35,7 +35,7 @@ thousand in Israel* (Judges 5:8), the same condition in an earlier oppression, w
 *with an ox goad* (Judges 3:31); in 13:21 Israel pays the Philistines to sharpen its goads. At Michmash in the next
 chapter the rout is begun by Jonathan and one armour-bearer, and *the earth quaked* (14:15, stored WEB; not yet
 ingested). In the valley of Elah the one man who had no sword wins, and David draws the sword he kills Goliath with
-from Goliath's own sheath (17:50–51, stored WEB; not yet ingested). David's sentence states the principle the
+from Goliath's own sheath (17:50–51, stored WEB; see [[David Kills Goliath]]). David's sentence states the principle the
 narrative has been illustrating since 13:22: *Yahweh doesn't save with sword and spear; for the battle is
 Yahweh's.*
 
@@ -59,3 +59,13 @@ ingests.)
 
 Sources: stored WEB 1 Samuel 2:9; 13:19–22; 14:15; 17:38–39, 45, 47, 50–51; 18:4; 21:8–9; Judges 3:31; 5:8. Hebrew
 from the Westminster Leningrad Codex (OpenScriptures morphhb), downloaded 2026-11-19.
+
+### 1 Samuel 17:41–54 ingested
+
+David's list at 17:45 has three weapons, *ḥereḇ*, *ḥănîṯ*, and *kîḏôn*, the last being Goliath's javelin of 17:6
+(WLC). The principle at 17:47 keeps only the pair, *sword and spear*, the two the Philistines had banned at 13:19. In
+the Hebrew files checked, *yāšaʿ*, *save*, and *ḥereḇ* stand in one verse otherwise only at Deuteronomy 33:29, where
+Yahweh himself is *the sword of your excellency* for *a people saved by Yahweh* (stored WEB; WLC). The narrator then
+says the thing twice: *there was no sword in the hand of David* (17:50), and David takes Goliath's (17:51). See
+[[David Kills Goliath]] and [[The Head and the Armor - Goliath at Elah and Saul at Gilboa]]. Source: stored WEB
+Deuteronomy 33:29; 1 Samuel 13:19; 17:6, 45–51. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.

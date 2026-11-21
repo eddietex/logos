@@ -59,3 +59,10 @@ answered by Yahweh or by the one he raises. See [[Gilgal]], [[Saul]], [[Nahash (
 Sources: stored WEB Genesis 30:23; 34:14; Joshua 5:7, 9; 1 Samuel 11:2, 13–15; 17:26; 25:39. 2 Samuel 13:13 is
 cited from the WLC only and not quoted. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb)
 `Gen` through `2Sam` XML, downloaded 2026-11-18; the occurrence count covers only those files.
+
+### 1 Samuel 17:45 ingested
+
+The chapter's last *ḥārap̄* is David's to Goliath: *the God of the armies of Israel, whom you have defied*, *ʾăšer
+ḥēraptā* (17:45, WLC). The verb is used in five verses of the chapter (10, 25, 26, 36, 45). The reproach David asked
+about at 17:26 is taken away by the event, though the noun *ḥerpâ* does not return. See [[David Kills Goliath]].
+Source: stored WEB 1 Samuel 17:45; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.

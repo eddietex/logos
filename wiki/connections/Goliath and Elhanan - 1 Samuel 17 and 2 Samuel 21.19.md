@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 - [[Goliath Defies Israel]] — **1 Samuel 17:4, 7** — *A champion out of the camp of the Philistines named Goliath, of
   Gath …* ; *The staff of his spear was like a weaver's beam*. Stored WEB.
-- **1 Samuel 17:50–51** — David kills *the Philistine* and cuts off his head. Stored WEB; not yet ingested.
+- [[David Kills Goliath]] — **1 Samuel 17:50–51** — David kills *the Philistine* and cuts off his head. Stored WEB.
 - **2 Samuel 21:19** — *There was again war with the Philistines at Gob; and Elhanan the son of Jaare-Oregim the
   Bethlehemite killed Goliath the Gittite's brother, the staff of whose spear was like a weaver's beam.* WEB checked
   at bible-api.com, 2026-11-21; not stored.
@@ -49,3 +49,12 @@ word the Hebrew does not have, and a reader relying on the English alone would n
 Sources: stored WEB 1 Samuel 16:18; 17:4, 7, 50–51. 2 Samuel 21:19 and 1 Chronicles 20:5 checked at bible-api.com
 (`translation=web`), 2026-11-21, not stored. Hebrew WLC (OpenScriptures morphhb) `1Sam` and `2Sam`, 2026-11-21; the
 Hebrew of 1 Chronicles 20:5 was not checked.
+
+### 1 Samuel 17:41–54 ingested
+
+The account of the kill names Goliath only as *the Philistine*: in 17:41–54 the name *golyaṯ* does not occur (WLC;
+the WEB likewise has *the Philistine* throughout). The chapter names him at 17:4 and 17:23 only. That observation is
+recorded; whether it bears on the Elhanan problem is a matter of reading the wiki does not settle. The contradiction
+is unchanged: 1 Samuel 17 has David kill the champion of 17:4; 2 Samuel 21:19 in the Hebrew has Elhanan kill *Goliath
+the Gittite*. See [[David Kills Goliath]]. Source: stored WEB 1 Samuel 17:4, 23, 41–54; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-21.

@@ -30,16 +30,28 @@ flees from the man (17:23–24). *Maʿgālâ* occurs in the Hebrew files checked
 
 Source: stored WEB 1 Samuel 17:1–3, 19–24; 21:9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The fight, and the pursuit west — 1 Samuel 17:41–53
+
+Goliath comes near, David runs *toward the army*, *hammaʿărāḵâ*, the battle line, to meet him (17:48, WLC), and the
+stone fells the champion between the two lines (17:49). From the valley Israel and Judah pursue the Philistines *as
+far as Gai and to the gates of Ekron*, along the road to Shaaraim, to Gath (17:52), out of the hill country toward the
+Philistine plain. The priest at Nob will name the place: *the sword of Goliath the Philistine, whom you killed in the
+valley of Elah* (21:9, stored WEB; not yet ingested). See [[David Kills Goliath]].
+
+Source: stored WEB 1 Samuel 17:41–53; 21:9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Appears in
+- [[David Kills Goliath]] — 1 Samuel 17:41–53; the fight between the lines, and the pursuit from the valley.
 - [[David Comes to the Camp]] — 1 Samuel 17:19–24; Israel *fighting with the Philistines*; the battle line where David hears Goliath.
 - [[Goliath Defies Israel]] — 1 Samuel 17:2–3; Israel's camp, and the valley between the armies.
 
 ## Related places
 - [[Ephes Dammim]] — the Philistine camp across the valley (17:1)
 - [[Socoh (lowland)]] and [[Azekah]] — the towns the Philistine camp lies between (17:1)
+- [[Gai]], [[Ekron]], [[Shaaraim]], and [[Gath]] — the limits and road of the pursuit (17:52)
 
 ## Events here
 - Saul and Israel camp and array for battle; Goliath comes out and defies them — 1 Samuel 17:2–11,
   [[Goliath Defies Israel]]
 - David brings food to his brothers, hears Goliath, and goes down to him — 1 Samuel 17:19–40, [[David Comes to the Camp]]
-- David kills Goliath here, as 21:9 recalls (17:41–54; not yet ingested)
+- David kills Goliath here, as 21:9 recalls; the pursuit begins here — 1 Samuel 17:41–53, [[David Kills Goliath]]

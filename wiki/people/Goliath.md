@@ -45,16 +45,32 @@ then dresses David in a bronze helmet and coat of mail (17:38), the two pieces G
 Source: stored WEB 1 Samuel 16:18; 17:1–11, 16, 23–26, 33, 36, 38, 45, 50–51; Joshua 11:22. 2 Samuel 21:19–22 and 1 Chronicles
 20:5 checked at bible-api.com (`translation=web`), 2026-11-21. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+**His death — 1 Samuel 17:41–54.** He comes on with his shield bearer before him (17:41), sees David, and *disdained
+him* (17:42, *bāzâ*, WLC). *Am I a dog, that you come to me with sticks?* He curses David *by his gods*, *bēʾlōhāyw*,
+a form that could also be read *by his god* (WLC), and promises David's flesh to the birds and the beasts (17:43–44).
+David names his weapons back to him, *a sword … a spear, and … a javelin*, the *kîḏôn* of 17:6 (17:45, WLC). One stone
+*sank into his forehead, and he fell on his face to the earth* (17:49), as Dagon fell before the ark (5:4). David cuts
+off his head with his own sword (17:51). Only now, dead, is he called the Philistines' *champion* in the sense of
+*gibbôr*, *their champion* (17:51, *gibbôrām*, WLC); the narrator's word had been *ʾîš habbēnayim* (17:4, 23). His
+head goes to Jerusalem, his armor to David's tent (17:54), and his sword is later at Nob (21:9, not yet ingested). The
+2 Samuel 21:19 contradiction above stands. See [[David Kills Goliath]],
+[[The Head and the Armor - Goliath at Elah and Saul at Gilboa]], and
+[[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]].
+
+Source: stored WEB 1 Samuel 5:4; 17:4–6, 23, 41–54; 21:9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
 
 - Comes out from the Philistine camp between Socoh and Azekah; his height and armor; challenges Israel to single
   combat and defies its armies — 1 Samuel 17:1–10, [[Goliath Defies Israel]]
 - Comes out *morning and evening* for forty days; heard by David; called *this uncircumcised Philistine* — 1 Samuel
   17:16–36, [[David Comes to the Camp]]
-- Killed by David (17:41–54) — not yet ingested
+- Disdains and curses David; struck in the forehead by a stone; beheaded with his own sword; his head brought to
+  Jerusalem and his armor to David's tent — 1 Samuel 17:41–54, [[David Kills Goliath]]
 - His sword kept at Nob behind the ephod and given to David (21:9; 22:10) — not yet ingested
 
 ## Appears in
+- [[David Kills Goliath]] — 1 Samuel 17:41–54; *Am I a dog?*; the stone in the forehead; beheaded; *their champion*.
 - [[David Comes to the Camp]] — 1 Samuel 17:16, 23–26, 33, 36–37; forty days; *the same words*; *this uncircumcised Philistine*; *a man
   of war from his youth*.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; the champion of Gath, his armor, his challenge, and *I defy the armies
@@ -64,8 +80,7 @@ Source: stored WEB 1 Samuel 16:18; 17:1–11, 16, 23–26, 33, 36, 38, 45, 50–
 - [[The Philistines]] — his people, whose champion he is (17:4)
 - [[Saul]] — the king whose *servants* he calls Israel (17:8)
 - [[The Anakim]] — the remnant left in Gath (Joshua 11:22); not named in 1 Samuel 17
-- [[David]] — who hears him, names him *uncircumcised*, and goes out to him (17:23–40); the fight is 17:41–54, not yet
-  ingested
+- [[David]] — who hears him, names him *uncircumcised*, goes out to him, and kills him (17:23–54)
 
 ## Themes associated
 - [[War]]

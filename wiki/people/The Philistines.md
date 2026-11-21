@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### The champion dead — 1 Samuel 17:51–53
+
+*When the Philistines saw that their champion was dead, they fled* (17:51). *Gibbôrām*, *their champion* (WLC), is the
+only time the chapter gives Goliath that word, and it is the Philistines' view of him. Israel and Judah pursue them
+*as far as Gai and to the gates of Ekron*; their wounded fall on the road to Shaaraim, to Gath and to Ekron (17:52); and
+Israel comes back and plunders their camp, *wayyāšōssû* (17:53, WLC), the verb Judges 2:14 used of the raiders who
+plundered Israel. Goliath's single-combat terms, that the loser's people *will be our servants* (17:9), are not
+mentioned again. See [[David Kills Goliath]].
+
+Source: stored WEB 1 Samuel 17:9, 51–53; Judges 2:14. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ### The camp at Ephes Dammim, and the champion — 1 Samuel 17:1–11
 
 The Philistines gather *at Socoh, which belongs to Judah*, and camp *between Socoh and Azekah, in Ephesdammim* (17:1),
@@ -259,9 +270,11 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Struck from Michmash to Aijalon; not pursued by night; *went to their own place* — 1 Samuel 14:31, 36, 46. [[Saul's Rash Oath]]
 - Camp at Ephes Dammim between Socoh and Azekah; their champion Goliath defies Israel — 1 Samuel 17:1–11. [[Goliath Defies Israel]]
 - Their battle line faces Israel's in the valley of Elah; called *uncircumcised* by David — 1 Samuel 17:19–26. [[David Comes to the Camp]]
+- Flee when their champion falls; pursued to Gai, Ekron, Shaaraim, and Gath; their camp plundered — 1 Samuel 17:51–53. [[David Kills Goliath]]
 
 ## Appears in
 
+- [[David Kills Goliath]] — 1 Samuel 17:41–53; their champion killed; the flight, the pursuit, and the plundered camp.
 - [[David Comes to the Camp]] — 1 Samuel 17:19–21, 26, 36; *army against army*; *this uncircumcised Philistine*.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; the camp in Judah's lowland, and the champion of Gath.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47, 52; *severe war against the Philistines all the days of Saul*.

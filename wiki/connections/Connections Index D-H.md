@@ -11,7 +11,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 
 | Title | Type | Passages involved |
 |---|---|---|
-| [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] | parallel | [[The Death of Samson]] (Judges 16:23–30) · [[The Ark Among the Philistines]] (1 Samuel 5:1–7) |
+| [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] | parallel | [[The Death of Samson]] (Judges 16:23–30) · [[The Ark Among the Philistines]] (1 Samuel 5:1–7) · [[David Kills Goliath]] (1 Samuel 17:49, 51) |
 | [[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]] | narrative-tension | [[The Lots of Asher, Naphtali, and Dan]] · [[The Tribes That Did Not Drive Out]] · [[The Danite Migration]] |
 | [[Dan's Towns on Judah's Border - Joshua 15 and 19]] | parallel | [[The Lots of Asher, Naphtali, and Dan]] (Joshua 19:40–48) · [[The Borders of Judah]] (Joshua 15:1–12) · [[The Cities of Judah]] (Joshua 15:20–63) |
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
@@ -180,7 +180,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Gold for the Calf and Gold for the Sanctuary]] | contrast | Exodus 25:1–9 · Exodus 32:1–8, 20 · Exodus 33:4–6 · Exodus 35:1–29 · [[The Furnishings Made]] (Exodus 37:1–29) · [[The Work Completed]] (Exodus 39:32–43) · [[Gideon's Ephod and Death]] |
 | [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] | parallel | Exodus 32:1–35 · Deuteronomy 9:8–21 · Psalm 106:19–23 · Acts 7:39–43 · [[No Form Seen and No Image Made]] (Deuteronomy 4:15–23) · [[Remember the Calf and Moses' Intercession]] (Deuteronomy 9:7–29 now ingested) |
 | [[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]] | thread | [[Return to Bethel; the Deaths of Rachel and Isaac]] (Genesis 35:2–4) · [[The Golden Calf]] (Exodus 32:2–4, 24) · [[The Freewill Offering]] (Exodus 35:22) · [[Gideon's Ephod and Death]] (Judges 8:24–27) · [[Abimelech Made King at Shechem]] (Judges 9:4, 6) · [[Micah's Idol and Levite]] (Judges 17:3–5) |
-| [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]] | tension | [[Goliath Defies Israel]] (1 Samuel 17:4, 7) · 1 Samuel 17:50–51 · 2 Samuel 21:19 · 1 Chronicles 20:5 |
+| [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]] | tension | [[Goliath Defies Israel]] (1 Samuel 17:4, 7) · 1 Samuel 17:50–51 · 2 Samuel 21:19 · 1 Chronicles 20:5 · [[David Kills Goliath]] (1 Samuel 17:41–54) |
 | [[Good and Adversity from God - Job 2.10 and Ecclesiastes 7.14]] | thematic-parallel | [[The Second Test]] (Job 2:10) · [[The House of Mourning]] (Ecclesiastes 7:13–14) — Good and hard days from God; acceptance in Job, joy and consideration in Ecclesiastes |
 | [[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]] | thematic-parallel | [[A Good Name]] (Proverbs 22:1) · [[The House of Mourning]] (Ecclesiastes 7:1–2) — A good name above riches and above perfume, the latter beside the day of death · [[Love Better Than Wine]] (Song of Solomon 1:3) |
 | [[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]] | quotation | Proverbs 3:34 · James 4:6–10 · 1 Peter 5:5–7 · [[The Plans of the Heart]] (Proverbs 16:5, 18–19) · [[Where There Is No Vision]] (Proverbs 29:23) |
@@ -204,6 +204,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[He Who Answers Before He Hears - Proverbs 18.13, 17 and Elihu's Waiting]] | thread | [[A Strong Tower]] (Proverbs 18:2, 5, 13, 15, 17) · [[Elihu Speaks in Anger]] (Job 32:4, 11–12) · [[Though He Slay Me]] (Job 13:5) · Leviticus 19:15 |
 | [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] | quotation | Exodus 16:16–20 · 2 Corinthians 8:13–15 · Deuteronomy 2:7 · Psalm 23:1 |
 | [[He Will Thunder Against Them - Hannah's Song and Mizpah]] | prophecy-fulfillment | [[Hannah Asks Yahweh for a Son]] (1 Samuel 1:6) · [[The Song of Hannah]] (1 Samuel 2:10) · [[Samuel Judges Israel at Mizpah]] (1 Samuel 7:10) · 2 Samuel 22:14 · Psalm 18:13 · [[Samuel's Farewell Address]] (1 Samuel 12) |
+| [[The Head and the Armor - Goliath at Elah and Saul at Gilboa]] | parallel | [[David Kills Goliath]] (1 Samuel 17:49, 51, 54) · 1 Samuel 31:4, 9–10 · [[The Ark Among the Philistines]] (1 Samuel 5:4) · [[The Sword of Yahweh and of Gideon]] (Judges 7:25) |
 | [[A Heap Forever - Deuteronomy 13.16, Joshua 8.28, and Jeremiah]] | lexical | [[Do Not Follow Other Gods]] (Deuteronomy 13:16) · [[The Capture of Ai]] (Joshua 8:28) · Joshua 11:13 · Jeremiah 30:18 · Jeremiah 49:2 |
 | [[The Hearing Ear and the Seeing Eye - Proverbs 20.12 and Exodus 4.11]] | thematic-parallel | [[Wine Is a Mocker]] — Proverbs 20:5, 8–12, 27 · [[The Burning Bush]] — Exodus 4:10–12 · [[The Glory of Kings]] (Proverbs 25:12) |
 | [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]] | thematic-parallel  Joshua 8:30–35: Ebal performance now ingested; distinctions retained. | Exodus 24:3–8; Deuteronomy 4:9–10; 6:6–9; 17:18–20; [[Read the Law to All Israel]]  · [[The Law Read at Mount Ebal]] |

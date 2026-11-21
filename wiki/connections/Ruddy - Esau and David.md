@@ -10,7 +10,7 @@ tags: [connection]
   him Esau.* Stored WEB.
 - [[Samuel Anoints David]] — **1 Samuel 16:12** — *He sent, and brought him in. Now he was ruddy, with a handsome face
   and good appearance. Yahweh said, "Arise! Anoint him, for this is he."* Stored WEB.
-- **1 Samuel 17:42** (not yet ingested) — *When the Philistine looked around, and saw David, he disdained him; for he
+- [[David Kills Goliath]] — **1 Samuel 17:42** — *When the Philistine looked around, and saw David, he disdained him; for he
   was but a youth, and ruddy, and had a good looking face.* Stored WEB.
 
 ## Analysis
@@ -42,3 +42,11 @@ chosen, and in 1 Samuel it belongs to a chapter about what is seen (16:7). See [
 Sources: stored WEB Genesis 25:23, 25, 30, 34; 1 Samuel 16:7, 12; 17:42. Hebrew from the Westminster Leningrad Codex
 (OpenScriptures morphhb) XML, files `Gen` through `2Sam` and `Ruth`; occurrence claims cover those files only.
 Recalled, not checked: the hair-or-skin debate; the lexical relation of *ʾaḏmônî* to *ʾāḏōm*.
+
+### 1 Samuel 17:42 ingested
+
+With the scene ingested, *bāzâ* (lemma 959) can be counted: in the Hebrew files checked it occurs at Genesis 25:34;
+Numbers 15:31; 1 Samuel 2:30; 10:27; 17:42; and 2 Samuel 6:16; 12:9, 10 (WLC). The first is Esau despising his
+birthright; at 17:42 the despiser is Goliath, who sees David's looks and judges by them, against 16:7. See
+[[David Kills Goliath]]. Source: stored WEB Genesis 25:34; Numbers 15:31; 1 Samuel 2:30; 10:27; 16:7; 17:42; Hebrew
+WLC (OpenScriptures morphhb), 2026-11-21.

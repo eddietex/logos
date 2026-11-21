@@ -29305,3 +29305,52 @@ Exodus 15:3; 16:4; 17:2, 7; 20:20; 21:2–27; Numbers 14:22; Deuteronomy 4:34; 5
 2026-11-21; occurrence claims cover those files only, and lemma claims follow morphhb's tagging. The Hebrew of 2 Kings
 and Amos was not checked. Recalled, not checked, and flagged where made: the Septuagint's shorter text; the glosses of
 *ʿărubbâ*, *ḥop̄šî*, *dāḇār*, and *zāqān*. No Septuagint text was consulted.
+
+## [2026-11-21] ingest | 1 Samuel 17.41-54 — David Kills Goliath
+
+Unattended run. Created [[David Kills Goliath]], the place [[Gai]], and the connection
+[[The Head and the Armor - Goliath at Elah and Saul at Gilboa]]. Revised [[1 Samuel]] (box checked; overview
+paragraph; key themes, people, and places); the people [[David]], [[Goliath]], and [[The Philistines]]; the places
+[[Valley of Elah]], [[Gath]], [[Ekron]], [[Shaaraim]], and [[Jerusalem]]; the themes [[War]], [[Faith]],
+[[The Names of God]], [[Burial and the Grave]], and [[Seeing and Being Seen]]; and the connections
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]],
+[[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]], [[Ruddy - Esau and David]],
+[[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]],
+[[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]],
+[[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]], and
+[[The Reproach of Israel - Joshua 5.9, 1 Samuel 11.2, and 17.26]] ("not yet ingested" notes for 17:41–54 resolved
+where they occurred). Also `wiki/books/index.md` (26 / 47), People Index A-E, F-M, and N-Z (rows extended), the
+places index (five rows extended, one new), the themes index (five rows), Connections Index D-H (one new row, two
+extended), O-S (two extended), and T-Z (three extended), and the dashboard counts. Frontmatter totals: 512 passages,
+398 people, 619 places, 88 themes, 969 connections.
+
+Judgment calls: the boundary 17:41–54 stands; 17:55 returns to Saul watching David go out and opens the next unit.
+[[Gai]] gets a page because the WEB prints it as a name, and the page says the Hebrew *gayʾ* is the common noun
+*valley*. The shield bearer (17:41) is unnamed and gets no page; Saul, Abner, and Jonathan are absent from 17:41–54 and
+their pages are not touched. The new connection is drawn because 1 Samuel 17:49–54 and 31:4, 9–10 share the fall, the
+head cut off (*kāraṯ* + *rōʾš*), and *kēlāyw* put away with *śîm*; the text itself does not compare them. The
+2 Samuel 21:19 contradiction stays recorded on [[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]], unreconciled;
+the observation that *golyaṯ* is not named in 17:41–54 is recorded there without being used to resolve it.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`, downloaded fresh
+2026-11-21): *mēṣaḥ* (4696) only at Exodus 28:38 and 1 Samuel 17:49; *ṭāḇaʿ* (2883) only at Exodus 15:4 and 17:49;
+*ṣinnâ* (6793) only at 17:7, 41; *kîḏôn* (3591) at Joshua 8:18, 26; 1 Samuel 17:6, 45; *šāsas* (8155) only at Judges
+2:14 and 17:53; *dālaq* (1814) only at Genesis 31:36 and 17:53; Shaaraim (8189) only at Joshua 15:36 and 17:52;
+*bāzâ* (959) eight verses; *keleḇ* (3611) nine verses; *qālaʿ* (7049) at Judges 20:16; 1 Samuel 17:49; 25:29;
+*bəšēm YHWH ṣəḇāʾôṯ* only at 17:45 and 2 Samuel 6:2, 18; *yēš ʾĕlōhîm* adjacent only at 17:46; *laYHWH hammilḥāmâ*
+as a sentence only at 17:47 (elsewhere *before Yahweh to the war*, Numbers 32:20, 27; Joshua 4:13); *kāraṯ* with *rōʾš*
+in one verse at 1 Samuel 5:4; 17:51; 31:9; 2 Samuel 20:22; *ḥārap̄* in 1 Samuel 17 at 10, 25, 26, 36, 45; the name
+*golyaṯ* in 1 Samuel only at 17:4, 23; 21:10; 22:10 (WLC numbering). *Jerusalem* occurs once in the stored WEB of
+1 Samuel, at 17:54.
+
+Recorded, not resolved: whether 17:50 and 17:51 are one telling or two; why Jerusalem (17:54), and whose tent; how
+Goliath's sword came to Nob (21:9); *bēʾlōhāyw* as *his gods* or *his god*; *gayʾ* as a name, *a valley*, or *Gath*.
+
+Sources: 1 Samuel 17:41–54 from stored WEB, with the not-yet-ingested 1 Samuel 17:55; 21:9; 24:14; 31:4, 8–10.
+Comparisons from stored WEB Genesis 15:11; 25:34; 31:36; Exodus 9:14; 15:4; 28:38; Numbers 15:31; Deuteronomy 28:26;
+33:29; Joshua 4:24; 15:8, 36; Judges 1:21; 2:14; 7:25; 19:10–12; 1 Samuel 2:9, 30; 5:4; 9:1;
+10:27; 11:8; 13:19–22; 14:6; 15:4; 16:7, 12. 2 Samuel 3:8; 6:2, 16, 18; 9:8; 12:9–10; 16:9; 20:8, 22; 21:10 were read
+in the WLC only and are paraphrased, not quoted; no 2 Samuel WEB was checked this run. Hebrew from the Westminster
+Leningrad Codex (OpenScriptures morphhb) XML; occurrence claims cover those files only, and lemma claims follow
+morphhb's tagging. Recalled, not checked, and flagged where made: the source question in 17:50–51; the explanations of
+Jerusalem in 17:54; the Septuagint's *Gath* at 17:52; *Shaaraim* as *two gates*. No Septuagint text was consulted.

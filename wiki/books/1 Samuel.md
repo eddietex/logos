@@ -301,6 +301,19 @@ off, *for I have not tested them*, and goes with a staff, five smooth stones, an
 [[Sent to See His Brothers - Joseph at Shechem and David at Elah]] and
 [[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]].
 
+[[David Kills Goliath]] (17:41–54) is over in two verses. Goliath sees David and *disdained him* for his youth and his
+looks (17:42), the looks of 16:12, and curses him *by his gods* (17:43). David answers *You come to me with a sword,
+with a spear, and with a javelin; but I come to you in the name of Yahweh of Armies* (17:45), and gives the fight its
+purpose: *that all the earth may know that there is a God in Israel, and that all this assembly may know that Yahweh
+doesn't save with sword and spear; for the battle is Yahweh's* (17:46–47), the principle that 13:22 set up. One stone
+*sank into his forehead, and he fell on his face to the earth* (17:49), as Dagon had fallen before the ark (5:4). The
+narrator sums up, *there was no sword in the hand of David* (17:50), and then David beheads him with his own sword
+(17:51). The Philistines flee to Gath and Ekron and their camp is plundered (17:51–53). David brings the head to
+Jerusalem, the only time 1 Samuel names the city, which in the narrative is still Jebusite, and the armor to his tent
+(17:54); neither detail is explained. The fall, the head, and the armor recur at Saul's death (31:4, 9–10). See
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]] and
+[[The Head and the Armor - Goliath at Elah and Saul at Gilboa]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -348,7 +361,7 @@ merge, or reorder them freely.
 - [x] [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23
 - [x] [[Goliath Defies Israel]] — 1 Samuel 17:1–11
 - [x] [[David Comes to the Camp]] — 1 Samuel 17:12–40
-- [ ] David Kills Goliath — 1 Samuel 17:41–54
+- [x] [[David Kills Goliath]] — 1 Samuel 17:41–54
 - [ ] Jonathan Loves David — 1 Samuel 17:55–18:5
 - [ ] Saul's Jealousy of David — 1 Samuel 18:6–16
 - [ ] David Marries Michal — 1 Samuel 18:17–30
@@ -475,6 +488,10 @@ merge, or reorder them freely.
 - [[Brotherhood]] — sent to *see how your brothers are doing*; Eliab's anger (17:18, 28)
 - [[Pride and Self-Exaltation]] — *I know your pride* (17:28)
 - [[Testing]] — *I have not tested them* (17:39)
+- [[The Names of God]] — *in the name of Yahweh of Armies, the God of the armies of Israel* (17:45)
+- [[Seeing and Being Seen]] — Goliath *saw David* and disdained him (17:42)
+- [[Burial and the Grave]] — the birds and the beasts promised the dead (17:44, 46)
+- [[War]] and [[Faith]] — *the battle is Yahweh's*; *no sword in the hand of David* (17:47, 50)
 
 ## Key people
 - [[Samuel]]
@@ -518,7 +535,7 @@ merge, or reorder them freely.
 - [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
 - [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9), and with Saul at the war; Eliab's anger at David (17:13, 28)
-- [[Goliath]] — the champion of Gath who defies Israel (17:4–10)
+- [[Goliath]] — the champion of Gath who defies Israel (17:4–10), killed with a stone and beheaded with his own sword (17:49–51)
 
 ## Key places
 - [[Shiloh]]
@@ -560,3 +577,5 @@ merge, or reorder them freely.
 - [[Socoh (lowland)]], [[Azekah]], and [[Ephes Dammim]] — the Philistine muster and camp (17:1)
 - [[Valley of Elah]] — Israel's camp, and the valley between the armies (17:2–3)
 - [[Gath]] — Goliath's city (17:4)
+- [[Gai]], [[Ekron]], and [[Shaaraim]] — the pursuit after Goliath's death (17:52)
+- [[Jerusalem]] — where David brings Goliath's head, the city's only mention in the book (17:54)

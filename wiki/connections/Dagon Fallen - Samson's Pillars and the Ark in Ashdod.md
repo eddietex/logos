@@ -65,3 +65,12 @@ Sources: stored WEB Judges 3:28; 4:7; 7:9; 16:23–30; 1 Samuel 5:1–7 (stored 
 first checked against WEB at bible-api.com, 2026-11-16). Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb, `Gen.xml`
 through `Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml`), 2026-11-16; the occurrence claim for *dāgôn*
 covers only those files.
+
+### A third fall on the face — 1 Samuel 17:49, 51
+
+Dagon was found *nōp̄ēl ləp̄ānāyw ʾarṣâ*, *fallen on his face to the ground*, his head cut off (5:3–4, WLC). The
+Philistine champion falls the same way, *wayyippōl ʿal-pānāyw ʾarṣâ*, *he fell on his face to the earth* (17:49), and
+David cuts off his head (17:51). Goliath had *cursed David by his gods* (17:43). The verbal match is recorded; the text
+does not compare the two. See [[David Kills Goliath]] and
+[[The Head and the Armor - Goliath at Elah and Saul at Gilboa]]. Source: stored WEB 1 Samuel 5:3–4; 17:43, 49, 51;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-21.

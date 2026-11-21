@@ -136,7 +136,29 @@ bridge between the two. The contradiction note above stands.
 Source: stored WEB 1 Samuel 16:18–22; 17:12–40; Genesis 37:14. 2 Samuel 17:8 checked at bible-api.com
 (`translation=web`), 2026-11-21. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The stone and the sword — 1 Samuel 17:41–54
+
+Goliath sees him and *disdained him; for he was but a youth, and ruddy, and had a good looking face* (17:42), the
+words of 16:12 turned to contempt. David answers: *You come to me with a sword, with a spear, and with a javelin; but I
+come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied* (17:45). He says
+what will happen *today*, and why: *that all the earth may know that there is a God in Israel, and that all this
+assembly may know that Yahweh doesn't save with sword and spear; for the battle is Yahweh's* (17:46–47). He runs to
+meet the Philistine, slings one stone into his forehead, and the narrator sums up: *there was no sword in the hand of
+David* (17:48–50). Then he draws Goliath's own sword, kills him, and cuts off his head (17:51). He brings the head to
+Jerusalem, still Jebusite in the books stored so far (Judges 1:21), and puts the armor *in his tent* (17:54); both
+details are recorded as unexplained. Goliath's sword is later at Nob (21:9, not yet ingested). See
+[[David Kills Goliath]], [[Ruddy - Esau and David]],
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]], and
+[[The Head and the Armor - Goliath at Elah and Saul at Gilboa]].
+
+**Contradiction flagged, still.** 2 Samuel 21:19 in the Hebrew has Elhanan kill *Goliath the Gittite*; recorded on
+[[Goliath and Elhanan - 1 Samuel 17 and 2 Samuel 21.19]], not reconciled.
+
+Source: stored WEB 1 Samuel 16:12; 17:41–54; 21:9; Judges 1:21. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
+- 1 Samuel 17:41–54 — answers Goliath *in the name of Yahweh of Armies*; kills him with a sling and a stone and cuts
+  off his head with Goliath's sword; the head to Jerusalem, the armor to his tent. [[David Kills Goliath]]
 - 1 Samuel 17:12–40 — sent by Jesse to his brothers at the valley of Elah; hears Goliath; *the armies of the living
   God*; rebuked by Eliab; volunteers before Saul; the lion and the bear; refuses Saul's armor and takes five stones.
   [[David Comes to the Camp]]
@@ -153,6 +175,7 @@ Source: stored WEB 1 Samuel 16:18–22; 17:12–40; Genesis 37:14. 2 Samuel 17:8
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[David Kills Goliath]] — 1 Samuel 17:41–54; *in the name of Yahweh of Armies*; *the battle is Yahweh's*; the stone, the sword, and the head.
 - [[David Comes to the Camp]] — 1 Samuel 17:12–40; the youngest, sent with food; his first words; *Yahweh who delivered me*; five smooth stones.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–23; *skillful in playing … and Yahweh is with him*; loved by Saul, his armor bearer, and his harpist.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; the youngest, keeping the sheep; anointed *in the middle of his brothers*, and the Spirit *from that day forward*; named at last.

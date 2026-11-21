@@ -400,7 +400,16 @@ Yahweh's, *hiṣṣilanî*, *he delivered me* (17:35, 37, WLC). Like Jonathan's 
 (14:6), it is spoken against an enemy called *uncircumcised*; unlike Jonathan's, it has no *it may be*. The faith of
 17:37 answers the fear of 17:11. See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:12–40; 14:6; Hebrew WLC (OpenScriptures morphhb).
 
+
+**The confession before the fight — 1 Samuel 17:45–47.** David's faith at 17:37 rested on what Yahweh had done; at
+17:46 it says what he will do, *Today, Yahweh will deliver you into my hand*, and why: *that all the earth may know
+that there is a God in Israel, and that all this assembly may know that Yahweh doesn't save with sword and spear; for
+the battle is Yahweh's* (17:46–47). He goes *in the name of Yahweh of Armies* (17:45). The narrator's verdict, *there
+was no sword in the hand of David* (17:50), confirms the confession in the event. Hannah had sung *for no man shall
+prevail by strength* (2:9). See [[David Kills Goliath]]. Source: stored WEB 1 Samuel 2:9; 17:37, 45–50.
+
 ## Key passages
+- [[David Kills Goliath]] — 1 Samuel 17:45–47; *in the name of Yahweh of Armies*; *the battle is Yahweh's*.
 - [[David Comes to the Camp]] — 1 Samuel 17:34–37; *Yahweh who delivered me out of the paw of the lion … will deliver me*.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:6; *It may be that Yahweh will work for us … to save by many or by few*.
 - [[Deborah and Barak]] — Judges 4:8; Barak's condition, and Hebrews 11:32's commendation.

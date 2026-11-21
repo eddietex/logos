@@ -273,8 +273,21 @@ identified on the passage page.
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+
+### The birds and the beasts — 1 Samuel 17:44, 46
+
+Goliath threatens David with the unburied death: *I will give your flesh to the birds of the sky, and to the animals
+of the field* (17:44). David turns it on the whole army: *I will give the dead bodies of the army of the Philistines
+today to the birds of the sky, and to the wild animals of the earth* (17:46). Both use the words of the covenant curse,
+*Your dead body will be food to all birds of the sky, and to the animals of the earth* (Deuteronomy 28:26). *Peḡer*,
+*dead bodies* (17:46, WLC), is the word for the carcasses Abram drove the birds of prey from (Genesis 15:11). Neither
+threat is reported carried out; the chapter records only flight, pursuit, and plunder (17:51–53). See
+[[David Kills Goliath]]. Source: stored WEB Genesis 15:11; Deuteronomy 28:26; 1 Samuel 17:44–53. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[David Kills Goliath]] — 1 Samuel 17:44, 46; the birds of the sky and the beasts promised the dead, each side to the other.
 - [[Ruth Clings to Naomi]] — Ruth 1:17; *there I will be buried*, Ruth's grave chosen in Naomi's land.
 - [[The Death of Samson]] — Judges 16:31; buried in Manoah's tomb between Zorah and Eshtaol.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:10, 12, 15; buried at Bethlehem, Aijalon, and Pirathon.

@@ -509,7 +509,18 @@ Saul says *Provide me*, literally *see for me*, *rəʾû-nāʾ lî* (16:17), and
 ləyišay*, *I have seen a son of Jesse* (16:18, WLC), Yahweh's word of 16:1. The servant sees what Samuel was told not
 to look at, and more: *a handsome person; and Yahweh is with him*. See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+
+### *He saw David, and disdained him* — 1 Samuel 17:42
+
+*When the Philistine looked around, and saw David, he disdained him; for he was but a youth, and ruddy, and had a good
+looking face* (17:42). Goliath sees what Samuel saw at 16:12, *ruddy, with a handsome face*, and judges by it, as
+16:7 said men do: *man looks at the outward appearance, but Yahweh looks at the heart*. Two verbs of seeing,
+*wayyabbēṭ … wayyirʾeh* (WLC), come before *wayyiḇzēhû*, *and he despised him*. At 17:51 the Philistines *saw that
+their champion was dead*. See [[David Kills Goliath]] and [[Ruddy - Esau and David]]. Source: stored WEB 1 Samuel
+16:7, 12; 17:42, 51. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[David Kills Goliath]] — 1 Samuel 17:42, 51; *he looked … and saw David*, and despised him.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:17–18; *see for me*; *I have seen a son of Jesse*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1, 6–7, 12; *I have seen … a king*; *Yahweh looks at the heart*; *good of appearance*.
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:21–24; the hidden man shown, *Do you see him …?*

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### *Even to Gath* — 1 Samuel 17:52
+
+When Goliath is dead, the Philistine wounded fall *by the way to Shaaraim, even to Gath and to Ekron* (17:52). The
+champion's city is the end of the road of the fallen. See [[David Kills Goliath]].
+
+Source: stored WEB 1 Samuel 17:52.
+
 ### Goliath *of Gath* — 1 Samuel 17:4
 
 *A champion out of the camp of the Philistines named Goliath, of Gath*, *miggaṯ* (17:4, WLC). The battle is not at
@@ -50,6 +57,7 @@ One of three cities where some of the Anakim remain after Joshua cuts them off f
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
 ## Appears in
+- [[David Kills Goliath]] — 1 Samuel 17:52; the Philistine wounded fall on the road *even to Gath*.
 - [[Goliath Defies Israel]] — 1 Samuel 17:4; Goliath's city.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *from Ekron even to Gath*, the towns restored.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:17; one golden tumor for Gath.
@@ -67,3 +75,4 @@ Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 - Counted in the Philistine trespass offering — 1 Samuel 6:17, [[The Ark Returns to Israel]]
 - Towns *from Ekron even to Gath* restored to Israel — 1 Samuel 7:14, [[Samuel Judges Israel at Mizpah]]
 - Home of Goliath, the Philistine champion — 1 Samuel 17:4, [[Goliath Defies Israel]]
+- The road of the Philistine wounded reaches it — 1 Samuel 17:52, [[David Kills Goliath]]

@@ -1054,7 +1054,19 @@ and flees when Goliath comes up (17:24). The Hebrew of 17:20–22 has the camp's
 and *maʿărāḵâ*, the battle line, four times (WLC). Saul's objection is a soldier's: *he a man of war from his youth*
 (17:33). David's is not: *Yahweh … will deliver me* (17:37). See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel 17:12–40; Hebrew WLC.
 
+
+**The fight and the rout — 1 Samuel 17:41–54.** Goliath's terms were single combat for servitude (17:8–9). David
+answers them with a confession, *Yahweh doesn't save with sword and spear; for the battle is Yahweh's* (17:47), and the
+fight is over in two verses (17:48–49). The narrator underlines it: *there was no sword in the hand of David* (17:50).
+Then the war becomes ordinary again. The Philistines flee when *their champion* is dead; *the men of Israel and of
+Judah* shout and pursue to Gai, Ekron, and Gath, and plunder the camp (17:51–53). The champion's terms are never
+enforced; the Philistines do not become Israel's servants. In the Hebrew files checked, *laYHWH hammilḥāmâ* as a
+sentence, *the battle is Yahweh's*, occurs only at 17:47 (WLC). See [[David Kills Goliath]] and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]. Source: stored WEB 1 Samuel
+17:8–9, 41–54; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[David Kills Goliath]] — 1 Samuel 17:41–54; *the battle is Yahweh's*; the stone, the champion beheaded, the rout and the plunder.
 - [[David Comes to the Camp]] — 1 Samuel 17:16–40; forty days, the battle line, and the shepherd sent out.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; armies arrayed, the champion's armor, single combat for servitude, and Israel dismayed.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–9; the ban on Amalek, Agag and the best spared.
