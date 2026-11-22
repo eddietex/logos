@@ -320,7 +320,17 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
+### Prophesying with a spear — 1 Samuel 18:10
+
+Under the evil spirit, Saul *prophesied in the middle of the house* (18:10), the *hitpael* *wayyiṯnabbēʾ* of his
+prophesying among the prophets at 10:10 (WLC). The text does not describe what he did, and gives no words. That the
+same verb names the gift at 10:10 and this at 18:10 is the text's; the reading of it as frenzy or raving is a common
+one (recalled, not checked). See [[Saul's Jealousy of David]] and
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]. Source: stored WEB 1 Samuel 10:10; 18:10. Hebrew
+WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Saul's Jealousy of David]] — 1 Samuel 18:10; Saul *prophesied in the middle of the house* under an evil spirit.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:5–13; a band of prophets; *Is Saul also among the prophets?*; Samuel's signs all fulfilled.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–20; *all that he says surely happens*; *a prophet was before called a seer*.
 - [[The Ark Is Captured]] — 1 Samuel 4:11, 18; the sign of 2:34 fulfilled *in one day*.

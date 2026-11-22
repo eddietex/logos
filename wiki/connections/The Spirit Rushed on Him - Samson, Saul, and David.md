@@ -19,8 +19,8 @@ tags: [connection]
   words, and his anger burned hot*. Stored WEB.
 - [[Samuel Anoints David]] — **1 Samuel 16:13** — *Then Yahweh's Spirit came mightily on David from that day
   forward*. Stored WEB.
-- **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he prophesied in the middle of
-  the house*. WEB at bible-api.com; not stored.
+- [[Saul's Jealousy of David]] — **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he
+  prophesied in the middle of the house*. Stored WEB.
 
 ## Analysis
 
@@ -137,4 +137,13 @@ it returns at the end of the pericope for the evil spirit, *the evil spirit depa
 *Yahweh … had departed from Saul*, and at Endor (28:15–16) (WLC). Samson's *Yahweh had departed from him* (Judges
 16:20) is the same verb (stored WEB). The rush on David stays; the rush on Saul is withdrawn, and an evil spirit is
 sent in its place. See [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]]. Sources: stored WEB Judges 16:20; 1 Samuel 16:14–23; 18:12; 28:15–16. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-21.
+
+### 1 Samuel 18:6–16 now ingested — the rush from the other side
+
+[[Saul's Jealousy of David]] is the last *ṣālaḥ* of the spirit in the files checked (morphhb lemma 6743 a: Judges 14:6,
+19; 15:14; 1 Samuel 10:6, 10; 11:6; 16:13; 18:10), and the only one whose subject is *an evil spirit from God*. At 10:10
+the rush made Saul prophesy among the prophets; at 18:10 it makes him *prophesy in the middle of the house* with a spear
+in his hand. Two verses on, the narrator restates the exchange of 16:13–14 with Yahweh as subject: *Yahweh was with
+him, and had departed from Saul* (18:12). Source: stored WEB 1 Samuel 10:10; 16:13–14; 18:10–12. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-21.

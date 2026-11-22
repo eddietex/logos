@@ -101,7 +101,7 @@ now David's.
   [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] and [[Love]].
 - **Loved him.** The WLC's consonantal text (*ketiv*) reads *wyʾhbw* and the vocalization (*qere*) reads
   *wayyeʾĕhāḇēhû*, *and he loved him* (18:1). Jonathan is the second person in 1 Samuel said to love David, after Saul
-  (16:21); *all Israel and Judah* and Michal follow (18:16, 20, stored WEB; not yet ingested). In the files checked,
+  (16:21); *all Israel and Judah* and Michal follow (18:16, [[Saul's Jealousy of David]]; 18:20, stored WEB, not yet ingested). In the files checked,
   *ʾāhaḇ* and *nepeš* in one verse is otherwise Isaac's savory food (Genesis 27:4), Shechem and Dinah (34:3), Ruth's
   daughter-in-law *who loves you* (Ruth 4:15), and the commands to love Yahweh *with all your soul* (Deuteronomy 6:5;
   10:12; 11:13; 13:3 WEB; 30:6; Joshua 22:5; 23:11) (WLC; stored WEB).
@@ -144,7 +144,7 @@ now David's.
   [[Wisdom]].
 - **Good in the sight of all.** *Wayyîṭaḇ bəʿênê kol-hāʿām wəḡam bəʿênê ʿaḇdê šāʾûl* (18:5, WLC). The people and Saul's
   servants approve; Saul's own eyes are not mentioned. The next verse turns to them: the women sing, and Saul *watched
-  David* from that day (18:6–9, stored WEB; not yet ingested). See [[Seeing and Being Seen]].
+  David* from that day (18:6–9, [[Saul's Jealousy of David]]). See [[Seeing and Being Seen]].
 - **Jonathan's name.** From 18:1 the WLC spells him *yəhônāṯān* (lemma 3083), the long form it used before only at
   14:6, 8; through chapters 18–20 it uses the long form everywhere except 19:1 (morphhb lemmas 3083 and 3129). The wiki
   records the spelling and draws no conclusion from it.
@@ -152,7 +152,7 @@ now David's.
 **How it connects.** The pericope finishes the Goliath story and opens the house of Saul to David. The question of
 16:14–23 and 17:12–40, how David comes to stand before Saul, is answered twice, and both answers stand in the text.
 Jonathan's love is the first of a series: Saul's servants, *all Israel and Judah*, and Michal (18:16, 20, 22), and
-Saul's turning against him begins in the next verse (18:6–9, stored WEB; not yet ingested). The covenant is renewed at
+Saul's turning against him begins in the next verse (18:6–9, [[Saul's Jealousy of David]]). The covenant is renewed at
 20:8–17, 42 and 23:18; the robe and the sword point toward the kingdom passing from Jonathan's house to David's, which
 Jonathan himself will say at Horesh, *you will be king over Israel, and I will be next to you* (23:17, stored WEB; not
 yet ingested). The text of 18:4 does not say what the gift means; that reading is the wiki's, from 23:17.

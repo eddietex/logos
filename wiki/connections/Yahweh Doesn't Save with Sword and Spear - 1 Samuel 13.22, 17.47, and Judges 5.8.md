@@ -69,3 +69,11 @@ Yahweh himself is *the sword of your excellency* for *a people saved by Yahweh* 
 says the thing twice: *there was no sword in the hand of David* (17:50), and David takes Goliath's (17:51). See
 [[David Kills Goliath]] and [[The Head and the Armor - Goliath at Elah and Saul at Gilboa]]. Source: stored WEB
 Deuteronomy 33:29; 1 Samuel 13:19; 17:6, 45–51. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
+### 1 Samuel 18:10–11 — Saul's spear
+
+A chapter after *Yahweh doesn't save with sword and spear* (17:47), Saul has *his spear in his hand* and throws it at
+David (18:10–11). The verb, *wayyāṭel* (*ṭûl*, lemma 2904, *hiphil*), occurs in the files checked only here and at
+20:33, where he throws it at Jonathan (stored WEB; not yet ingested). The spear of 13:22, one of two in Israel, is now
+turned on the man who won without one. See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 13:22; 17:47;
+18:10–11; 20:33. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.

@@ -29407,3 +29407,56 @@ paraphrased, not quoted; no 2 Samuel WEB was checked this run. Hebrew from the W
 (OpenScriptures morphhb) XML; occurrence claims cover those files only, and lemma and stem claims follow morphhb's
 tagging. Recalled, not checked, and flagged where made: the readings of the 16/17 tension; the Septuagint's shorter
 text. No Septuagint text was consulted.
+
+## [2026-11-21] ingest | 1 Samuel 18.6-16 — Saul's Jealousy of David
+
+Unattended run. Created [[Saul's Jealousy of David]], the person page [[Singing Women (of Saul's time)]], and the
+connection [[Saul Has Slain His Thousands - 1 Samuel 18.7, 21.11, and 29.5]]. Revised [[1 Samuel]] (box checked;
+overview paragraph; key themes and people); the people [[Saul]], [[David]], and [[Goliath]]; the places
+[[Valley of Elah]] and [[Gibeah (Benjamin)]]; the themes [[Envy]], [[Praise and Song]], [[The Spirit of God]],
+[[Prophecy and Vision]], [[The Fear of God]], [[Love]], [[Wisdom]], [[Kingship and Empire]], and
+[[Seeing and Being Seen]]; the connections
+[[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]],
+[[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]],
+[[The Spirit Rushed on Him - Samson, Saul, and David]],
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]],
+[[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]],
+[[I Will Be With You - The Promise of Presence]],
+[[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]], and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]; and the passages
+[[Jonathan Loves David]] and [[David Plays the Harp for Saul]] ("not yet ingested" notes for 18:6–16 resolved where
+they occurred). Also `wiki/books/index.md` (28 / 47), People Index A-E, F-M, and N-Z (three rows extended, one new),
+the places index (two rows), the themes index (nine rows), Connections Index D-H (two), I-N (two), O-S (two extended,
+one new), and T-Z (two), and the dashboard counts. Frontmatter totals: 514 passages, 399 people, 619 places, 88
+themes, 971 connections.
+
+Judgment calls: the boundary 18:6–16 stands; 18:16 closes on *all Israel and Judah loved David*, and 18:17 opens the
+marriage offers. One new person page for the singing women, as a group page on the pattern of
+[[Ministering Women (of Eli's time)]], because their couplet is quoted twice more (21:11; 29:5). [[Gibeah (Benjamin)]]
+is listed with a qualifier: 18:10 says only *the house*, and the wiki does not place the spear-throw there. *Envy* is
+the wiki's word for Saul here; the text never uses *qinʾâ*, and every page that uses the word says so. The connection
+on [[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]] had no source-language claims before;
+the new section adds one and says so.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`, downloaded fresh
+2026-11-21): *məḥōlâ* (4246) in seven verses, Exodus 15:20; 32:19; Judges 11:34; 21:21; 1 Samuel 18:6; 21:12; 29:5;
+*ʿānâ* in the *sing* sense (6030 c) at Exodus 15:21; 32:18; Numbers 21:17; 1 Samuel 18:7; 21:12; 29:5; *šālišîm*
+(7991 b) only at 18:6; the pair *ʾelep̄ / rəḇāḇâ* (505, 7233) at Genesis 24:60; Numbers 10:36; Deuteronomy 32:30;
+33:17; Judges 20:10; 1 Samuel 18:7, 8; 21:12; 29:5; *məlûḵâ* (4410) in 1 Samuel at 10:16, 25; 11:14; 14:47; 18:8; the
+qere *ʿôyēn* (5770) only at 18:9, its ketiv tagged as 5771; *ṣālaḥ* (6743 a) with an evil spirit only at 18:10; the
+*hitpael* of *nāḇāʾ* at 1 Samuel 10:5–13; 18:10; 19:20–24 and Numbers 11:25–27; *ṭûl* (2904) only at 18:11 and 20:33;
+*gûr* in the *fear* sense (1481 c) at Numbers 22:3; Deuteronomy 1:17; 18:22; 32:27; 1 Samuel 18:15; *sûr* (5493) for
+both Yahweh's departing and Saul's removing David (18:12–13); *nāḵâ* in the *hiphil* at 18:6, 7, 11.
+
+Recorded, not resolved: whether the couplet meant to slight Saul or is ordinary parallelism; whether *twice* (18:11)
+counts throws or escapes; what Saul's prophesying looked like; why Saul made David a captain (honor, removal, or
+danger).
+
+Sources: 1 Samuel 18:6–16 from stored WEB, with the not-yet-ingested 1 Samuel 18:17–30; 19:9–10; 20:33; 21:11; 28:15;
+29:4–5. Comparisons from stored WEB Genesis 24:60; Exodus 15:20–21; 32:18–19; Numbers 10:36; 21:17; 22:3; 27:17;
+Deuteronomy 1:17; 18:22; 31:2; 32:27, 30; 33:17; Joshua 1:7–8; 14:11; Judges 11:34; 14:6, 19; 15:14; 16:25; 20:10;
+21:21; 1 Samuel 3:19; 8:12; 10:5–16, 25–26; 11:6, 8, 14; 13:22; 14:47; 15:24, 28, 34; 16:1–23; 17:7, 11, 18, 37, 47,
+52; 18:5. 2 Samuel 6:5, 21 read in the WLC only and paraphrased; no 2 Samuel WEB checked this run. Hebrew occurrence
+claims cover the WLC files named above only, and lemma, homonym, and stem claims follow morphhb's tagging. Recalled,
+not checked, and flagged where made: the gloss of *ʿôyēn*; the reading of Saul's prophesying as raving. No lexicon or
+Septuagint text was consulted.

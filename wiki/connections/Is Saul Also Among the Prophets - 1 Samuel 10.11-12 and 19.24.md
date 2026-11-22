@@ -15,8 +15,8 @@ tags: [connection]
   Naioth in Ramah. He also stripped off his clothes, and he also prophesied before Samuel, and lay down naked all
   that day and all that night. Therefore they say, "Is Saul also among the prophets?"* Stored WEB; not yet
   ingested.
-- **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he prophesied in the middle of the
-  house*. Stored WEB; not yet ingested.
+- [[Saul's Jealousy of David]] — **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he
+  prophesied in the middle of the house*. Stored WEB.
 
 ## Analysis
 
@@ -43,7 +43,7 @@ Kish and are surprised to find him there.
 group prophesies instead (19:20–21). Then he goes himself, and *the Spirit of God came on him also* on the road
 (19:23). The prophesying keeps him from what he came to do, and he ends up lying before the prophet who had
 anointed him. In between, *an evil spirit from God came mightily on Saul, and he prophesied in the middle of the
-house* while David played (18:10), and Saul threw the spear (18:11, stored WEB; not yet ingested). By then
+house* while David played (18:10), and Saul threw the spear (18:11, stored WEB; [[Saul's Jealousy of David]]). By then
 *prophesying* can name a frenzy as well as a gift.
 
 **The wiki does not choose between the two origins.** Some read them as two traditions about one saying. Others
@@ -71,3 +71,10 @@ See [[Saul]], [[Samuel]], and [[Band of Prophets (of Samuel's time)]].
 Sources: stored WEB 1 Samuel 10:5–13; 18:10–11; 19:18–24; 25:1. Hebrew from the Westminster Leningrad Codex
 (OpenScriptures morphhb) `1Sam.xml`, downloaded 2026-11-17. The readings of the two origins as two traditions or as
 a deliberate echo are general knowledge, not checked.
+
+### 1 Samuel 18:6–16 now ingested
+
+The verb of 18:10 is the *hitpael* *wayyiṯnabbēʾ*, the same stem as Saul's prophesying at the hill of God (10:6, 10,
+13) and at Naioth (19:20–24), and the elders' in Numbers 11:25–27 (WLC; morphhb morphology). The text describes the
+prophesying no further; it says only that it came with the evil spirit and that the spear was in his hand. See
+[[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 18:10–11. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.

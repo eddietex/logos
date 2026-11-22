@@ -71,6 +71,7 @@ Source: stored WEB 1 Samuel 5:4; 17:4–6, 23, 41–54; 21:9. Hebrew WLC (OpenSc
 - His sword kept at Nob behind the ephod and given to David (21:9; 22:10) — not yet ingested
 
 ## Appears in
+- [[Saul's Jealousy of David]] — 1 Samuel 18:6; *the slaughter of the Philistine*, which the women's song celebrates.
 - [[Jonathan Loves David]] — 1 Samuel 17:55, 57; *the Philistine*; his head in David's hand before Saul, after 17:54 has taken it to Jerusalem.
 - [[David Kills Goliath]] — 1 Samuel 17:41–54; *Am I a dog?*; the stone in the forehead; beheaded; *their champion*.
 - [[David Comes to the Camp]] — 1 Samuel 17:16, 23–26, 33, 36–37; forty days; *the same words*; *this uncircumcised Philistine*; *a man

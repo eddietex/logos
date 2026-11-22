@@ -13,7 +13,7 @@ tags: [connection]
   (stored WEB).
 - [[Wives for Benjamin]] — Judges 21:21 *(stored WEB)* — *if the daughters of Shiloh come out to dance in
   the dances, then come out of the vineyards, and each man catch his wife of the daughters of Shiloh*.
-- **1 Samuel 18:6** *(WEB, verified at bible-api.com, 2026-11-15; not yet ingested)* — *the women came
+- [[Saul's Jealousy of David]] — **1 Samuel 18:6** *(stored WEB)* — *the women came
   out of all the cities of Israel, singing and dancing, to meet king Saul, with tambourines, with joy,
   and with instruments of music*.
 
@@ -68,3 +68,14 @@ tambourines, so the pair *tambourines … dances* of Exodus 15:20 and Judges 11:
 other words. See [[Wives for Benjamin]]. Source: stored WEB Judges 11:40; 21:19–23; Hebrew WLC
 (OpenScriptures morphhb, including `1Sam.xml`), 2026-11-17. WEB 1 Samuel 18:6 rechecked at bible-api.com,
 2026-11-17.
+
+### 1 Samuel 18:6–7 now ingested — Miriam's verb
+
+The women of 18:7 *sang to one another*, *wattaʿănênâ* (WLC; morphhb lemma 6030 c, *sing*). In the files checked
+(Genesis through 2 Samuel, and Ruth) that root occurs at Exodus 15:21, *Miriam answered them*; Exodus 32:18, at the
+calf; Numbers 21:17, the song of the well; and 1 Samuel 18:7; 21:11 WEB (21:12 WLC); 29:5. So the song of 18:7 has
+Miriam's verb as well as her tambourines and dances, and *məḥōlâ* now counts seven verses in those files, three of them
+this one song (18:6; 21:12 WLC; 29:5). The victory song that at the sea praised Yahweh praises two men here, and one
+of them hears it as a threat. See [[Saul's Jealousy of David]], [[Singing Women (of Saul's time)]], and
+[[Saul Has Slain His Thousands - 1 Samuel 18.7, 21.11, and 29.5]]. Source: stored WEB Exodus 15:21; 32:18; Numbers
+21:17; 1 Samuel 18:6–8; 21:11; 29:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.

@@ -15,8 +15,8 @@ tags: [connection]
   tambourine, a pipe, and a harp before them; and they will be prophesying*. Stored WEB.
 - [[David Plays the Harp for Saul]] — **1 Samuel 16:16, 23** — *a skillful player on the harp*; *David took the harp,
   and played with his hand; so Saul was refreshed*. Stored WEB.
-- **1 Samuel 18:10; 19:9** — *David played with his hand, as he did day by day*; *David was playing with his hand*.
-  Stored WEB; not yet ingested.
+- [[Saul's Jealousy of David]] — **1 Samuel 18:10; 19:9** — *David played with his hand, as he did day by day*;
+  *David was playing with his hand*. Stored WEB; 19:9 not yet ingested.
 - **2 Samuel 6:5** — *David and all the house of Israel played before Yahweh with all kinds of instruments made of
   cypress wood, with harps, with stringed instruments, with tambourines, with castanets, and with cymbals.* WEB
   checked at bible-api.com, 2026-11-21; not stored.
@@ -59,3 +59,10 @@ refreshed Saul in 16:23 is the setting for the spear in 18:10–11. See [[Praise
 Sources: stored WEB Genesis 4:20–22; 31:27; 1 Samuel 10:5, 10; 16:14–23; 18:10–11; 19:9. 2 Samuel 6:5; 23:1 checked
 at bible-api.com (`translation=web`), 2026-11-21. Hebrew from the WLC (OpenScriptures morphhb), files `Gen` through
 `2Sam` and `Ruth`; occurrence claims cover those files only, and lemma claims follow morphhb's tagging.
+
+### 1 Samuel 18:6–16 now ingested — the harp that no longer calms
+
+At 16:23 David's playing made the evil spirit depart; at 18:10 he plays *as he did day by day*, *kəyôm bəyôm* (WLC),
+and Saul throws the spear. The text does not say the music failed; it says only what Saul did while it played. See
+[[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 16:23; 18:10–11. Hebrew WLC (OpenScriptures morphhb),
+2026-11-21.

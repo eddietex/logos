@@ -524,10 +524,19 @@ their champion was dead*. See [[David Kills Goliath]] and [[Ruddy - Esau and Dav
 The pericope opens with Saul's eyes, *When Saul saw David go out against the Philistine* (17:55), and the sight
 produces only a question, *whose son is this youth?* It closes with the eyes of others: *It was good in the sight of
 all the people, and also in the sight of Saul's servants* (18:5), *bəʿênê* twice (WLC). Saul's own eyes are left out,
-and the next unit supplies them: *Saul watched David from that day and forward* (18:9, stored WEB; not yet ingested).
+and the next unit supplies them: *Saul watched David from that day and forward* (18:9, stored WEB; [[Saul's Jealousy of David]]).
 See [[Jonathan Loves David]]. Source: stored WEB 1 Samuel 17:55; 18:5, 9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### Evil in his eyes — 1 Samuel 18:8–9, 15
+
+The approval of 18:5 was *good in the sight of all the people*; the song is *evil in his eyes*, *wayyēraʿ bəʿênāyw*
+(18:8, WLC), and Saul *watched David from that day and forward* (18:9), *ʿôyēn*, a participle that in the files checked
+occurs only here (WLC, *qere*). When Saul *saw*, *wayyarʾ*, that David behaved wisely, he dreaded him (18:15). Saul's
+eyes are the pericope's frame. See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 18:5–15. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Saul's Jealousy of David]] — 1 Samuel 18:8–9, 15; *evil in his eyes*; *Saul watched David*; *when Saul saw*.
 - [[Jonathan Loves David]] — 1 Samuel 17:55; 18:5; *When Saul saw*; *good in the sight of all the people*.
 - [[David Kills Goliath]] — 1 Samuel 17:42, 51; *he looked … and saw David*, and despised him.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:17–18; *see for me*; *I have seen a son of Jesse*.

@@ -82,6 +82,7 @@ the stored text it is Hosea's byword, *as in the days of
 Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 
 ## Appears in
+- [[Saul's Jealousy of David]] — 1 Samuel 18:10; *the house* where Saul throws the spear is not named; Saul's house is at Gibeah (10:26; 15:34).
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:34; *Gibeah of Saul*, his house.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:2, 16; Saul under the pomegranate, and his watchmen.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:4–7; *Gibeah of Saul*, where the news comes and the pieces are sent from.

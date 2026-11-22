@@ -774,7 +774,16 @@ WEB; not yet ingested) is what makes it read as a sign of succession, and the re
 [[Jonathan Loves David]] and [[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]]. Source: stored WEB
 1 Samuel 8:11; 17:38–39, 55–58; 18:1–5; 23:17.
 
+### What more but the kingdom — 1 Samuel 18:8
+
+*What can he have more but the kingdom?* (18:8). *Məlûḵâ* in 1 Samuel had so far been Saul's (10:16, 25; 11:14; 14:47,
+WLC); here, from a song, Saul imagines it as David's, which the reader knows Samuel had already said (15:28). He then
+makes David *captain over a thousand* (18:13), one of the officers Samuel had warned the king would appoint (8:12), and
+the command gives David the people's love (18:16). See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 8:12;
+10:16, 25; 11:14; 14:47; 15:28; 18:8–16. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Saul's Jealousy of David]] — 1 Samuel 18:8, 13; *What can he have more but the kingdom?*; captain over a thousand.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–18:5; the king takes David; the king's son gives him robe and sword.
 - [[David Comes to the Camp]] — 1 Samuel 17:25, 33–39; the king's reward, and the king's armor taken off.
 - [[Goliath Defies Israel]] — 1 Samuel 17:4, 8, 11; the champion goes out; the king is afraid.

@@ -219,8 +219,20 @@ spirit departed from him* (16:23). The music is not called praise; it is a remed
 later *the sweet psalmist of Israel* (2 Samuel 23:1, WEB checked at bible-api.com). See [[David Plays the Harp for Saul]] and
 [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The women's song — 1 Samuel 18:6–7
+
+The women come out *singing and dancing … with tambourines, with joy, and with instruments of music* (18:6), and *sang
+to one another*, *wattaʿănênâ* (morphhb lemma 6030 c), the verb of Miriam's *answered them* (Exodus 15:21) (WLC). It is
+the victory song of the sea and of Mizpah (Judges 11:34), and it praises two men, not Yahweh. The couplet outlives the
+day and is quoted at Gath and at Aphek (21:11; 29:5, stored WEB; not yet ingested). The same chapter keeps David's
+harp, *as he did day by day* (18:10), and the music no longer calms the king. See [[Saul's Jealousy of David]],
+[[Singing Women (of Saul's time)]], and
+[[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]]. Source: stored WEB
+Exodus 15:20–21; Judges 11:34; 1 Samuel 18:6–10; 21:11; 29:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[Saul's Jealousy of David]] — 1 Samuel 18:6–7, 10; the women's song of thousands and ten thousands; the harp again.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:16–23; David's harp, and Saul *refreshed*.
 - [[The Song of Hannah]] — 1 Samuel 2:1–10; Hannah's song, from the Rock to *his anointed*.
 - [[Jephthah's Vow]] — Judges 11:34; the daughter's tambourines and dances.

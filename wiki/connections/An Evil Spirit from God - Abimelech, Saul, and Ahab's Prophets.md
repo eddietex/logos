@@ -11,8 +11,8 @@ tags: [connection]
   Shechem; and the men of Shechem dealt treacherously with Abimelech*. Stored WEB.
 - [[David Plays the Harp for Saul]] — **1 Samuel 16:14–16, 23** — *Now Yahweh's Spirit departed from Saul, and an
   evil spirit from Yahweh troubled him*; *the evil spirit departed from him*. Stored WEB.
-- **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house.
-  David played with his hand, as he did day by day. Saul had his spear in his hand*. Stored WEB; not yet ingested.
+- [[Saul's Jealousy of David]] — **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house.
+  David played with his hand, as he did day by day. Saul had his spear in his hand*. Stored WEB.
 - **1 Samuel 19:9** — *An evil spirit from Yahweh was on Saul, as he sat in his house with his spear in his hand;
   and David was playing with his hand*. Stored WEB; not yet ingested.
 - **1 Kings 22:19–23** — Micaiah's vision: *I saw Yahweh sitting on his throne* (19); *Who will entice Ahab,
@@ -66,3 +66,12 @@ die by the sword at their own request. See [[The Spirit of God]], [[Retribution]
 Sources: stored WEB Judges 9:5–6, 23–24, 54, 56–57; 1 Samuel 16:14–23; 18:10; 19:9; 31:4. 1 Kings 22:19–23 checked at
 bible-api.com (`translation=web`), 2026-11-21. Hebrew from the WLC (OpenScriptures morphhb), files `Gen` through
 `2Sam` and `Ruth`; the occurrence claim covers those files only. The Hebrew of 1 Kings 22 was not checked.
+
+### 1 Samuel 18:6–16 now ingested
+
+At 18:10 the evil spirit *came mightily*, *wattiṣlaḥ*, the verb of the Spirit of Yahweh's rush on Saul and on David
+(10:6, 10; 11:6; 16:13), and Saul *prophesied* under it (WLC). The first spear-throw follows (18:11), and the narrator
+gives the reason in theological terms, not psychological ones: *Saul was afraid of David, because Yahweh was with him,
+and had departed from Saul* (18:12). The text does not connect the spirit to the jealousy of 18:8–9 in so many words;
+it puts them on consecutive days, *on the next day* (18:10). See [[Saul's Jealousy of David]]. Source: stored WEB
+1 Samuel 18:8–12. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.

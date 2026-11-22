@@ -859,7 +859,15 @@ prosper* (29:9 WEB) and *Oh that they were wise* (32:29), and Joshua's *that you
 See [[Jonathan Loves David]]. Source: stored WEB Genesis 3:6; 48:14; Deuteronomy 29:9; 32:29; Joshua 1:7–8; 1 Samuel 18:5,
 14, 30. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### Very wisely — 1 Samuel 18:14–15
+
+*David behaved himself wisely in all his ways; and Yahweh was with him* (18:14), and Saul saw *that he behaved himself
+very wisely* (18:15): *maśkîl* twice, the second with *məʾōḏ* (WLC). The narrator puts the wisdom and the presence of
+Yahweh side by side and does not say which produces which; Saul sees the first and fears it. See
+[[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 18:5, 14–15. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Saul's Jealousy of David]] — 1 Samuel 18:14–15; *maśkîl*, the second and third in chapter 18; *Yahweh was with him*.
 - [[Jonathan Loves David]] — 1 Samuel 18:5; *behaved himself wisely*, *yaśkîl*, the first of four in chapter 18.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:11–12; *it became a proverb, "Is Saul also among the prophets?"*
 - [[The Gibeonite Deception]] — Joshua 9:1–27

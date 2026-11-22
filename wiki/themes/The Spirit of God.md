@@ -197,7 +197,17 @@ from him* when David plays (16:23, WLC). The narrator says the evil spirit is *f
 God* (16:15–16). The only precedent in the stored books is Judges 9:23. What the spirit is, the text does not say.
 See [[David Plays the Harp for Saul]] and [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The evil spirit rushes — 1 Samuel 18:10
+
+*An evil spirit from God came mightily on Saul* (18:10): *wattiṣlaḥ*, the verb used of the Spirit of Yahweh on Samson,
+on Saul himself at the hill of God and at Jabesh, and on David at his anointing (WLC; morphhb lemma 6743 a). In the
+files checked it is the only rush whose subject is an evil spirit. Saul *prophesied* under it, and threw the spear.
+The narrator then names the exchange behind it: *Yahweh was with him, and had departed from Saul* (18:12). See
+[[Saul's Jealousy of David]] and [[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB Judges
+14:6; 1 Samuel 10:6, 10; 11:6; 16:13–14; 18:10–12. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Saul's Jealousy of David]] — 1 Samuel 18:10, 12; *an evil spirit from God came mightily on Saul*; *Yahweh … had departed from Saul*.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23; *Yahweh's Spirit departed from Saul*, and *an evil spirit from Yahweh troubled him*.
 - [[Samuel Anoints David]] — 1 Samuel 16:13; *came mightily on David from that day forward*.
 

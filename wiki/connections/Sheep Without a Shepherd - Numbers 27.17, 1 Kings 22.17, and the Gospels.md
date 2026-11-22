@@ -55,3 +55,14 @@ man rather than leader of a congregation.
 **Sources.** Numbers quoted from `raw/bible/Numbers.md`. 1 Kings 22:17, Matthew 9:36, and Mark
 6:34 verified through bible-api.com, `translation=web`, on 2026-11-05. No source-language claim is
 made on this page.
+
+### 1 Samuel 18:13, 16 — David goes out and comes in
+
+Moses' prayer asks for a man *who may go out before them, and who may come in before them* (Numbers 27:17). In
+[[Saul's Jealousy of David]], Saul sends David from his presence to command a thousand, *and he went out and came in
+before the people*, and *all Israel and Judah loved David; for he went out and came in before them* (1 Samuel 18:13,
+16). The Hebrew is *yāṣāʾ … bôʾ lip̄nê* in both books (WLC). 1 Samuel does not cite Numbers, and the wiki does not
+claim it does; the phrase is also Moses' and Caleb's for fitness for war and leadership (Deuteronomy 31:2; Joshua
+14:11). What 1 Samuel adds is that the king who sends David out gives him, unwillingly, the shepherd's place. Source:
+stored WEB Numbers 27:17; Deuteronomy 31:2; Joshua 14:11; 1 Samuel 18:13, 16. Hebrew WLC (OpenScriptures morphhb),
+2026-11-21; this section adds a source-language claim to a page that had none.

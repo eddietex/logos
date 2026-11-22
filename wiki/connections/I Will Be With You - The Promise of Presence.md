@@ -176,7 +176,7 @@ the bush (WLC). Sources: stored WEB Judges 6:11–24; Hebrew from the Westminste
 
 The servant who recommends David ends his list with *and Yahweh is with him*, *waYHWH ʿimmô* (16:18, WLC). The
 narrator said the same of Joseph, *Yahweh was with Joseph* (Genesis 39:2), and of the boy Samuel (1 Samuel 3:19), and
-will say it of David twice more (18:12, 14, stored WEB; not yet ingested). In 18:12 it is the reason Saul fears him.
+will say it of David twice more (18:12, 14, stored WEB; [[Saul's Jealousy of David]]). In 18:12 it is the reason Saul fears him.
 See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
 ## Significance
@@ -209,3 +209,11 @@ cloud is *"Let them make me a sanctuary, that I may dwell among them (bətôkām
 not the *qereb* of 17:7 but its near-synonym *tāwek*, *midst*. **The presence promised to travellers
 becomes a residence in the camp.** See [[The Offering for the Sanctuary]] and
 [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
+
+### 1 Samuel 18:6–16 now ingested — the presence that Saul fears
+
+*Kî-hāyâ YHWH ʿimmô ûmēʿim šāʾûl sār* (18:12, WLC): *because Yahweh was with him, and had departed from Saul*. The
+presence is now a fact the narrator states (18:12, 14; again 18:28, stored WEB; not yet ingested), and it is the
+reason for Saul's fear, not a promise to David. Saul had said it himself a chapter earlier, *Go! Yahweh will be with
+you* (17:37, stored WEB). See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 17:37; 18:12, 14, 28. Hebrew
+WLC (OpenScriptures morphhb), 2026-11-21.

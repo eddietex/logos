@@ -326,6 +326,18 @@ set over the men of war, *good in the sight of all the people* (18:5). See
 [[Whose Son Is This Youth - 1 Samuel 16.18-22 and 17.55-58]] and
 [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]].
 
+[[Saul's Jealousy of David]] (18:6–16) turns the victory into a grudge. The women come out of all the cities of Israel
+with tambourines and dances, in the scene of Miriam and Jephthah's daughter, and sing to one another *Saul has slain
+his thousands, and David his ten thousands* (18:6–7). Saul hears the second number: *What can he have more but the
+kingdom?* (18:8), and from that day he *watched David* (18:9). The next day the evil spirit *came mightily* on him,
+the verb of the Spirit's rush at 10:6 and 16:13, and while David plays as he did day by day Saul throws the spear,
+*I will pin David even to the wall*, and David escapes twice (18:10–11). The narrator gives the reason: *Saul was afraid
+of David, because Yahweh was with him, and had departed from Saul* (18:12). Yahweh *departed*, *sār*, and Saul
+*removed* David, the same verb *sûr*: he makes him a captain over a thousand, and David goes out and comes in before
+the people, the phrase of Moses' prayer for a shepherd (Numbers 27:17). He *behaved himself wisely*, Saul *stood in
+awe of him*, and *all Israel and Judah loved David* (18:13–16). The song is quoted twice more by Philistines (21:11;
+29:5). See [[Saul Has Slain His Thousands - 1 Samuel 18.7, 21.11, and 29.5]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -375,7 +387,7 @@ merge, or reorder them freely.
 - [x] [[David Comes to the Camp]] — 1 Samuel 17:12–40
 - [x] [[David Kills Goliath]] — 1 Samuel 17:41–54
 - [x] [[Jonathan Loves David]] — 1 Samuel 17:55–18:5
-- [ ] Saul's Jealousy of David — 1 Samuel 18:6–16
+- [x] [[Saul's Jealousy of David]] — 1 Samuel 18:6–16
 - [ ] David Marries Michal — 1 Samuel 18:17–30
 - [ ] Jonathan Speaks for David — 1 Samuel 19:1–7
 - [ ] Michal Helps David Escape — 1 Samuel 19:8–17
@@ -508,6 +520,11 @@ merge, or reorder them freely.
 - [[Covenant]] — *Jonathan and David made a covenant* (18:3)
 - [[Wisdom]] — *behaved himself wisely*, *yaśkîl* (18:5)
 - [[Oaths and Vows]] — *As your soul lives, O king, I can't tell* (17:55)
+- [[Praise and Song]] — *Saul has slain his thousands, and David his ten thousands* (18:6–7)
+- [[Envy]] — *What can he have more but the kingdom?*; *Saul watched David* (18:8–9)
+- [[The Spirit of God]] — *an evil spirit from God came mightily on Saul* (18:10)
+- [[The Fear of God]] — *Saul was afraid of David, because Yahweh was with him* (18:12)
+- [[Love]] — *all Israel and Judah loved David* (18:16)
 
 ## Key people
 - [[Samuel]]
@@ -552,6 +569,7 @@ merge, or reorder them freely.
 - [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11); *your servant Jesse the Bethlehemite* (17:58)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9), and with Saul at the war; Eliab's anger at David (17:13, 28)
 - [[Goliath]] — the champion of Gath who defies Israel (17:4–10), killed with a stone and beheaded with his own sword (17:49–51)
+- [[Singing Women (of Saul's time)]] — *Saul has slain his thousands, and David his ten thousands* (18:6–7)
 
 ## Key places
 - [[Shiloh]]

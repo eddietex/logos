@@ -255,7 +255,7 @@ Source: stored WEB 1 Samuel 9:2; 10:23–24; 15:23, 26; 16:1–7. Hebrew WLC (Op
 Jesse for David, *loved him greatly*, makes him his armor bearer, and asks to keep him (16:15–22). When David plays,
 *Saul was refreshed, and was well* (16:23). *Rāwaḥ*, *refreshed*, occurs in the Hebrew files checked only here (WLC).
 The same verb *sûr* returns in 18:12, *Yahweh … had departed from Saul*, and at Endor, *God has departed from me*
-(28:15) (stored WEB; not yet ingested). The only other man in the stored books troubled by *an evil spirit from God* is
+(28:15) (stored WEB; 18:12 in [[Saul's Jealousy of David]], 28:15 not yet ingested). The only other man in the stored books troubled by *an evil spirit from God* is
 Abimelech (Judges 9:23); both die asking an armor bearer to kill them (Judges 9:54; 1 Samuel 31:4). See [[David Plays the Harp for Saul]] and
 [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]].
 
@@ -306,12 +306,32 @@ Then he *took him that day, and would let him go no more home to his father's ho
 Samuel's warning, *he will take your sons* (8:11); in 16:22 he had asked Jesse's leave, and here he does not. He sends
 David out, and David *behaved himself wisely*, and Saul *set him over the men of war* (18:5). The verse records that
 it was good *in the sight of all the people, and also in the sight of Saul's servants*, and says nothing of Saul's own
-sight, which the next verses turn to: *Saul watched David from that day and forward* (18:9, stored WEB; not yet
-ingested). His son, meanwhile, loves David, makes a covenant with him, and gives him the robe and the sword (18:1–4);
+sight, which the next verses turn to: *Saul watched David from that day and forward* (18:9, stored WEB;
+[[Saul's Jealousy of David]]). His son, meanwhile, loves David, makes a covenant with him, and gives him the robe and the sword (18:1–4);
 Saul will call it conspiracy, *qāšar*, the verb of 18:1 (22:8, stored WEB; not yet ingested). See
 [[Jonathan Loves David]].
 
 Source: stored WEB 1 Samuel 8:11; 16:19–22; 17:25, 55–58; 18:1–9; 22:8. Hebrew WLC (OpenScriptures morphhb),
+2026-11-21.
+
+### Thousands and ten thousands — 1 Samuel 18:6–16
+
+The women come out of all the cities of Israel *to meet king Saul*, and their song gives him thousands and David ten
+thousands (18:6–7). He is *very angry*; it is *evil in his eyes*; and he reasons to the end of it, *What can he have
+more but the kingdom?* (18:8). He does not know what Samuel told him at 15:28 was already done in Bethlehem (16:1–13),
+but he guesses it from a song. From that day he *watched David* (18:9).
+
+The next day the evil spirit *came mightily* on him, the verb of the Spirit's rush at 10:6, 10 and 11:6, and he
+*prophesied in the middle of the house* with his spear in his hand, as at the hill of God he had prophesied among the
+prophets. He throws the spear, *I will strike David and the wall*, literally (*ʾakkeh*, the *hiphil* of *nāḵâ*, the
+women's *hikkâ*, *has slain*, WLC), and David escapes twice (18:10–11). The narrator's reason: *Saul was afraid of
+David, because Yahweh was with him, and had departed from Saul* (18:12). Yahweh *departed*, *sār*, and Saul *removed*
+David, *wayəsirēhû*, the same verb *sûr* (18:13, WLC), sending him to command a thousand, and David goes out and comes in
+before the people, who love him (18:13, 16). When Saul *saw* David's success he *stood in awe of him* (18:15). His fear
+grows in three words, *angry*, *afraid*, *in awe*; the text does not say his love of 16:21 ended. See
+[[Saul's Jealousy of David]] and [[Saul Has Slain His Thousands - 1 Samuel 18.7, 21.11, and 29.5]].
+
+Source: stored WEB 1 Samuel 10:6, 10; 11:6; 15:28; 16:1–13, 21; 18:6–16. Hebrew WLC (OpenScriptures morphhb),
 2026-11-21.
 
 ## Timeline / key events
@@ -355,8 +375,12 @@ Source: stored WEB 1 Samuel 8:11; 16:19–22; 17:25, 55–58; 18:1–9; 22:8. He
   be with you*; dresses him in his armor — 17:25, 31–39.
 - Asks Abner and then David *whose son* he is; takes David and keeps him from going home; sets him over the men of
   war — 17:55–58; 18:2, 5.
+- Met by the singing women; angered by *Saul has slain his thousands, and David his ten thousands*; watches David;
+  under the evil spirit, prophesies and throws the spear twice; afraid of David and sends him to command a thousand;
+  stands in awe of him — 18:6–15.
 
 ## Appears in
+- [[Saul's Jealousy of David]] — 1 Samuel 18:6–15; the song; *What can he have more but the kingdom?*; the spear; *afraid of David*.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–58; 18:2, 5; *whose son is this youth?*; takes David, and sets him over the men of war.
 - [[David Comes to the Camp]] — 1 Samuel 17:25, 31–39; the reward; *you are but a youth*; *Go! Yahweh will be with you*; the armor.
 - [[Goliath Defies Israel]] — 1 Samuel 17:2, 8, 11; camped at Elah; Israel called *servants to Saul*; dismayed and afraid.

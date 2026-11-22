@@ -628,7 +628,17 @@ listen to his voice …* (12:14). Saul's confession names the other fear: *becau
 voice* (15:24), *yārēʾṯî ʾeṯ-hāʿām* (WLC). The king feared the wrong one, and listened to the wrong voice. See
 [[Saul Rejected over Amalek]]. Source: stored WEB 1 Samuel 12:14, 24; 15:24. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### Afraid of David — 1 Samuel 18:12, 15
+
+*Saul was afraid of David, because Yahweh was with him* (18:12), *wayyirāʾ šāʾûl millip̄nê dāwiḏ* (WLC), and when he saw
+David's success *he stood in awe of him*, *wayyāḡor mippānāyw* (18:15, WLC; *gûr*, morphhb lemma 1481 c, which in the
+files checked is also Moab's dread of Israel, Numbers 22:3). Saul had said *I feared the people* (15:24); now he fears
+the man with whom Yahweh is. The text does not call it fear of God; it is fear of what God is doing, aimed at the man
+it is done through. See [[Saul's Jealousy of David]]. Source: stored WEB Numbers 22:3; 1 Samuel 15:24; 18:12–15.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Saul's Jealousy of David]] — 1 Samuel 18:12, 15; *Saul was afraid of David, because Yahweh was with him*; *he stood in awe of him*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:24; *I feared the people, and obeyed their voice*.
 
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:15; *ḥerdaṯ ʾĕlōhîm*, a trembling of God, in the Philistine camp.

@@ -49,6 +49,7 @@ the pericope, and 18:5 moves David out to wherever Saul sends him. See [[Jonatha
 Source: stored WEB 1 Samuel 17:55–18:5.
 
 ## Appears in
+- [[Saul's Jealousy of David]] — 1 Samuel 18:6; the army's return *from the slaughter of the Philistine*; the valley is not named.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–57; Saul watches, and Abner brings David from the slaughter.
 - [[David Kills Goliath]] — 1 Samuel 17:41–53; the fight between the lines, and the pursuit from the valley.
 - [[David Comes to the Camp]] — 1 Samuel 17:19–24; Israel *fighting with the Philistines*; the battle line where David hears Goliath.

@@ -225,7 +225,18 @@ brothers* (16:13), and the scene recalls Joseph's brothers, who *envied him* (Ge
 The wiki notes the pattern and leaves the motive where the text leaves it. See [[David Comes to the Camp]]. Source: stored WEB 1 Samuel
 16:6–13; 17:28; Genesis 37:11.
 
+### Saul and the song — 1 Samuel 18:6–16
+
+The women sing *Saul has slain his thousands, and David his ten thousands*, and Saul is *very angry*: *it was evil in
+his eyes*, *wayyēraʿ bəʿênāyw* (18:8, WLC). He takes the song as a ranking and follows it to its end, *What can he have
+more but the kingdom?*, and *watched David from that day and forward* (18:8–9). The text never names the feeling
+*qinʾâ*; it gives anger, watching, fear (*yārēʾ*, 18:12), and dread (*gûr*, 18:15), and its reason is not the song but
+that *Yahweh was with him, and had departed from Saul* (18:12). Envy is the wiki's word for the sequence. Eliab's anger
+at the youngest brother (17:28) came first; Saul's is a king's, and it has a throne at stake. See
+[[Saul's Jealousy of David]] and [[Saul Has Slain His Thousands - 1 Samuel 18.7, 21.11, and 29.5]]. Source: stored WEB 1 Samuel 18:6–16. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
+- [[Saul's Jealousy of David]] — 1 Samuel 18:8–9, 12, 15; *What can he have more but the kingdom?*; *Saul watched David*.
 - [[David Comes to the Camp]] — 1 Samuel 17:28; Eliab's anger, unexplained, at the youngest brother.
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:6–7; Peninnah, the *rival*, provokes Hannah year by year

@@ -175,7 +175,22 @@ gives the love only from Jonathan's side here. See [[Jonathan Loves David]].
 Source: stored WEB 1 Samuel 16:18–22; 17:15, 38–39, 55–58; 18:1–5; Joshua 1:7–8. Hebrew WLC (OpenScriptures morphhb),
 2026-11-21.
 
+### Ten thousands — 1 Samuel 18:6–16
+
+The song of the women puts him above the king: *Saul has slain his thousands, and David his ten thousands* (18:7). He
+says nothing in the pericope, and does nothing the narrator reports except play, escape, go out and come in, and behave
+wisely. He plays his harp *as he did day by day* (18:10); Saul throws the spear, and he escapes *twice* (18:11). The
+narrator gives the reason twice, as a fact and not a promise: *Yahweh was with him* (18:12, 14), the words Saul's
+servant had used of him at 16:18. Sent from Saul's presence to command a thousand, he *went out and came in before the
+people*, the phrase of Moses' prayer for a shepherd (Numbers 27:17), and *all Israel and Judah loved David* (18:13,
+16). Saul's fear and the people's love grow in the same verses. See [[Saul's Jealousy of David]] and
+[[Saul Has Slain His Thousands - 1 Samuel 18.7, 21.11, and 29.5]].
+
+Source: stored WEB Numbers 27:17; 1 Samuel 16:18; 18:6–16. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Timeline / key events
+- 1 Samuel 18:6–16 — sung as *ten thousands* by the women; escapes Saul's spear twice; made captain over a thousand;
+  *behaved himself wisely*, and *Yahweh was with him*; loved by all Israel and Judah. [[Saul's Jealousy of David]]
 - 1 Samuel 17:55–18:5 — names his father to Saul; loved by Jonathan, who makes a covenant with him and gives him his
   robe and sword; kept by Saul and set over the men of war. [[Jonathan Loves David]]
 - 1 Samuel 17:41–54 — answers Goliath *in the name of Yahweh of Armies*; kills him with a sling and a stone and cuts
@@ -196,6 +211,7 @@ Source: stored WEB 1 Samuel 16:18–22; 17:15, 38–39, 55–58; 18:1–5; Joshu
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Saul's Jealousy of David]] — 1 Samuel 18:6–16; *David his ten thousands*; the spear; captain over a thousand; *Yahweh was with him*; loved by all Israel and Judah.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–18:5; *the son of your servant Jesse*; Jonathan's love, covenant, and robe; *behaved himself wisely*.
 - [[David Kills Goliath]] — 1 Samuel 17:41–54; *in the name of Yahweh of Armies*; *the battle is Yahweh's*; the stone, the sword, and the head.
 - [[David Comes to the Camp]] — 1 Samuel 17:12–40; the youngest, sent with food; his first words; *Yahweh who delivered me*; five smooth stones.

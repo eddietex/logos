@@ -655,7 +655,7 @@ Source: stored WEB Song 8:13–14.
 
 The first love for David in 1 Samuel is Saul's: *David came to Saul, and stood before him. He loved him greatly*
 (16:21), *wayyeʾĕhāḇēhû məʾōḏ* (WLC). The subject is not named; the natural reading is Saul. Jonathan (18:1–3, see below), all Israel and
-Judah, Michal, and Saul's servants follow (18:16, 20, 22, stored WEB; not yet ingested), and Saul's love becomes
+Judah, Michal, and Saul's servants follow (18:16, [[Saul's Jealousy of David]]; 18:20, 22, stored WEB, not yet ingested), and Saul's love becomes
 fear (18:12). See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
 ### *As his own soul* — 1 Samuel 18:1–3
@@ -669,8 +669,17 @@ it here. It is expressed at once in a covenant and a gift, the robe, the clothin
 [[Jonathan Loves David]] and [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]]. Source: stored WEB
 Genesis 44:30; Deuteronomy 13:6; 1 Samuel 18:1–4. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### All Israel and Judah — 1 Samuel 18:16
+
+*But all Israel and Judah loved David; for he went out and came in before them* (18:16): *ʾōhēḇ*, a participle, and a
+reason given (WLC). After Saul (16:21) and Jonathan (18:1, 3), the love is the people's, and it is set against Saul's
+fear in the verse before (18:15). The reason is public: he *went out and came in before them*, the leader's phrase of
+Numbers 27:17. See [[Saul's Jealousy of David]]. Source: stored WEB Numbers 27:17; 1 Samuel 16:21; 18:1–3, 13–16.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
 ## Key passages
 
+- [[Saul's Jealousy of David]] — 1 Samuel 18:16; *all Israel and Judah loved David*, against Saul's fear.
 - [[Jonathan Loves David]] — 1 Samuel 18:1, 3; *Jonathan loved him as his own soul*; love as the ground of a covenant.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:21; *He loved him greatly*, the first love for David in the book.
 - [[Ruth at the Threshing Floor]] — Ruth 3:10; *more kindness in the latter end than at the beginning*.

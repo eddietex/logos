@@ -52,7 +52,7 @@ sheep* (19). Jesse is called *the Bethlehemite*, *bêṯ hallaḥmî* (18, WLC),
 **What is going on.** The pericope is framed by one verb. *Sārâ*, *departed* (morphhb lemma 5493), opens it, *Yahweh's
 Spirit departed from Saul* (14), and closes it, *the evil spirit departed from him* (23) (WLC). The same verb returns
 at the turning points of Saul's story: *Yahweh was with him, and had departed from Saul* (18:12), and at Endor, Saul's
-*God has departed from me* and Samuel's reply, *Yahweh has departed from you* (28:15–16) (WLC; stored WEB, not yet
+*God has departed from me* and Samuel's reply, *Yahweh has departed from you* (28:15–16) (WLC; stored WEB; 18:12 in [[Saul's Jealousy of David]], 28:15–16 not yet
 ingested). What leaves at the start of the pericope is Yahweh's Spirit, which does not come back. What leaves at the
 end is the evil spirit, and it leaves only for a while.
 
@@ -119,7 +119,7 @@ loves him. The reader knows what Saul does not.
   before* is the language of service at court. The servants in verse 16 are those *in front of you*, *ləp̄ānêḵā*.
 - **He loved him greatly.** *Wayyeʾĕhāḇēhû məʾōḏ* (21, WLC). The subject is not named, but the natural reading is
   that Saul loved David. It is the first time in 1 Samuel that anyone is said to love David. Jonathan (18:1, 3; [[Jonathan Loves David]]), *all Israel and
-  Judah*, Michal, and Saul's servants follow (18:16, 20, 22, stored WEB; not yet ingested). See [[Love]].
+  Judah*, Michal, and Saul's servants follow (18:16, [[Saul's Jealousy of David]]; 18:20, 22, stored WEB, not yet ingested). See [[Love]].
 - **His armor bearer.** *Nōśēʾ ḵēlîm* (21, WLC). In the Hebrew files checked the phrase is used of Abimelech's young
   man (Judges 9:54), of Jonathan's (14:1, 6, 7, 12), of David here, of Saul's at Gilboa (31:4–6), and of Joab's ten young men
   (2 Samuel 18:15). Abimelech and Saul, the two men troubled by *an evil spirit from God* in those books, both die by
@@ -136,7 +136,7 @@ loves him. The reader knows what Saul does not.
 
 **How it connects.** The pericope opens the story of Saul and David that runs to the end of the book. Saul's love
 (21) turns to fear: *Saul was afraid of David, because Yahweh was with him, and had departed from Saul* (18:12, stored
-WEB; not yet ingested). The music that calms him in 16:23 is the setting of the spear thrown at David in 18:10–11 and
+WEB; [[Saul's Jealousy of David]]). The music that calms him in 16:23 is the setting of the spear thrown at David in 18:10–11 and
 19:9–10. The servant's *Yahweh is with him* (18) becomes the narrator's (18:14). David is later remembered as *the
 sweet psalmist of Israel* (2 Samuel 23:1, WEB checked at bible-api.com; not stored), and his playing here is the first
 time the narrative shows him making music.
