@@ -615,6 +615,7 @@ the one Israel comes from.**
   Aram. Israel served to get a wife, and for a wife he tended flocks."*
 - Job 1:3 — *"the greatest of all the children of the east"*: the wiki's other instance of the
   region named at 29:1.
+- Joshua 9:22; 1 Samuel 19:17; 28:12 — *Why have you deceived me?* after 29:25 — [[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]]
 
 ## Notes
 

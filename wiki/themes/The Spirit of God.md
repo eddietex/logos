@@ -206,7 +206,18 @@ The narrator then names the exchange behind it: *Yahweh was with him, and had de
 [[Saul's Jealousy of David]] and [[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB Judges
 14:6; 1 Samuel 10:6, 10; 11:6; 16:13–14; 18:10–12. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### *An evil spirit of Yahweh* — 1 Samuel 19:9
+
+The scene of 18:10–11 is repeated: *An evil spirit from Yahweh was on Saul, as he sat in his house with his spear in
+his hand; and David was playing with his hand* (19:9). The Hebrew is *rûaḥ YHWH rāʿâ* (WLC), the divine name in
+construct with *spirit*, where 16:14 has *rûaḥ rāʿâ mēʾēṯ YHWH*, *an evil spirit from Yahweh*, and 16:15–16 and 18:10
+have *ʾĕlōhîm*. In the files checked only 16:14 and 19:9 have *Yahweh*, *spirit*, and *evil* in one verse. Here the
+spirit is not said to *rush*; it is *on* him. The harp does not calm it, and the third spear follows (19:10). See
+[[Michal Helps David Escape]] and [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]]. Source: stored
+WEB 1 Samuel 16:14–23; 18:10–11; 19:9–10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Michal Helps David Escape]] — 1 Samuel 19:9; *an evil spirit from Yahweh was on Saul*; the harp, and the third spear.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:10, 12; *an evil spirit from God came mightily on Saul*; *Yahweh … had departed from Saul*.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23; *Yahweh's Spirit departed from Saul*, and *an evil spirit from Yahweh troubled him*.
 - [[Samuel Anoints David]] — 1 Samuel 16:13; *came mightily on David from that day forward*.

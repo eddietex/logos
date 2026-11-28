@@ -1008,7 +1008,16 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 (25:6). The law does not speak of the dead man himself, only of his name in Israel. See [[Justice, Family Duty, Honest Weights, and Amalek]] and
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
+### *Tonight … tomorrow* — 1 Samuel 19:11
+
+*If you don't save your life tonight, tomorrow you will be killed*, *ʾim-ʾênǝḵā mǝmallēṭ ʾeṯ-napšǝḵā hallaylâ māḥār
+ʾattâ mûmāṯ* (19:11, WLC). Michal's warning uses the *hophal* of *mûṯ*, *be put to death*, five verses after Saul's
+oath used it, *he shall not be put to death* (19:6). Life is measured in one night, and saved by an escape: *mālaṭ*,
+*escape*, comes four times in 19:10–17. See [[Michal Helps David Escape]] and
+[[As Yahweh Lives - The Three Oaths of Saul]]. Source: stored WEB 1 Samuel 19:6–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Michal Helps David Escape]] — 1 Samuel 19:11; *If you don't save your life tonight, tomorrow you will be killed*.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:10–12; *to kill us and our people*; *a deadly confusion*.
 - [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sons slain, Eli's fall, and a mother dying as her son is born.
 - [[The Song of Hannah]] — 1 Samuel 2:6; *Yahweh kills, and makes alive. He brings down to Sheol, and brings up*.

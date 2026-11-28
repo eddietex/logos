@@ -658,7 +658,18 @@ The teraphim will appear in Saul's own house (19:13), and the king who expels th
 [[The Teraphim - Household Gods in Genesis and After]]. Source: stored WEB Genesis 31:19; Deuteronomy 18:10; Judges
 17:5; 1 Samuel 15:23; 19:13; 28:3. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### The teraphim in David's house — 1 Samuel 19:13, 16
+
+Four chapters after Samuel names *teraphim* beside idolatry as the image of Saul's sin (15:23), Saul's daughter has
+them in her house and lays them in David's bed as a decoy (19:13, 16). The text does not say whose they were or why
+they were there, and passes no judgment on their presence. In the Hebrew files checked *tǝrāp̄îm* occurs at Genesis
+31:19, 34, 35; Judges 17:5; 18:14, 17, 18, 20; 1 Samuel 15:23; 19:13, 16 (WLC). Here they are the size of a man; in
+Genesis they fit under a camel's saddle. See [[Michal Helps David Escape]] and
+[[The Teraphim - Household Gods in Genesis and After]]. Source: stored WEB Genesis 31:19–35; 1 Samuel 15:23; 19:13–16.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Michal Helps David Escape]] — 1 Samuel 19:13, 16; *the teraphim* laid in David's bed as a decoy.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:23; *stubbornness is as idolatry and teraphim*.
 - [[Israel Asks for a King]] — 1 Samuel 8:7–8; *forsaken me, and served other gods, so they also do to you*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–4; the foreign gods, the Baals, and the Ashtaroth put away; *serve him only*.

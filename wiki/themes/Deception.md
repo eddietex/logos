@@ -451,7 +451,22 @@ The trap fails; David pays the price twice. Genesis 34:13 is the other bride-pri
 [[David Marries Michal]] and [[A Bride-Price of Foreskins - Shechem, Saul, and David]]. Source: stored WEB Genesis
 34:13; Exodus 23:33; Deuteronomy 7:16; Judges 2:3; 1 Samuel 18:17–27. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### The teraphim in the bed — 1 Samuel 19:11–17
+
+Michal deceives her father's messengers with an object and a word: the teraphim laid in David's bed under clothes,
+with goats' hair at its head (19:13), and *He is sick* (19:14). When Saul confronts her, she lies again and puts the lie
+in David's mouth, *He said to me, 'Let me go! Why should I kill you?'* (19:17). The narrator passes no verdict. Saul's
+*Why have you deceived me thus …?*, *lāmmâ kāḵâ rimmîṯinî* (WLC), is the question Jacob put to Laban (Genesis 29:25)
+and Joshua to the Gibeonites (Joshua 9:22), and the medium will put it to Saul in disguise (28:12). In the Hebrew files
+checked the *piel* of *rāmâ* occurs only in those verses and 2 Samuel 19:27; it is always the deceived who uses it,
+after the deception has worked. Like Rachel (Genesis 31:34–35) and Rahab (Joshua 2:4–5), Michal deceives a father or
+a king to save a fugitive. See [[Michal Helps David Escape]],
+[[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]], and
+[[Let Down Through the Window - Rahab and Michal]]. Source: stored WEB Genesis 29:25; 31:34–35; Joshua 2:4–5; 9:22;
+1 Samuel 19:11–17; 28:12. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Michal Helps David Escape]] — 1 Samuel 19:13–17; the teraphim in the bed; *He is sick*; *Why have you deceived me thus …?*
 - [[David Marries Michal]] — 1 Samuel 18:17–25; two marriage offers as traps; the servants speak *secretly*; *that she may be a snare to him*.
 - [[Samuel Anoints David]] — 1 Samuel 16:2–5; a real sacrifice, given by Yahweh as cover for the anointing.
 - [[Samson and Delilah]] — Judges 16:5–18; *Entice him*; three lies; *you have mocked me, and told me lies*.
@@ -723,3 +738,4 @@ The trap fails; David pays the price twice. Genesis 34:13 is the other bride-pri
   me these two times"*
 - [[Laban (person)]] — who runs the same substitution back on the deceiver, and calls it a local custom
 - [[Jochebed]] — obeys the decree to the letter and is hired to nurse her own son (Exodus 2:3, 9)
+- [[Michal]] — who deceives her father's messengers with the teraphim and *He is sick*, and her father with an invented threat (1 Samuel 19:13–17)

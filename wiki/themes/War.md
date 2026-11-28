@@ -1065,7 +1065,16 @@ sentence, *the battle is Yahweh's*, occurs only at 17:47 (WLC). See [[David Kill
 [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]. Source: stored WEB 1 Samuel
 17:8–9, 41–54; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### War again — 1 Samuel 19:8
+
+*There was war again*, *wattōsep̄ hammilḥāmâ lihyôṯ* (19:8, WLC): the narrator names no enemy's muster and no place.
+David *killed them with a great slaughter*, *makkâ ḡǝḏôlâ*, the phrase used in the files checked of Joshua at Gibeon
+(Joshua 10:10, 20), Jephthah (Judges 11:33), Samson (15:8), and Israel's own defeat at Ebenezer (4:10) (WLC). As at
+18:5–11 and 18:27–29, David's victory is followed at once by Saul's spear. See [[Michal Helps David Escape]]. Source:
+stored WEB Joshua 10:10, 20; Judges 11:33; 15:8; 1 Samuel 4:10; 19:8–10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Michal Helps David Escape]] — 1 Samuel 19:8; *There was war again*; *a great slaughter*, and then the spear.
 - [[David Kills Goliath]] — 1 Samuel 17:41–54; *the battle is Yahweh's*; the stone, the champion beheaded, the rout and the plunder.
 - [[David Comes to the Camp]] — 1 Samuel 17:16–40; forty days, the battle line, and the shepherd sent out.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; armies arrayed, the champion's armor, single combat for servitude, and Israel dismayed.

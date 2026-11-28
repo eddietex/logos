@@ -163,6 +163,15 @@ reading that Jacob's *"anyone you find your gods with shall not live"* (31:32) i
 not the text's**; Genesis draws no line between the two verses, and the wiki records the reading as a
 reading.
 
+### The teraphim again — 1 Samuel 19:13
+
+Her theft of Laban's teraphim has its closest parallel in [[Michal]], Saul's daughter, who lays *the teraphim* in
+David's bed as he flees from her father and turns away the search with *He is sick* (1 Samuel 19:13–14). Rachel's
+lie was *I'm having my period* (Genesis 31:35). The Hebrew of both stories also shares the verbs *flee* and *send
+away* (Genesis 31:20–22, 27; 1 Samuel 19:12, 17; WLC). See [[Michal Helps David Escape]] and
+[[The Teraphim - Household Gods in Genesis and After]]. Source: stored WEB Genesis 31:19–35; 1 Samuel 19:11–17.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
@@ -288,6 +297,7 @@ over the killing of the infants at Bethlehem. See
 - [[Boaz Redeems at the Gate]] — Ruth 4:11; *like Rachel and like Leah, which both built the house of Israel*, named first.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:2; her tomb, *on the border of Benjamin at Zelzah*, is the place of Saul's
   first sign
+- [[Michal Helps David Escape]] — 1 Samuel 19:13; not named; Michal's teraphim in the bed recall hers in the saddle
 
 ## Related people
 
@@ -307,6 +317,7 @@ over the killing of the infants at Bethlehem. See
 - [[Dan (person)]] and [[Naphtali]] — Bilhah's sons, borne for her and named by her as two rulings in
   her favour
 - [[Phinehas' Wife]] — who also dies in childbirth, told *Don't be afraid* and naming her son for her grief; see [[Do Not Be Afraid, You Have a Son - Rachel and Phinehas' Wife]]
+- [[Michal]] — the other daughter who used teraphim to cover a husband's flight from her father (1 Samuel 19:13)
 
 ## Themes associated
 

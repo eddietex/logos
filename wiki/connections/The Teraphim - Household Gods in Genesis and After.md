@@ -17,7 +17,8 @@ tags: [connection]
   who carry the lot of it off — [[Micah's Idol and Levite]] (17:5) and [[The Danite Migration]]
   (18:14–20)
 - **1 Samuel 15:23** — *"stubbornness is as idolatry and teraphim"* — [[Saul Rejected over Amalek]]
-- **1 Samuel 19:11–17** — Michal puts *teraphim* in David's bed and tells her father's men he is sick
+- **1 Samuel 19:11–17** — Michal puts *teraphim* in David's bed and tells her father's men he is sick —
+  [[Michal Helps David Escape]]
 - **2 Kings 23:24** — Josiah purges *teraphim* along with mediums and household idols
 - **Ezekiel 21:21** — the king of Babylon at the crossroads, shaking arrows and consulting *teraphim*
 - **Hosea 3:4; Zechariah 10:2** — Israel left *"without ephod or teraphim"*, and *teraphim* that
@@ -110,3 +111,17 @@ and Micah's cry is *You have taken away my gods which I made* (24). Rachel's the
 found (Genesis 31:34–35); the Danites' is done in the open, with six hundred armed men at the gate
 (18:16–17). Verses 30–31 name only *the engraved image* set up at Dan; what became of the teraphim the text
 does not say. See [[The Danite Migration]]. Source: stored WEB Genesis 31:34–35; Judges 18:14–31.
+
+### 1 Samuel 19 now ingested
+
+The parallel stated above holds in the Hebrew, and goes beyond the object. In the WLC, Genesis 31 has Jacob *flee*,
+*bāraḥ* (31:20–22, 27), and Laban ask *Why did you hide yourself to flee?*, *naḥbēʾṯā liḇrōaḥ*, and say he would have
+*sent you away*, *wāʾăšallēḥăḵā* (31:27). 1 Samuel 19 has David told to *hide yourself* (19:2), David *fled* (19:12),
+and Saul's charge to Michal, *you let my enemy go*, *wattǝšallǝḥî* (19:17). The covering differs: Rachel *sat on* the
+teraphim (Genesis 31:34); Michal laid them in the bed *as* David, with *a pillow of goats' hair at its head* and
+clothes over them (1 Samuel 19:13). *Kǝḇîr*, the goats'-hair object, occurs in the files checked only at 19:13, 16.
+And Michal's teraphim are in the household of the king who was told *stubbornness is as idolatry and teraphim*
+(15:23). The text does not say whose they were. The Significance above calls them *her father's household gods*;
+1 Samuel 19 says only *the teraphim*, in David's house (19:11, 13), so that part of the comparison is the wiki's
+inference, not the text's, and is recorded here rather than silently changed. See [[Michal Helps David Escape]]. Source: stored WEB Genesis 31:19–35;
+1 Samuel 15:23; 19:2, 11–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.

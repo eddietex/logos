@@ -82,6 +82,7 @@ service as wood cutters and water drawers for the congregation and Yahweh’s al
 - [[No Covenant Yet a Binding Oath - Deuteronomy and Gibeon]]
 - [[Rahab and Gibeon - Two Oaths Preserving Life]]
 - [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]]
+- 1 Samuel 19:17; 28:12 — *Why have you deceived me?*, the same *piel* of *rāmâ* as 9:22 — [[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]]
 
 ## Notes
 

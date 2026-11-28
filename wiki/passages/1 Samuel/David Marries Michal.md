@@ -183,8 +183,8 @@ Philistines (25); four verses later the king's enemy is the king.
 - **Even more afraid.** *Wayyōʾsep̄ šāʾûl lērōʾ mippǝnê ḏāwiḏ ʿôḏ* (29, WLC), *Saul added to fear David yet*: the
   fourth step after *angry* (8), *afraid* (12), and *in awe* (15). See [[The Fear of God]].
 - **David's enemy continually.** *Wayǝhî šāʾûl ʾōyēḇ ʾeṯ-dāwiḏ kol-hayyāmîm* (29, WLC), *all the days*. It is the
-  first time the book calls Saul David's enemy. At 19:17 Saul calls David *my enemy*, and at 24:4 David's men call
-  Saul *your enemy* (stored WEB; not yet ingested).
+  first time the book calls Saul David's enemy. At 19:17 Saul calls David *my enemy* (see [[Michal Helps David Escape]]),
+  and at 24:4 David's men call Saul *your enemy* (stored WEB; not yet ingested).
 - **More wisely than all.** *Śāḵal dāwiḏ mikkōl ʿaḇdê šāʾûl* (30, WLC), the fourth *śāḵal* of the chapter (5, 14, 15,
   30) and in the files checked the last in 1 Samuel. See [[Wisdom]].
 - **Highly esteemed.** *Wayyîqar šǝmô mǝʾōḏ* (30, WLC), *his name was precious*. *Yāqar* (lemma 3365) occurs in the
@@ -195,7 +195,8 @@ Philistines (25); four verses later the king's enemy is the king.
 and Saul feared him (12, 14–15, 28–29). The reward of 17:25, *the king … will give him his daughter*, is paid here,
 though 18:17–27 never refers back to it, and the condition is new (see [[David Comes to the Camp]] and [[Merab]]).
 Michal's love is what makes her a snare in Saul's plan, and the same love will make her David's rescuer when Saul
-sends men to kill him in his house (19:11–17, stored WEB; not yet ingested); then Saul gives her to Palti son of
+sends men to kill him in his house (19:11–17, now [[Michal Helps David Escape]], where the narrator calls her
+*David's wife* and does not name her love); then Saul gives her to Palti son of
 Laish (25:44), and David demands her back (2 Samuel 3:13–16). The plan to kill David *by the hand of the Philistines*
 is the plan David will carry out against Uriah (2 Samuel 11:14–17, recalled, not checked; no 2 Samuel WEB stored).
 
@@ -249,7 +250,8 @@ is the plan David will carry out against Uriah (2 Samuel 11:14–17, recalled, n
 - 1 Samuel 17:25 — the king's daughter promised — [[David Comes to the Camp]]
 - 1 Samuel 18:12–15 — *Yahweh was with him*; Saul's fear — [[Saul's Jealousy of David]],
   [[I Will Be With You - The Promise of Presence]]
-- 1 Samuel 19:11–17; 25:44; 2 Samuel 3:13–16; 6:16–23 — Michal after the marriage (not yet ingested)
+- 1 Samuel 19:11–17 — Michal saves David — [[Michal Helps David Escape]]
+- 1 Samuel 25:44; 2 Samuel 3:13–16; 6:16–23 — Michal after the marriage (not yet ingested)
 - 2 Samuel 12:1–4 — *the poor man* of Nathan's parable (not yet ingested)
 - 2 Samuel 21:8 — Adriel's sons, and the Merab/Michal reading (not yet ingested)
 

@@ -214,7 +214,21 @@ back *in his presence, as before* (19:6–7). See [[Jonathan Speaks for David]] 
 
 Source: stored WEB 1 Samuel 10:22; 19:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### Down through the window — 1 Samuel 19:8–17
+
+He wins again, *with a great slaughter* (19:8), and plays again for Saul while the evil spirit is on him (19:9). The
+third spear misses: *he slipped away out of Saul's presence*, *wayyip̄ṭar*, a verb that occurs in the Hebrew files
+checked only here (WLC), and *fled, and escaped that night* (19:10). It is the first time *bāraḥ*, *flee*, is used of
+him; the fugitive years begin here. His wife saves him. Michal warns him, lets him down through the window, and puts
+the teraphim in his bed (19:11–13). He says nothing in the pericope; the only words given him are the ones Michal
+invents, *Let me go! Why should I kill you?* (19:17). Saul now calls him *my enemy* (19:17). See
+[[Michal Helps David Escape]] and [[Let Down Through the Window - Rahab and Michal]].
+
+Source: stored WEB 1 Samuel 19:8–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
+- 1 Samuel 19:8–17 — wins *with a great slaughter*; slips away from the third spear; let down through the window
+  by Michal; *fled, and escaped*. [[Michal Helps David Escape]]
 - 1 Samuel 19:1–7 — told by Jonathan to hide; defended to Saul as one who *put his life in his hand*; restored to
   Saul's presence *as before*. [[Jonathan Speaks for David]]
 - 1 Samuel 18:17–30 — *Who am I … that I should be son-in-law to the king?*; *a poor man, and little known*; kills
@@ -242,6 +256,7 @@ Source: stored WEB 1 Samuel 10:22; 19:1–7. Hebrew WLC (OpenScriptures morphhb)
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Michal Helps David Escape]] — 1 Samuel 19:8–17; the third spear; let down through the window; *fled, and escaped*; called *my enemy*.
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; hidden, defended by Jonathan, and restored *as before*.
 - [[David Marries Michal]] — 1 Samuel 18:17–30; *Who am I*; two hundred foreskins; married to Michal; *his name was highly esteemed*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6–16; *David his ten thousands*; the spear; captain over a thousand; *Yahweh was with him*; loved by all Israel and Judah.

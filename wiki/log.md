@@ -29563,3 +29563,59 @@ No lexicon or Septuagint text was consulted.
 Link check: `scripts/link-check.sh` fails on this host before checking anything (`declare: -A: invalid option`; macOS
 bash 3.2, no GNU `find`); its two checks were run through the same line-for-line Python port used last run — no
 wrapped links, no dangling links, baseline 53 not-yet-started books.
+
+## [2026-11-28] ingest | 1 Samuel 19.8-17 — Michal Helps David Escape
+
+Unattended run. Created [[Michal Helps David Escape]] and the connections
+[[Let Down Through the Window - Rahab and Michal]] and
+[[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]]. Revised [[1 Samuel]] (box checked;
+overview paragraph; key themes; key people); the people [[Michal]], [[David]], [[Saul]], [[Rahab]], and [[Rachel]]; the
+themes [[Deception]], [[Idolatry]], [[Marriage]], [[The Spirit of God]], [[War]], and [[Life and Death]]; the
+connections [[The Teraphim - Household Gods in Genesis and After]],
+[[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]], [[As Yahweh Lives - The Three Oaths of Saul]],
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]],
+[[The Midwives and Rahab - Deceiving the King to Save Life]],
+[[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]], and
+[[The Younger Before the Firstborn - Jacob and Laban]] (a new section each); and the passages
+[[Saul's Jealousy of David]], [[Jonathan Speaks for David]], and [[David Marries Michal]] ("not yet ingested" notes for
+19:8–17 resolved), plus cross-references in [[Rahab and the Spies]], [[Jacob's Flight from Laban]],
+[[The Gibeonite Deception]], and [[Jacob, Leah, and Rachel]]. Also `wiki/books/index.md` (31 / 47), People Index A-E
+(one row), F-M (one), and N-Z (three), the themes index (six rows), Connections Index I-N (one new row, one revised),
+T-Z (one new, four revised), A-C and D-H (one revised each), and the dashboard counts. Frontmatter totals:
+517 passages, 400 people, 619 places, 88 themes, 976 connections.
+
+Judgment calls: the boundary 19:8–17 stands. The spear (8–10) and the window (11–17) are kept together because the
+narrator joins them with *that night* (10) and *tonight* (11); 19:18 opens the flight to Ramah. No new person page:
+Saul's *messengers* (11, 14–16) are not individuated. No place page and no place link beyond [[Gibeah (Benjamin)]],
+because the pericope names no town. The Rachel parallel (Genesis 31) went into a new section of the existing teraphim
+connection, not a page of its own. The Damascus escape (Acts 9:23–25; 2 Corinthians 11:32–33) is recorded on the
+window connection as a parallel in the narrative pieces, with the Greek unchecked and no allusion claimed. In the
+*rāmâ* thread, morphhb's tagging of Numbers 15:30 (*bǝyāḏ rāmâ*) under 7411 b is set aside as a different word.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`, as downloaded 2026-11-28
+and reused from that session's cache): the *hiphil* of *yāraḏ* with *ḥallôn* only at Joshua 2:15, 18 and 1 Samuel
+19:12; *ḥallôn* in eight verses (Genesis 8:6; 26:8; Joshua 2:15, 18, 21; Judges 5:28; 1 Samuel 19:12; 2 Samuel 6:16);
+the *piel* of *rāmâ* (7411 b) at Genesis 29:25; Joshua 9:22; 1 Samuel 19:17; 28:12; 2 Samuel 19:27, the first four
+as *lāmmâ rimmîṯ-*; *pāṭar* (6362) only at 1 Samuel 19:10; *kǝḇîr* (3523) only at 19:13, 16; *mǝraʾăšōṯ* (4763) at
+Genesis 28:11, 18; 1 Samuel 19:13, 16; 26:7, 11, 16; *mālaṭ* (4422) in eleven verses of 1 Samuel, five of them in
+19:10–18; *bāraḥ* first of David at 19:12; *Yahweh*, *spirit*, and *evil* in one verse only at 16:14 and 19:9;
+*tǝrāp̄îm* (8655) at Genesis 31:19, 34, 35; Judges 17:5; 18:14, 17, 18, 20; 1 Samuel 15:23; 19:13, 16; *makkâ
+ḡǝḏôlâ* at Joshua 10:10, 20; Judges 11:33; 15:8; 1 Samuel 4:10; 6:19; 19:8; 23:5; *ḥōleh* (2470 a) participle at
+Genesis 48:1; 1 Samuel 19:14; 22:8, and the *hithpael* of feigned sickness at 2 Samuel 13:2, 5, 6.
+
+Contradictions recorded, not resolved: [[David Marries Michal]] said Michal's love *will make her David's rescuer*;
+19:11–17 calls her *David's wife* and does not name her love, and the page now says so. [[The Teraphim - Household Gods in Genesis and After]] calls
+Michal's teraphim *her father's household gods*; 19:11–17 does not say whose they were, and the new section there says
+so. Open questions: whose the
+teraphim were; whether *kǝḇîr* is a pillow, net, or quilt; whether Saul believed *Why should I kill you?*; whether
+Genesis 31 or Joshua 2 is meant to be recalled.
+
+Sources: 1 Samuel 19:8–17 from stored WEB, with the not-yet-ingested 1 Samuel 19:18; 20:1, 29, 33; 21:10; 22:1, 6, 8,
+20; 23:5, 13; 24:4; 25:44; 26:7–22; 27:1, 4; 28:8–13; 30:13, 17. Comparisons from stored WEB Genesis, Exodus, Joshua,
+and Judges as cited on the pages. 2 Samuel 3:13–16; 6:16–23; 13:2, 5–6; 19:27 read in the WLC only and paraphrased.
+Acts 9:23–25 and 2 Corinthians 11:32–33 checked at bible-api.com (`translation=web`), 2026-11-28; not stored. No
+lexicon or Septuagint text was consulted.
+
+Link check: `scripts/link-check.sh` still fails on this host before checking anything (`declare: -A: invalid
+option`; macOS bash 3.2); its two checks were run through the same line-for-line Python port as last run — no wrapped
+links, no dangling links, baseline 53 not-yet-started books.

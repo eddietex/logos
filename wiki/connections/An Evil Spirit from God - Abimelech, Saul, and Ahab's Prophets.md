@@ -13,8 +13,8 @@ tags: [connection]
   evil spirit from Yahweh troubled him*; *the evil spirit departed from him*. Stored WEB.
 - [[Saul's Jealousy of David]] — **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house.
   David played with his hand, as he did day by day. Saul had his spear in his hand*. Stored WEB.
-- **1 Samuel 19:9** — *An evil spirit from Yahweh was on Saul, as he sat in his house with his spear in his hand;
-  and David was playing with his hand*. Stored WEB; not yet ingested.
+- [[Michal Helps David Escape]] — **1 Samuel 19:9** — *An evil spirit from Yahweh was on Saul, as he sat in his house
+  with his spear in his hand; and David was playing with his hand*. Stored WEB.
 - **1 Kings 22:19–23** — Micaiah's vision: *I saw Yahweh sitting on his throne* (19); *Who will entice Ahab,
   that he may go up and fall at Ramoth Gilead?* (20); *A spirit came out and stood before Yahweh, and said, 'I will entice him.' … 'I will go out
   and will be a lying spirit in the mouth of all his prophets.' … Now therefore, behold, Yahweh has put a lying spirit
@@ -75,3 +75,11 @@ gives the reason in theological terms, not psychological ones: *Saul was afraid 
 and had departed from Saul* (18:12). The text does not connect the spirit to the jealousy of 18:8–9 in so many words;
 it puts them on consecutive days, *on the next day* (18:10). See [[Saul's Jealousy of David]]. Source: stored WEB
 1 Samuel 18:8–12. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
+### 1 Samuel 19:8–17 now ingested
+
+The third occurrence in 1 Samuel is the shortest. *Wattǝhî rûaḥ YHWH rāʿâ ʾel-šāʾûl* (19:9, WLC), *Yahweh's evil
+spirit was on Saul*: the divine name stands in construct with *spirit*, as nowhere else in the series, and the verb is
+plain *was*, not *came mightily* (18:10). The harp is playing and the spear is thrown anyway (19:10); as at 18:10–11, the cure
+of 16:23 does not work. See [[Michal Helps David Escape]]. Source: stored WEB 1 Samuel 16:23; 18:10; 19:9–10. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-28.

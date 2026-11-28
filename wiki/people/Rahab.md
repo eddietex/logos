@@ -26,6 +26,14 @@ A prostitute living in Jericho whose house is on the wall (1, 15). She shelters 
 
 Source: stored WEB Joshua 2:1–24.
 
+### Michal at the window — 1 Samuel 19:12
+
+*Michal let David down through the window*, *wattōreḏ … bǝʿaḏ haḥallôn* (1 Samuel 19:12, WLC), is the sentence of
+Joshua 2:15, *she let them down by a cord through the window*. In the Hebrew files checked these are the only two
+women who let anyone out through a window, and both turn the king's men away with a false word. See
+[[Let Down Through the Window - Rahab and Michal]] and [[Michal Helps David Escape]]. Source: stored WEB Joshua 2:15;
+1 Samuel 19:11–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Hides the spies under flax and misdirects the king’s messengers (4–7).
@@ -38,6 +46,7 @@ Source: stored WEB Joshua 2:1–24.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Prostitute and the City Gate - Rahab at Jericho and Samson at Gaza]] — Joshua 2:1–7 beside Judges 16:1–3.
 - [[The Generations of Perez]] — Ruth 4:20–21; not named there, but Matthew 1:5 makes her the wife of Salmon in this line.
+- [[Let Down Through the Window - Rahab and Michal]] — Joshua 2:15 beside 1 Samuel 19:12; the same sentence of letting down through the window.
 
 ## Related people
 - [[Joshua (son of Nun)]]
@@ -45,6 +54,7 @@ Source: stored WEB Joshua 2:1–24.
 - [[The Two Spies Sent by Joshua]]
 - [[Salmon]] — her husband, by Matthew 1:5
 - [[Boaz]] — her son, by Matthew 1:5
+- [[Michal]] — who let David down *through the window* (1 Samuel 19:12)
 
 ## Themes associated
 - [[Faith]]

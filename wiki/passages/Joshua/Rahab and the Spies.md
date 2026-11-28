@@ -74,6 +74,7 @@ or rescue of the household is yet narrated.
 - [[Twelve Spies and Two - Numbers 13 and Joshua 2]]
 - [[The Prostitute and the City Gate - Rahab at Jericho and Samson at Gaza]] — the scene replayed by Samson at Gaza (Judges 16:1–3).
 - [[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]] — Gideon's night reconnaissance (Judges 7:9–15), and *Yahweh has delivered … into your hand*.
+- 1 Samuel 19:12 — Michal lets David down *through the window*, the sentence of 2:15 — [[Let Down Through the Window - Rahab and Michal]]
 
 ## Notes
 

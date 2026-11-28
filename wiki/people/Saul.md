@@ -361,6 +361,22 @@ WEB). See [[Jonathan Speaks for David]] and [[As Yahweh Lives - The Three Oaths 
 
 Source: stored WEB 1 Samuel 14:39; 15:20, 24; 19:1–10; 28:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### The third spear, and the messengers — 1 Samuel 19:8–17
+
+The oath of 19:6 does not survive the next victory. After *war again* (19:8), *an evil spirit from Yahweh*, *rûaḥ YHWH
+rāʿâ* (WLC), is on him as he *sat in his house with his spear in his hand* (19:9), and he tries *to pin David to the
+wall*, his own words of 18:11; the spear goes into the wall (19:10). It is the third throw at David. Then he sends,
+three times: messengers to David's house *to watch him, and to kill him in the morning* (19:11), messengers *to take
+David* (19:14), and messengers *to see David*, with the order *Bring him up to me in the bed, that I may kill him*
+(19:15). The king who swore *he shall not be put to death* asks for a sick man to be carried to him to be killed. He
+is deceived by his daughter, and asks her *Why have you deceived me thus, and let my enemy go …?* (19:17), the question
+Jacob asked Laban (Genesis 29:25) and that the medium will ask him at Endor (28:12). *My enemy*, *ʾōyǝḇî*, is the first
+time he says it himself (18:29 was the narrator). See [[Michal Helps David Escape]],
+[[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]], and
+[[As Yahweh Lives - The Three Oaths of Saul]].
+
+Source: stored WEB Genesis 29:25; 1 Samuel 18:11, 29; 19:6–17; 28:12. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -410,8 +426,11 @@ Source: stored WEB 1 Samuel 14:39; 15:20, 24; 19:1–10; 28:10. Hebrew WLC (Open
   18:17–29.
 - Orders Jonathan and all his servants to kill David; listens to Jonathan; swears *As Yahweh lives, he shall not be
   put to death*; receives David back *as before* — 19:1–7.
+- Under *an evil spirit from Yahweh*, throws the spear a third time; sends messengers to kill David in his house;
+  deceived by Michal's teraphim; *Why have you deceived me thus?*; calls David *my enemy* — 19:8–17.
 
 ## Appears in
+- [[Michal Helps David Escape]] — 1 Samuel 19:9–17; the third spear; messengers sent three times; *Bring him up to me in the bed, that I may kill him*; *Why have you deceived me thus?*
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; the order to kill David spoken aloud; *Saul listened to the voice of Jonathan*; *As Yahweh lives*.
 - [[David Marries Michal]] — 1 Samuel 18:17–29; Merab and Michal offered as traps; *one hundred foreskins*; *Saul was David's enemy continually*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6–15; the song; *What can he have more but the kingdom?*; the spear; *afraid of David*.
@@ -491,3 +510,4 @@ Source: stored WEB 1 Samuel 14:39; 15:20, 24; 19:1–10; 28:10. Hebrew WLC (Open
 - [[Judgment]]
 - [[Idolatry]]
 - [[Mediation and Advocacy]]
+- [[Deception]]

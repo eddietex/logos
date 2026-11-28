@@ -130,7 +130,8 @@ that Saul stopped loving him (16:21); he says only what Saul feared and what he 
   [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]].
 - **Twice.** *Wayyissōḇ dāwiḏ mippānāyw paʿămāyim* (11, WLC). Two throws or two escapes, the text does not say
   which. The scene comes again at 19:9–10 almost word for word, *An evil spirit from Yahweh was on Saul, as he sat in
-  his house with his spear in his hand; and David was playing with his hand* (stored WEB; not yet ingested).
+  his house with his spear in his hand; and David was playing with his hand*, and the third throw uses Saul's own
+  *David and the wall* (19:10, WLC). See [[Michal Helps David Escape]].
 - **Afraid of David.** *Wayyirāʾ šāʾûl millip̄nê dāwiḏ* (12, WLC). At Elah, Saul and all Israel were *dismayed, and
   greatly afraid* of Goliath (17:11, stored WEB); now he fears the man who killed him.
 - **Yahweh was with him.** *Kî-hāyâ YHWH ʿimmô ûmēʿim šāʾûl sār* (12, WLC). Said of Samuel at 3:19, by Saul's servant
@@ -204,6 +205,7 @@ Saul here; the text says *very angry*, *displeased*, *watched*, *afraid*, and *i
 - Exodus 15:20–21; 32:18–19; Judges 11:34; 21:21 — women, tambourines, and dances —
   [[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]]
 - Genesis 24:60; Deuteronomy 32:30; 33:17 — thousands and ten thousands
+- 1 Samuel 19:9–10 — the third spear — [[Michal Helps David Escape]]
 - 1 Samuel 16:14–23; 19:9–10 — the evil spirit and the harp —
   [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]],
   [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]]

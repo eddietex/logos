@@ -78,3 +78,13 @@ These are the two passages every discussion of whether deception can be right re
 in both Scripture rewards the deceiver and in neither does it address the deceit. Genesis's
 deceptions (see [[Deception]]) are mostly within the family and mostly paid back; these are the
 first in which the deceived party is a king trying to kill, and neither is paid back.
+
+### Michal — 1 Samuel 19:11–17
+
+A third scene with the same parts. A king, Saul, sends men to kill David in his house; a woman, his own daughter,
+sends David out through the window; she tells the king's men *He is sick*, and tells the king a threat David never
+made (19:11–17). Unlike Exodus 1 and Joshua 2, the narrator gives no ground for her act (no fear of God, no
+confession) and no reward; her next appearance is her father giving her to another man (25:44, stored WEB; not yet
+ingested). The window and the sentence are Rahab's (Joshua 2:15; 1 Samuel 19:12, WLC). See
+[[Michal Helps David Escape]] and [[Let Down Through the Window - Rahab and Michal]]. Source: stored WEB Exodus
+1:15–21; Joshua 2:4–6, 15; 1 Samuel 19:11–17; 25:44. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.

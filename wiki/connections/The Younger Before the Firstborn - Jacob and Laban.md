@@ -143,3 +143,12 @@ are fulfilled* (29:21); David brings his price when *the days were not fulfilled
 are deceivers: Laban by substitution, Saul by a bride-price meant to kill. Nothing in 1 Samuel points to Genesis; the
 parallel is in the words. See [[David Marries Michal]], [[Merab]], and [[Michal]]. Source: stored WEB Genesis 29:16–28;
 1 Samuel 14:49; 18:17–27. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
+### *Why have you deceived me?* beyond Genesis — 1 Samuel 19:17
+
+Jacob's *wǝlāmmâ rimmîṯānî* (Genesis 29:25) is the first of four questions in the Hebrew files checked built on the
+*piel* of *rāmâ*: Joshua to the Gibeonites (Joshua 9:22), Saul to Michal, the younger daughter of this page's second
+pair (1 Samuel 19:17), and the medium to Saul (28:12). Saul, who used his daughters to deceive David (18:17–25), is
+deceived by one of them. See [[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]] and
+[[Michal Helps David Escape]]. Source: stored WEB Genesis 29:25; Joshua 9:22; 1 Samuel 18:17–25; 19:17; 28:12. Hebrew
+WLC (OpenScriptures morphhb), 2026-11-28.

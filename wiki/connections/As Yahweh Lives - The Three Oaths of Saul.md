@@ -77,3 +77,11 @@ reason for it.
 Sources: stored WEB Judges 11:35; 1 Samuel 14:24, 28, 39, 44–45; 18:17, 21, 25; 19:6, 9–11; 28:3, 6, 9–10, 19; 31:6.
 Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), files `Gen` through `2Sam` and `Ruth`, as
 downloaded 2026-11-28; occurrence claims cover those files only, and stem claims follow morphhb's tagging.
+
+### 1 Samuel 19:8–17 now ingested
+
+The oath for David's life is broken in the next scene, and in its own vocabulary. Saul swore *ʾim-yûmāṯ*, *he shall not
+be put to death* (19:6); Michal tells David *māḥār ʾattâ mûmāṯ*, *tomorrow you will be killed* (19:11), the same
+*hophal* (WLC). Saul's order is *Bring him up to me in the bed, that I may kill him* (19:15). The text records no
+word from Saul about the oath. See [[Michal Helps David Escape]]. Source: stored WEB 1 Samuel 19:6–17. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-28.

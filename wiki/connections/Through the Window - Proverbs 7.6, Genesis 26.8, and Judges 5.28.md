@@ -66,3 +66,13 @@ verified WEB at bible-api.com, 2026-10-25, and since checked against stored WEB 
 WEB. Judges 5:24–27, 29–30 cited by reference,
 not quoted. Hebrew of Proverbs 7:6, Genesis 26:8, and Judges 5:28 read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.
+
+### Michal's windows — 1 Samuel 19:12; 2 Samuel 6:16
+
+Two more windows in the WLC belong beside these. At 1 Samuel 19:12 Michal lets David down *bǝʿaḏ haḥallôn*, *through
+the window*, to escape her father; nothing is watched there, and the scene belongs with Rahab's (Joshua 2:15). At
+2 Samuel 6:16 she is a watcher of the kind this page collects: *Michal the daughter of Saul looked out through the
+window*, *nišqǝp̄â bǝʿaḏ haḥallôn*, the verb and stem of Judges 5:28, saw David dancing, and *despised him in her heart*
+(WLC; paraphrased; no 2 Samuel WEB stored). The Hebrew of these two was read from the Westminster Leningrad Codex
+(OpenScriptures morphhb), 2026-11-28, not from Sefaria. See [[Michal Helps David Escape]] and
+[[Let Down Through the Window - Rahab and Michal]].

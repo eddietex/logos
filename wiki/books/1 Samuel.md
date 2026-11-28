@@ -362,6 +362,20 @@ to the voice of Jonathan* and swore *As Yahweh lives, he shall not be put to dea
 as before* (19:6–7). The oath holds for three verses (19:10). See [[As Yahweh Lives - The Three Oaths of Saul]] and
 [[My Life in My Hand - Jephthah, David, and the Medium of Endor]].
 
+[[Michal Helps David Escape]] (19:8–17) breaks the oath in one night. *There was war again*, David wins *with a great
+slaughter*, and the scene of 18:10–11 returns: *An evil spirit from Yahweh was on Saul, as he sat in his house with his
+spear in his hand*, and David playing (19:8–9). The third spear goes into the wall; David *slipped away* and *fled, and
+escaped that night* (19:10). Saul sends messengers to David's house *to watch him, and to kill him in the morning*, and
+Michal, *David's wife*, warns him: *If you don't save your life tonight, tomorrow you will be killed* (19:11). She *let
+David down through the window*, in the words of Rahab at Jericho (Joshua 2:15), lays *the teraphim* in the bed with *a
+pillow of goats' hair at its head*, and tells the messengers *He is sick* (19:12–14). Saul's *Why have you deceived me
+thus, and let my enemy go?* is Jacob's question to Laban (Genesis 29:25) and the medium's to Saul at Endor (28:12), and
+Michal answers with a threat she puts in David's mouth (19:17). A daughter of the man in power uses household gods to
+cover her husband's flight from her father, as Rachel did (Genesis 31:19–35). The verb *escape*, *mālaṭ*, comes four
+times in eight verses. See [[Let Down Through the Window - Rahab and Michal]],
+[[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]], and
+[[The Teraphim - Household Gods in Genesis and After]].
+
 
 ## Structure
 
@@ -415,7 +429,7 @@ merge, or reorder them freely.
 - [x] [[Saul's Jealousy of David]] — 1 Samuel 18:6–16
 - [x] [[David Marries Michal]] — 1 Samuel 18:17–30
 - [x] [[Jonathan Speaks for David]] — 1 Samuel 19:1–7
-- [ ] Michal Helps David Escape — 1 Samuel 19:8–17
+- [x] [[Michal Helps David Escape]] — 1 Samuel 19:8–17
 - [ ] Saul Among the Prophets at Naioth — 1 Samuel 19:18–24
 - [ ] Jonathan's Covenant and the Arrows — 1 Samuel 20:1–42
 - [ ] David at Nob — 1 Samuel 21:1–9
@@ -565,6 +579,12 @@ merge, or reorder them freely.
 - [[Joy and Enjoyment]] — *You saw it, and rejoiced* (19:5)
 - [[Law and Obedience]] — *Saul listened to the voice of Jonathan* (19:6)
 - [[Oaths and Vows]] — *As Yahweh lives, he shall not be put to death* (19:6)
+- [[War]] — *There was war again*; *a great slaughter* (19:8)
+- [[The Spirit of God]] — *an evil spirit from Yahweh was on Saul*; the third spear (19:9–10)
+- [[Life and Death]] — *If you don't save your life tonight, tomorrow you will be killed* (19:11)
+- [[Marriage]] — *Michal, David's wife*, against her father (19:11–17)
+- [[Idolatry]] — *the teraphim* laid in David's bed (19:13, 16)
+- [[Deception]] — *He is sick*; *Why have you deceived me thus …?* (19:14–17)
 
 ## Key people
 - [[Samuel]]
@@ -599,7 +619,7 @@ merge, or reorder them freely.
 - [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
 - [[Ahijah (son of Ahitub)]] and [[Ahitub (son of Phinehas)]] — Eli's line, with the ephod at Saul's side (14:3, 18–19)
 - [[Ishvi (son of Saul)]] and [[Malchishua]] — Saul's other sons (14:49)
-- [[Merab]] and [[Michal]] — Saul's daughters, *the firstborn* and *the younger* (14:49)
+- [[Merab]] and [[Michal]] — Saul's daughters, *the firstborn* and *the younger* (14:49); Michal lets David down through the window and puts the teraphim in his bed (19:11–17)
 - [[Ahinoam (wife of Saul)]] and [[Ahimaaz (father of Ahinoam)]] — Saul's wife and her father (14:50)
 - [[Abner]] — captain of Saul's army (14:50); does not know *whose son* David is, and brings him to Saul (17:55–57)
 - [[Ner]] and [[Abiel (father of Kish)]] — Abner's father, and the grandfather of Saul and Abner (9:1; 14:51)

@@ -46,8 +46,7 @@ rejoiced*. It ends on a question: *Why then will you sin against innocent blood,
 calls David, tells him *all those things*, and brings him to Saul, *and he was in his presence, as before* (7).
 
 **Where it happens.** The pericope names no town. Saul's home is [[Gibeah (Benjamin)]] (10:26; 15:34, stored WEB), and
-David's house, where Saul's messengers will watch him that night, is in the same unnamed town (19:11, stored WEB; not
-yet ingested), but 19:1–7 places nothing there. The one place is *the field where you are*, *baśśāḏeh ʾăšer ʾattâ
+David's house, where Saul's messengers will watch him that night, is in the same unnamed town (19:11; see [[Michal Helps David Escape]]), but 19:1–7 places nothing there. The one place is *the field where you are*, *baśśāḏeh ʾăšer ʾattâ
 šām* (3, WLC), unnamed. The wiki gives the pericope no place page.
 
 **What is going on.** This is the first time in the book that anyone speaks to Saul for David, and it works. The
@@ -71,7 +70,7 @@ voice of Yahweh* (15:20) and then confessed *I feared the people, and obeyed the
 Eli's sons *didn't listen to the voice of their father* (2:25). Here a father listens to the voice of his son. Saul
 seals it with an oath, the second of his three by *As Yahweh lives*. The first, at Michmash, swore Jonathan's death and
 was overruled by the people (14:39, 45). This one swears David's life, and it lasts three verses: at 19:10 the spear
-flies again, and at 19:11 Saul sends men to kill David *in the morning* (stored WEB; not yet ingested). See
+flies again, and at 19:11 Saul sends men to kill David *in the morning* (see [[Michal Helps David Escape]]). See
 [[As Yahweh Lives - The Three Oaths of Saul]].
 
 The reconciliation is complete in form. Jonathan *brought David to Saul, and he was in his presence, as before*,
@@ -99,7 +98,7 @@ verse, 19:8, brings *war again*.
   who once hid from the kingship now makes his rival hide. *Sēṯer*, *secret place* (5643 a), is the word of the
   curses on what is done *in secret* (Deuteronomy 27:15, 24) and of Ehud's *secret message* (Judges 3:19) (WLC).
 - **In the morning.** *Babbōqer* (2, WLC). The danger has a time. In 19:11 the same word comes back: Saul's messengers
-  are to kill David *in the morning* (stored WEB; not yet ingested).
+  are to kill David *in the morning*, and Michal says *tomorrow you will be killed* (see [[Michal Helps David Escape]]).
 - **The field.** Jonathan will stand with his father *in the field where you are* (3). The field returns in chapter
   20, where David asks *let me go, that I may hide myself in the field* (20:5), and Jonathan's arrows fall there (20:35,
   stored WEB; not yet ingested).
@@ -167,7 +166,7 @@ verse, 19:8, brings *war again*.
   on it.
 
 **How it connects.** The pericope opens the run of chapters in which David is kept from Saul four times, three of them
-by Saul's own children: Jonathan's warning here (19:1–7), Michal's window (19:11–17), Samuel and the prophets at Naioth
+by Saul's own children: Jonathan's warning here (19:1–7), Michal's window (19:11–17, [[Michal Helps David Escape]]), Samuel and the prophets at Naioth
 (19:18–24), and Jonathan's arrows (20:1–42) (stored WEB; not yet ingested). Jonathan's plea succeeds once; his second,
 *What has he done?* (20:32), draws the spear at Jonathan himself. His love for David (18:1, 3) is the ground the
 narrator gives for both. Ahimelech will make the same defense at Nob, *Who among all your servants is so faithful as
@@ -218,7 +217,8 @@ David, who is the king's son-in-law …?* (22:14, stored WEB; not yet ingested),
   [[The Spirit Rushed on Him - Samson, Saul, and David]]
 - 1 Samuel 18:17–25 — the plan in Saul's thoughts — [[David Marries Michal]]
 - 1 Samuel 18:1, 3 — Jonathan's love and covenant — [[Jonathan Loves David]]
-- 1 Samuel 19:8–17; 20:5, 30–35; 22:14; 25:31 — after the oath (not yet ingested)
+- 1 Samuel 19:8–17 — the oath broken that night — [[Michal Helps David Escape]]
+- 1 Samuel 20:5, 30–35; 22:14; 25:31 — after the oath (not yet ingested)
 
 ## Notes
 

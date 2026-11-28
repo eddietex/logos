@@ -615,7 +615,17 @@ instrument of a plan to kill the groom, and the bride's love is the bait, *that 
 Genesis 29:28; 34:9–12; Exodus 22:16–17; Deuteronomy 7:3; Joshua 23:12; 1 Samuel 18:17–27. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-28.
 
+### A wife against her father — 1 Samuel 19:11–17
+
+The pericope calls her *Michal, David's wife* (19:11), and she acts as one against her father, the king who gave her
+as *a snare* (18:21). She warns her husband, lets him down through the window, and covers his escape with the
+teraphim and two lies (19:11–17). Saul's charge is that she *let my enemy go* (19:17). David says nothing to her, and
+the next time the narrator speaks of the marriage Saul has given her to Palti (25:44, stored WEB; not yet ingested).
+Rachel, too, sided with her husband against her father with the teraphim (Genesis 31:14–16, 19, 34–35). See
+[[Michal Helps David Escape]]. Source: stored WEB Genesis 31:14–35; 1 Samuel 18:21; 19:11–17; 25:44.
+
 ## Key passages
+- [[Michal Helps David Escape]] — 1 Samuel 19:11–17; *Michal, David's wife*, saves him from her father.
 - [[David Marries Michal]] — 1 Samuel 18:17–27; Merab offered and given to Adriel; Michal given for a bride-price of foreskins.
 - [[Boaz Redeems at the Gate]] — Ruth 4:9–12; Ruth acquired as Boaz's wife before witnesses; *like Rachel and like Leah*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–13; *seek rest for you*; *spread the corner of your garment over your servant*.

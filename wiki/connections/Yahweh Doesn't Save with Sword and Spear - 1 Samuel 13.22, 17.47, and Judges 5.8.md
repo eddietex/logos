@@ -77,3 +77,13 @@ David (18:10–11). The verb, *wayyāṭel* (*ṭûl*, lemma 2904, *hiphil*), oc
 20:33, where he throws it at Jonathan (stored WEB; not yet ingested). The spear of 13:22, one of two in Israel, is now
 turned on the man who won without one. See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 13:22; 17:47;
 18:10–11; 20:33. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
+### The third spear — 1 Samuel 19:9–10
+
+*As he sat in his house with his spear in his hand* (19:9): Saul's spear is now a fixture of the scene, and at 22:6 he
+will sit under the tamarisk *with his spear in his hand* again (stored WEB; not yet ingested). The throw of 19:10 uses
+Saul's own sentence from 18:11, *to strike … David and the wall*, *bǝḏāwiḏ ûḇaqqîr* (WLC), and the spear goes into the
+wall. In 1 Samuel *ḥănîṯ* belongs first to an Israel without one (13:19, 22) and to Goliath (17:7, 45, 47), and from
+18:10 to Saul (18:10–11; 19:9–10; 20:33; 22:6; 26:7–22) (WLC). At 26:7 it is *stuck in the ground at his head*
+while he sleeps, and David takes it. See [[Michal Helps David Escape]]. Source: stored WEB 1 Samuel 13:19, 22; 17:7,
+45, 47; 18:10–11; 19:9–10; 22:6; 26:7–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
