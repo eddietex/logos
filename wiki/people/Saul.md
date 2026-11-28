@@ -416,6 +416,18 @@ whose kingdom he just claimed to defend. See [[Jonathan's Covenant and the Arrow
 
 Source: stored WEB 1 Samuel 13:13–14; 18:11; 19:6, 10; 20:24–34.
 
+### Invoked in absence, and represented by Doeg — 1 Samuel 21:1–9
+
+Saul does not appear at [[Nob]], yet his authority drives the whole scene. [[David]] invents a secret, urgent errand
+from *the king* to explain why he has come alone and unarmed (*the king has commanded me to do something … the king's
+business required haste*, 21:2, 8), and [[Ahimelech (son of Ahitub)]] accepts the claim without question. Meanwhile one
+of *the servants of Saul* — [[Doeg]] the Edomite, *the best of the herdsmen who belonged to Saul* — is *detained before
+Yahweh* at Nob that very day (21:7). Saul's absent court is thus present through a silent observer who will report the
+bread and Goliath's sword to Saul in chapter 22 and carry out the slaughter of the priests when Saul's own guards refuse
+(22:9–19, stored WEB; not yet ingested). See [[David at Nob]].
+
+Source: stored WEB 1 Samuel 21:1–9; 22:9–19.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -473,8 +485,11 @@ Source: stored WEB 1 Samuel 13:13–14; 18:11; 19:6, 10; 20:24–34.
 - Presides at the new-moon feast *by the wall*; assumes David is unclean on day one; calls him *the son of Jesse* three
   times on day two, curses Jonathan's mother, declares Jonathan's kingdom will not be established, and throws his spear
   at Jonathan — 20:24–33.
+- Absent at Nob while David uses *the king's business* as a pretext before Ahimelech and Saul's chief herdsman Doeg
+  silently observes — 21:2, 7–8.
 
 ## Appears in
+- [[David at Nob]] — 1 Samuel 21:2, 7–8; not present; invoked by David as *the king* whose secret, urgent business explains his arrival, and named as Doeg's master.
 - [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:24–33; the new-moon feast; assumes ritual uncleanness; *the son of Jesse*; *you will not be established, nor will your kingdom*; casts his spear at Jonathan.
 - [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:19–24; three sendings; *Where are Samuel and David?*; the Spirit of God on him; naked before Samuel all day and night; the proverb's second origin.
 - [[Michal Helps David Escape]] — 1 Samuel 19:9–17; the third spear; messengers sent three times; *Bring him up to me in the bed, that I may kill him*; *Why have you deceived me thus?*
@@ -516,6 +531,8 @@ Source: stored WEB 1 Samuel 13:13–14; 18:11; 19:6, 10; 20:24–34.
 - [[Nahash (king of Ammon)]] — the Ammonite he defeats at Jabesh Gilead (11:1–11)
 - [[Jonathan (son of Saul)]] — his son, who strikes the garrison at Geba (13:2–3, 16)
 - [[Ahijah (son of Ahitub)]] — the priest with the ephod, told to bring the ark and then stopped (14:3, 18–19)
+- [[Ahimelech (son of Ahitub)]] — the priest at Nob who aids David believing him on *the king's business* (21:1–9)
+- [[Doeg]] — *Doeg the Edomite*, *the best of the herdsmen who belonged to Saul*, present at Nob (21:7)
 - [[David]] — not named; *a man after his own heart* (13:14)
 - [[Ishvi (son of Saul)]] and [[Malchishua]] — his other sons (14:49)
 - [[Merab]] and [[Michal]] — his daughters (14:49)

@@ -10,6 +10,8 @@ tags: [connection]
   the earth* (49); *took his sword, drew it out of its sheath, killed him, and cut off his head with it. When the
   Philistines saw that their champion was dead, they fled* (51); *David took the head of the Philistine, and brought it
   to Jerusalem; but he put his armor in his tent* (54). Stored WEB.
+- [[David at Nob]] — **1 Samuel 21:9** — *Behold, the sword of Goliath the Philistine, whom you killed in the valley of
+  Elah, is here wrapped in a cloth behind the ephod.* Stored WEB.
 - **1 Samuel 31:4, 9–10** (not yet ingested) — *Therefore Saul took his sword, and fell on it* (4); *They cut off his
   head, stripped off his armor, and sent into the land of the Philistines all around, to carry the news to the house of
   their idols, and to the people* (9); *They put his armor in the house of the Ashtaroth, and they fastened his body to
@@ -47,15 +49,16 @@ Chronicles 10:10, Saul's head is fastened *in the house of Dagon* (WEB checked a
 [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]]; not stored).
 
 **Swords.** Goliath is killed with his own sword; Saul falls on *the sword*. Saul and Jonathan were the only men in
-Israel with swords at 13:22. Goliath's turns up at Nob, *wrapped in a cloth behind the ephod*, and is given to David
-(21:9, stored WEB; not yet ingested), so the champion's weapon goes into Yahweh's sanctuary while the king's armor goes
-into the Ashtaroth's.
+Israel with swords at 13:22. Goliath's turns up at [[Nob]], *wrapped in a cloth behind the ephod*, and is given to David
+by [[Ahimelech (son of Ahitub)]] (21:9; see [[David at Nob]]), so the champion's weapon goes into Yahweh's sanctuary
+(unexplained after 17:54, which placed only his head at Jerusalem and his armor in David's tent) while the king's armor
+later goes into the Ashtaroth's.
 
 ## Significance
 
 The parallel is in the narrative and the vocabulary. The text does not say that Saul's death answers Goliath's or
-draw the comparison itself; the wiki records the shared words and sequence. It will be revisited when 1 Samuel 21 and
-31 are ingested. See [[Goliath]], [[Saul]], [[War]], and [[Draw Your Sword - The Deaths of Abimelech and Saul]].
+draw the comparison itself; the wiki records the shared words and sequence. It will be revisited when 1 Samuel 31 is
+ingested. See [[Goliath]], [[Saul]], [[War]], and [[Draw Your Sword - The Deaths of Abimelech and Saul]].
 
 Sources: stored WEB Judges 7:25; 1 Samuel 5:4; 13:22; 17:49–54; 21:9; 31:4, 9–10. Hebrew from the Westminster Leningrad
 Codex (OpenScriptures morphhb), files `Gen` through `2Sam` and `Ruth`, downloaded 2026-11-21; occurrence claims cover

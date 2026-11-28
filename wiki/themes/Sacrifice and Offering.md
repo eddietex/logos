@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The show bread removed before Yahweh — 1 Samuel 21:4–6
+
+At [[Nob]], the only bread available is *the show bread that was taken from before Yahweh, to put hot bread in the day
+when it was taken away* (21:6). Leviticus 24:7–9 classes the twelve cakes with their frankincense memorial among *the
+offerings of Yahweh made by fire*, reserved for Aaron and his sons in a holy place. Here [[Ahimelech (son of Ahitub)]]
+gives five replaced loaves to [[David]] on condition of ritual cleanness (21:3–6), producing the single narrative
+instance in the Old Testament where a consecrated sanctuary offering is given to a hungry non-priest — later invoked by
+Jesus alongside Hosea's *I desire mercy, and not sacrifice* (Matthew 12:3–7). See [[David at Nob]],
+[[The Bread of the Presence - David's Hunger and Matthew 12]], and [[Who May Eat the Holy Portions - Leviticus 6 and 7]].
+Source: stored WEB Leviticus 24:5–9; 1 Samuel 21:3–6.
+
 ### Peace offerings at Gilgal — 1 Samuel 11:15
 
 When Saul is made king at Gilgal, *they offered sacrifices of peace offerings before Yahweh*, *zəḇāḥîm šəlāmîm*
@@ -987,6 +998,7 @@ instruction. See [[Samuel Anoints David]]. Source: stored WEB 1 Samuel 15:22; 16
 morphhb), 2026-11-20.
 
 ## Key passages
+- [[David at Nob]] — 1 Samuel 21:3–6; the replaced show bread *taken from before Yahweh* given by Ahimelech to David.
 - [[Samuel Anoints David]] — 1 Samuel 16:2–5; the heifer, and the sacrifice to which Jesse is called.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:15, 21–22; *to obey is better than sacrifice, and to listen than the fat of rams*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:33–35; slaughter at the great stone, and *the first altar that he built to Yahweh*.

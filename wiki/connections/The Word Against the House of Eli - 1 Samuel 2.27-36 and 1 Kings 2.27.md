@@ -12,7 +12,9 @@ tags: [connection]
   spoken concerning his house, from the beginning even to the end* (3:12)
 - [[The Ark Is Captured]] — 1 Samuel 4:11, 18: *the two sons of Eli, Hophni and Phinehas, were slain*; Eli
   falls and dies
-- 1 Samuel 22:18–20 — Doeg kills *eighty-five people who wore a linen ephod*; *One of the sons of
+- [[David at Nob]] — 1 Samuel 21:1–9: [[Ahimelech (son of Ahitub)]] ministers at [[Nob]] and aids [[David]] under the
+  silent watch of [[Doeg]] the Edomite, setting up the slaughter of the next chapter
+- 1 Samuel 22:18–20 — [[Doeg]] kills *eighty-five people who wore a linen ephod*; *One of the sons of
   Ahimelech, the son of Ahitub, named Abiathar, escaped* *(stored WEB; not yet ingested)*
 - 1 Kings 2:26–27, 35 — *So Solomon thrust Abiathar out from being priest to Yahweh, that he might fulfill
   Yahweh's word, which he spoke concerning the house of Eli in Shiloh*; *the king put Zadok the priest in

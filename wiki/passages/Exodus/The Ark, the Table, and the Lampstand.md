@@ -191,7 +191,7 @@ place to speak from.**
 - Leviticus 16:2, 14–15; Numbers 7:89; Romans 3:25; Hebrews 9:5 — the mercy seat *(Romans and Hebrews not
   yet ingested)*: [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] and
   [[The Voice from Between the Cherubim - Exodus 25.22 and Numbers 7.89]].
-- Leviticus 24:5–9; 1 Samuel 21:6; Matthew 12:3–4; Hebrews 9:2 — the bread *(not yet ingested)*:
+- Leviticus 24:5–9 ([[The Lamps and the Bread Before Yahweh]]); 1 Samuel 21:6 ([[David at Nob]]); Matthew 12:3–4; Hebrews 9:2 *(NT not yet ingested)* — the bread:
   [[The Bread of the Presence - David's Hunger and Matthew 12]].
 - Zechariah 4:2; Revelation 1:12, 20 — seven lamps *(not yet ingested)*:
   [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]].

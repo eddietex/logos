@@ -108,8 +108,8 @@ says *Yahweh doesn't save with sword and spear* (17:47), and *there was no sword
   Philistines' word for them throughout Samuel (4:6, 9; 14:11; 29:3, stored WEB). See [[Saul's Sacrifice at Gilgal]]
   on *Let the Hebrews hear!* (13:3).
 - **Swords or spears.** *Ḥereḇ ʾô ḥănîṯ* (19, WLC). The pair returns in 13:22, in David's *Yahweh doesn't save with
-  sword and spear*, *lōʾ bəḥereḇ ûḇaḥănîṯ* (17:47), and in David's request to Ahimelech, *Isn't there here under your
-  hand spear or sword?* (21:8 WEB; 21:9 WLC, *ḥănîṯ ʾô ḥāreḇ*) (stored WEB; not yet ingested). Deborah's song had
+  sword and spear*, *lōʾ bəḥereḇ ûḇaḥănîṯ* (17:47), and in David's request to [[Ahimelech (son of Ahitub)]], *Isn't there here under your
+  hand spear or sword?* (21:8 WEB; 21:9 WLC, *ḥănîṯ ʾô ḥāreḇ*; see [[David at Nob]]). Deborah's song had
   asked *Was there a shield or spear seen among forty thousand in Israel?* (Judges 5:8, stored WEB), with a
   different word for spear, *rōmaḥ* (WLC).
 - **To sharpen.** *Lilṭôš* (20, WLC). The verb *lāṭaš* occurs in Genesis–2 Samuel only here and at Genesis 4:22,
@@ -133,8 +133,8 @@ says *Yahweh doesn't save with sword and spear* (17:47), and *there was no sword
 - **In the day of battle.** *Bəyôm milḥemeṯ* (22, WLC). The battle is the one of chapter 14, not yet begun. The
   verse is the narrator speaking ahead.
 - **But Saul and Jonathan his son had them.** The two named men are armed. Jonathan's sword passes to David with
-  his robe (18:4, stored WEB; [[Jonathan Loves David]]); David later goes to Nob unarmed and is given Goliath's sword,
-  *there is no other except that here* (21:9, stored WEB; not yet ingested).
+  his robe (18:4, stored WEB; [[Jonathan Loves David]]); David later goes to [[Nob]] unarmed and is given Goliath's sword,
+  *there is no other except that here* (21:9; see [[David at Nob]]).
 - **The garrison … the pass.** *Maṣṣaḇ pəlištîm* (23, WLC), from the same root as *nəṣîḇ*, the garrison Jonathan
   struck at Geba (13:3; the roots are matched by form, and morphhb gives the nouns different lemmas, 4673 and
   5333). *Maṣṣāḇ* is elsewhere in Genesis–2 Samuel the place where the priests' feet *stood firm* in the Jordan
@@ -189,7 +189,7 @@ fought with exactly the weapons this one counts.
 - Judges 1:19; 4:3; 1 Samuel 17:7 — chariots of iron; Goliath's iron spear-head
 - Ecclesiastes 12:11 — *the words of the wise are like goads*
 - 1 Samuel 9:20; 10:16 — the donkeys *found*
-- 1 Samuel 18:4; 21:8–9 — Jonathan's sword given to David; Goliath's sword at Nob
+- 1 Samuel 18:4; 21:8–9 — Jonathan's sword given to David; Goliath's sword at Nob — [[Jonathan Loves David]], [[David at Nob]]
 - Joshua 4:3, 9 — *maṣṣāḇ*, where the priests' feet stood
 - Genesis 32:22 — *maʿăḇar*, the ford of the Jabbok
 

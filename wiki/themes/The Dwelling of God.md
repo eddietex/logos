@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sanctuary at Nob — 1 Samuel 21:1–9
+
+Without explaining when or how Yahweh's house moved after [[Shiloh]] — while the ark still sits in Abinadab's house at
+[[Kiriath Jearim]] (7:1–2) — chapter 21 reveals an active sanctuary at [[Nob]]. There [[Ahimelech (son of Ahitub)]]
+maintains the weekly renewal of *the show bread that was taken from before Yahweh* (21:6; compare Exodus 25:30;
+Leviticus 24:5–9), [[Doeg]] is *detained before Yahweh* (21:7), and Goliath's sword rests *wrapped in a cloth behind
+the ephod* (21:9). The ark and the table of the Presence are separated, yet Nob still functions as *before Yahweh* until
+Saul and Doeg destroy it in chapter 22. See [[David at Nob]] and [[Nob]]. Source: stored WEB Exodus 25:30; Leviticus
+24:5–9; 1 Samuel 7:1–2; 21:1–9.
+
 ### From the great stone to the house on the hill — 1 Samuel 6:2–7:1
 
 The Philistines ask how to send the ark *to its place* (6:2), but it does not return to Shiloh. It rests
@@ -713,6 +723,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[David at Nob]] — 1 Samuel 21:6–7, 9; the sanctuary at Nob with show bread *before Yahweh*, the ephod, and Doeg *detained before Yahweh*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:2; 7:1; the ark sent *to its place*, housed with Abinadab.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:2, 11; the ark in Dagon's house, and sent *to its own place*.
 - [[The Ark Is Captured]] — 1 Samuel 4:3–11; the ark sent for *that it may come among us*, and taken.

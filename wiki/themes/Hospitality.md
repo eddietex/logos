@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Holy bread for a lone fugitive — 1 Samuel 21:1–6
+
+When [[David]] arrives alone at [[Nob]] asking for *five loaves of bread … or whatever is available* (21:3),
+[[Ahimelech (son of Ahitub)]] has no ordinary provisions — *I have no common bread, but there is holy bread* (21:4).
+Rather than turning the hungry traveler away (contrast Succoth and Penuel refusing bread to Gideon's faint men in Judges
+8:5–8), the priest shares the sanctuary's just-replaced show bread once ritual abstinence is affirmed (21:4–6). In
+chapter 22 that act of hospitality is twisted by [[Doeg]] and [[Saul]] into treason and paid for with the lives of
+eighty-five priests (22:9–19, stored WEB; not yet ingested). See [[David at Nob]]. Source: stored WEB Judges 8:5–8; 1
+Samuel 21:1–6; 22:9–19.
+
 ### The best place and the portion kept — 1 Samuel 9:19–24
 
 Samuel's first act toward the man he is to anoint is to host him. *You are to eat with me today* (9:19); he brings Saul
@@ -242,6 +252,7 @@ Reuel's house took in Moses at Exodus 2:20, and here Moses invites Reuel's son i
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[David at Nob]] — 1 Samuel 21:1–6; Ahimelech feeds a lone, unarmed fugitive with the sanctuary's replaced show bread.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:19–24; the stranger seated at the head of thirty guests and given the reserved portion.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:9, 14; water and bread for the foreign gleaner.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:3–24; three hosts: five days at Bethlehem, none at Gibeah, an outsider at the door.

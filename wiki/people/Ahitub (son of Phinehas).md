@@ -13,9 +13,9 @@ brother, the son of Phinehas, the son of Eli* (1 Samuel 14:3, stored WEB). So he
 is narrated. *ʾĂḥîṭûḇ* (WLC) is commonly glossed *my brother is good* (recalled, not checked).
 
 Qualified by his father from the start, because an Ahitub father of Zadok appears later (the name *ʾĂḥîṭûḇ* is at 2 Samuel 8:17
-in the WLC; 2 Samuel is not yet stored in WEB). *Ahimelech, the son of Ahitub*, priest at Nob (1 Samuel 22:9, 11, 20, stored
-WEB; not yet ingested) is presumably his son as well, and the [[Ithamar]] page already reads him so; whether that
-Ahitub is this one is left for the ingest of chapter 22.
+in the WLC; 2 Samuel is not yet stored in WEB). [[Ahimelech (son of Ahitub)]], priest at [[Nob]] (1 Samuel 21:1–9;
+22:9, 11, 20, stored WEB; 21:1–9 in [[David at Nob]], ch. 22 not yet ingested), is presumably his son as well, and the
+[[Ithamar]] page already reads him so; whether that Ahitub is this one is left open until chapter 22 is ingested.
 
 His brother Ichabod was born the day the ark was taken and named *The glory has departed from Israel* (4:21–22,
 stored WEB). Ahitub's line is the one that continues in the priesthood, at Saul's side. See

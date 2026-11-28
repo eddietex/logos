@@ -135,8 +135,8 @@ out* (4), calls for *a man*, and Saul hears and is afraid with everyone else (11
   departed from him. The narrator does not connect the two verses; the wiki notes them side by side.
 
 **How it connects.** The pericope sets up the rest of chapter 17. 17:12–40 brings David from the sheep with bread for
-his brothers, to hear the same words (17:23); 17:41–54 is the fight (stored WEB; not yet ingested). Goliath's sword will
-be kept at Nob *wrapped in a cloth behind the ephod* and given to David (21:9; 22:10, stored WEB; not yet ingested).
+his brothers, to hear the same words (17:23); 17:41–54 is the fight ([[David Comes to the Camp]]; [[David Kills Goliath]]). Goliath's sword is
+kept at [[Nob]] *wrapped in a cloth behind the ephod* and given to David (21:9, [[David at Nob]]; 22:10, stored WEB; not yet ingested).
 Gath, Goliath's city, will be David's refuge twice, under Achish (21:10; 27:2, stored WEB; not yet ingested). The
 scene also closes the long line of the giants of Canaan: the Anakim of the spies' report, cut off by Joshua except in
 Gaza, Gath, and Ashdod (Numbers 13:33; Joshua 11:22). 1 Samuel 17 does not call Goliath one of the Anakim; the link
@@ -189,7 +189,7 @@ the connection page.
 - 1 Samuel 13:19–22 — no smith, no spear in Israel — [[No Smith in Israel]]
 - Joshua 8:18, 26; 1 Samuel 17:45 — the javelin, *kîḏôn*
 - Leviticus 11:9–12; Deuteronomy 14:9–10 — *qaśqeśeṯ*, *scales*
-- 1 Samuel 21:9 — Goliath's sword at Nob, *in the valley of Elah*
+- 1 Samuel 21:9 — Goliath's sword at Nob, *in the valley of Elah* — [[David at Nob]]
 
 ## Notes
 

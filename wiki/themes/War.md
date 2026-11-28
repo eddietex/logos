@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Goliath's sword behind the ephod — 1 Samuel 21:4–5, 8–9
+
+Two war customs meet at [[Nob]]. First, [[David]]'s assurance that *women have been kept from us as usual these three
+days* (21:5) reflects the standing practice of sexual abstinence among Israelite fighting men on an expedition, matching
+Deuteronomy 23:9–14's holy-camp law. Second, the unarmed fugitive asks [[Ahimelech (son of Ahitub)]] for *spear or
+sword* (21:8) — the weapon pair of 13:19, 22 and of his own confession at Elah (*Yahweh doesn't save with sword and
+spear*, 17:47) — and receives *the sword of Goliath the Philistine*, kept *wrapped in a cloth behind the ephod*: *There
+is none like that. Give it to me* (21:9). The giant's trophy, stored in Yahweh's sanctuary, becomes the fugitive's only
+weapon. See [[David at Nob]], [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]], and
+[[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]]. Source: stored WEB Deuteronomy 23:9–14; 1 Samuel
+13:19, 22; 17:47; 21:4–5, 8–9.
+
 ### Enemies on every side, and severe war all his days — 1 Samuel 14:47–52
 
 The summary of Saul's reign is a list of wars: *he fought against all his enemies on every side*, Moab, Ammon,
@@ -1074,6 +1086,7 @@ David *killed them with a great slaughter*, *makkâ ḡǝḏôlâ*, the phrase u
 stored WEB Joshua 10:10, 20; Judges 11:33; 15:8; 1 Samuel 4:10; 19:8–10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
 ## Key passages
+- [[David at Nob]] — 1 Samuel 21:4–5, 8–9; war-camp abstinence from women; David asks for *spear or sword* and receives Goliath's sword from behind the ephod.
 - [[Michal Helps David Escape]] — 1 Samuel 19:8; *There was war again*; *a great slaughter*, and then the spear.
 - [[David Kills Goliath]] — 1 Samuel 17:41–54; *the battle is Yahweh's*; the stone, the champion beheaded, the rout and the plunder.
 - [[David Comes to the Camp]] — 1 Samuel 17:16–40; forty days, the battle line, and the shepherd sent out.

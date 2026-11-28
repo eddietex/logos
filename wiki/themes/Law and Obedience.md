@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Holy bread bent for need — 1 Samuel 21:4–6
+
+Leviticus 24:9 assigns the weekly show bread strictly to Aaron and his sons to eat *in a holy place: for it is most
+holy*, and Leviticus 22:10–16 bars outsiders from holy food. At [[Nob]], [[Ahimelech (son of Ahitub)]] has *no common
+bread* and gives the just-replaced show bread to [[David]] on a single ritual condition: *if only the young men have
+kept themselves from women* (21:4–6). The narrator passes no verdict on the exception; centuries later Jesus cites it
+to defend his hungry disciples on the Sabbath (Matthew 12:3–8; Mark 2:25–26). See [[David at Nob]],
+[[The Bread of the Presence - David's Hunger and Matthew 12]], and [[Who May Eat the Holy Portions - Leviticus 6 and 7]].
+Source: stored WEB Leviticus 22:10–16; 24:5–9; 1 Samuel 21:4–6.
+
 ### The regulations written in a book — 1 Samuel 10:25
 
 *Samuel told the people the regulations of the kingdom, and wrote it in a book, and laid it up before Yahweh*
@@ -1642,6 +1652,7 @@ lasts three verses (19:10). At Endor the idiom returns three times, in the mediu
 Source: stored WEB 1 Samuel 2:25; 15:1, 20, 24; 19:6–10; 28:21–23. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
 ## Key passages
+- [[David at Nob]] — 1 Samuel 21:4–6; Leviticus 24:9's priestly bread given to David on condition of sexual abstinence, without narrated rebuke.
 - [[Jonathan Speaks for David]] — 1 Samuel 19:6; *Saul listened to the voice of Jonathan*, the idiom of obedience.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1, 13, 19–24; *to obey is better than sacrifice*.
 

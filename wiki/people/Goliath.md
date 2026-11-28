@@ -52,7 +52,8 @@ David names his weapons back to him, *a sword … a spear, and … a javelin*, t
 *sank into his forehead, and he fell on his face to the earth* (17:49), as Dagon fell before the ark (5:4). David cuts
 off his head with his own sword (17:51). Only now, dead, is he called the Philistines' *champion* in the sense of
 *gibbôr*, *their champion* (17:51, *gibbôrām*, WLC); the narrator's word had been *ʾîš habbēnayim* (17:4, 23). His
-head goes to Jerusalem, his armor to David's tent (17:54), and his sword is later at Nob (21:9, not yet ingested). The
+head goes to Jerusalem, his armor to David's tent (17:54), and his sword turns up at [[Nob]] (21:9; see
+[[David at Nob]]). The
 2 Samuel 21:19 contradiction above stands. See [[David Kills Goliath]],
 [[The Head and the Armor - Goliath at Elah and Saul at Gilboa]], and
 [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]].
@@ -68,9 +69,10 @@ Source: stored WEB 1 Samuel 5:4; 17:4–6, 23, 41–54; 21:9. Hebrew WLC (OpenSc
 - Disdains and curses David; struck in the forehead by a stone; beheaded with his own sword; his head brought to
   Jerusalem and his armor to David's tent — 1 Samuel 17:41–54, [[David Kills Goliath]]
 - His head carried by David before Saul, after Abner brings him — 1 Samuel 17:57, [[Jonathan Loves David]]
-- His sword kept at Nob behind the ephod and given to David (21:9; 22:10) — not yet ingested
+- His sword kept at Nob behind the ephod and given to David — 1 Samuel 21:9, [[David at Nob]] (also recalled by Doeg at 22:10, not yet ingested)
 
 ## Appears in
+- [[David at Nob]] — 1 Samuel 21:9; *the sword of Goliath the Philistine, whom you killed in the valley of Elah*, kept wrapped in a cloth behind the ephod and given to David (*There is none like that. Give it to me*).
 - [[Jonathan Speaks for David]] — 1 Samuel 19:5; *struck the Philistine*, recalled by Jonathan without his name.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6; *the slaughter of the Philistine*, which the women's song celebrates.
 - [[Jonathan Loves David]] — 1 Samuel 17:55, 57; *the Philistine*; his head in David's hand before Saul, after 17:54 has taken it to Jerusalem.

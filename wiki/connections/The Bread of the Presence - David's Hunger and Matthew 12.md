@@ -13,8 +13,8 @@ tags: [connection]
   [[The Ark, the Table, and the Lampstand]]
 - **Leviticus 24:5–9** — twelve cakes, weekly renewal, and priestly eating —
   [[The Lamps and the Bread Before Yahweh]].
-- **1 Samuel 21:1–6** — at Nob, Ahimelech the priest gives David *"holy bread; for there was no bread
-  there but the show bread that was taken from before Yahweh"* *(not yet ingested)*
+- **1 Samuel 21:1–6** — at [[Nob]], [[Ahimelech (son of Ahitub)]] gives [[David]] *"holy bread; for there was no bread
+  there but the show bread that was taken from before Yahweh"* — [[David at Nob]]
 - **Matthew 12:3–8** (compare Mark 2:25–26) — *"Haven't you read what David did, when he was hungry …
   how he entered into God's house, and ate the show bread, which was not lawful for him to eat …?"*
   *(not yet ingested)*
@@ -81,6 +81,25 @@ before that service begins. This stage adds no rule about the number, replacemen
 of loaves, and does not settle the later dispute about authorized eating.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
+### David at Nob now ingested — 1 Samuel 21:1–6
+
+[[David at Nob]] brings the Nob episode into the ingested wiki and sharpens three details beside the Gospel reuse:
+
+- **Alone vs. with companions.** Ahimelech meets David trembling and asks *Why are you alone, and no man with you?*
+  (21:1). David introduces *the young men* only inside his invented secret royal errand (21:2, 5), and no companions
+  appear in the scene. Matthew 12:3–4 and Mark 2:25–26 speak of *David … and those who were with him*. Whether companions
+  waited nearby or David invented them to justify asking for *five loaves* (21:3) is left open.
+- **Sabbath renewal implied.** The narrator explains that *there was no bread there but the show bread that was taken
+  from before Yahweh, to put hot bread in the day when it was taken away* (21:6). Since Leviticus 24:8 sets that
+  replacement *every Sabbath day*, 21:6 implies David arrived on the Sabbath — linking the episode directly to the
+  Sabbath context of Matthew 12 and Mark 2.
+- **Purity and deception together.** Ahimelech requires sexual abstinence (*if only the young men have kept themselves
+  from women*, 21:4; see [[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]]), and David obtains the
+  bread under a fabricated royal commission while [[Doeg]] watches silently (21:2, 7). The narrator condemns neither
+  Ahimelech nor David here; the Abiathar discrepancy in Mark 2:26 stands as recorded above.
+
+Source: stored WEB 1 Samuel 21:1–7; Leviticus 24:5–9.
 
 ## Significance
 

@@ -13,9 +13,9 @@ glossed *brother of Yahweh* (recalled, not checked). Qualified by his father fro
 Ahijah of Shiloh is expected in Kings (recalled, not checked).
 
 He is the great-grandson of [[Eli]], so a member of the house of which the man of God said *I will raise me up a
-faithful priest* in its place (2:35, stored WEB). The relation between Ahijah and *Ahimelech, the son of Ahitub*,
-the priest at Nob (22:9–20, stored WEB; not yet ingested), is commonly debated: brothers, or one man under two
-names (recalled, not checked). The wiki keeps them apart until those chapters are ingested.
+faithful priest* in its place (2:35, stored WEB). The relation between Ahijah and [[Ahimelech (son of Ahitub)]],
+the priest at [[Nob]] (21:1–9; 22:9–20, stored WEB; 21:1–9 in [[David at Nob]], ch. 22 not yet ingested), is commonly
+debated: brothers, or one man under two names (recalled, not checked). The wiki keeps them as separate pages.
 
 ### The ephod, the ark, and the broken-off inquiry — 1 Samuel 14:1–23
 

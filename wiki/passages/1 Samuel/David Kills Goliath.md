@@ -177,7 +177,7 @@ Goliath's, and it cuts off its owner's head.
   city's capture is narrated in 2 Samuel 5:6–9 (not yet ingested; not quoted). So either the verse looks ahead, or the
   head was brought there later, or the verse comes from a later hand; those are the usual explanations (recalled, not
   checked), and the wiki does not choose. David has no tent of his own in the narrative so far. Goliath's sword turns
-  up later at Nob, *wrapped in a cloth behind the ephod* (21:9, stored WEB; not yet ingested), so the armor and the
+  up later at [[Nob]], *wrapped in a cloth behind the ephod* (21:9; see [[David at Nob]]), so the armor and the
   sword do not stay together. The verse does not say how the sword got there.
 
 **How it connects.** David's speech at 45–47 is the theology of the chapter, and the narrator confirms it at 50. The
@@ -237,7 +237,7 @@ Saul falls on *the sword*, and the Philistines cut off his head and put his armo
 - 1 Samuel 17:10, 26, 36 — *defied* — [[To Defy the Living God - 1 Samuel 17 and 2 Kings 19]]
 - 2 Samuel 6:2, 18 — *the name of Yahweh of Armies*
 - 1 Samuel 16:7, 12 — the outward appearance — [[Samuel Anoints David]]
-- 1 Samuel 21:9 — Goliath's sword at Nob
+- 1 Samuel 21:9 — Goliath's sword at Nob — [[David at Nob]]
 - Judges 1:21; 19:10–12; 2 Samuel 5:6–9 — Jerusalem still Jebusite
 
 ## Notes

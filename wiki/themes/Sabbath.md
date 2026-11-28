@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The day the show bread is taken away — 1 Samuel 21:6
+
+1 Samuel 21 does not print the word *Sabbath*, yet the narrator explains that [[Ahimelech (son of Ahitub)]] gave
+[[David]] *the show bread that was taken from before Yahweh, to put hot bread in the day when it was taken away*
+(21:6). Because Leviticus 24:8 assigns that weekly replacement strictly to *every Sabbath day*, the detail places
+David's arrival at [[Nob]] on the Sabbath — the link behind Jesus's citing of 1 Samuel 21 when the Pharisees challenge
+his disciples for plucking grain on the Sabbath (Matthew 12:1–8; Mark 2:23–28). See [[David at Nob]],
+[[The Bread of the Presence - David's Hunger and Matthew 12]], and
+[[Plucking a Neighbor's Grain - Deuteronomy 23.24-25 and the Sabbath Grain Fields]]. Source: stored WEB Leviticus
+24:5–9; 1 Samuel 21:6.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Rest given to the brothers authorizes the eastern warriors’ return (4). This is release from a
@@ -281,6 +292,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 
 ## Key passages
 
+- [[David at Nob]] — 1 Samuel 21:6; *hot bread in the day when it was taken away*, implying the Sabbath renewal of Leviticus 24:8.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.

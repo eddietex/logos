@@ -15,7 +15,9 @@ tags: [connection]
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20.
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:5–9.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–10.
+- [[David at Nob]] — 1 Samuel 21:4–6.
 
 ## Analysis
 
@@ -88,6 +90,18 @@ Source: stored WEB Leviticus 6:29; 7:6, 20–21; 10:14; 22:1–16.
 Numbers 5:8 adds a payment that was not an offering at all, the restitution with no one to receive it.
 Verses 9–10 state the general rule, that what is presented to the priest is his. Leviticus 22:4 still
 limits who may eat, and Numbers 5 does not touch that. Source: stored WEB Numbers 5:8–10.
+
+### Holy bread given to a non-priest — 1 Samuel 21:4–6
+
+[[The Lamps and the Bread Before Yahweh]] (Leviticus 24:9) assigns the replaced show bread strictly to *Aaron and his
+sons* to eat *in a holy place: for it is most holy*, and [[Eating the Holy Things]] (Leviticus 22:10–16) excludes every
+outsider from holy food. In [[David at Nob]], however, [[Ahimelech (son of Ahitub)]] has *no common bread* and gives
+[[David]] the just-replaced *show bread that was taken from before Yahweh* on a single condition: *if only the young men
+have kept themselves from women* (21:4–6). **Law-and-narrative tension retained:** the priest applies a ritual-purity
+boundary (compare [[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]]) to override the priestly-lineage
+boundary in an emergency; the narrator passes no rebuke, and Jesus later cites the episode as precedent in Matthew
+12:3–4 (see [[The Bread of the Presence - David's Hunger and Matthew 12]]). Source: stored WEB Leviticus 22:10–16;
+24:5–9; 1 Samuel 21:4–6.
 
 ## Significance
 

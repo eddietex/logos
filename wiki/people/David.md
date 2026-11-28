@@ -147,7 +147,7 @@ assembly may know that Yahweh doesn't save with sword and spear; for the battle 
 meet the Philistine, slings one stone into his forehead, and the narrator sums up: *there was no sword in the hand of
 David* (17:48–50). Then he draws Goliath's own sword, kills him, and cuts off his head (17:51). He brings the head to
 Jerusalem, still Jebusite in the books stored so far (Judges 1:21), and puts the armor *in his tent* (17:54); both
-details are recorded as unexplained. Goliath's sword is later at Nob (21:9, not yet ingested). See
+details are recorded as unexplained. Goliath's sword turns up later at [[Nob]] (21:9; see [[David at Nob]]). See
 [[David Kills Goliath]], [[Ruddy - Esau and David]],
 [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]], and
 [[The Head and the Armor - Goliath at Elah and Saul at Gilboa]].
@@ -257,12 +257,39 @@ signal arrow beyond the unwitting boy and sends him back to the city, David emer
 face, and bows three times; they kiss and weep together, *and David wept the most* (20:41). Until this moment the
 narrator had stated love only from Jonathan's side (18:1, 3; 20:17); at the parting, David's grief exceeds his
 friend's. Sent away *in peace* under the oath *between my offspring and your offspring, forever* (20:42), David leaves
-Saul's court permanently, beginning the fugitive years at Nob (21:1). See [[Jonathan's Covenant and the Arrows]] and
+Saul's court permanently, beginning the fugitive years at [[Nob]] (21:1; see [[David at Nob]]). See [[Jonathan's Covenant and the Arrows]] and
 [[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]].
 
 Source: stored WEB 1 Samuel 18:1, 3; 20:1–42; 21:1.
 
+### Holy bread and Goliath's sword at Nob — 1 Samuel 21:1–9
+
+David's fugitive years begin at Yahweh's sanctuary at [[Nob]], where he arrives alone, hungry, unarmed, and lying.
+When [[Ahimelech (son of Ahitub)]] meets him *trembling* and asks *Why are you alone, and no man with you?* (21:1),
+David invents a secret, urgent commission from [[Saul]], claims he has stationed *the young men* at *a certain place*,
+and asks for *five loaves of bread … or whatever is available* (21:2–3). Unlike earlier ruses arranged by Samuel
+(16:2–5), Michal (19:13–17), or David and Jonathan together (20:5–6), this lie is David's own, aimed at an innocent
+priest — and in the next chapter David confesses to Abiathar, *I am responsible for the death of all the persons of your
+father's house* (22:22, stored WEB; not yet ingested).
+
+When Ahimelech offers *holy bread* on condition that *the young men have kept themselves from women*, David assures him
+that *women have been kept from us as usual these three days* and that their *vessels* are holy even on a common journey
+(21:4–5). He receives the replaced *show bread that was taken from before Yahweh* (21:6) — an exception to Leviticus
+24:9's priestly restriction that Jesus later cites in Matthew 12:3–4 and Mark 2:25–26 (where the Gospels speak of David
+*and those who were with him*, a tension with Ahimelech's *alone* recorded on [[David at Nob]]). Asking next for *spear
+or sword* because *the king's business required haste*, the man who defeated Goliath without a sword (*Yahweh doesn't
+save with sword and spear*, 17:47, 50) receives *the sword of Goliath the Philistine* from behind the ephod: *There is
+none like that. Give it to me* (21:8–9). Watching the whole exchange silently is [[Doeg]] the Edomite, *detained before
+Yahweh* (21:7). See [[David at Nob]], [[The Bread of the Presence - David's Hunger and Matthew 12]],
+[[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]], and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]].
+
+Source: stored WEB Leviticus 24:5–9; 1 Samuel 17:47, 50; 21:1–9; 22:22.
+
 ## Timeline / key events
+- 1 Samuel 21:1–9 — arrives alone at Nob; deceives Ahimelech with a secret royal errand; declares three days' abstinence
+  to receive five loaves of the replaced show bread; takes Goliath's sword from behind the ephod while Doeg watches.
+  [[David at Nob]]
 - 1 Samuel 20:1–42 — flees Naioth to Jonathan; *there is but a step between me and death*; proposes the new-moon test
   and Bethlehem pretext; enters the perpetual covenant of kindness with Jonathan's house; hides by the stone Ezel;
   bows three times, kisses Jonathan, *wept the most*, and departs into permanent exile.
@@ -298,6 +325,7 @@ Source: stored WEB 1 Samuel 18:1, 3; 20:1–42; 21:1.
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[David at Nob]] — 1 Samuel 21:1–9; flees to Nob alone; fabricates *the king's business*; receives the replaced show bread and Goliath's sword from Ahimelech while Doeg watches.
 - [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1–42; flees Naioth; *a step between me and death*; the new-moon test; perpetual covenant with Jonathan's house; bows three times and *wept the most*.
 - [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–22; *fled and escaped*; tells Samuel all that Saul had done; stays at Naioth; sought by three groups of messengers.
 - [[Michal Helps David Escape]] — 1 Samuel 19:8–17; the third spear; let down through the window; *fled, and escaped*; called *my enemy*.
@@ -327,6 +355,8 @@ Source: stored WEB 1 Samuel 18:1, 3; 20:1–42; 21:1.
 
 ## Related people
 - [[Jonathan (son of Saul)]] — who loves him *as his own soul* and binds their houses in a covenant forever (18:1–4; 20:1–42)
+- [[Ahimelech (son of Ahitub)]] — the priest at Nob whom David deceives and who gives him the show bread and Goliath's sword (21:1–9)
+- [[Doeg]] — Saul's Edomite herdsman who witnesses David at Nob (21:7) and later denounces him and slaughters the priests (22:9–19)
 - [[Saul]] — his father-in-law and king, whose spear and enmity drive him into exile (16:14–20:42)
 - [[Michal]] — his wife, who *loved David* (18:20, 27–28)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — his three eldest brothers

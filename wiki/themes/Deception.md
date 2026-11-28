@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The king's business required haste* — 1 Samuel 21:1–9
+
+Arriving alone and unarmed at [[Nob]], [[David]] invents a secret, urgent royal mission from [[Saul]] to answer
+[[Ahimelech (son of Ahitub)]]'s alarmed question: *The king has commanded me to do something … Let no one know anything
+about the business … I have sent the young men to a certain place* (21:2), adding *the king's business required haste*
+when asking for a weapon (21:8). Unlike earlier cover stories arranged by Samuel (16:2–5), Michal (19:13–17), or
+Jonathan and David together (20:5–6), David here deceives an unsuspecting priest on his own. The narrator passes no
+verdict in chapter 21, yet the lie draws Ahimelech into the catastrophe of chapter 22, where David confesses to
+Abiathar, *I am responsible for the death of all the persons of your father's house* (22:22, stored WEB; not yet
+ingested). See [[David at Nob]]. Source: stored WEB 1 Samuel 16:2–5; 19:13–17; 20:5–6; 21:1–9; 22:22.
+
 ### You have mocked me, and told me lies — Judges 16:5–18
 
 The lords of the Philistines tell Delilah *Entice him* (16:5), the order given the Timnite wife (14:15).
@@ -476,6 +487,7 @@ narrator passes no judgment on the deception; it succeeds in drawing Saul's true
 [[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 16:2–5; 19:13–17; 20:5–6, 19, 28–33.
 
 ## Key passages
+- [[David at Nob]] — 1 Samuel 21:1–9; David fabricates a secret, urgent errand from Saul and absent *young men* before Ahimelech at Nob.
 - [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:5–6, 28–29; the invented yearly family sacrifice at Bethlehem used to test Saul.
 - [[Michal Helps David Escape]] — 1 Samuel 19:13–17; the teraphim in the bed; *He is sick*; *Why have you deceived me thus …?*
 - [[David Marries Michal]] — 1 Samuel 18:17–25; two marriage offers as traps; the servants speak *secretly*; *that she may be a snare to him*.

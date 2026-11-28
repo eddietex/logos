@@ -29734,3 +29734,56 @@ checked. No Hebrew WLC, 2 Samuel WEB, or Septuagint text was consulted in this p
 Link check: `scripts/link-check.sh` still fails on this host before checking anything (`declare: -A: invalid option`;
 macOS bash 3.2); its two checks were run via a line-for-line Python port — no wrapped links, no dangling links,
 baseline 53 not-yet-started books.
+
+## [2026-11-28] ingest | 1 Samuel 21.1-9 — David at Nob
+
+Unattended `/ingest auto` run. Resolved 1 Samuel 21:1–9 from `wiki/books/1 Samuel.md` (raw text already stored).
+
+Created: passage [[David at Nob]], people [[Ahimelech (son of Ahitub)]] and [[Doeg]], place [[Nob]], and connection
+[[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]].
+
+Revised: [[1 Samuel]] (overview, pericope box 34 checked, key themes, key people, key places); people [[David]],
+[[Saul]], [[Goliath]], [[Ahijah (son of Ahitub)]], and [[Ahitub (son of Phinehas)]]; places [[Valley of Elah]] and
+[[Edom]]; themes [[Priesthood]], [[Holiness]], [[Clean and Unclean]], [[Deception]], [[The Dwelling of God]],
+[[Sacrifice and Offering]], [[Hospitality]], [[War]], [[Law and Obedience]], and [[Sabbath]]; connections
+[[The Bread of the Presence - David's Hunger and Matthew 12]] (21:1–6 now linked; new section),
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]] (21:8–9 now linked; new section),
+[[The Head and the Armor - Goliath at Elah and Saul at Gilboa]] (21:9 now linked),
+[[The Word Against the House of Eli - 1 Samuel 2.27-36 and 1 Kings 2.27]] (21:1–9 linked), and
+[[Who May Eat the Holy Portions - Leviticus 6 and 7]] (21:4–6 linked; new section); passages
+[[David Kills Goliath]], [[Goliath Defies Israel]], [[No Smith in Israel]], and [[The Ark, the Table, and the Lampstand]]
+("not yet ingested" notes for 1 Samuel 21:1–9 resolved). Also `wiki/books/index.md` (34 / 47), People Index A-E (two new
+rows, three revised), F-M (one revised), and N-Z (one revised), `wiki/places/index.md` (one new row, two revised),
+`wiki/themes/index.md` (ten rows), Connections Index A-C (one revised), D-H (one revised), I-N (one new), and T-Z
+(three revised), and `wiki/index.md`. Frontmatter totals: 520 passages, 402 people, 623 places, 88 themes, 980
+connections.
+
+Judgment calls: the boundary 21:1–9 stands (21:1 opens David's arrival at Nob, 21:9 closes the exchange over Goliath's
+sword, 21:10 opens David's flight to Achish of Gath). [[Ahimelech (son of Ahitub)]] is qualified from the start because
+`Ahimelech the Hittite` appears at 1 Samuel 26:6 (and `Ahimelech son of Abiathar` in 2 Samuel 8:17 / 1 Chronicles 24:3),
+matching [[Ahijah (son of Ahitub)]]. [[Doeg]] and [[Nob]] take bare names (unique; no collision with [[Nobah (town)]]).
+*The young men* (21:2, 4, 5) get no person page because they never appear in the scene and may be David's invention. One
+new connection, [[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]], tracks three-day sexual abstinence
+and holy-camp purity across Exodus 19:10–15, Leviticus 15:16–18, Deuteronomy 23:9–14, 1 Samuel 21:4–5, and 2 Samuel
+11:11; the five other threads already had home pages and received updates there.
+
+Contradictions and tensions recorded, not resolved: Ahimelech seeing David *alone, and no man with you* (21:1) against
+David's claim of *the young men* (21:2, 5) and the Gospels' *David … and those who were with him* (Matthew 12:3–4; Mark
+2:25–26); 1 Samuel 21:1–9 naming *Ahimelech* (with *Abiathar* as his son in 22:20) against Mark 2:26's *at the time of
+Abiathar the high priest*; whether [[Ahimelech (son of Ahitub)]] and [[Ahijah (son of Ahitub)]] (14:3) are brothers or
+one man under two names; Doeg's claim that Ahimelech *inquired of Yahweh for him* (22:10; compare 22:15) though 21:1–9
+narrates only bread and a sword; Leviticus 24:9 and 22:10–16 restricting the show bread to priests against Ahimelech
+giving it to David without narrated rebuke; why Doeg was *detained before Yahweh* (21:7); how Goliath's sword reached
+Nob (21:9 vs. 17:54); what *vessels* means (21:5); and how the sanctuary shifted from Shiloh to Nob while the ark stayed
+at Kiriath Jearim.
+
+Sources: 1 Samuel 21:1–9 from stored WEB, with the not-yet-ingested 1 Samuel 21:10; 22:9–23; 23:6; 26:6. Comparisons from
+stored WEB Exodus 19:10–16; 25:30; Leviticus 15:16–18; 22:10–16; 24:5–9; Deuteronomy 23:7–14; Judges 8:5–8; 1 Samuel
+1:3, 9; 2:27–36; 4:3–11; 7:1–2; 13:19–22; 14:3, 47; 16:2–5; 17:39, 45–54; 18:4; 19:13–17; 20:1–42. Matthew 12:3–8 and
+Mark 2:25–26 as already recorded on [[The Bread of the Presence - David's Hunger and Matthew 12]]; 2 Samuel 8:17; 11:11,
+1 Chronicles 24:3, Isaiah 10:32, Nehemiah 11:32, and Psalm 52's superscription are recalled, not checked. No Hebrew WLC,
+Septuagint, or non-stored WEB text was newly consulted in this pass.
+
+Link check: `scripts/link-check.sh` still fails on this host before checking anything (`declare: -A: invalid option`;
+macOS bash 3.2); its two checks were run via a line-for-line Python port — no wrapped links, no dangling links,
+baseline 53 not-yet-started books.

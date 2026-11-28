@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Doeg the Edomite at Nob — 1 Samuel 21:7
+
+At [[Nob]], one of *the servants of Saul* is *detained before Yahweh*: *his name was Doeg the Edomite, the best of the
+herdsmen who belonged to Saul* (21:7). Saul had fought Edom among his enemies *on every side* (14:47), yet an Edomite
+now directs Saul's herdsmen and stands *before Yahweh* at Israel's sanctuary — sitting beside Deuteronomy 23:7–8's rule
+that Israel not abhor an Edomite and admit his third generation to Yahweh's assembly. In the next chapter [[Doeg]] alone
+will carry out Saul's order to slaughter the priests of Nob (22:18–19, stored WEB; not yet ingested). See
+[[David at Nob]]. Source: stored WEB Deuteronomy 23:7–8; 1 Samuel 14:47; 21:7; 22:18–19.
+
 ### Among Saul's enemies — 1 Samuel 14:47
 
 *He fought against all his enemies on every side, against Moab, and against the children of Ammon, and against
@@ -205,6 +214,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 **Joshua 12:1–24 — the list of kings.** Seir again names the direction of Mount Halak's ascent (12:7), not Edomite land taken. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[David at Nob]] — 1 Samuel 21:7; *Doeg the Edomite*, Saul's chief herdsman, *detained before Yahweh* at Nob.
 - [[Saul's Wars and Household]] — 1 Samuel 14:47; among the enemies Saul fought *on every side*.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:17–18; *the king of Edom didn't listen*.
 

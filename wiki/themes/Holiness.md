@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Common bread* and *holy bread* at Nob — 1 Samuel 21:4–6
+
+[[Ahimelech (son of Ahitub)]] draws the basic sanctuary line: *I have no common bread, but there is holy bread; if only
+the young men have kept themselves from women* (21:4). [[David]] answers that *women have been kept from us as usual
+these three days*, and argues from lesser to greater: *the vessels of the young men were holy, though it was only a
+common journey. How much more then today shall their vessels be holy?* (21:5). The *holy bread* is *the show bread that
+was taken from before Yahweh* (21:6), classed as *most holy* for Aaron and his sons in Leviticus 24:9. Holiness here
+governs both food and the men who approach it, yet the boundary of priestly lineage yields to emergency need once ritual
+cleanness is affirmed. See [[David at Nob]], [[The Bread of the Presence - David's Hunger and Matthew 12]], and
+[[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]]. Source: stored WEB Leviticus 24:5–9; 1 Samuel
+21:4–6.
+
 ### *Who is able to stand before Yahweh, this holy God?* — 1 Samuel 6:19–7:1
 
 Beth Shemesh rejoices at the ark and sacrifices; then Yahweh strikes its men *because they had looked into
@@ -839,6 +851,7 @@ At Bethlehem Samuel tells the elders *Sanctify yourselves, and come with me to t
 2026-11-20.
 
 ## Key passages
+- [[David at Nob]] — 1 Samuel 21:4–6; *common bread* vs. *holy bread*; *vessels* kept holy; the show bread given to David.
 - [[Samuel Anoints David]] — 1 Samuel 16:5; *Sanctify yourselves*, and Jesse's sons sanctified.
 
 - [[The Ark Returns to Israel]] — 1 Samuel 6:19–20; 7:1; *this holy God*, and Eleazar consecrated to keep the ark.

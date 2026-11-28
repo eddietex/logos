@@ -17,8 +17,8 @@ tags: [connection]
   and with a javelin; but I come to you in the name of Yahweh of Armies* … *that all this assembly may know that
   Yahweh doesn't save with sword and spear; for the battle is Yahweh's* … *there was no sword in the hand of
   David.* Stored WEB.
-- **1 Samuel 21:8–9** (not yet ingested) — David to Ahimelech at Nob: *Isn't there here under your hand spear or
-  sword?* The priest gives him *the sword of Goliath the Philistine*. Stored WEB.
+- [[David at Nob]] — **1 Samuel 21:8–9** — David to [[Ahimelech (son of Ahitub)]] at [[Nob]]: *Isn't there here under
+  your hand spear or sword?* The priest gives him *the sword of Goliath the Philistine*. Stored WEB.
 
 ## Analysis
 
@@ -104,3 +104,16 @@ The spear that in 13:22 belonged solely to *Saul and Jonathan his son* against t
 three times at David and a fourth time by the father at the son himself. Meanwhile Jonathan's arrows — the weapons he
 carries into the field (20:20, 36–40) — become instruments of warning and peace rather than war. See
 [[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 13:22; 18:11; 19:10; 20:20, 25, 32–40.
+
+### Goliath's sword at Nob — 1 Samuel 21:8–9
+
+Fleeing Saul's court permanently, David arrives at [[Nob]] unarmed and asks [[Ahimelech (son of Ahitub)]] for the exact
+pair that has tracked Israel's weapons since 13:19: *Isn't there here under your hand spear or sword? For I have neither
+brought my sword nor my weapons with me, because the king's business required haste* (21:8). The man who refused Saul's
+sword (17:39), declared *Yahweh doesn't save with sword and spear* (17:47), and won with *no sword in the hand of David*
+(17:50) now asks urgently for a weapon — and the only one at Nob is *the sword of Goliath the Philistine, whom you
+killed in the valley of Elah*, kept *wrapped in a cloth behind the ephod* (21:9). David answers, *There is none like
+that. Give it to me* (21:9). The narrator does not explain how Goliath's sword reached Nob (17:54 mentioned only the head
+and the armor) or what happened to Jonathan's sword from 18:4; the giant's trophy simply passes from behind the ephod
+into the fugitive's hand as he flees toward Goliath's own city of Gath (21:10). See [[David at Nob]]. Source: stored
+WEB 1 Samuel 13:19, 22; 17:39, 47, 50–54; 18:4; 21:8–10.

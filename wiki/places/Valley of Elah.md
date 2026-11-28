@@ -17,8 +17,8 @@ a different word from the *ʿēmeq* of verse 2 (WLC). Whether they name the same
 in the Hebrew files checked, morphhb tags the same lemma (425) as the Edomite chief Elah (Genesis 36:41) and this
 valley (17:2, 19; 21:10 WLC = 21:9 WEB). No modern site is assigned.
 
-The valley is remembered by name when the priest at Nob gives David *the sword of Goliath the Philistine, whom you
-killed in the valley of Elah* (21:9, stored WEB; not yet ingested).
+The valley is remembered by name when [[Ahimelech (son of Ahitub)]] at [[Nob]] gives David *the sword of Goliath the
+Philistine, whom you killed in the valley of Elah* (21:9; see [[David at Nob]]).
 
 ### The battle line — 1 Samuel 17:19–24
 
@@ -35,8 +35,8 @@ Source: stored WEB 1 Samuel 17:1–3, 19–24; 21:9. Hebrew WLC (OpenScriptures 
 Goliath comes near, David runs *toward the army*, *hammaʿărāḵâ*, the battle line, to meet him (17:48, WLC), and the
 stone fells the champion between the two lines (17:49). From the valley Israel and Judah pursue the Philistines *as
 far as Gai and to the gates of Ekron*, along the road to Shaaraim, to Gath (17:52), out of the hill country toward the
-Philistine plain. The priest at Nob will name the place: *the sword of Goliath the Philistine, whom you killed in the
-valley of Elah* (21:9, stored WEB; not yet ingested). See [[David Kills Goliath]].
+Philistine plain. The priest at [[Nob]] later names the place: *the sword of Goliath the Philistine, whom you killed in
+the valley of Elah* (21:9; see [[David at Nob]]). See [[David Kills Goliath]].
 
 Source: stored WEB 1 Samuel 17:41–53; 21:9. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
@@ -49,6 +49,7 @@ the pericope, and 18:5 moves David out to wherever Saul sends him. See [[Jonatha
 Source: stored WEB 1 Samuel 17:55–18:5.
 
 ## Appears in
+- [[David at Nob]] — 1 Samuel 21:9; recalled by Ahimelech as the place where David killed Goliath, whose sword is kept behind the ephod.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6; the army's return *from the slaughter of the Philistine*; the valley is not named.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–57; Saul watches, and Abner brings David from the slaughter.
 - [[David Kills Goliath]] — 1 Samuel 17:41–53; the fight between the lines, and the pursuit from the valley.

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Kept from women for three days — 1 Samuel 21:4–5
+
+One chapter after Saul assumed nocturnal ritual uncleanness kept David from the new-moon meal (20:26), [[Ahimelech (son of Ahitub)]]
+sets sexual abstinence as the sole condition for eating *holy bread*: *if only the young men have kept themselves from
+women* (21:4). [[David]] replies that *women have been kept from us as usual these three days*, echoing Israel's
+three-day consecration before Sinai (Exodus 19:15), Leviticus 15:18's evening impurity after marital relations, and the
+holy-camp purity of Deuteronomy 23:9–14. See [[David at Nob]] and
+[[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]]. Source: stored WEB Exodus 19:15; Leviticus 15:18;
+Deuteronomy 23:9–14; 1 Samuel 20:26; 21:4–5.
+
 ### Honey from a carcass — Judges 14:8–9
 
 Samson takes honey from *the body of the lion*, eats it, and gives it to his parents, *but he didn't tell
@@ -579,6 +589,7 @@ absence on day one but not on day two (20:27). No fault or sin is implied by Sau
 
 ## Key passages
 
+- [[David at Nob]] — 1 Samuel 21:4–5; three days' abstinence from women as the condition for eating the holy show bread.
 - [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:26; Saul assumes David is ritually unclean on day one of the new-moon feast.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

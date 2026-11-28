@@ -407,6 +407,20 @@ with *Yahweh is between me and you, and between my offspring and your offspring,
 [[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]] and
 [[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]].
 
+[[David at Nob]] (21:1–9) opens the fugitive years at Yahweh's sanctuary. David comes alone to [[Nob]], where
+[[Ahimelech (son of Ahitub)]] meets him *trembling*: *Why are you alone, and no man with you?* (21:1). David invents a
+secret, urgent royal commission from Saul and claims *the young men* are stationed at *a certain place*, asking for
+five loaves of bread (21:2–3). Ahimelech has *no common bread, but there is holy bread; if only the young men have kept
+themselves from women* (21:4); assured of three days' abstinence and holy *vessels* (21:5), he gives David *the show
+bread that was taken from before Yahweh, to put hot bread in the day when it was taken away* (21:6), bending Leviticus
+24:9's priestly restriction without narrated rebuke — the precedent Jesus cites in Matthew 12:3–4 and Mark 2:25–26
+(which names Abiathar; discrepancy recorded). Between the bread and the sword, one silent verse notes [[Doeg]] the
+Edomite, *the best of the herdsmen who belonged to Saul*, *detained before Yahweh* that day (21:7). Asked for *spear or
+sword*, Ahimelech gives David *the sword of Goliath the Philistine*, kept *wrapped in a cloth behind the ephod*: *There
+is none like that. Give it to me* (21:8–9). See [[The Bread of the Presence - David's Hunger and Matthew 12]],
+[[Kept from Women - Consecration at Sinai, the Holy Camp, and Nob]], and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]].
+
 
 ## Structure
 
@@ -463,7 +477,7 @@ merge, or reorder them freely.
 - [x] [[Michal Helps David Escape]] — 1 Samuel 19:8–17
 - [x] [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–24
 - [x] [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1–42
-- [ ] David at Nob — 1 Samuel 21:1–9
+- [x] [[David at Nob]] — 1 Samuel 21:1–9
 - [ ] David Feigns Madness at Gath — 1 Samuel 21:10–15
 - [ ] The Cave of Adullam — 1 Samuel 22:1–5
 - [ ] Saul Kills the Priests of Nob — 1 Samuel 22:6–23
@@ -631,6 +645,16 @@ merge, or reorder them freely.
 - [[Life and Death]] — *there is but a step between me and death*; *he shall surely die!* (20:3, 31–33)
 - [[Sin]] — *What have I done? What is my iniquity? What is my sin?* (20:1, 8, 32)
 - [[Mourning and Lament]] — Jonathan fasts in grief (20:34); both weep, *and David wept the most* (20:41)
+- [[Priesthood]] — Ahimelech at Nob exercises priestly judgment over the show bread and guards the ephod (21:1–9)
+- [[Holiness]] — *common bread* vs. *holy bread*; *vessels* kept holy; the show bread from *before Yahweh* (21:4–6)
+- [[Clean and Unclean]] — *kept themselves from women* for three days as the condition for eating holy bread (21:4–5)
+- [[Deception]] — David's invented secret royal errand and absent *young men* (21:2, 8)
+- [[The Dwelling of God]] — the sanctuary at Nob with show bread, ephod, and standing *before Yahweh* (21:6–7, 9)
+- [[Sacrifice and Offering]] — *the show bread that was taken from before Yahweh, to put hot bread* (21:6)
+- [[Hospitality]] — the trembling priest feeding an unarmed fugitive with the sanctuary's bread (21:3–6)
+- [[War]] — *spear or sword*; Goliath's sword kept behind the ephod; purity of warriors on a journey (21:4–5, 8–9)
+- [[Law and Obedience]] — Leviticus 24:9's priestly bread given to David without narrated rebuke (21:4–6)
+- [[Sabbath]] — *in the day when it was taken away*, the Sabbath renewal day of Leviticus 24:8 (21:6)
 
 ## Key people
 - [[Samuel]]
@@ -674,9 +698,11 @@ merge, or reorder them freely.
 - [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
 - [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11); *your servant Jesse the Bethlehemite* (17:58); Saul calls David *the son of Jesse* three times at the new moon (20:27, 30, 31)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9), and with Saul at the war; Eliab's anger at David (17:13, 28)
-- [[Goliath]] — the champion of Gath who defies Israel (17:4–10), killed with a stone and beheaded with his own sword (17:49–51)
+- [[Goliath]] — the champion of Gath who defies Israel (17:4–10), killed with a stone and beheaded with his own sword (17:49–51); his sword kept behind the ephod at Nob and given to David (21:9)
 - [[Singing Women (of Saul's time)]] — *Saul has slain his thousands, and David his ten thousands* (18:6–7)
 - [[Adriel]] — *the Meholathite*, given Merab when she should have gone to David (18:19)
+- [[Ahimelech (son of Ahitub)]] — the priest at Nob; meets David trembling, gives him the replaced show bread on condition of sexual purity, and gives him Goliath's sword (21:1–9)
+- [[Doeg]] — *Doeg the Edomite*, *the best of the herdsmen who belonged to Saul*, silently present and *detained before Yahweh* at Nob (21:7)
 
 ## Key places
 - [[Shiloh]]
@@ -723,3 +749,4 @@ merge, or reorder them freely.
 - [[Abel Meholah]] — commonly taken as the home of *Adriel the Meholathite* (18:19; recalled, not checked)
 - [[Naioth]] and [[Secu]] — *Naioth in Ramah*, where David stays with Samuel (19:18–23) and from which he flees to Jonathan (20:1), and *the great well that is in Secu*, where Saul asks the way (19:22)
 - [[The Stone Ezel]] — the landmark in the field where David hides and waits for Jonathan's arrow signal (20:19)
+- [[Nob]] — the sanctuary town of Ahimelech, the show bread, the ephod, and Goliath's sword, where Doeg is *detained before Yahweh* (21:1–9)

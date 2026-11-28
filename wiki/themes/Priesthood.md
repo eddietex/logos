@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly judgment at Nob — 1 Samuel 21:1–9
+
+At [[Nob]], [[Ahimelech (son of Ahitub)]] meets [[David]] *trembling* and administers Yahweh's sanctuary: he guards the
+show bread taken from before Yahweh, keeps the ephod (with Goliath's sword wrapped behind it), and decides in an
+emergency to give the replaced *holy bread* to a non-priest on condition of sexual abstinence (21:1–6, 9). Under
+Leviticus 24:9 and 22:10–16 the show bread belongs to Aaron's sons alone; the priest bends the boundary without narrated
+rebuke, and Jesus later cites the precedent in Matthew 12:3–4 and Mark 2:25–26. Watching silently is [[Doeg]], who will
+slaughter Ahimelech and eighty-five priests wearing a linen ephod in chapter 22. See [[David at Nob]] and
+[[The Bread of the Presence - David's Hunger and Matthew 12]]. Source: stored WEB Leviticus 22:10–16; 24:5–9; 1 Samuel
+21:1–9.
+
 ### A house chosen, and a faithful priest promised — 1 Samuel 2:27–36
 
 Yahweh's word through a man of God recalls the founding of the priesthood: the house chosen *out of all
@@ -909,6 +920,7 @@ hand!* (14:19). The priest's office is used and then interrupted by the king. Se
 
 ## Key passages
 
+- [[David at Nob]] — 1 Samuel 21:1–9; Ahimelech meets David trembling, gives him the replaced show bread on condition of sexual abstinence, and hands over Goliath's sword from behind the ephod.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:3, 18–19; Eli's great-grandson with the ephod; the inquiry cut off.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27–36; the chosen house revoked; *a faithful priest* with *a sure house*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:12–25; Eli's sons seize the share before the fat is burned; Samuel ministers in a linen ephod.
