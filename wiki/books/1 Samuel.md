@@ -376,6 +376,20 @@ times in eight verses. See [[Let Down Through the Window - Rahab and Michal]],
 [[Why Have You Deceived Me - Laban, the Gibeonites, Michal, and the Medium]], and
 [[The Teraphim - Household Gods in Genesis and After]].
 
+[[Saul Among the Prophets at Naioth]] (19:18–24) is the third escape, and the only one no one in Saul's house arranges.
+David *fled and escaped, and came to Samuel at Ramah*, and the two stay *in Naioth* (19:18), a place named only here
+and at 20:1, always *Naioth in Ramah*. Saul sends messengers *to seize David* three times, the third with *Saul added
+and sent*, Balak's idiom when he sent again for Balaam (Numbers 22:15). Each group sees *the company of the prophets
+prophesying, and Samuel standing as head over them*, and *God's Spirit came on* them, *and they also prophesied*
+(19:20–21). Saul goes himself, asks at *the great well that is in Secu* *Where are Samuel and David?*, and on the road
+*God's Spirit came on him also* (19:22–23), in the clause used of Balaam (Numbers 24:2). He strips, prophesies *before
+Samuel*, and lies *naked all that day and all that night*. *Therefore they say, "Is Saul also among the prophets?"*
+(19:24): the proverb of 10:11–12 gets a second origin. The word *also*, *gam*, comes eight times in five verses. The
+evil spirit of 19:9 and the Spirit of God of 19:23 come on the same man within fifteen verses, and the narrator does
+not reconcile them. See [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]],
+[[Falling Down Under the Spirit - Balaam and Saul at Naioth]], and
+[[All That Day and All That Night - Saul Fallen Before Samuel]].
+
 
 ## Structure
 
@@ -430,7 +444,7 @@ merge, or reorder them freely.
 - [x] [[David Marries Michal]] — 1 Samuel 18:17–30
 - [x] [[Jonathan Speaks for David]] — 1 Samuel 19:1–7
 - [x] [[Michal Helps David Escape]] — 1 Samuel 19:8–17
-- [ ] Saul Among the Prophets at Naioth — 1 Samuel 19:18–24
+- [x] [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–24
 - [ ] Jonathan's Covenant and the Arrows — 1 Samuel 20:1–42
 - [ ] David at Nob — 1 Samuel 21:1–9
 - [ ] David Feigns Madness at Gath — 1 Samuel 21:10–15
@@ -585,6 +599,9 @@ merge, or reorder them freely.
 - [[Marriage]] — *Michal, David's wife*, against her father (19:11–17)
 - [[Idolatry]] — *the teraphim* laid in David's bed (19:13, 16)
 - [[Deception]] — *He is sick*; *Why have you deceived me thus …?* (19:14–17)
+- [[The Spirit of God]] — *God's Spirit came on Saul's messengers*; *came on him also* (19:20, 23)
+- [[Prophecy and Vision]] — *the company of the prophets*; *Is Saul also among the prophets?* (19:20–24)
+- [[Nakedness and Covering]] — *stripped off his clothes … lay down naked* (19:24)
 
 ## Key people
 - [[Samuel]]
@@ -610,7 +627,7 @@ merge, or reorder them freely.
 - [[Saul]] — son of Kish, the first king; enters looking for donkeys (9:2)
 - [[Kish (father of Saul)]] — his father, a Benjamite (9:1–3)
 - [[Saul's Servant (of the lost donkeys)]] — who proposes the seer (9:3–10)
-- [[Band of Prophets (of Samuel's time)]] — at the hill of God; Saul prophesies among them (10:5–12)
+- [[Band of Prophets (of Samuel's time)]] — at the hill of God; Saul prophesies among them (10:5–12); *the company of the prophets* at Naioth, with Samuel at its head (19:20)
 - [[Saul's Uncle]] — told about the donkeys, not the kingdom (10:14–16)
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
@@ -667,7 +684,7 @@ merge, or reorder them freely.
 - [[Havilah]] and [[Shur]] — the bounds of the battle (15:7)
 - [[Carmel (Judah)]] — presumably, where Saul sets up a monument (15:12)
 - [[Gilgal]] — the second rejection, and Agag's death (15:12–33)
-- [[Ramah]] and [[Gibeah (Benjamin)]] — where Samuel and Saul go, never to meet again while Saul lives (15:34–35)
+- [[Ramah]] and [[Gibeah (Benjamin)]] — where Samuel and Saul go, Samuel coming *no more to see Saul* (15:34–35); at 19:24 it is Saul who comes to Samuel, at Naioth
 - [[Bethlehem]] — Jesse's town, where David is anointed (16:1–13) and keeps the sheep (17:15)
 - [[Socoh (lowland)]], [[Azekah]], and [[Ephes Dammim]] — the Philistine muster and camp (17:1)
 - [[Valley of Elah]] — Israel's camp, and the valley between the armies (17:2–3)
@@ -675,3 +692,4 @@ merge, or reorder them freely.
 - [[Gai]], [[Ekron]], and [[Shaaraim]] — the pursuit after Goliath's death (17:52)
 - [[Jerusalem]] — where David brings Goliath's head, the city's only mention in the book (17:54)
 - [[Abel Meholah]] — commonly taken as the home of *Adriel the Meholathite* (18:19; recalled, not checked)
+- [[Naioth]] and [[Secu]] — *Naioth in Ramah*, where David stays with Samuel, and *the great well that is in Secu*, where Saul asks the way (19:18–23)

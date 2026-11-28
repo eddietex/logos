@@ -83,3 +83,11 @@ spirit was on Saul*: the divine name stands in construct with *spirit*, as nowhe
 plain *was*, not *came mightily* (18:10). The harp is playing and the spear is thrown anyway (19:10); as at 18:10–11, the cure
 of 16:23 does not work. See [[Michal Helps David Escape]]. Source: stored WEB 1 Samuel 16:23; 18:10; 19:9–10. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-28.
+
+### 1 Samuel 19:18–24 — the other spirit, fifteen verses later
+
+The evil spirit of 19:9 is followed in the same chapter by *God's Spirit*, *rûaḥ ʾĕlōhîm* without *rāʿâ*, on Saul's
+messengers and then on Saul, and he prophesies (19:20, 23, WLC). At 18:10 the evil spirit also made him prophesy, with
+the same *hitpael* (WLC). So in 18:10–19:24 two different spirits come on Saul, and both are followed by prophesying.
+The narrator names them differently and does not explain the relation. See [[Saul Among the Prophets at Naioth]].
+Source: stored WEB 1 Samuel 18:10; 19:9, 20–24. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.

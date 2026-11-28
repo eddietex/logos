@@ -211,7 +211,7 @@ Saul here; the text says *very angry*, *displeased*, *watched*, *afraid*, and *i
   [[The Harp of David - Jubal, the Prophets, and the Sweet Psalmist]]
 - 1 Samuel 10:6, 10; 11:6; 16:13; Judges 14:6 — the Spirit *came mightily* —
   [[The Spirit Rushed on Him - Samson, Saul, and David]]
-- 1 Samuel 10:5–13; 19:20–24 — Saul prophesying —
+- 1 Samuel 10:5–13; 19:20–24 — Saul prophesying — [[Saul Among the Prophets at Naioth]],
   [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]
 - 1 Samuel 3:19; 16:18; 17:37 — *Yahweh was with him* — [[I Will Be With You - The Promise of Presence]]
 - 1 Samuel 20:33 — Saul throws the spear at Jonathan

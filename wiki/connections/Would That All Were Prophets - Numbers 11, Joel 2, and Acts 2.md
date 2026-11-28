@@ -53,3 +53,16 @@ one man, and onlookers find it strange that he is *among the prophets* (10:11). 
 [[Band of Prophets (of Samuel's time)]] and
 [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]. Sources: stored WEB Numbers 11:25–29; 1 Samuel
 10:5–13. Hebrew WLC (`Gen` through `2Sam`, `Ruth`), 2026-11-17.
+
+### 1 Samuel 19:18–24 — the third group, and the phrase of the quail
+
+At Naioth a whole *company of the prophets* prophesies with Samuel at its head, and every group Saul sends to them
+*also prophesied* (19:20–21). As in Numbers 11, the prophesying spreads beyond those first given it, and no words are
+reported. Unlike Eldad and Medad, the messengers are not among those chosen; the Spirit comes on them because they
+came. One phrase joins the two chapters: Saul lay naked *all that day and all that night*, *kol-hayyôm hahûʾ
+wǝḵol-hallaylâ* (19:24), and the people gathered quail *all that day, and all of that night* (Numbers 11:32). In the
+Hebrew files checked the phrase occurs only in those two verses and Exodus 10:13; see
+[[All That Day and All That Night - Saul Fallen Before Samuel]]. The verb *nāḇāʾ* is *hitpael* in Numbers 11:25–27 and
+for the messengers and Saul; the company at Naioth is *niphal* (19:20, WLC). See
+[[Saul Among the Prophets at Naioth]]. Source: stored WEB Numbers 11:25–32; Exodus 10:13; 1 Samuel 19:18–24. Hebrew
+WLC (OpenScriptures morphhb), 2026-11-28.

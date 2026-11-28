@@ -216,7 +216,19 @@ spirit is not said to *rush*; it is *on* him. The harp does not calm it, and the
 [[Michal Helps David Escape]] and [[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]]. Source: stored
 WEB 1 Samuel 16:14–23; 18:10–11; 19:9–10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### *God's Spirit came on Saul's messengers* — 1 Samuel 19:18–24
+
+Fifteen verses after *an evil spirit from Yahweh* (19:9), *God's Spirit*, *rûaḥ ʾĕlōhîm*, comes on three groups of
+messengers sent to seize David, and then on Saul himself, and all of them prophesy (19:20–23). The clause is *wattǝhî
+ʿal … rûaḥ ʾĕlōhîm* (WLC), Balaam's (Numbers 24:2), not the *ṣālaḥ* of Saul's anointing (10:10). Here the Spirit
+protects a man by stopping those sent against him: no one fights, and David does nothing. It comes on Saul after
+*Yahweh's Spirit departed from Saul* (16:14), and the text does not reconcile the two statements. See
+[[Saul Among the Prophets at Naioth]] and [[Falling Down Under the Spirit - Balaam and Saul at Naioth]].
+
+Source: stored WEB Numbers 24:2; 1 Samuel 10:10; 16:14; 19:9–24. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:20, 23; *God's Spirit came on Saul's messengers*; *came on him also*.
 - [[Michal Helps David Escape]] — 1 Samuel 19:9; *an evil spirit from Yahweh was on Saul*; the harp, and the third spear.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:10, 12; *an evil spirit from God came mightily on Saul*; *Yahweh … had departed from Saul*.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:14–23; *Yahweh's Spirit departed from Saul*, and *an evil spirit from Yahweh troubled him*.

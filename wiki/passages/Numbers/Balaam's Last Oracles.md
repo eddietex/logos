@@ -99,6 +99,7 @@ destruction. Balaam and Balak part company (24:15–25).
   among Midian and named as the source of the counsel at Peor.
 - [[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]]
 - [[The Spirit Came on Him - Balaam, Othniel, and Jephthah]] — 24:2's clause, used of Othniel (Judges 3:10).
+- [[Falling Down Under the Spirit - Balaam and Saul at Naioth]] — 24:2, 4, 10, 16; the same Spirit clause on Saul's messengers and Saul (1 Samuel 19:20, 23), three times, and *falling down*.
 
 ## Notes
 

@@ -29619,3 +29619,65 @@ lexicon or Septuagint text was consulted.
 Link check: `scripts/link-check.sh` still fails on this host before checking anything (`declare: -A: invalid
 option`; macOS bash 3.2); its two checks were run through the same line-for-line Python port as last run — no wrapped
 links, no dangling links, baseline 53 not-yet-started books.
+
+## [2026-11-28] ingest | 1 Samuel 19.18-24 — Saul Among the Prophets at Naioth
+
+Unattended run. Created [[Saul Among the Prophets at Naioth]], the places [[Naioth]] and [[Secu]], and the connections
+[[Falling Down Under the Spirit - Balaam and Saul at Naioth]] and
+[[All That Day and All That Night - Saul Fallen Before Samuel]]. Revised [[1 Samuel]] (box checked; overview
+paragraph; key themes; key people; key places); the people [[Saul]], [[Samuel]], [[David]], and
+[[Band of Prophets (of Samuel's time)]]; the place [[Ramah]]; the themes [[The Spirit of God]],
+[[Prophecy and Vision]], and [[Nakedness and Covering]]; the connections
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]] (19:23–24 now linked; new section),
+[[The Spirit Came on Him - Balaam, Othniel, and Jephthah]],
+[[The Spirit Rushed on Him - Samson, Saul, and David]],
+[[Would That All Were Prophets - Numbers 11, Joel 2, and Acts 2]],
+[[An Evil Spirit from God - Abimelech, Saul, and Ahab's Prophets]],
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]],
+[[Aaron's Garments Pass to Eleazar]], and [[Naked and Ashamed - Genesis 3 and Genesis 9]] (a new section each); the
+passages [[Samuel Anoints Saul]], [[Saul's Jealousy of David]], [[Jonathan Speaks for David]],
+[[Samuel Anoints David]], [[Jonathan Loves David]], and [[Michal Helps David Escape]] ("not yet ingested" notes for
+19:18–24 resolved), plus cross-references in [[Balaam's Last Oracles]], [[Balak Sends for Balaam]],
+[[The Seventy Elders and the Quail]], and [[Locusts and Darkness]]. Also `wiki/books/index.md` (32 / 47), People
+Index A-E (two rows) and N-Z (two), the places index (two new rows, one revised), the themes index (three rows),
+Connections Index A-C (one new, one revised), D-H (one new, one revised), I-N (two revised), O-S (two revised), and
+T-Z (two revised), and the dashboard counts. Frontmatter totals: 518 passages, 400 people, 621 places, 88 themes,
+978 connections.
+
+Judgment calls: the boundary 19:18–24 stands; 20:1 opens David's flight from Naioth to Jonathan. [[Naioth]] and
+[[Secu]] get place pages because both are named; *the great well* stays on the Secu page. No new person page: the
+three groups of messengers are not individuated, and *the company of the prophets* goes on the existing
+[[Band of Prophets (of Samuel's time)]] page without deciding whether it is the band of 10:5. The Balaam parallel
+(sending again, three times, the same Spirit clause, a falling) gets its own page, claiming no dependence; the
+proverb's second origin goes into a new section of the existing connection. Elijah's three captains (2 Kings 1) and
+Elisha at Dothan (2 Kings 6) are mentioned as recalled, not checked; no Kings text is stored.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`, as downloaded 2026-11-28
+and reused from that session's cache): *nāyôṯ* (5121) only at 1 Samuel 19:18, 19, 22, 23; 20:1, each with a
+kethiv/qere difference; *lahăqâ* (3862) and *śeḵû* (7906) only at 19:20 and 19:22; *wattǝhî ʿal … rûaḥ ʾĕlōhîm* only
+at Numbers 24:2 and 1 Samuel 19:20, 23 (with *YHWH* at Judges 3:10; 11:29); *yāsap̄* with *šālaḥ* at Genesis 8:10;
+Numbers 22:15; Judges 11:14; 1 Samuel 19:21; the *niphal* of *nāḇāʾ* only at 1 Samuel 10:11 and 19:20, every other
+form *hitpael*; *ʿārōm* (6174) only at Genesis 2:25 and 1 Samuel 19:24; *kol-hayyôm hahûʾ wǝḵol-hallaylâ* only at
+Exodus 10:13; Numbers 11:32; 1 Samuel 19:24 (28:20 without *hahûʾ*); *ʾêp̄ōh* at Genesis 37:16; Judges 8:18; Ruth
+2:19; 1 Samuel 19:22; 2 Samuel 9:4; *pāšaṭ* of garments at Genesis 37:23; Leviticus 6:4 (English 6:11); 16:23;
+Numbers 20:26, 28; 1 Samuel 18:4; 19:24; 31:8–9; the *niphal* participle of *nāṣaḇ* with *ʿal* at Genesis 28:13;
+Numbers 23:6, 17; 1 Samuel 19:20; 22:9; *bôr* (953 a) for WEB's *well* at 19:22.
+
+Correction made: [[Michal Helps David Escape]] and [[David]] said *bāraḥ* is used of David at 19:10 as well as 19:12.
+The WLC has *nās* (from *nûs*) at 19:10; *bāraḥ* first comes at 19:12. Both pages now say so.
+
+Contradictions recorded, not resolved: 15:35, *Samuel came no more to see Saul until the day of his death*, against
+19:24, where Saul lies *before Samuel*; the Hebrew of 15:35 has Samuel as subject, and whether the verses conflict
+depends on how *see* is read. The [[1 Samuel]] key-places line said Samuel and Saul would *never … meet again while
+Saul lives*; it now cites 15:35's words and notes 19:24. Also open: how *the Spirit of God* comes on Saul after
+16:14; whether *he also stripped* implies the messengers did; the meaning of *Naioth* and the site of *Secu*; the
+singular *wayyarʾ* of 19:20 (WEB *they saw*), recorded and not emended.
+
+Sources: 1 Samuel 19:18–24 from stored WEB, with the not-yet-ingested 1 Samuel 20:1; 22:9, 20; 25:1; 28:3–20; 31:8–9.
+Comparisons from stored WEB Genesis, Exodus, Leviticus, Numbers, Judges, and Ruth as cited on the pages. 2 Samuel 9:4
+read in the WLC only and paraphrased. 2 Kings 1 and 6 recalled, not checked. No lexicon or Septuagint text was
+consulted.
+
+Link check: `scripts/link-check.sh` still fails on this host before checking anything (`declare: -A: invalid
+option`; macOS bash 3.2, and no newer bash is installed); its two checks were run through the same line-for-line
+Python port as last run — no wrapped links, no dangling links, baseline 53 not-yet-started books.

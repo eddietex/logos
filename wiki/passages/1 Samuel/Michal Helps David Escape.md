@@ -51,7 +51,7 @@ second lie, a threat she puts in David's mouth: *He said to me, 'Let me go! Why 
 **Where it happens.** The pericope names no town. Saul *sat in his house* (9); David has a house of his own, to which
 the messengers are sent (11). Saul's home is [[Gibeah (Benjamin)]] (10:26; 15:34, stored WEB), and the reader may
 assume both houses are there, but 19:8–17 does not say so. David's flight ends *to Samuel at Ramah* in the next verse
-(19:18, stored WEB; not yet ingested). The battle of 19:8 is unplaced. The wiki gives the pericope no place page and
+(19:18, [[Saul Among the Prophets at Naioth]]). The battle of 19:8 is unplaced. The wiki gives the pericope no place page and
 links no place beyond the existing one.
 
 **What is going on.** This is the second of the four times in 19:1–20:42 that David is kept from Saul, and the second
@@ -118,8 +118,8 @@ the window she watches him from. Her love is stated at 18:20, 28; it is not stat
   19:10, and the spear stays in it.
 - **He slipped away.** *Wayyip̄ṭar mippǝnê šāʾûl* (10, WLC). In the Hebrew files checked the verb *pāṭar* (6362)
   occurs only here. The word for David's escape is used for nothing else in those books.
-- **Fled.** *Bāraḥ* (10, 12) is used of David here for the first time. It returns at 19:18; 20:1; 21:10; 27:4 (stored
-  WEB; 21:11 WLC). In the files checked it is the verb of Hagar from Sarai (Genesis 16:6, 8), of Jacob from Esau and
+- **Fled.** *Bāraḥ* (12) is used of David here for the first time; the *fled* of 10 is *nās*, from *nûs* (WLC). It
+  returns at 19:18; 20:1; 21:10; 27:4 (stored WEB; 21:11 WLC). In the files checked it is the verb of Hagar from Sarai (Genesis 16:6, 8), of Jacob from Esau and
   from Laban (27:43; 31:20–22, 27; 35:1, 7), and of Moses: *Pharaoh … sought to kill Moses. But Moses fled* (Exodus
   2:15). Saul *sought*, *wayǝḇaqqēš*, *to pin David* (10); Pharaoh *sought*, *wayǝḇaqqēš*, *to kill Moses* (WLC). See
   [[Moses Flees to Midian]].
@@ -183,7 +183,8 @@ the window she watches him from. Her love is stated at 18:20, 28; it is not stat
 **How it connects.** Jonathan's plea held for a verse; Michal's night holds David's life. The wiki has now seen two of
 Saul's children choose David over their father, one with an argument and one with a ruse, and Saul has been
 *deceived* by both his son's advocacy and his daughter's bed. The next pericope sends him after David to Naioth, where
-Saul's messengers, and then Saul himself, are overcome by the Spirit (19:18–24, stored WEB; not yet ingested). His
+Saul's messengers, and then Saul himself, are overcome by the Spirit (19:18–24,
+[[Saul Among the Prophets at Naioth]]). His
 next spear goes at Jonathan (20:33). Michal disappears from the story until 25:44, when Saul gives her to another man.
 In 2 Samuel David demands her back (3:13–16), and her last scene is at a window (6:16–23) (WLC; paraphrased).
 
@@ -230,7 +231,8 @@ In 2 Samuel David demands her back (3:13–16), and her last scene is at a windo
 - Genesis 28:11, 18; 1 Samuel 26:7–16 — *at his head*
 - Genesis 29:25 — *behold, it was Leah* — [[Jacob, Leah, and Rachel]]
 - 2 Samuel 6:16; 13:5–6 — Michal at the window again; Amnon's feigned sickness (WLC; not yet ingested)
-- 1 Samuel 19:18–24; 20:33; 22:6; 25:44 — after the escape (not yet ingested)
+- 1 Samuel 19:18–24 — the flight to Samuel at Ramah — [[Saul Among the Prophets at Naioth]]
+- 1 Samuel 20:33; 22:6; 25:44 — after the escape (not yet ingested)
 
 ## Notes
 

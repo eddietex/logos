@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### David's refuge with Samuel — 1 Samuel 19:18–24
+
+*David fled and escaped, and came to Samuel at Ramah* (19:18), *hārāmāṯâ* (WLC), the form used of Samuel's returns
+(7:17; 15:34; 16:13). He and Samuel stay *in Naioth*, which the text always calls *Naioth in Ramah* (19:19, 22, 23;
+20:1); the wiki gives it its own page. Saul *also went to Ramah* after three groups of messengers had prophesied there,
+and stopped at *the great well that is in Secu* on the way (19:22). At 15:34 Samuel went to Ramah and Saul to Gibeah,
+and *Samuel came no more to see Saul* (15:35); here Saul comes to Ramah, and lies naked before Samuel all day and
+night (19:24). See [[Saul Among the Prophets at Naioth]], [[Naioth]], and [[Secu]].
+
+Source: stored WEB 1 Samuel 7:17; 15:34–35; 16:13; 19:18–24; 20:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ### The anointing at the edge of the city — 1 Samuel 9:26–27
 
 The next morning Samuel walks Saul *down at the end of the city* and anoints him there (9:27–10:1). The city is
@@ -83,6 +94,7 @@ come *to Samuel to Ramah* to ask for a king (8:4, stored WEB; not yet ingested).
 Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–24; David's refuge with Samuel; Saul comes after him.
 - [[Samuel Anoints David]] — 1 Samuel 16:13; Samuel goes home after the anointing.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:34; Samuel goes home, and sees Saul no more.
 - [[Samuel Anoints Saul]] — 1 Samuel 9:26–27; the anointing at the edge of the unnamed city often identified with Ramah.
@@ -104,8 +116,11 @@ Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptur
 - [[Deborah's Palm Tree]] — between Ramah and [[Bethel]] (Judges 4:5).
 - [[The Jordan]] — Benjamin’s eastern boundary.
 - [[Mizpeh]] · [[Gilgal]] · [[Bethel]] — the towns of Samuel's circuit, with Ramah his return (1 Samuel 7:16–17).
+- [[Naioth]] — *Naioth in Ramah*, where David and Samuel stay (1 Samuel 19:18–23)
+- [[Secu]] — the great well on Saul's way to Ramah (1 Samuel 19:22)
 
 ## Events here
+- David flees to Samuel here; they stay at Naioth in Ramah; Saul's messengers, then Saul, prophesy — 1 Samuel 19:18–24, [[Saul Among the Prophets at Naioth]]
 - Samuel returns home after anointing David — 1 Samuel 16:13, [[Samuel Anoints David]]
 - Samuel goes home after the rejection of Saul — 1 Samuel 15:34, [[Saul Rejected over Amalek]]
 - Possibly the city at whose edge Samuel anoints Saul — 1 Samuel 9:26–10:1, [[Samuel Anoints Saul]] (identification not made by the text)

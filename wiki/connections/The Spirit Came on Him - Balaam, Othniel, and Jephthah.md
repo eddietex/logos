@@ -72,3 +72,15 @@ morphhb), 2026-11-13.
 thread of *ṣālaḥ* into Saul and David is followed on its own page,
 [[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB Judges 14:6, 19; Hebrew WLC
 (OpenScriptures morphhb), 2026-11-16.
+
+### 1 Samuel 19:20, 23 — the clause on Saul's messengers and on Saul
+
+The clause returns twice in one pericope: *wattǝhî ʿal-malʾăḵê šāʾûl rûaḥ ʾĕlōhîm* (19:20) and *wattǝhî ʿālāyw
+gam-hûʾ rûaḥ ʾĕlōhîm* (19:23) (WLC). With *ʾĕlōhîm*, as for Balaam and not as for the two judges, it occurs in the
+Hebrew files checked only at Numbers 24:2 and these two verses. What follows is neither judging nor war but
+prophesying, by men sent *to seize David* and then by the king who sent them. As with Balaam, the Spirit turns a
+hostile errand into prophecy; the further parallels are on
+[[Falling Down Under the Spirit - Balaam and Saul at Naioth]]. The clause again shows nothing about the man's
+standing: Saul has been rejected (15:23) and an evil spirit was on him fifteen verses earlier (19:9). See
+[[Saul Among the Prophets at Naioth]]. Source: stored WEB 1 Samuel 15:23; 19:9, 18–24; Numbers 24:2. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-28.

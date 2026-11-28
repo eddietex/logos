@@ -377,6 +377,25 @@ time he says it himself (18:29 was the narrator). See [[Michal Helps David Escap
 
 Source: stored WEB Genesis 29:25; 1 Samuel 18:11, 29; 19:6–17; 28:12. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### Among the prophets again — 1 Samuel 19:18–24
+
+Told *David is at Naioth in Ramah* (19:19), he sends, as he did the night before: messengers *to seize David*, other
+messengers, and a third group, *wayyōsep̄ šāʾûl wayyišlaḥ*, *Saul added and sent* (19:20–21, WLC), Balak's idiom when he
+sent again for Balaam (Numbers 22:15). Every group prophesies. Then he goes himself. His only words in the pericope
+are a question at the great well in Secu, *Where are Samuel and David?* (19:22). On the road *God's Spirit came on him
+also*, *wattǝhî ʿālāyw gam-hûʾ rûaḥ ʾĕlōhîm* (19:23, WLC), the clause used of Balaam (Numbers 24:2), and he goes on
+prophesying until he arrives. He strips off his clothes, prophesies *before Samuel*, and lies naked all that day and
+all that night (19:24). The proverb of 10:11–12, *Is Saul also among the prophets?*, is told a second time. Fifteen
+verses earlier *an evil spirit from Yahweh* was on him (19:9); here it is *the Spirit of God*, and the text does not
+reconcile the two, or either with 16:14, *Yahweh's Spirit departed from Saul*. At 15:35 *Samuel came no more to see
+Saul*; at 19:24 Saul comes to Samuel, and the text records no word between them. See [[Saul Among the Prophets at Naioth]],
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]],
+[[Falling Down Under the Spirit - Balaam and Saul at Naioth]], and
+[[All That Day and All That Night - Saul Fallen Before Samuel]].
+
+Source: stored WEB Numbers 22:15; 24:2; 1 Samuel 10:10–12; 15:35; 16:14; 19:9–24. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -428,8 +447,12 @@ Source: stored WEB Genesis 29:25; 1 Samuel 18:11, 29; 19:6–17; 28:12. Hebrew W
   put to death*; receives David back *as before* — 19:1–7.
 - Under *an evil spirit from Yahweh*, throws the spear a third time; sends messengers to kill David in his house;
   deceived by Michal's teraphim; *Why have you deceived me thus?*; calls David *my enemy* — 19:8–17.
+- Sends messengers to seize David at Naioth three times, and each group prophesies; goes himself; the Spirit of God
+  comes on him; strips, prophesies before Samuel, and lies naked all day and night; *Is Saul also among the
+  prophets?* — 19:18–24.
 
 ## Appears in
+- [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:19–24; three sendings; *Where are Samuel and David?*; the Spirit of God on him; naked before Samuel all day and night; the proverb's second origin.
 - [[Michal Helps David Escape]] — 1 Samuel 19:9–17; the third spear; messengers sent three times; *Bring him up to me in the bed, that I may kill him*; *Why have you deceived me thus?*
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; the order to kill David spoken aloud; *Saul listened to the voice of Jonathan*; *As Yahweh lives*.
 - [[David Marries Michal]] — 1 Samuel 18:17–29; Merab and Michal offered as traps; *one hundred foreskins*; *Saul was David's enemy continually*.

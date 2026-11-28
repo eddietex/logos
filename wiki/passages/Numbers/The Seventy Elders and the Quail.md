@@ -153,6 +153,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Luke 10:1 — the Lord appoints seventy others *(WEB checked, not yet ingested; no link to this chapter is stated)*
 - Acts 2:17–18 — the Spirit on all flesh *(WEB and SBLGNT checked, not yet ingested)*
 - 1 Corinthians 10:6 — *we should not lust after evil things, as they also lusted* *(WEB and SBLGNT checked, not yet ingested)*
+- [[All That Day and All That Night - Saul Fallen Before Samuel]] — 11:32, *all that day, and all of that night*; the phrase of Saul's night at Naioth (1 Samuel 19:24), in the chapter of the elders' prophesying.
 
 ## Notes
 

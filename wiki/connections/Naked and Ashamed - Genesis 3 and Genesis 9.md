@@ -67,3 +67,12 @@ Genesis 9 ends with humanity divided into a blessed line, an enlarged line, and 
 two chapters scatter it across the earth. Every one of those is a step further from the world of
 Genesis 1, and Genesis 12:3 answers all of them at once, through one man out of Shem's line: *"All
 the families of the earth will be blessed through you."*
+
+### Naked before Samuel — 1 Samuel 19:24
+
+The adjective of Genesis 2:25, *ʿārōm*, occurs in the Hebrew files checked (Genesis through 2 Samuel, Ruth) only there
+and at 1 Samuel 19:24, where Saul *lay down naked all that day and all that night* before Samuel; Genesis 3:7, 10–11
+use the related *ʿêrōm* (WLC). Saul strips himself, while prophesying, and the text records no shame, no onlooker's
+reaction, and no covering.
+See [[Saul Among the Prophets at Naioth]]. Source: stored WEB Genesis 2:25; 3:7–11; 1 Samuel 19:24. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-28.

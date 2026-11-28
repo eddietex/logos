@@ -11,10 +11,10 @@ tags: [connection]
   with the prophets, then the people said to one another, "What is this that has come to the son of Kish? Is Saul
   also among the prophets?" One of the same place answered, "Who is their father?" Therefore it became a proverb,
   "Is Saul also among the prophets?"* Stored WEB.
-- **1 Samuel 19:23–24** — *Then God's Spirit came on him also, and he went on, and prophesied, until he came to
-  Naioth in Ramah. He also stripped off his clothes, and he also prophesied before Samuel, and lay down naked all
-  that day and all that night. Therefore they say, "Is Saul also among the prophets?"* Stored WEB; not yet
-  ingested.
+- [[Saul Among the Prophets at Naioth]] — **1 Samuel 19:23–24** — *Then God's Spirit came on him also, and he went
+  on, and prophesied, until he came to Naioth in Ramah. He also stripped off his clothes, and he also prophesied before
+  Samuel, and lay down naked all that day and all that night. Therefore they say, "Is Saul also among the prophets?"*
+  Stored WEB.
 - [[Saul's Jealousy of David]] — **1 Samuel 18:10** — *an evil spirit from God came mightily on Saul, and he
   prophesied in the middle of the house*. Stored WEB.
 
@@ -78,3 +78,20 @@ The verb of 18:10 is the *hitpael* *wayyiṯnabbēʾ*, the same stem as Saul's p
 13) and at Naioth (19:20–24), and the elders' in Numbers 11:25–27 (WLC; morphhb morphology). The text describes the
 prophesying no further; it says only that it came with the evil spirit and that the spear was in his hand. See
 [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 18:10–11. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
+
+### 1 Samuel 19:18–24 now ingested
+
+The second origin confirms the table above and adds three things. **The Spirit clause.** At 10:10 the Spirit *came
+mightily*, *wattiṣlaḥ*; at 19:20, 23 it *came on*, *wattǝhî ʿal* (WLC), the clause used of Balaam (Numbers 24:2), and
+of the messengers before it is used of Saul. **The word *also*.** *Gam* comes eight times in 19:20–24, and the
+proverb's *hăḡam*, *also?*, is the last of them. In chapter 10 *also* set Saul beside prophets he had never been
+among; in chapter 19 it sets him after his own messengers, the fourth to be overtaken. **The stems.** The prophets are
+*nibbǝʾîm* (*niphal*) in both chapters' key verse (10:11; 19:20), and Saul's own prophesying is *hitpael* in both
+(10:10; 19:23–24) (WLC). Saul's prophesying at 18:10, with the evil spirit, is *hitpael* too, so the stem does not
+by itself distinguish the Spirit of God from the evil spirit.
+
+The tension with 15:35 recorded above is kept on the passage page and on
+[[All That Day and All That Night - Saul Fallen Before Samuel]]; the text records no word or look between Saul and
+Samuel at Naioth. See [[Saul Among the Prophets at Naioth]] and
+[[Falling Down Under the Spirit - Balaam and Saul at Naioth]]. Source: stored WEB 1 Samuel 10:10–12; 15:35; 18:10;
+19:18–24; Numbers 24:2. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.

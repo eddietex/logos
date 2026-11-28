@@ -169,7 +169,7 @@ does not say, and the wiki does not decide.
   test of a prophet is whether *the thing* he speaks *happens* (18:22, stored WEB). Samuel passes it, as 3:19 and
   9:6 said he would. See [[Signs and Wonders]] and [[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]].
 - **Is Saul also among the prophets?** *Hăḡam šāʾûl bannəḇîʾîm* (10:11, 12, WLC). The text gives this proverb two
-  origins, here and at Naioth in Ramah (19:24, stored WEB; not yet ingested). See
+  origins, here and at Naioth in Ramah (19:24, [[Saul Among the Prophets at Naioth]]). See
   [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]].
 - **Who is their father?** *Ûmî ʾăḇîhem* (10:12, WLC). The question is not explained. It may compare Saul,
   *the son of Kish*, with prophets who have no known father, or ask who leads the band, since *father* is later a
@@ -248,7 +248,7 @@ secret.
 - Judges 14:6, 19; 15:14; 1 Samuel 11:6; 16:13 — the Spirit *came mightily* —
   [[The Spirit Rushed on Him - Samson, Saul, and David]]
 - Numbers 11:25–29 — the elders prophesy — [[Would That All Were Prophets - Numbers 11, Joel 2, and Acts 2]]
-- 1 Samuel 19:20–24 — the proverb's second origin —
+- 1 Samuel 19:20–24 — the proverb's second origin — [[Saul Among the Prophets at Naioth]],
   [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]
 - Deuteronomy 18:22 — the word that *happens* — [[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]]
 - 1 Samuel 13:8 — *He stayed seven days, according to the time set by Samuel*

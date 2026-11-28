@@ -166,8 +166,8 @@ God who sees* (Genesis 16:13, WLC; stored WEB). See [[Seeing and Being Seen]].
 - **Sanctify yourselves.** *Hiṯqaddəšû* (5, WLC), the command Joshua gave before the Jordan (Joshua 3:5) and before
   Achan was taken (Joshua 7:13) (stored WEB). Samuel then sanctifies Jesse's family himself (5). See [[Holiness]].
 - **Samuel goes home.** The last act of the scene is Samuel's: *So Samuel rose up and went to Ramah* (13). He
-  anoints, and he leaves. In 1 Samuel he next appears with David at Ramah, when David flees to him (19:18, stored
-  WEB; not yet ingested).
+  anoints, and he leaves. In 1 Samuel he next appears with David at Ramah, when David flees to him (19:18,
+  [[Saul Among the Prophets at Naioth]]).
 
 **How it connects.** Chapters 13–15 were Saul's three failures; chapter 16 begins the long overlap of two anointed
 men. The next pericope, [[David Plays the Harp for Saul]] (16:14–23), sends the Spirit away

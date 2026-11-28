@@ -36,3 +36,13 @@ of any successor being installed; the transfer that this page traces is narrated
 
 Sources: stored WEB Joshua 24:33, Exodus 29:29–30, Numbers 20:22–29, and Leviticus 21:10–12.
 The comparison paraphrases the texts and makes no source-language claim.
+
+### Garments stripped off in 1 Samuel
+
+The verb of Numbers 20:26, 28, *pāšaṭ*, *strip*, returns in 1 Samuel three times with clothing. Jonathan *stripped
+himself of the robe that was on him, and gave it to David* (18:4); Saul *stripped off his clothes* and lay naked before
+Samuel (19:24); and the Philistines *stripped off his armor* at Gilboa (31:9) (stored WEB; WLC). Only Jonathan's
+garments pass to another man, as Aaron's did. Some readers take the 1 Samuel series as the kingdom passing from Saul's
+house to David (recalled, not checked); the text does not say so, and the wiki records the verbs only. See
+[[Jonathan Loves David]] and [[Saul Among the Prophets at Naioth]]. Source: stored WEB 1 Samuel 18:4; 19:24; 31:8–9.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-28.

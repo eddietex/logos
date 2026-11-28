@@ -503,6 +503,7 @@ that ends at 11:8. **The text leaves the seam visible, and so does this page.**
   [[The Day of the Locust - Exodus 10 and Joel 1-2]]
 - Wisdom of Solomon 17:2; 18:1 — *"prisoners of darkness"*; *"great light"* (WEB deuterocanon)
 - Revelation 9:3; 16:10 — locusts out of the smoke; the beast's kingdom darkened (WEB)
+- Exodus 10:13 — *all that day, and all night* — [[All That Day and All That Night - Saul Fallen Before Samuel]]
 
 ## Notes
 

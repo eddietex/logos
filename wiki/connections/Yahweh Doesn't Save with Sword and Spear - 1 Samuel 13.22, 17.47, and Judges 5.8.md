@@ -87,3 +87,11 @@ wall. In 1 Samuel *ḥănîṯ* belongs first to an Israel without one (13:19, 2
 18:10 to Saul (18:10–11; 19:9–10; 20:33; 22:6; 26:7–22) (WLC). At 26:7 it is *stuck in the ground at his head*
 while he sleeps, and David takes it. See [[Michal Helps David Escape]]. Source: stored WEB 1 Samuel 13:19, 22; 17:7,
 45, 47; 18:10–11; 19:9–10; 22:6; 26:7–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
+### No weapon at Naioth — 1 Samuel 19:18–24
+
+The pericope after the third spear has no weapon in it at all. Saul's messengers come *to seize David*, and the
+Spirit of God stops them; Saul comes himself, without the spear, and is stopped the same way (19:20–24). David is
+delivered without fighting and without a ruse. The verse David spoke to Goliath, *Yahweh doesn't save with sword and
+spear* (17:47), is not quoted, but no one in the pericope uses either. See [[Saul Among the Prophets at Naioth]].
+Source: stored WEB 1 Samuel 17:47; 19:18–24.

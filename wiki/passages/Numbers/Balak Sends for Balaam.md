@@ -76,6 +76,7 @@ Balaam saddles his donkey and departs (15–21).
 - [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] — rewards and divine speech distinguished.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; the hire remembered, and the curse turned
   into a blessing.
+- [[Falling Down Under the Spirit - Balaam and Saul at Naioth]] — 22:15, *Balak again sent*; Saul *added and sent* messengers to seize David (1 Samuel 19:21).
 
 ## Notes
 

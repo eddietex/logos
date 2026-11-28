@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Naked before Samuel — 1 Samuel 19:24
+
+*He also stripped off his clothes, and he also prophesied before Samuel, and lay down naked all that day and all that
+night* (19:24). *ʿĀrōm* (WLC) occurs in the Hebrew files checked only here and at Genesis 2:25. The nakedness is
+self-inflicted, under the Spirit, and in the prophet's presence. The text records no shame, no covering, and no
+onlooker's reaction, only the proverb that followed. The stripping uses *pāšaṭ*, the verb of Aaron's garments put on
+Eleazar (Numbers 20:26–28) and of Jonathan's robe given to David (18:4). See [[Saul Among the Prophets at Naioth]],
+[[Naked and Ashamed - Genesis 3 and Genesis 9]], and [[Aaron's Garments Pass to Eleazar]].
+
+Source: stored WEB Genesis 2:25; Numbers 20:26–28; 1 Samuel 18:4; 19:24. Hebrew WLC (OpenScriptures morphhb),
+2026-11-28.
+
 ### Uncovered feet and a spread garment — Ruth 3
 
 Naomi tells Ruth to *uncover his feet* (3:4), and Ruth does (7): *gālâ* in the piel, the verb of the
@@ -219,6 +231,7 @@ page. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored W
 
 ## Key passages
 
+- [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:24; *stripped off his clothes … lay down naked all that day and all that night*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:4, 7, 9, 14; *uncover his feet*; *spread the corner of your garment*.
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

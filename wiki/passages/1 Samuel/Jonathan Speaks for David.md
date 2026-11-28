@@ -166,8 +166,9 @@ verse, 19:8, brings *war again*.
   on it.
 
 **How it connects.** The pericope opens the run of chapters in which David is kept from Saul four times, three of them
-by Saul's own children: Jonathan's warning here (19:1–7), Michal's window (19:11–17, [[Michal Helps David Escape]]), Samuel and the prophets at Naioth
-(19:18–24), and Jonathan's arrows (20:1–42) (stored WEB; not yet ingested). Jonathan's plea succeeds once; his second,
+by Saul's own children: Jonathan's warning here (19:1–7), Michal's window (19:11–17,
+[[Michal Helps David Escape]]), Samuel and the prophets at Naioth (19:18–24,
+[[Saul Among the Prophets at Naioth]]), and Jonathan's arrows (20:1–42, stored WEB; not yet ingested). Jonathan's plea succeeds once; his second,
 *What has he done?* (20:32), draws the spear at Jonathan himself. His love for David (18:1, 3) is the ground the
 narrator gives for both. Ahimelech will make the same defense at Nob, *Who among all your servants is so faithful as
 David, who is the king's son-in-law …?* (22:14, stored WEB; not yet ingested), and die for it.

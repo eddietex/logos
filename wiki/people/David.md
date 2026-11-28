@@ -218,15 +218,29 @@ Source: stored WEB 1 Samuel 10:22; 19:1–7. Hebrew WLC (OpenScriptures morphhb)
 
 He wins again, *with a great slaughter* (19:8), and plays again for Saul while the evil spirit is on him (19:9). The
 third spear misses: *he slipped away out of Saul's presence*, *wayyip̄ṭar*, a verb that occurs in the Hebrew files
-checked only here (WLC), and *fled, and escaped that night* (19:10). It is the first time *bāraḥ*, *flee*, is used of
-him; the fugitive years begin here. His wife saves him. Michal warns him, lets him down through the window, and puts
+checked only here (WLC), and *fled, and escaped that night* (19:10, *nās*, from *nûs*). When Michal lets him down, he
+*fled*, *wayyiḇraḥ* (19:12), the first time *bāraḥ*, *flee*, is used of him; the fugitive years begin here. His wife saves him. Michal warns him, lets him down through the window, and puts
 the teraphim in his bed (19:11–13). He says nothing in the pericope; the only words given him are the ones Michal
 invents, *Let me go! Why should I kill you?* (19:17). Saul now calls him *my enemy* (19:17). See
 [[Michal Helps David Escape]] and [[Let Down Through the Window - Rahab and Michal]].
 
 Source: stored WEB 1 Samuel 19:8–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### To Samuel at Ramah — 1 Samuel 19:18–24
+
+*Now David fled and escaped, and came to Samuel at Ramah, and told him all that Saul had done to him* (19:18). He goes
+to the prophet who anointed him, and they stay together *in Naioth*. His report is given in the narrator's words, not
+his; he has no direct speech from 19:8 to 20:1. Three groups of messengers are sent to seize him, and Saul comes
+after them (19:20–23), and David does nothing: each group, and then Saul, is overtaken by the Spirit of God and
+prophesies. The Spirit that *came mightily on David from that day forward* (16:13) is not said to come on him here.
+His third deliverance from Saul is the first that no one in Saul's house arranges. The next verse has him flee again,
+*from Naioth in Ramah*, to Jonathan (20:1, stored WEB; not yet ingested). See [[Saul Among the Prophets at Naioth]].
+
+Source: stored WEB 1 Samuel 16:13; 19:18–24; 20:1.
+
 ## Timeline / key events
+- 1 Samuel 19:18–24 — flees to Samuel at Ramah and stays with him at Naioth; Saul's messengers, and Saul, are
+  overtaken by the Spirit and prophesy. [[Saul Among the Prophets at Naioth]]
 - 1 Samuel 19:8–17 — wins *with a great slaughter*; slips away from the third spear; let down through the window
   by Michal; *fled, and escaped*. [[Michal Helps David Escape]]
 - 1 Samuel 19:1–7 — told by Jonathan to hide; defended to Saul as one who *put his life in his hand*; restored to
@@ -256,6 +270,7 @@ Source: stored WEB 1 Samuel 19:8–17. Hebrew WLC (OpenScriptures morphhb), 2026
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–22; *fled and escaped*; tells Samuel all that Saul had done; stays at Naioth; sought by three groups of messengers.
 - [[Michal Helps David Escape]] — 1 Samuel 19:8–17; the third spear; let down through the window; *fled, and escaped*; called *my enemy*.
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; hidden, defended by Jonathan, and restored *as before*.
 - [[David Marries Michal]] — 1 Samuel 18:17–30; *Who am I*; two hundred foreskins; married to Michal; *his name was highly esteemed*.

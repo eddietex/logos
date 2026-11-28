@@ -265,6 +265,20 @@ Ramah (16:13). See [[Samuel Anoints David]].
 
 Source: stored WEB 1 Samuel 10:1, 24; 16:1–13. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### The prophet at Naioth — 1 Samuel 19:18–24
+
+David comes to him at Ramah *and told him all that Saul had done to him*, and *he and Samuel went and lived in Naioth*
+(19:18). It is the first time the two are together since the anointing (16:13). Saul's messengers find *the company of
+the prophets prophesying, and Samuel standing as head over them*, *ʿōmēḏ niṣṣāḇ ʿălêhem* (19:20, WLC), the only time he
+is shown leading prophets. He says nothing in the pericope. The Spirit of God comes on each group of messengers, and
+then on Saul, who prophesies *before Samuel* and lies naked there all day and night (19:24). At 15:35 *Samuel came no
+more to see Saul until the day of his death*, *wǝlōʾ-yāsap̄ šǝmûʾēl lirʾôṯ ʾeṯ-šāʾûl* (WLC); here it is Saul who
+comes. **Recorded, not resolved:** whether the two verses conflict depends on how *see* is read. This is Samuel's last
+scene alive with either king; his death is reported at 25:1. See [[Saul Among the Prophets at Naioth]] and
+[[All That Day and All That Night - Saul Fallen Before Samuel]].
+
+Source: stored WEB 1 Samuel 15:35; 16:13; 19:18–24; 25:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -284,8 +298,11 @@ Source: stored WEB 1 Samuel 10:1, 24; 16:1–13. Hebrew WLC (OpenScriptures morp
 - Arrives at Gilgal as Saul finishes the burnt offering; *What have you done?*; tells him his kingdom will not continue, and that Yahweh has sought *a man after his own heart* — 13:8–15.
 - Gives Saul the commission against Amalek; cries to Yahweh all night; confronts Saul at Gilgal; *to obey is better than sacrifice*; the torn robe and the torn kingdom; kills Agag; goes to Ramah and mourns for Saul — 15:1–35.
 - Sent to Bethlehem with a horn of oil; looks at Eliab; anoints David *in the middle of his brothers* — 16:1–13.
+- Shelters David at Naioth in Ramah; stands at the head of the company of prophets while Saul's messengers, and then
+  Saul, prophesy; Saul lies naked before him — 19:18–24.
 
 ## Appears in
+- [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–24; shelters David; *standing as head over* the prophets; Saul naked *before Samuel*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1–13; told to stop mourning, sent to Bethlehem, mistaken about Eliab, and anoints David.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1–35; the commission, the night of crying out, the sentence, the robe, Agag, and mourning.
 

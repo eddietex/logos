@@ -119,7 +119,8 @@ now David's.
 - **Stripped himself.** *Wayyiṯpaššēṭ* (18:4, WLC; *pāšaṭ*, lemma 6584, in the reflexive *hitpael*). In the Hebrew
   files checked, this is the only *hitpael* of the verb. The *qal* is Saul's at Ramah, *He also stripped off his
   clothes* (19:24), and the Philistines' at Gilboa, who came *to strip the slain* and *stripped off his armor* (31:8–9)
-  (stored WEB; WLC; not yet ingested). Saul strips himself before Samuel; the Philistines strip Saul. Jonathan strips
+  (stored WEB; WLC; 19:24 is [[Saul Among the Prophets at Naioth]], and 31 is not yet ingested). Saul strips himself
+  before Samuel; the Philistines strip Saul. Jonathan strips
   himself, and gives what he takes off to David.
 - **The robe.** *Hamməʿîl ʾăšer ʿālāyw* (18:4, WLC; lemma 4598). *Məʿîl* is the high priest's robe of the ephod in
   Exodus and Leviticus, Samuel's *little robe* from his mother (2:19), the robe Saul tore (15:27), the robe of Saul's

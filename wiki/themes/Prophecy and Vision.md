@@ -329,7 +329,19 @@ one (recalled, not checked). See [[Saul's Jealousy of David]] and
 [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]. Source: stored WEB 1 Samuel 10:10; 18:10. Hebrew
 WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The company at Naioth — 1 Samuel 19:18–24
+
+The pericope shows prophecy as something that happens to people and spreads. *The company of the prophets* prophesies
+with Samuel *standing as head over them*; each of three groups of Saul's messengers who see them *also prophesied*;
+and Saul prophesies on the road and then *before Samuel*, stripped and lying down all day and night (19:20–24). No
+words of any of it are reported. The proverb of 10:11–12, *Is Saul also among the prophets?*, is given a second
+origin. In chapter 10 the prophesying confirmed Saul's anointing; here it keeps him from David. See
+[[Saul Among the Prophets at Naioth]] and [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]].
+
+Source: stored WEB 1 Samuel 10:5–13; 19:18–24.
+
 ## Key passages
+- [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:20–24; the company of the prophets; three groups of messengers and Saul prophesy; the proverb's second origin.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:10; Saul *prophesied in the middle of the house* under an evil spirit.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:5–13; a band of prophets; *Is Saul also among the prophets?*; Samuel's signs all fulfilled.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–20; *all that he says surely happens*; *a prophet was before called a seer*.

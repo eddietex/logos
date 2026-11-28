@@ -147,3 +147,11 @@ the rush made Saul prophesy among the prophets; at 18:10 it makes him *prophesy 
 in his hand. Two verses on, the narrator restates the exchange of 16:13–14 with Yahweh as subject: *Yahweh was with
 him, and had departed from Saul* (18:12). Source: stored WEB 1 Samuel 10:10; 16:13–14; 18:10–12. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-21.
+
+### 1 Samuel 19:18–24 now ingested — not a rush
+
+At Naioth the Spirit comes on Saul a third time, and the verb is not *ṣālaḥ*. *Wattǝhî ʿālāyw gam-hûʾ rûaḥ ʾĕlōhîm*
+(19:23, WLC), *the Spirit of God came on him also*, is the clause of Balaam, Othniel, and Jephthah, not of Samson or of
+10:10. The effect is the one of 10:10, prophesying, but Saul is stopped by it rather than confirmed. See
+[[Saul Among the Prophets at Naioth]] and [[The Spirit Came on Him - Balaam, Othniel, and Jephthah]]. Source: stored
+WEB 1 Samuel 10:10; 19:23. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
