@@ -101,7 +101,7 @@ now David's.
   [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] and [[Love]].
 - **Loved him.** The WLC's consonantal text (*ketiv*) reads *wyʾhbw* and the vocalization (*qere*) reads
   *wayyeʾĕhāḇēhû*, *and he loved him* (18:1). Jonathan is the second person in 1 Samuel said to love David, after Saul
-  (16:21); *all Israel and Judah* and Michal follow (18:16, [[Saul's Jealousy of David]]; 18:20, stored WEB, not yet ingested). In the files checked,
+  (16:21); *all Israel and Judah* and Michal follow (18:16, [[Saul's Jealousy of David]]; 18:20, [[David Marries Michal]]). In the files checked,
   *ʾāhaḇ* and *nepeš* in one verse is otherwise Isaac's savory food (Genesis 27:4), Shechem and Dinah (34:3), Ruth's
   daughter-in-law *who loves you* (Ruth 4:15), and the commands to love Yahweh *with all your soul* (Deuteronomy 6:5;
   10:12; 11:13; 13:3 WEB; 30:6; Joshua 22:5; 23:11) (WLC; stored WEB).

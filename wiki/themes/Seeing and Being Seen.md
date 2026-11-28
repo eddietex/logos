@@ -535,7 +535,16 @@ occurs only here (WLC, *qere*). When Saul *saw*, *wayyarʾ*, that David behaved 
 eyes are the pericope's frame. See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 18:5–15. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-21.
 
+### Right in his eyes; saw and knew — 1 Samuel 18:20, 26, 28
+
+*The thing pleased him*, literally *was right in his eyes*, *wayyîšar haddāḇār bǝʿênāyw* (18:20), and of David, *it
+pleased David well*, *right in David's eyes* (18:26, WLC): the same idiom for the father who means a trap and the groom
+who accepts it. It is Samson's of his Philistine bride, *she pleases me well* (Judges 14:3). Then *Saul saw and knew*
+(18:28): seeing becomes knowing. See [[David Marries Michal]]. Source: stored WEB Judges 14:3; 1 Samuel 18:20–28.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:20, 26, 28; *right in his eyes*, of Saul and of David; *Saul saw and knew*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:8–9, 15; *evil in his eyes*; *Saul watched David*; *when Saul saw*.
 - [[Jonathan Loves David]] — 1 Samuel 17:55; 18:5; *When Saul saw*; *good in the sight of all the people*.
 - [[David Kills Goliath]] — 1 Samuel 17:42, 51; *he looked … and saw David*, and despised him.

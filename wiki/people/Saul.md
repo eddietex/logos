@@ -334,6 +334,21 @@ grows in three words, *angry*, *afraid*, *in awe*; the text does not say his lov
 Source: stored WEB 1 Samuel 10:6, 10; 11:6; 15:28; 16:1–13, 21; 18:6–16. Hebrew WLC (OpenScriptures morphhb),
 2026-11-21.
 
+### Two daughters and the hand of the Philistines — 1 Samuel 18:17–30
+
+Saul stops throwing the spear and starts using his daughters. He offers [[Merab]], *Only be valiant for me, and fight
+Yahweh's battles*, and the narrator gives his thought: *Don't let my hand be on him, but let the hand of the
+Philistines be on him* (18:17). Merab goes instead to [[Adriel]] (18:19). When [[Michal]] loves David, *the thing
+pleased him*: *that she may be a snare to him* (18:20–21). He sends his servants *secretly* to say *the king has
+delight in you* (18:22), and names the price, *one hundred foreskins of the Philistines, to be avenged of the king's
+enemies*, meaning *to make David fall by the hand of the Philistines* (18:25). *To be avenged of … enemies* is his own
+oath at Michmash (14:24; the *niphal* of *nāqam*, WLC). David pays it twice over, and Saul gives him Michal (18:27).
+Then *Saul saw and knew that Yahweh was with David*, the first time he is said to know it; *Saul was even more afraid of
+David; and Saul was David's enemy continually* (18:28–29), *ʾōyēḇ*, the word of the *enemies* the dowry was to avenge
+(WLC). See [[David Marries Michal]] and [[A Bride-Price of Foreskins - Shechem, Saul, and David]].
+
+Source: stored WEB 1 Samuel 14:24; 18:17–30. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -378,8 +393,12 @@ Source: stored WEB 1 Samuel 10:6, 10; 11:6; 15:28; 16:1–13, 21; 18:6–16. Heb
 - Met by the singing women; angered by *Saul has slain his thousands, and David his ten thousands*; watches David;
   under the evil spirit, prophesies and throws the spear twice; afraid of David and sends him to command a thousand;
   stands in awe of him — 18:6–15.
+- Offers Merab and gives her to Adriel; uses Michal's love as *a snare*; asks a hundred Philistine foreskins to make
+  David fall; gives Michal to David; *saw and knew that Yahweh was with David*; *David's enemy continually* —
+  18:17–29.
 
 ## Appears in
+- [[David Marries Michal]] — 1 Samuel 18:17–29; Merab and Michal offered as traps; *one hundred foreskins*; *Saul was David's enemy continually*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6–15; the song; *What can he have more but the kingdom?*; the spear; *afraid of David*.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–58; 18:2, 5; *whose son is this youth?*; takes David, and sets him over the men of war.
 - [[David Comes to the Camp]] — 1 Samuel 17:25, 31–39; the reward; *you are but a youth*; *Go! Yahweh will be with you*; the armor.

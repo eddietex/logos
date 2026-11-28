@@ -153,7 +153,7 @@ one of Saul's young men said of David at 16:18, *and Yahweh is with him*.
   *ḥop̄šî* (lemma 2670) occurs in the files checked seven other times, all in the laws of the Hebrew servant who *goes
   out free* (Exodus 21:2, 5, 26–27; Deuteronomy 15:12–13, 18) (stored WEB; WLC). What freedom from the crown meant is
   not said; release from taxes or service is the usual suggestion (recalled, not checked). Saul offers Merab at 18:17
-  and gives Michal at 18:27; neither verse refers back to 17:25 (stored WEB; not yet ingested). See [[Merab]] and
+  and gives Michal at 18:27; neither verse refers back to 17:25 ([[David Marries Michal]]). See [[Merab]] and
   [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
 - **Pride, and the heart.** Eliab says *I know your pride, and the naughtiness of your heart*, *zəḏōnəḵā wəʾēṯ rōaʿ
   ləḇāḇeḵā* (28, WLC). *Zāḏôn* (lemma 2087) occurs in the files checked only here and in Deuteronomy's laws of the man

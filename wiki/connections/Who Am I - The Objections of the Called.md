@@ -22,6 +22,8 @@ tags: [connection]
 - **1 Samuel 9:21** — Saul: *"Am I not a Benjamite, of the smallest of the tribes of Israel? And my
   family the least of all the families of the tribe of Benjamin? Why then do you speak to me like
   this?"*
+- **1 Samuel 18:18, 23** — David to Saul: *"Who am I, and what is my life, or my father's family in Israel, that I
+  should be son-in-law to the king?"*; *"I am a poor man, and little known"* — [[David Marries Michal]]
 - **Isaiah 6:5, 8** — *"Woe is me! For I am undone, because I am a man of unclean lips"* — and, after
   the coal, *"Here I am. Send me!"*
 - **Jeremiah 1:6–9** — *"Ah, Lord Yahweh! Behold, I don't know how to speak; for I am a child."* —
@@ -80,3 +82,14 @@ Moses was given one unasked. The Hebrew of the sending, the promise, and the sig
 
 See [[The Burning Bush]], [[Call and Election]], [[Language and Speech]], and
 [[Prophecy and Vision]].
+
+### David before the king — 1 Samuel 18:18, 23
+
+David's *Who am I* is the only one in the series spoken to a man and not to God, and the only one that answers an offer
+rather than a call. *Mî ʾānōḵî ûmî ḥayyay* (18:18, WLC): in the Hebrew files checked, *mî ʾānōḵî* occurs only at
+Exodus 3:11, here, and 2 Samuel 7:18, where David says it again, to Yahweh, of the promised house (WLC; paraphrased).
+Its form is Saul's at 9:21, tribe and family named small, and when the offer is repeated David adds *I am a poor man,
+and little known* (18:23). There is no answer of presence; the offer is a trap (18:17, 21, 25). But the narrator gives
+the answer anyway, two verses later and to the reader, not to David: *Saul saw and knew that Yahweh was with David*
+(18:28). See [[David Marries Michal]] and [[I Will Be With You - The Promise of Presence]]. Source: stored WEB Exodus
+3:11; 1 Samuel 9:21; 18:17–28. Hebrew WLC (OpenScriptures morphhb), 2026-11-28; 2 Samuel 7:18 in the WLC only.

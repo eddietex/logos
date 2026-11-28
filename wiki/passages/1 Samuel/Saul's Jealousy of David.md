@@ -67,7 +67,7 @@ David away. Sending him to command a thousand puts him in front of the people, w
 
 Saul's fear grows in three steps. He is *angry* (8); he is *afraid of David* (12, *yārēʾ*); he *stood in awe of him*
 (15, *gûr*). Love for David grows alongside it, and in the same chapter: Jonathan's (18:1, 3), now *all Israel and
-Judah* (16), and next Michal's and the servants' (18:20, 22, stored WEB; not yet ingested). The narrator never says
+Judah* (16), and next Michal's and the servants' (18:20, 22, [[David Marries Michal]]). The narrator never says
 that Saul stopped loving him (16:21); he says only what Saul feared and what he did.
 
 **What is notable.**
@@ -216,7 +216,7 @@ Saul here; the text says *very angry*, *displeased*, *watched*, *afraid*, and *i
 - Numbers 27:17; Deuteronomy 31:2; Joshua 14:11 — going out and coming in —
   [[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]]
 - 1 Samuel 15:28 — the kingdom given to *a neighbor of yours*
-- 1 Samuel 18:28–29 — Saul's fear again (not yet ingested)
+- 1 Samuel 18:28–29 — Saul's fear again — [[David Marries Michal]]
 
 ## Notes
 
@@ -229,7 +229,7 @@ the group needs a page to carry it. No new place page: the text names no town. O
 **Unresolved.** Whether the couplet meant to slight Saul or is the ordinary parallelism of a song, as in Deuteronomy
 33:17. Whether *twice* (11) counts throws or escapes. What Saul's *prophesying* (10) looked like. Whether Saul's
 removing David to a command (13) was meant as an honor, a demotion from the court, or a way to put him in danger, as
-18:17, 21, 25 will say outright of the marriage offers (stored WEB; not yet ingested); 18:13 gives no motive beyond
+18:17, 21, 25 say outright of the marriage offers ([[David Marries Michal]]); 18:13 gives no motive beyond
 the fear of 12.
 
 **Sources.** 1 Samuel 18:6–16 from stored WEB, with the not-yet-ingested 1 Samuel 18:17–30; 19:9–10; 20:33; 21:11;

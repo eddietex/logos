@@ -564,7 +564,18 @@ given it (13). The same chapter has Israel confess *"we cried to Yahweh … Yahw
 hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
+### *A poor man, and little known* — 1 Samuel 18:23
+
+David's answer to the offer of the king's daughter: *Does it seem to you a light thing to be the king's son-in-law,
+since I am a poor man, and little known?* (18:23). *Rāš*, *poor* (lemma 7326), occurs in the Hebrew files checked only
+here and in Nathan's parable of *the poor man* and his one ewe lamb (2 Samuel 12:1–4, WLC). Hannah's song, with a
+different word (*dal*), had Yahweh raise *the poor out of the dust … to make them sit with princes* (2:8). Whether
+David's poverty is fact or courtesy, the text does not say; he cannot pay a dowry in money, and Saul asks for none. See
+[[David Marries Michal]]. Source: stored WEB 1 Samuel 2:7–8; 18:23–25. Hebrew WLC (OpenScriptures morphhb),
+2026-11-28; 2 Samuel 12:1–4 in the WLC only.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:23; *I am a poor man, and little known*; *rāš*, otherwise only in Nathan's parable.
 - [[The Song of Hannah]] — 1 Samuel 2:5–8; the hungry satisfied, the poor raised from the dust to *the throne of glory*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1, 14; Naomi seeks *rest* for a widow; Boaz guards her name.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 9, 15–16, 22; a widow gleaning, protected and given more than the law requires.

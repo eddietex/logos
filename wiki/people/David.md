@@ -188,7 +188,25 @@ people*, the phrase of Moses' prayer for a shepherd (Numbers 27:17), and *all Is
 
 Source: stored WEB Numbers 27:17; 1 Samuel 16:18; 18:6–16. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### The king's son-in-law — 1 Samuel 18:17–30
+
+Offered Merab, he answers *Who am I, and what is my life, or my father's family in Israel, that I should be son-in-law
+to the king?* (18:18), the *mî ʾānōḵî* of Moses at the bush (Exodus 3:11) and of his own prayer at 2 Samuel 7:18 (WLC).
+Offered Michal through Saul's servants, he answers *I am a poor man, and little known* (18:23); *rāš*, *poor*, is in the
+Hebrew files checked otherwise only in Nathan's parable of the poor man (2 Samuel 12:1–4, WLC). Then *it pleased David
+well to be the king's son-in-law* (18:26). Before the days are up he goes with *his men*, the first men of his own in
+the book, kills two hundred Philistines, brings their foreskins *in full number*, and is given Michal (18:27). The text
+says Michal loved him (18:20, 28), and never that he loved her; it does not say whether he knew the offers were traps.
+The chapter closes on him: *David behaved himself more wisely than all the servants of Saul, so that his name was
+highly esteemed* (18:30). See [[David Marries Michal]] and [[Who Am I - The Objections of the Called]].
+
+Source: stored WEB Exodus 3:11; 1 Samuel 18:17–30. Hebrew WLC (OpenScriptures morphhb), 2026-11-28; 2 Samuel 7:18;
+12:1–4 in the WLC only.
+
 ## Timeline / key events
+- 1 Samuel 18:17–30 — *Who am I … that I should be son-in-law to the king?*; *a poor man, and little known*; kills
+  two hundred Philistines for the bride-price and marries Michal; *behaved himself more wisely*; *his name was highly
+  esteemed*. [[David Marries Michal]]
 - 1 Samuel 18:6–16 — sung as *ten thousands* by the women; escapes Saul's spear twice; made captain over a thousand;
   *behaved himself wisely*, and *Yahweh was with him*; loved by all Israel and Judah. [[Saul's Jealousy of David]]
 - 1 Samuel 17:55–18:5 — names his father to Saul; loved by Jonathan, who makes a covenant with him and gives him his
@@ -211,6 +229,7 @@ Source: stored WEB Numbers 27:17; 1 Samuel 16:18; 18:6–16. Hebrew WLC (OpenScr
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[David Marries Michal]] — 1 Samuel 18:17–30; *Who am I*; two hundred foreskins; married to Michal; *his name was highly esteemed*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6–16; *David his ten thousands*; the spear; captain over a thousand; *Yahweh was with him*; loved by all Israel and Judah.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–18:5; *the son of your servant Jesse*; Jonathan's love, covenant, and robe; *behaved himself wisely*.
 - [[David Kills Goliath]] — 1 Samuel 17:41–54; *in the name of Yahweh of Armies*; *the battle is Yahweh's*; the stone, the sword, and the head.
@@ -234,6 +253,7 @@ Source: stored WEB Numbers 27:17; 1 Samuel 16:18; 18:6–16. Hebrew WLC (OpenScr
 - [[You Have Done Foolishly - Saul at Gilgal and David at the Census]]
 
 ## Related people
+- [[Michal]] — his wife, who *loved David* (18:20, 27–28)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — his three eldest brothers
 
 - [[The Preacher (Ecclesiastes)]] — described as his son in Ecclesiastes 1:1; historical identity not settled here.

@@ -265,7 +265,17 @@ children* (Genesis 42:36). It answers Exodus 17:16, *Yahweh will have war with A
 in the person of one king, *before Yahweh in Gilgal*. See [[Saul Rejected over Amalek]]. Source: stored WEB Genesis
 42:36; Exodus 17:16; 1 Samuel 15:32–33. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### *To be avenged of the king's enemies* — 1 Samuel 18:25
+
+Saul's stated reason for the bride-price, *lǝhinnāqēm bǝʾōyǝḇê hammeleḵ* (18:25, WLC), is the language of his oath at
+Michmash, *until it is evening, and I am avenged of my enemies*, *wǝniqqamtî mēʾōyǝḇay* (14:24), the *niphal* of
+*nāqam* both times. Both times the vengeance is the king's, and both times it is a cover: at Michmash for an oath that
+nearly cost Jonathan his life, here for a plan to cost David his. Four verses later *Saul was David's enemy*, *ʾōyēḇ*
+(18:29). See [[David Marries Michal]]. Source: stored WEB 1 Samuel 14:24; 18:25–29. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-28.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:25; *to be avenged of the king's enemies*; the king's enemy becomes the king (18:29).
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:32–33; Agag killed *before Yahweh in Gilgal*, a sentence in kind.
 - [[The Death of Samson]] — Judges 16:28; *avenged … for my two eyes*.
 - [[Jephthah's Vow]] — Judges 11:36; *Yahweh has taken vengeance for you*.

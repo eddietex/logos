@@ -14,11 +14,16 @@ named before the pursuit. WEB's *border* is *śəpat*, the word for the *seashor
 It is the home of Elisha: *anoint Elisha the son of Shaphat of Abel Meholah to be prophet in your place*
 (1 Kings 19:16, WEB checked at bible-api.com; not yet ingested). The site is not identified here.
 
-Source: stored WEB Judges 7:12, 22; 1 Kings 19:16 checked at bible-api.com (WEB); Hebrew WLC
+*Adriel the Meholathite*, *hammǝḥōlāṯî* (1 Samuel 18:19, WLC), to whom Merab is given, is a man of Meholah; the
+gentilic is commonly taken to point here (recalled, not checked), and the wiki lists him here on that basis only. See
+[[David Marries Michal]] and [[Adriel]].
+
+Source: stored WEB Judges 7:12, 22; 1 Samuel 18:19; 1 Kings 19:16 checked at bible-api.com (WEB); Hebrew WLC
 (OpenScriptures morphhb), 2026-11-15.
 
 ## Appears in
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:22.
+- [[David Marries Michal]] — 1 Samuel 18:19; *Adriel the Meholathite* (gentilic only; recalled link).
 
 ## Related places
 - [[Tabbath]] — *by Tabbath*.
@@ -27,3 +32,4 @@ Source: stored WEB Judges 7:12, 22; 1 Kings 19:16 checked at bible-api.com (WEB)
 
 ## Events here
 - The border of Abel Meholah, a limit of Midian's flight — Judges 7:22, [[The Sword of Yahweh and of Gideon]]
+- Home, as commonly understood, of Adriel the Meholathite, Merab's husband — 1 Samuel 18:19, [[David Marries Michal]]

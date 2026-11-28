@@ -601,7 +601,22 @@ called *"The house of him who had his shoe removed"* (7–10). The law gives the
 Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is recorded on the
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
+### Two daughters and a bride-price — 1 Samuel 18:17–27
+
+Saul offers his *elder daughter* [[Merab]] and gives her to [[Adriel]] instead (18:17–19); then he gives the younger,
+[[Michal]], who *loved David* (18:20, 27). The vocabulary is the vocabulary of marriage across a boundary: the
+*hitpael* of *ḥāṯan*, *become son-in-law*, five times here (18:21–27) and elsewhere in the Hebrew files checked only
+at Genesis 34:9, Deuteronomy 7:3, and Joshua 23:12, each a marriage with another people; and *mōhar*, *dowry*, here and
+only at Genesis 34:12 and Exodus 22:16–17 (WLC). The dowry Saul names is a hundred Philistine foreskins, and the
+narrator says what it is for, *to make David fall by the hand of the Philistines* (18:25). The marriage is the
+instrument of a plan to kill the groom, and the bride's love is the bait, *that she may be a snare to him* (18:21).
+*Saul gave him Michal his daughter as wife* (18:27) repeats Laban's *He gave him Rachel his daughter as wife* (Genesis
+29:28). See [[David Marries Michal]] and [[A Bride-Price of Foreskins - Shechem, Saul, and David]]. Source: stored WEB
+Genesis 29:28; 34:9–12; Exodus 22:16–17; Deuteronomy 7:3; Joshua 23:12; 1 Samuel 18:17–27. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-28.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:17–27; Merab offered and given to Adriel; Michal given for a bride-price of foreskins.
 - [[Boaz Redeems at the Gate]] — Ruth 4:9–12; Ruth acquired as Boaz's wife before witnesses; *like Rachel and like Leah*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–13; *seek rest for you*; *spread the corner of your garment over your servant*.
 - [[Ruth Clings to Naomi]] — Ruth 1:9–13; *rest … in the house of her husband*; no sons left for a levirate marriage.

@@ -213,7 +213,16 @@ becomes a residence in the camp.** See [[The Offering for the Sanctuary]] and
 ### 1 Samuel 18:6–16 now ingested — the presence that Saul fears
 
 *Kî-hāyâ YHWH ʿimmô ûmēʿim šāʾûl sār* (18:12, WLC): *because Yahweh was with him, and had departed from Saul*. The
-presence is now a fact the narrator states (18:12, 14; again 18:28, stored WEB; not yet ingested), and it is the
+presence is now a fact the narrator states (18:12, 14; again 18:28, [[David Marries Michal]]), and it is the
 reason for Saul's fear, not a promise to David. Saul had said it himself a chapter earlier, *Go! Yahweh will be with
 you* (17:37, stored WEB). See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 17:37; 18:12, 14, 28. Hebrew
 WLC (OpenScriptures morphhb), 2026-11-21.
+
+### Saul saw and knew — 1 Samuel 18:28
+
+*Wayyarʾ šāʾûl wayyēḏaʿ kî YHWH ʿim-dāwiḏ* (18:28, WLC): *Saul saw and knew that Yahweh was with David*. The narrator had
+said it twice (18:12, 14); here, for the first time, Saul knows it, and the knowledge makes him *even more afraid* and
+*David's enemy continually* (18:29). The presence promised to Moses and Gideon as an answer to *Who am I?* is, for
+David, the answer the narrator gives after David's own *Who am I?* (18:18), and the one person who is told it is the man
+it frightens. See [[David Marries Michal]] and [[Who Am I - The Objections of the Called]]. Source: stored WEB
+1 Samuel 18:12–29. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.

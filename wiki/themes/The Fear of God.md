@@ -637,7 +637,16 @@ the man with whom Yahweh is. The text does not call it fear of God; it is fear o
 it is done through. See [[Saul's Jealousy of David]]. Source: stored WEB Numbers 22:3; 1 Samuel 15:24; 18:12–15.
 Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### Even more afraid — 1 Samuel 18:28–29
+
+*Saul saw and knew that Yahweh was with David … Saul was even more afraid of David* (18:28–29), *wayyōʾsep̄ šāʾûl lērōʾ
+mippǝnê ḏāwiḏ ʿôḏ* (WLC), *Saul added to fear David yet*. It is the fourth step of chapter 18, after *very angry* (8),
+*afraid* (12), and *stood in awe* (15), and the first time Saul is said to *know* the reason. What he fears is the
+presence of Yahweh with another man, and he fears the man. See [[David Marries Michal]]. Source: stored WEB
+1 Samuel 18:8–29. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:28–29; *Saul saw and knew that Yahweh was with David*; *Saul was even more afraid of David*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:12, 15; *Saul was afraid of David, because Yahweh was with him*; *he stood in awe of him*.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:24; *I feared the people, and obeyed their voice*.
 

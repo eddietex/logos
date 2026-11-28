@@ -18,6 +18,8 @@ tags: [connection]
   destination of the flight.
 - **Genesis 31:7, 41** — [[Jacob's Flight from Laban]] — *"Your father has deceived me, and changed
   my wages ten times."*
+- **1 Samuel 18:17–27** — [[David Marries Michal]] — *"my elder daughter Merab"* given to another; *"Saul gave him
+  Michal his daughter as wife"*
 - **Genesis 12:18; 20:9; 26:10** — *"What is this you have done to me?"*, the question three foreign
   kings put to this family before Jacob puts it to his uncle.
 
@@ -128,3 +130,16 @@ took at 27:19–24. Neither man in the exchange has any standing.
   disputes the accounting. Laban's last recorded appeal to any principle is *"the daughters are my
   daughters, the children are my children"* (31:43), **and he follows it with *"what can I do
   today?"***
+
+### Merab and Michal — 1 Samuel 18:17–27
+
+Saul's daughters were introduced in the pair of Laban's refusal, *the firstborn Merab* and *the younger Michal*
+(14:49; *habbǝḵîrâ*, *haqqǝṭannâ*, WLC). When Saul offers the first, he calls her *my elder daughter*, *bittî
+haggǝḏôlâ* (18:17), the narrator's word for Leah at Genesis 29:16. The elder is given, but to another man, [[Adriel]]
+(18:19), and the younger is the one who loves and is loved (18:20). Then the clause of the handing over: *wayyitten-lô
+šāʾûl ʾeṯ-mîḵal bittô lǝʾiššâ*, *Saul gave him Michal his daughter as wife* (18:27), and *wayyitten-lô ʾeṯ-rāḥēl bittô
+lô lǝʾiššâ*, *He gave him Rachel his daughter as wife* (Genesis 29:28, WLC). Jacob claimed his bride because *my days
+are fulfilled* (29:21); David brings his price when *the days were not fulfilled* (18:26, WLC). And both fathers-in-law
+are deceivers: Laban by substitution, Saul by a bride-price meant to kill. Nothing in 1 Samuel points to Genesis; the
+parallel is in the words. See [[David Marries Michal]], [[Merab]], and [[Michal]]. Source: stored WEB Genesis 29:16–28;
+1 Samuel 14:49; 18:17–27. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.

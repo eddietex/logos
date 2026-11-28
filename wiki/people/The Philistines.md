@@ -248,6 +248,17 @@ This page covers the people. The region is [[The Land of the Philistines]]; the 
 Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 13:2–3; Judges 1:18;
 3:3, 31; 13:5; 16:5, 23–30.
 
+### The hand Saul hoped for — 1 Samuel 18:17–30
+
+Three times Saul's thought is *let the hand of the Philistines be on him* (18:17, 21, 25): the enemy is meant to do
+what the king will not. The bride-price is *one hundred foreskins of the Philistines, to be avenged of the king's
+enemies* (18:25), the word *uncircumcised* of 14:6 and 17:26, 36 made into a count. David kills two hundred (18:27).
+Then *the princes of the Philistines went out*, and *as often as they went out* David behaved himself more wisely than
+all Saul's servants (18:30). *Śārê pǝlištîm*, *princes* (WLC), not the *sǝrānîm*, *lords*, of the five cities (6:16).
+See [[David Marries Michal]].
+
+Source: stored WEB 1 Samuel 6:16; 14:6; 17:26, 36; 18:17–30. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Descended from the Casluhim — [[The Table of Nations]].
@@ -271,9 +282,11 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Camp at Ephes Dammim between Socoh and Azekah; their champion Goliath defies Israel — 1 Samuel 17:1–11. [[Goliath Defies Israel]]
 - Their battle line faces Israel's in the valley of Elah; called *uncircumcised* by David — 1 Samuel 17:19–26. [[David Comes to the Camp]]
 - Flee when their champion falls; pursued to Gai, Ekron, Shaaraim, and Gath; their camp plundered — 1 Samuel 17:51–53. [[David Kills Goliath]]
+- The *hand* Saul hopes will kill David; two hundred killed for the bride-price; their princes go out to war — 1 Samuel 18:17–30. [[David Marries Michal]]
 
 ## Appears in
 
+- [[David Marries Michal]] — 1 Samuel 18:17–30; *let the hand of the Philistines be on him*; a hundred foreskins asked, two hundred taken.
 - [[David Kills Goliath]] — 1 Samuel 17:41–53; their champion killed; the flight, the pursuit, and the plundered camp.
 - [[David Comes to the Camp]] — 1 Samuel 17:19–21, 26, 36; *army against army*; *this uncircumcised Philistine*.
 - [[Goliath Defies Israel]] — 1 Samuel 17:1–11; the camp in Judah's lowland, and the champion of Gath.

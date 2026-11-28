@@ -175,7 +175,18 @@ Philistine* and set him against *the armies of the living God* (17:26). He repea
 comparing the champion to the lion and bear (17:36). Jonathan had used the word of the Philistine garrison (14:6). See
 [[David Comes to the Camp]] and [[Uncircumcised Lips, Ears, and Heart]]. Source: stored WEB 1 Samuel 17:12–40; 14:6; Hebrew WLC.
 
+### A hundred foreskins — 1 Samuel 18:25–27
+
+*The king desires no dowry except one hundred foreskins of the Philistines* (18:25). *ʿOrlâ*, *foreskin*, is the word
+of the covenant sign in Genesis 17:11–25, of Shechem's condition (Genesis 34:14), of Zipporah's flint (Exodus 4:25), and
+of the second circumcision at Gilgal (Joshua 5:3) (WLC). Here it is cut from the enemy and counted, the
+*uncircumcised* of 14:6 and 17:26, 36 turned into a bride-price. David brings two hundred, *in full number to the king*
+(18:27); David later names the price as a hundred (2 Samuel 3:14, WLC). See [[David Marries Michal]] and
+[[A Bride-Price of Foreskins - Shechem, Saul, and David]]. Source: stored WEB Genesis 17:11–25; 34:14; Exodus 4:25;
+Joshua 5:3; 1 Samuel 14:6; 17:26, 36; 18:25–27. Hebrew WLC (OpenScriptures morphhb), 2026-11-28; 2 Samuel 3:14 in the WLC only.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:25–27; a bride-price of a hundred Philistine foreskins; two hundred brought.
 - [[David Comes to the Camp]] — 1 Samuel 17:26, 36; *this uncircumcised Philistine*.
 - [[Jonathan's Attack at Michmash]] — 1 Samuel 14:6; *the garrison of these uncircumcised*.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.

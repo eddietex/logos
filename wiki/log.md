@@ -29460,3 +29460,57 @@ Deuteronomy 1:17; 18:22; 31:2; 32:27, 30; 33:17; Joshua 1:7–8; 14:11; Judges 1
 claims cover the WLC files named above only, and lemma, homonym, and stem claims follow morphhb's tagging. Recalled,
 not checked, and flagged where made: the gloss of *ʿôyēn*; the reading of Saul's prophesying as raving. No lexicon or
 Septuagint text was consulted.
+
+## [2026-11-28] ingest | 1 Samuel 18.17-30 — David Marries Michal
+
+Unattended run. Created [[David Marries Michal]], the person page [[Adriel]], and the connection
+[[A Bride-Price of Foreskins - Shechem, Saul, and David]]. Revised [[1 Samuel]] (box checked; overview paragraph; key
+themes, people, and places); the people [[Michal]], [[Merab]], [[Saul]], [[David]], and [[The Philistines]]; the place
+[[Abel Meholah]]; the themes [[Marriage]], [[Love]], [[Deception]], [[Circumcision]], [[Vengeance]],
+[[The Fear of God]], [[Wisdom]], [[The Poor and the Vulnerable]], and [[Seeing and Being Seen]]; the connections
+[[Who Am I - The Objections of the Called]], [[The Younger Before the Firstborn - Jacob and Laban]],
+[[Little by Little - The Hornet, the Snare, and the Land Not Taken]], and
+[[I Will Be With You - The Promise of Presence]]; and the passages [[Saul's Jealousy of David]],
+[[Jonathan Loves David]], [[David Plays the Harp for Saul]], and [[David Comes to the Camp]], plus [[Love]], where
+"not yet ingested" notes for 18:17–30 were resolved. Also `wiki/books/index.md` (29 / 47), People Index A-E (one new
+row, one extended), F-M (two), and N-Z (two), the places index (one row), the themes index (nine rows), Connections
+Index A-C (one new), I-N (two), and T-Z (two), and the dashboard counts. Frontmatter totals: 515 passages, 400 people,
+619 places, 88 themes, 972 connections.
+
+Judgment calls: the boundary 18:17–30 stands; 18:30 closes chapter 18 on David's name, and 19:1 opens Saul's spoken
+order to kill him. One new person page, [[Adriel]], because he returns at 2 Samuel 21:8 with a reading problem. No
+pages for Saul's servants or David's *men* (18:27), who are not individuated yet. *Meholathite* is linked to
+[[Abel Meholah]] as a recalled identification, flagged on every page that makes it. The Genesis 34 parallel is filed as
+a parallel, not an allusion: no verse in 1 Samuel points to Shechem.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`, downloaded fresh
+2026-11-28): *ḥāṯan* in the *hitpael* (2859 b) at Genesis 34:9; Deuteronomy 7:3; Joshua 23:12; 1 Samuel 18:21, 22, 23,
+26, 27; *ḥāṯān* (2860) in 1 Samuel only at 18:18; 22:14; *mōhar* (4119) only at Genesis 34:12; Exodus 22:16; 1 Samuel
+18:25; *ʿorlâ* (6190) in fourteen verses, Genesis 17:11–25; 34:14; Exodus 4:25; Leviticus 12:3; 19:23; Deuteronomy
+10:16; Joshua 5:3; 1 Samuel 18:25, 27; 2 Samuel 3:14; *môqēš* (4170) at Exodus 10:7; 23:33; 34:12; Deuteronomy 7:16;
+Joshua 23:13; Judges 2:3; 8:27; 1 Samuel 18:21; 2 Samuel 22:6; *ʾāhaḇ* with a woman as subject only at Genesis 25:28;
+Ruth 4:15; 1 Samuel 18:20, 28; *mî ʾānōḵî* only at Exodus 3:11; 1 Samuel 18:18; 2 Samuel 7:18; *milḥămôṯ YHWH* at
+Numbers 21:14; 1 Samuel 18:17; 25:28; *ben-ḥayil* at 1 Samuel 14:52 and 18:17 among others; *rāš* (7326) only at
+1 Samuel 18:23; 2 Samuel 12:1, 3, 4; *yāqar* (3365) only at 1 Samuel 18:30; 26:21; *yāšar* in the *right in his eyes*
+sense (3474) at Numbers 23:27; Judges 14:3, 7; 1 Samuel 6:12; 18:20, 26; 2 Samuel 17:4; *ḥāp̄ēṣ* at Genesis 34:19 and
+1 Samuel 18:22, its noun at 18:25; the *niphal* of *nāqam* with *ʾōyēḇ* at 14:24 and 18:25; *Adriel* (5741) and
+*Meholathite* (4259) only at 1 Samuel 18:19 and 2 Samuel 21:8; the dual *bištayim* only at 18:21; *Saul gave him Michal
+his daughter as wife* (18:27) and *He gave him Rachel his daughter as wife* (Genesis 29:28) nearly word for word.
+
+Contradictions recorded, not resolved: 2 Samuel 21:8 (WLC *Michal* as the mother of Adriel's five sons) against
+2 Samuel 6:23 (Michal childless); the hundred foreskins asked (18:25; 2 Samuel 3:14) against the two hundred brought
+(18:27). Open questions: why Merab went to Adriel; what *bištayim* (18:21) counts; whether David knew the offers were
+traps.
+
+Sources: 1 Samuel 18:17–30 from stored WEB, with the not-yet-ingested 1 Samuel 19:1, 11–17; 22:2, 14; 23:13; 24:4;
+25:28, 44; 26:21. Comparisons from stored WEB Genesis 17; 25:28; 29:16–28; 34:8–30; Exodus 3:11; 4:25; 10:7;
+22:16–17; 23:33; 34:12; Numbers 21:14; Deuteronomy 7:3, 16; 25:3; 27:16; Joshua 5:3; 23:12–13; Judges 2:3; 8:27; 14:3;
+Ruth 3:7; 4:15; 1 Samuel 2:7–8; 6:16; 9:21; 10:26; 14:6, 24, 49, 52; 15:34; 16:21; 17:25–26, 36, 47; 18:1–16.
+2 Samuel 3:14; 6:23; 7:18; 12:1–4; 17:4; 21:8; 22:6 read in the WLC only and paraphrased; no 2 Samuel WEB is stored.
+Recalled, not checked, and flagged where made: *Meholathite* as Abel Meholah; the *Merab* reading of 2 Samuel 21:8;
+the Greek *hundred* at 18:27; Uriah and the hand of the Ammonites (2 Samuel 11:14–17). No lexicon or Septuagint text
+was consulted.
+
+Link check: `scripts/link-check.sh` requires bash 4 and GNU `find -printf`, neither available on this host (macOS,
+bash 3.2); its two checks were run through a line-for-line Python port instead — no wrapped links, no dangling links,
+baseline 53 not-yet-started books.

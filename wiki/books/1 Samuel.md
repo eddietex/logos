@@ -338,6 +338,20 @@ the people, the phrase of Moses' prayer for a shepherd (Numbers 27:17). He *beha
 awe of him*, and *all Israel and Judah loved David* (18:13–16). The song is quoted twice more by Philistines (21:11;
 29:5). See [[Saul Has Slain His Thousands - 1 Samuel 18.7, 21.11, and 29.5]].
 
+[[David Marries Michal]] (18:17–30) has Saul stop throwing the spear and start using his daughters. He offers his
+*elder daughter Merab*, *Only be valiant for me, and fight Yahweh's battles*, and the narrator opens his mind: *Don't let
+my hand be on him, but let the hand of the Philistines be on him* (18:17). David answers *Who am I … that I should be
+son-in-law to the king?*, the *mî ʾānōḵî* of Moses at the bush (18:18; Exodus 3:11), and Merab is *given to Adriel the
+Meholathite* instead (18:19). Then *Michal, Saul's daughter, loved David*; it pleases Saul, *that she may be a snare to
+him* (18:20–21), the word for the nations' gods in Exodus 23:33 and Judges 2:3. Through his servants, *secretly*, he
+names the price, *no dowry except one hundred foreskins of the Philistines, to be avenged of the king's enemies*, to
+*make David fall by the hand of the Philistines* (18:22–25). David, *a poor man, and little known* (18:23), brings two
+hundred, and *Saul gave him Michal his daughter as wife* (18:27), in the words of Laban giving Rachel (Genesis 29:28).
+The elder given and the younger loved repeat Genesis 29; the bride-price of foreskins answers Genesis 34. *Saul saw
+and knew that Yahweh was with David; and Michal, Saul's daughter, loved him*; *Saul was David's enemy continually*
+(18:28–29). See [[A Bride-Price of Foreskins - Shechem, Saul, and David]] and
+[[The Younger Before the Firstborn - Jacob and Laban]].
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -388,7 +402,7 @@ merge, or reorder them freely.
 - [x] [[David Kills Goliath]] — 1 Samuel 17:41–54
 - [x] [[Jonathan Loves David]] — 1 Samuel 17:55–18:5
 - [x] [[Saul's Jealousy of David]] — 1 Samuel 18:6–16
-- [ ] David Marries Michal — 1 Samuel 18:17–30
+- [x] [[David Marries Michal]] — 1 Samuel 18:17–30
 - [ ] Jonathan Speaks for David — 1 Samuel 19:1–7
 - [ ] Michal Helps David Escape — 1 Samuel 19:8–17
 - [ ] Saul Among the Prophets at Naioth — 1 Samuel 19:18–24
@@ -525,6 +539,13 @@ merge, or reorder them freely.
 - [[The Spirit of God]] — *an evil spirit from God came mightily on Saul* (18:10)
 - [[The Fear of God]] — *Saul was afraid of David, because Yahweh was with him* (18:12)
 - [[Love]] — *all Israel and Judah loved David* (18:16)
+- [[Marriage]] — Merab offered and given to Adriel; Michal given for a bride-price (18:17–27)
+- [[Love]] — *Michal, Saul's daughter, loved David*, twice (18:20, 28)
+- [[Deception]] — the marriage offers as traps; *that she may be a snare to him* (18:17, 21, 25)
+- [[Circumcision]] — *one hundred foreskins of the Philistines* (18:25–27)
+- [[Vengeance]] — *to be avenged of the king's enemies* (18:25)
+- [[The Fear of God]] — *Saul was even more afraid of David* (18:29)
+- [[Wisdom]] — *behaved himself more wisely than all the servants of Saul* (18:30)
 
 ## Key people
 - [[Samuel]]
@@ -570,6 +591,7 @@ merge, or reorder them freely.
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9), and with Saul at the war; Eliab's anger at David (17:13, 28)
 - [[Goliath]] — the champion of Gath who defies Israel (17:4–10), killed with a stone and beheaded with his own sword (17:49–51)
 - [[Singing Women (of Saul's time)]] — *Saul has slain his thousands, and David his ten thousands* (18:6–7)
+- [[Adriel]] — *the Meholathite*, given Merab when she should have gone to David (18:19)
 
 ## Key places
 - [[Shiloh]]
@@ -613,3 +635,4 @@ merge, or reorder them freely.
 - [[Gath]] — Goliath's city (17:4)
 - [[Gai]], [[Ekron]], and [[Shaaraim]] — the pursuit after Goliath's death (17:52)
 - [[Jerusalem]] — where David brings Goliath's head, the city's only mention in the book (17:54)
+- [[Abel Meholah]] — commonly taken as the home of *Adriel the Meholathite* (18:19; recalled, not checked)

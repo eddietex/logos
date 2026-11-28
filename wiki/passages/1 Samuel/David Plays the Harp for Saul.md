@@ -119,7 +119,7 @@ loves him. The reader knows what Saul does not.
   before* is the language of service at court. The servants in verse 16 are those *in front of you*, *ləp̄ānêḵā*.
 - **He loved him greatly.** *Wayyeʾĕhāḇēhû məʾōḏ* (21, WLC). The subject is not named, but the natural reading is
   that Saul loved David. It is the first time in 1 Samuel that anyone is said to love David. Jonathan (18:1, 3; [[Jonathan Loves David]]), *all Israel and
-  Judah*, Michal, and Saul's servants follow (18:16, [[Saul's Jealousy of David]]; 18:20, 22, stored WEB, not yet ingested). See [[Love]].
+  Judah*, Michal, and Saul's servants follow (18:16, [[Saul's Jealousy of David]]; 18:20, 22, [[David Marries Michal]]). See [[Love]].
 - **His armor bearer.** *Nōśēʾ ḵēlîm* (21, WLC). In the Hebrew files checked the phrase is used of Abimelech's young
   man (Judges 9:54), of Jonathan's (14:1, 6, 7, 12), of David here, of Saul's at Gilboa (31:4–6), and of Joab's ten young men
   (2 Samuel 18:15). Abimelech and Saul, the two men troubled by *an evil spirit from God* in those books, both die by

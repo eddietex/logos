@@ -440,7 +440,19 @@ that the instruction comes from Yahweh. Compare the midwives before Pharaoh (Exo
 who protect life with words spoken to a king; Rahab's are plainly false. See [[Samuel Anoints David]] and [[The Midwives and Rahab - Deceiving the King to Save Life]].
 Source: stored WEB Exodus 1:19; Joshua 2:4–6; 1 Samuel 16:2–5.
 
+### Offers that are traps — 1 Samuel 18:17–25
+
+Saul's two marriage offers are deceptions the narrator exposes and David is never shown to see. Each time the reader
+hears Saul's thought, *let the hand of the Philistines be on him* (18:17, 21), and the third time the narrator gives it
+in his own voice, *Saul thought he would make David fall by the hand of the Philistines* (18:25). The servants are to
+speak *secretly*, *ballāṭ* (18:22, WLC), and carry the king's *delight* as their own message. *That she may be a snare
+to him* (18:21) uses *môqēš*, the word for the nations and their gods in Exodus 23:33, Deuteronomy 7:16, and Judges 2:3.
+The trap fails; David pays the price twice. Genesis 34:13 is the other bride-price answered *with deceit*. See
+[[David Marries Michal]] and [[A Bride-Price of Foreskins - Shechem, Saul, and David]]. Source: stored WEB Genesis
+34:13; Exodus 23:33; Deuteronomy 7:16; Judges 2:3; 1 Samuel 18:17–27. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:17–25; two marriage offers as traps; the servants speak *secretly*; *that she may be a snare to him*.
 - [[Samuel Anoints David]] — 1 Samuel 16:2–5; a real sacrifice, given by Yahweh as cover for the anointing.
 - [[Samson and Delilah]] — Judges 16:5–18; *Entice him*; three lies; *you have mocked me, and told me lies*.
 - [[Ehud and Eglon]] — Judges 3:19–25; the secret message, the message from God, the locked doors.

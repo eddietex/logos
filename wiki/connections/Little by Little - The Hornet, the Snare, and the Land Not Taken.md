@@ -33,6 +33,7 @@ tags: [connection]
 - [[The Angel at Bochim]] — Judges 2:1–3; Yahweh's angel: *"I will not drive them out from before you; but they
   shall be in your sides, and their gods will be a snare to you"* (stored WEB; now ingested)
 - [[Gideon's Ephod and Death]] — Judges 8:27; Gideon's ephod *became a snare to Gideon, and to his house*.
+- [[David Marries Michal]] — 1 Samuel 18:21; Saul gives Michal to David *that she may be a snare to him*.
 
 ## Analysis
 
@@ -192,3 +193,15 @@ is kept, but the source has moved inside Israel. See [[Gideon's Ephod and Death]
   covenant forbidden is the one that would draw Israel to them (23:32–33; 34:12–16).
 - **The later books do not rewrite the promise; they test Israel by it.** Judges reads its own
   history against Exodus 23's condition and finds the condition broken.
+
+### A daughter as a snare — 1 Samuel 18:21
+
+*I will give her to him, that she may be a snare to him* (18:21), *ûṯǝhî-lô lǝmôqēš* (WLC). In the Hebrew files
+checked, *môqēš* occurs at Exodus 10:7 (Pharaoh's servants, of Moses: *How long will this man be a snare to us?*),
+23:33, and 34:12; Deuteronomy 7:16; Joshua 23:13; Judges 2:3 and 8:27; here; and 2 Samuel 22:6. Every use from Exodus 23 to Judges 8 is a people, its gods, or an
+ephod: a thing that would draw Israel away from Yahweh. Joshua 23:12–13 had joined the snare to marriage, *make
+marriages with them … they shall be a snare and a trap to you*, and the verb of *make marriages*, the *hitpael* of
+*ḥāṯan*, is the verb of David becoming Saul's son-in-law (18:21–27). Saul reverses the thread: he makes an Israelite
+marriage the snare, and his own daughter the bait, to kill the man Yahweh is with. See [[David Marries Michal]].
+Source: stored WEB Exodus 10:7; 23:33; 34:12; Deuteronomy 7:16; Joshua 23:12–13; Judges 2:3; 8:27; 1 Samuel 18:21.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-28; 2 Samuel 22:6 in the WLC only.

@@ -655,7 +655,7 @@ Source: stored WEB Song 8:13–14.
 
 The first love for David in 1 Samuel is Saul's: *David came to Saul, and stood before him. He loved him greatly*
 (16:21), *wayyeʾĕhāḇēhû məʾōḏ* (WLC). The subject is not named; the natural reading is Saul. Jonathan (18:1–3, see below), all Israel and
-Judah, Michal, and Saul's servants follow (18:16, [[Saul's Jealousy of David]]; 18:20, 22, stored WEB, not yet ingested), and Saul's love becomes
+Judah, Michal, and Saul's servants follow (18:16, [[Saul's Jealousy of David]]; 18:20, 22, [[David Marries Michal]]), and Saul's love becomes
 fear (18:12). See [[David Plays the Harp for Saul]]. Source: stored WEB 1 Samuel 16:14–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
 ### *As his own soul* — 1 Samuel 18:1–3
@@ -677,8 +677,19 @@ fear in the verse before (18:15). The reason is public: he *went out and came in
 Numbers 27:17. See [[Saul's Jealousy of David]]. Source: stored WEB Numbers 27:17; 1 Samuel 16:21; 18:1–3, 13–16.
 Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### *Michal, Saul's daughter, loved David* — 1 Samuel 18:20, 28
+
+The fourth love for David in the book, after Saul's (16:21), Jonathan's (18:1, 3), and all Israel and Judah's (18:16),
+and the only one the narrator states twice (18:20, 28). In the Hebrew files checked, *ʾāhaḇ* with a woman as subject
+occurs only here, at Genesis 25:28 (*Rebekah loved Jacob*), and at Ruth 4:15 (*your daughter-in-law, who loves you*)
+(WLC). Saul's servants are told to say *all his servants love you* (18:22), as part of a trap. Saul uses Michal's love
+*that she may be a snare to him* (18:21), and her love is the last thing Saul *saw and knew* before he became *David's
+enemy continually* (18:28–29). The text never says David loved her. See [[David Marries Michal]]. Source: stored WEB
+Genesis 25:28; Ruth 4:15; 1 Samuel 16:21; 18:1–29. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
 
+- [[David Marries Michal]] — 1 Samuel 18:20, 22, 28; *Michal, Saul's daughter, loved David*, twice; *all his servants love you*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:16; *all Israel and Judah loved David*, against Saul's fear.
 - [[Jonathan Loves David]] — 1 Samuel 18:1, 3; *Jonathan loved him as his own soul*; love as the ground of a covenant.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:21; *He loved him greatly*, the first love for David in the book.

@@ -866,7 +866,15 @@ very wisely* (18:15): *maśkîl* twice, the second with *məʾōḏ* (WLC). The 
 Yahweh side by side and does not say which produces which; Saul sees the first and fears it. See
 [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 18:5, 14–15. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### More wisely than all — 1 Samuel 18:30
+
+*As often as they went out, David behaved himself more wisely than all the servants of Saul, so that his name was highly
+esteemed* (18:30): *śāḵal* for the fourth time in the chapter (18:5, 14, 15, 30), and in the files checked the last
+time in 1 Samuel (WLC). The wisdom is shown in war, and it makes his name *precious*, *yāqar*. See
+[[David Marries Michal]]. Source: stored WEB 1 Samuel 18:5, 14–15, 30. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[David Marries Michal]] — 1 Samuel 18:30; *behaved himself more wisely than all the servants of Saul*, the fourth *śāḵal* of chapter 18.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:14–15; *maśkîl*, the second and third in chapter 18; *Yahweh was with him*.
 - [[Jonathan Loves David]] — 1 Samuel 18:5; *behaved himself wisely*, *yaśkîl*, the first of four in chapter 18.
 - [[Samuel Anoints Saul]] — 1 Samuel 10:11–12; *it became a proverb, "Is Saul also among the prophets?"*
