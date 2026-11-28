@@ -229,8 +229,17 @@ shall have no pity"* (25:11–12). The noun, *mǝbūšāyw*, occurs only here in
 The law gives no reason, and the wiki does not choose between the readings recorded on the passage
 page. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
+### *The shame of your mother's nakedness* — 1 Samuel 20:30
+
+At the new-moon table, Saul's fury turns nakedness into a family curse: *You son of a perverse rebellious woman, don't
+I know that you have chosen the son of Jesse to your own shame, and to the shame of your mother's nakedness?* (20:30).
+One chapter after Saul lay physically naked before Samuel without recorded shame (19:24), he invokes a mother's
+nakedness to heap public dishonor on his own son — so that Jonathan leaves the table *because his father had treated
+him shamefully* (20:34). See [[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 19:24; 20:30, 34.
+
 ## Key passages
 
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:30; *the shame of your mother's nakedness* in Saul's curse against Jonathan.
 - [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:24; *stripped off his clothes … lay down naked all that day and all that night*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:4, 7, 9, 14; *uncover his feet*; *spread the corner of your garment*.
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.

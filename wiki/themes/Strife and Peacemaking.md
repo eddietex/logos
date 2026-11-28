@@ -480,7 +480,17 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
+### *Go in peace* — 1 Samuel 20:7, 13, 21, 42
+
+Peace runs through 1 Samuel 20 as both the test of Saul's house and the blessing that survives its rupture. David makes
+*peace* the measure of Saul's reply: *If he says, 'It is well;' your servant shall have peace* (20:7). Jonathan vows to
+warn him *that you may go in peace* (20:13), sets the near arrow as the sign *there is peace to you and no danger*
+(20:21), and closes their final embrace with *Go in peace, because we have both sworn in Yahweh's name* (20:42). Saul's
+table ends in curses and a thrown spear (20:30–33), yet the two men part in sworn peace. See
+[[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 20:7, 13, 21, 30–33, 42.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:7, 13, 21, 42; *peace* as the test of Saul and the parting word of Jonathan's covenant.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:14; *peace between Israel and the Amorites*.
 - [[Wives for Benjamin]] — Judges 21:13; *proclaimed peace* to the six hundred.
 - [[The War Against Benjamin]] — Judges 20:12–14; the demand, and the refusal.

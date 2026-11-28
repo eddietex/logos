@@ -1016,7 +1016,16 @@ oath used it, *he shall not be put to death* (19:6). Life is measured in one nig
 *escape*, comes four times in 19:10–17. See [[Michal Helps David Escape]] and
 [[As Yahweh Lives - The Three Oaths of Saul]]. Source: stored WEB 1 Samuel 19:6–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### *A step between me and death* — 1 Samuel 20:3, 14, 31–33
+
+Life and death stand across the whole chapter: Jonathan opens with *you will not die* (20:2); David answers on oath
+*there is but a step between me and death* (20:3); Jonathan asks David for *the loving kindness of Yahweh, that I not
+die* (20:14); and Saul pronounces sentence at the table, *for he shall surely die!* (20:31), answering Jonathan's *Why
+should he be put to death?* with a spear aimed at his own son (20:32–33). See [[Jonathan's Covenant and the Arrows]].
+Source: stored WEB 1 Samuel 20:2–3, 14, 31–33.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:2–3, 14, 31–33; *there is but a step between me and death*; *for he shall surely die!*
 - [[Michal Helps David Escape]] — 1 Samuel 19:11; *If you don't save your life tonight, tomorrow you will be killed*.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:10–12; *to kill us and our people*; *a deadly confusion*.
 - [[The Ark Is Captured]] — 1 Samuel 4:11–22; the sons slain, Eli's fall, and a mother dying as her son is born.

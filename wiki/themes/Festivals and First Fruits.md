@@ -230,7 +230,18 @@ search). The rite ends in worship, the only verse in Deuteronomy where *hišta�
 Yahweh, and in rejoicing with the Levite and the foreigner (10–11). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–11.
 
+### The new-moon feast at Saul's table — 1 Samuel 20:5, 18, 24–29, 34
+
+Numbers 10:10 and 28:11–15 prescribe trumpets and burnt offerings *in the beginnings of your months*, without describing
+a banquet. 1 Samuel 20 supplies the first narrative picture of the new moon in the stored books: a two-day royal feast
+(20:24, 27, 34) with fixed seating (20:25) and a ritual purity expectation (20:26). Alongside it, David's pretext names
+*the yearly sacrifice there for all the family* at Bethlehem (20:6, 29), implying a familiar custom of annual clan
+sacrificial meals. See [[Jonathan's Covenant and the Arrows]] and
+[[Sabbath and New Moon - Numbers 28, Ezekiel 46, Isaiah 66, and Colossians 2]]. Source: stored WEB Numbers 10:10;
+28:11–15; 1 Samuel 20:5–6, 18, 24–29, 34.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:5–6, 18, 24–29, 34; the two-day new-moon royal meal and the pretext of a yearly family sacrifice at Bethlehem.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:23; the whole grain season, barley to wheat; no feast named.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; the arrival dated to the start of barley harvest; no feast named.
 - [[Wives for Benjamin]] — Judges 21:19–21; the yearly feast at Shiloh.

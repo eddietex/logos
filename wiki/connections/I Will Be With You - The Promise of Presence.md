@@ -226,3 +226,12 @@ said it twice (18:12, 14); here, for the first time, Saul knows it, and the know
 David, the answer the narrator gives after David's own *Who am I?* (18:18), and the one person who is told it is the man
 it frightens. See [[David Marries Michal]] and [[Who Am I - The Objections of the Called]]. Source: stored WEB
 1 Samuel 18:12–29. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
+### *As he has been with my father* — 1 Samuel 20:13
+
+In the field, Jonathan turns the presence formula into a succession blessing: *May Yahweh be with you, as he has been
+with my father* (20:13). The eastern tribes spoke the same pattern to Joshua after Moses' death — *Only may Yahweh your
+God be with you, as he was with Moses* (Joshua 1:17, [[The Eastern Tribes Pledge to Cross]]). What the narrator already
+reported in 18:12 (*Yahweh was with him, and had departed from Saul*) is here spoken aloud by Saul's own heir, who
+immediately asks David to show *the loving kindness of Yahweh* to his house forever (20:14–15). See
+[[Jonathan's Covenant and the Arrows]]. Source: stored WEB Joshua 1:17; 1 Samuel 18:12; 20:13–15.

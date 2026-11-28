@@ -29681,3 +29681,56 @@ consulted.
 Link check: `scripts/link-check.sh` still fails on this host before checking anything (`declare: -A: invalid
 option`; macOS bash 3.2, and no newer bash is installed); its two checks were run through the same line-for-line
 Python port as last run — no wrapped links, no dangling links, baseline 53 not-yet-started books.
+
+## [2026-11-28] ingest | 1 Samuel 20.1-42 — Jonathan's Covenant and the Arrows
+
+Unattended `/ingest auto` run. Resolved 1 Samuel 20:1–42 from `wiki/books/1 Samuel.md` (raw text already stored).
+
+Created: passage [[Jonathan's Covenant and the Arrows]], place [[The Stone Ezel]], and connection
+[[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]].
+
+Revised: [[1 Samuel]] (overview, pericope box 33 checked, key themes, key people, key places); people
+[[Jonathan (son of Saul)]], [[David]], [[Saul]], [[Abner]], [[Jesse]], and [[Ahinoam (wife of Saul)]]; places
+[[Naioth]], [[Ramah]], and [[Bethlehem]]; themes [[Covenant]], [[Love]], [[Oaths and Vows]], [[Clean and Unclean]],
+[[Deception]], [[Festivals and First Fruits]], [[Kingship and Empire]], [[Nakedness and Covering]],
+[[Strife and Peacemaking]], [[Life and Death]], [[Sin]], and [[Mourning and Lament]]; connections
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]] (20:13 now linked),
+[[By the Life of Pharaoh - Oaths Sworn by a King]] (20:3 now linked),
+[[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] (20:17 now linked),
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]],
+[[I Will Be With You - The Promise of Presence]],
+[[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]],
+[[Sabbath and New Moon - Numbers 28, Ezekiel 46, Isaiah 66, and Colossians 2]], and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]] (20:33 now linked; new section);
+the passages [[Jonathan Loves David]], [[Jonathan Speaks for David]], [[Michal Helps David Escape]], and
+[[Saul Among the Prophets at Naioth]] ("not yet ingested" notes for chapter 20 resolved). Also `wiki/books/index.md`
+(33 / 47), People Index A-E (three rows), F-M (two rows), and N-Z (one row), `wiki/places/index.md` (one new row,
+three revised), `wiki/themes/index.md` (twelve rows), Connections Index A-C (one revised), D-H (three revised), I-N
+(one new, one revised), O-S (one revised), and T-Z (two revised), and `wiki/index.md`. Frontmatter totals: 519
+passages, 400 people, 622 places, 88 themes, 979 connections.
+
+Judgment calls: the boundary 20:1–42 stands (20:1 flees Naioth, 20:42 closes the parting, 21:1 opens David at Nob).
+[[The Stone Ezel]] gets a place page as a named landmark (compare [[The Stone of Bohan]]). Jonathan's unnamed *little
+boy* (20:21–22, 35–40) is kept on the passage page rather than given a person page: he has no name, speaks no words,
+and functions purely as an unwitting carrier (*the boy didn't know anything*, 20:39). One new connection,
+[[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]], tracks the perpetual covenant of kindness
+from 18:3 and 20:14–17, 42 through 23:16–18, Saul's parallel oath request at 24:20–22, and 2 Samuel 9 and 21; the
+other eight threads already had home pages and received updates there.
+
+Contradictions and tensions recorded, not resolved: 19:1 (Saul explicitly told Jonathan to kill David) against 20:2
+(Jonathan says *Far from it; you will not die*, claiming his father hides nothing from him); the arrow signal's
+purpose (communicating without meeting, 20:20–22) against the open embrace and conversation after the boy leaves
+(20:41–42); *three arrows* (20:20) / *the arrows* (20:38) against singular *an arrow* (20:36–37); WEB's *out of the
+south* (20:41) against the reported Septuagint reading (recalled, not checked); whether the unnamed mother insulted in
+20:30 is [[Ahinoam (wife of Saul)]]; whether the unnamed *city* (20:40, 42) is [[Gibeah (Benjamin)]]; and (on the new
+connection page) the tension between David's oath to Saul (1 Samuel 24:21–22) and the execution of seven of Saul's
+descendants in 2 Samuel 21:1–9 (recalled, not checked).
+
+Sources: 1 Samuel 20:1–42 from stored WEB, with the not-yet-ingested 1 Samuel 21:1; 22:7–8, 13; 23:16–18; 24:20–22;
+25:22, 26; 31:2. Comparisons from stored WEB Genesis, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, and 1
+Samuel as cited on the pages. 2 Samuel 9:1–13 and 21:1–9 and the Septuagint reading at 20:41 are recalled, not
+checked. No Hebrew WLC, 2 Samuel WEB, or Septuagint text was consulted in this pass.
+
+Link check: `scripts/link-check.sh` still fails on this host before checking anything (`declare: -A: invalid option`;
+macOS bash 3.2); its two checks were run via a line-for-line Python port — no wrapped links, no dangling links,
+baseline 53 not-yet-started books.

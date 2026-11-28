@@ -13,8 +13,8 @@ tags: [connection]
   so to you, and more also, if you hide anything from me."*
 - [[Saul's Rash Oath]] — **1 Samuel 14:44** (stored WEB) — Saul: *"God do so and more also; for you shall
   surely die, Jonathan."*
-- **1 Samuel 20:13** *(not yet ingested; WEB checked)* — Jonathan to David: *"Yahweh do so to Jonathan,
-  and more also, should it please my father to do you evil, if I don't disclose it to you."*
+- [[Jonathan's Covenant and the Arrows]] — **1 Samuel 20:13** (stored WEB) — Jonathan to David: *"Yahweh do so to
+  Jonathan, and more also, should it please my father to do you evil, if I don't disclose it to you."*
 - **1 Samuel 25:22** *(not yet ingested; WEB checked)* — David, of Nabal's house: *"God do so to the
   enemies of David, and more also, if I leave of all that belongs to him by the morning light …"*
 
@@ -44,7 +44,8 @@ he loved his own soul* (WEB checked at bible-api.com).
 told him every bit, and hid nothing from him* (1 Samuel 3:18). Saul's sentence is overruled by the people:
 *So the people rescued Jonathan, that he didn't die* (14:45). David's vow is stopped by Abigail, whom he
 blesses for keeping him *from blood guiltiness* (25:32–33). Jonathan's is bound up with his covenant with
-David (20:12–17; not yet ingested). The five oaths are not one story; the table only sets the form side by
+David (20:12–17; [[Jonathan's Covenant and the Arrows]]), and he keeps it at the cost of his father's spear (20:33)
+before sending David away in peace (20:35–42). The five oaths are not one story; the table only sets the form side by
 side.
 
 **Wording.** David's form in 25:22, *to the enemies of David*, is generally read as a scribal softening of

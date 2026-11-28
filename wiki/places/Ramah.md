@@ -94,6 +94,7 @@ come *to Samuel to Ramah* to ask for a king (8:4, stored WEB; not yet ingested).
 Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1; *David fled from Naioth in Ramah* to Jonathan.
 - [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–24; David's refuge with Samuel; Saul comes after him.
 - [[Samuel Anoints David]] — 1 Samuel 16:13; Samuel goes home after the anointing.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:34; Samuel goes home, and sees Saul no more.
@@ -120,6 +121,7 @@ Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptur
 - [[Secu]] — the great well on Saul's way to Ramah (1 Samuel 19:22)
 
 ## Events here
+- David flees *from Naioth in Ramah* to meet Jonathan — 1 Samuel 20:1, [[Jonathan's Covenant and the Arrows]]
 - David flees to Samuel here; they stay at Naioth in Ramah; Saul's messengers, then Saul, prophesy — 1 Samuel 19:18–24, [[Saul Among the Prophets at Naioth]]
 - Samuel returns home after anointing David — 1 Samuel 16:13, [[Samuel Anoints David]]
 - Samuel goes home after the rejection of Saul — 1 Samuel 15:34, [[Saul Rejected over Amalek]]

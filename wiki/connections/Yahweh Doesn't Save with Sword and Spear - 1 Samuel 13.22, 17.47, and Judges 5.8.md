@@ -74,7 +74,7 @@ Deuteronomy 33:29; 1 Samuel 13:19; 17:6, 45–51. Hebrew WLC (OpenScriptures mor
 
 A chapter after *Yahweh doesn't save with sword and spear* (17:47), Saul has *his spear in his hand* and throws it at
 David (18:10–11). The verb, *wayyāṭel* (*ṭûl*, lemma 2904, *hiphil*), occurs in the files checked only here and at
-20:33, where he throws it at Jonathan (stored WEB; not yet ingested). The spear of 13:22, one of two in Israel, is now
+20:33, where he throws it at Jonathan ([[Jonathan's Covenant and the Arrows]]). The spear of 13:22, one of two in Israel, is now
 turned on the man who won without one. See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 13:22; 17:47;
 18:10–11; 20:33. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
@@ -95,3 +95,12 @@ Spirit of God stops them; Saul comes himself, without the spear, and is stopped 
 delivered without fighting and without a ruse. The verse David spoke to Goliath, *Yahweh doesn't save with sword and
 spear* (17:47), is not quoted, but no one in the pericope uses either. See [[Saul Among the Prophets at Naioth]].
 Source: stored WEB 1 Samuel 17:47; 19:18–24.
+
+### The fourth spear — 1 Samuel 20:33
+
+At the new-moon table, Saul sits *on the seat by the wall* (20:25) — the wall of 18:11 and 19:10 — and when Jonathan
+defends David (*Why should he be put to death? What has he done?*), *Saul cast his spear at him to strike him* (20:33).
+The spear that in 13:22 belonged solely to *Saul and Jonathan his son* against the Philistines has now been thrown
+three times at David and a fourth time by the father at the son himself. Meanwhile Jonathan's arrows — the weapons he
+carries into the field (20:20, 36–40) — become instruments of warning and peace rather than war. See
+[[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 13:22; 18:11; 19:10; 20:20, 25, 32–40.

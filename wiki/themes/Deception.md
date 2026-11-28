@@ -465,7 +465,18 @@ a king to save a fugitive. See [[Michal Helps David Escape]],
 [[Let Down Through the Window - Rahab and Michal]]. Source: stored WEB Genesis 29:25; 31:34–35; Joshua 2:4–5; 9:22;
 1 Samuel 19:11–17; 28:12. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### The fabricated sacrifice at Bethlehem — 1 Samuel 20:5–6, 28–29
+
+To test whether Saul is determined to kill him, David invents an excuse for missing the new-moon feast: *say, 'David
+earnestly asked leave of me that he might run to Bethlehem his city; for it is the yearly sacrifice there for all the
+family'* (20:6). When Saul asks on the second day, Jonathan delivers the cover story and embellishes it — *My brother
+has commanded me to be there … please let me go away and see my brothers* (20:28–29) — while David is actually hiding
+in the field by [[The Stone Ezel]]. As with Samuel's heifer at Bethlehem (16:2–5) and Michal's teraphim (19:13–17), the
+narrator passes no judgment on the deception; it succeeds in drawing Saul's true intent into the open. See
+[[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 16:2–5; 19:13–17; 20:5–6, 19, 28–33.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:5–6, 28–29; the invented yearly family sacrifice at Bethlehem used to test Saul.
 - [[Michal Helps David Escape]] — 1 Samuel 19:13–17; the teraphim in the bed; *He is sick*; *Why have you deceived me thus …?*
 - [[David Marries Michal]] — 1 Samuel 18:17–25; two marriage offers as traps; the servants speak *secretly*; *that she may be a snare to him*.
 - [[Samuel Anoints David]] — 1 Samuel 16:2–5; a real sacrifice, given by Yahweh as cover for the anointing.

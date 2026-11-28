@@ -11,6 +11,8 @@ tags: [connection]
   [[The Two Silver Trumpets]].
 - **Numbers 28:9–15** — two lambs every Sabbath; two bulls, one ram, seven lambs, and a goat at each
   month's beginning — [[Daily, Sabbath, and New Moon Offerings]].
+- **1 Samuel 20:5, 18, 24–27, 34** — the new moon observed at Saul's court as a two-day royal feast requiring ritual
+  cleanness — [[Jonathan's Covenant and the Arrows]].
 - **Ezekiel 46:1–7** — the inner east gate opened *"on the Sabbath day … and on the day of the new
   moon"*; the prince's Sabbath offering *"six lambs without defect and a ram without defect"*, and at
   the new moon *"a young bull without defect, and six lambs, and a ram"* (not yet ingested).
@@ -47,6 +49,12 @@ flesh*, from new moon to new moon and Sabbath to Sabbath.
 **Colossians names the pair as shadow.** Paul groups feast, new moon, and Sabbath and calls them *a
 shadow of the things to come*, with the body belonging to Christ. He does not cite Numbers; the link is
 the recurring triad, which Numbers 28–29 is the first in the wiki's sequence to furnish with offerings.
+
+**The new moon in narrative — 1 Samuel 20.** Between the sanctuary calendar of Numbers 28 and the later prophetic
+notices, [[Jonathan's Covenant and the Arrows]] provides the first narrative scene of how a *new moon* was actually
+kept in Israel: as a two-day royal table (20:5, 24, 27, 34) with assigned seating (20:25) and a ritual cleanness
+requirement (20:26). No Sabbath is mentioned alongside it here, and no sanctuary offering is narrated; the meal is
+assumed as an ordinary court obligation. Source: stored WEB 1 Samuel 20:5, 18, 24–27, 34.
 
 ## Significance
 

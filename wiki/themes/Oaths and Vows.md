@@ -649,7 +649,23 @@ the *niphal* of *šāḇaʿ* in the Hebrew files checked only here and at 28:10,
 he throws the spear (19:10). See [[Jonathan Speaks for David]] and [[As Yahweh Lives - The Three Oaths of Saul]].
 Source: stored WEB 1 Samuel 14:39, 45; 19:6–11; 28:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### Five oaths in the field — 1 Samuel 20:3, 13, 17, 21, 42
+
+Chapter 20 clusters five oath moments around the parting of David and Jonathan. David opens with the doubled formula
+*as Yahweh lives, and as your soul lives, there is but a step between me and death* (20:3), the first such pairing in
+the stored books. Jonathan answers with the self-curse oath in Yahweh's personal name — *Yahweh do so to Jonathan, and
+more also* (20:13), joining Ruth (Ruth 1:17) as the only speakers in the stored books to invoke *Yahweh* in that form.
+He causes David *to swear again, for the love that he had to him* (20:17), confirms the arrow signal with *as Yahweh
+lives* (20:21), and closes the parting on *because we have both sworn in Yahweh's name, saying, 'Yahweh is between me
+and you, and between my offspring and your offspring, forever'* (20:42). Unlike Saul's broken oath of 19:6, this oath
+is kept across generations (2 Samuel 9; 21:7, recalled, not checked). See [[Jonathan's Covenant and the Arrows]],
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]],
+[[By the Life of Pharaoh - Oaths Sworn by a King]], and
+[[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]]. Source: stored WEB Ruth 1:17; 1 Samuel 19:6;
+20:3, 13, 17, 21, 42.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:3, 13, 17, 21, 42; doubled life oath, self-curse oath, and perpetual oath *in Yahweh's name* between both houses.
 - [[Jonathan Speaks for David]] — 1 Samuel 19:6; Saul's *As Yahweh lives, he shall not be put to death*, broken by 19:10.
 - [[Jonathan Loves David]] — 1 Samuel 17:55; Abner's *As your soul lives, O king, I can't tell*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:24–46; Saul's curse on eating, two further oaths against the guilty man, and the people's oath that saves Jonathan.

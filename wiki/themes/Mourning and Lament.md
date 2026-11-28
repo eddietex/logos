@@ -373,7 +373,16 @@ The question picks up the last verse of chapter 15. *ʿAḏ-māṯay ʾattâ mi�
 of 15:35. Yahweh does not rebuke the mourning; he gives the mourner the next task, *Fill your horn with oil, and go*.
 See [[Samuel Anoints David]]. Source: stored WEB 1 Samuel 15:35; 16:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### Fasting in grief, and weeping at parting — 1 Samuel 20:34, 41
+
+Two scenes of grief close chapter 20. After Saul throws his spear, Jonathan leaves the table *in fierce anger, and ate
+no food the second day of the month; for he was grieved for David, because his father had treated him shamefully*
+(20:34) — refusing the festival meal in sorrow, as Hannah once wept and would not eat at Shiloh (1:7). The next morning
+in the field, after the boy leaves, David and Jonathan *kissed one another, and wept one with another, and David wept
+the most* (20:41). See [[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 1:7; 20:34, 41.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:34, 41; Jonathan fasts in grief; both weep together, *and David wept the most*.
 - [[Samuel Anoints David]] — 1 Samuel 16:1; *How long will you mourn for Saul?*
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:11, 35; Samuel cries all night, and mourns for Saul.
 

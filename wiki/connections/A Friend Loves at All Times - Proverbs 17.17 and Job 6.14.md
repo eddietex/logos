@@ -43,6 +43,8 @@ tags: [connection]
   [[The Restoration of Job]]
 - **1 Samuel 18:1, 3** — [[Jonathan Loves David]]; *"the soul of Jonathan was knit with the soul of David,
   and Jonathan loved him as his own soul"*; *"Then Jonathan and David made a covenant"*
+- **1 Samuel 20:1–42** — [[Jonathan's Covenant and the Arrows]]; *"Jonathan caused David to swear again, for the love
+  that he had to him; for he loved him as he loved his own soul"* (20:17); loyalty tested under a father's spear
 
 - **Ecclesiastes 4:10** — *"For if they fall, the one will lift up his fellow; but woe to him who is
   alone when he falls, and doesn't have another to lift him up."* — [[Two Are Better Than One]]
@@ -85,7 +87,11 @@ arrives late.
 **Jonathan is the narrative instance.** 1 Samuel 18 has the friend who loves David *"as his own soul"*
 (18:1, 3), *kənap̄šô*, the phrase Deuteronomy uses for *"your friend, who is as your own soul"* (13:6
 WEB; 13:7 WLC). In 18:1–5 the love is stated, sealed in a covenant, and given a body in the robe and
-weapons; the father's enmity it will cross begins at 18:9 and is not yet ingested. See [[Jonathan Loves David]].
+weapons (see [[Jonathan Loves David]]). In [[Jonathan's Covenant and the Arrows]] (1 Samuel 20:1–42), that love
+meets Proverbs 17:17's test of adversity: Jonathan binds David's house in a perpetual covenant of *the loving
+kindness of Yahweh* (20:14–17, repeating *for he loved him as he loved his own soul*), endures his father's insult and
+spear for David's sake (20:30–33), fasts in grief (20:34), and sends him away *in peace* (20:42). Source for 1 Samuel
+20: stored WEB.
 
 ### Proverbs 19 in context
 

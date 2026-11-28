@@ -101,7 +101,7 @@ verse, 19:8, brings *war again*.
   are to kill David *in the morning*, and Michal says *tomorrow you will be killed* (see [[Michal Helps David Escape]]).
 - **The field.** Jonathan will stand with his father *in the field where you are* (3). The field returns in chapter
   20, where David asks *let me go, that I may hide myself in the field* (20:5), and Jonathan's arrows fall there (20:35,
-  stored WEB; not yet ingested).
+  [[Jonathan's Covenant and the Arrows]]).
 - **Spoke good.** *Wayǝḏabbēr yǝhônāṯān bǝḏāwiḏ ṭôḇ* (4, WLC). The same verb and object that carried Saul's order
   (1) now carry its answer. The same pairing, *dibber ṭôḇ*, *speak good*, is Moses' promise to Hobab, *Yahweh has
   spoken good concerning Israel* (Numbers 10:29), and Joshua's *not one thing has failed of all the good things which
@@ -157,7 +157,7 @@ verse, 19:8, brings *war again*.
 - **Put to death.** *Yûmāṯ*, the *hophal* of *mûṯ* (6, WLC), is the verb of the law's *shall surely be put to death*
   (Exodus 21:12, stored WEB). At Jabesh, Saul said *No man shall be put to death today* (11:13), the same form with
   *lōʾ*. At 20:32 Jonathan will ask *Why should he be put to death? What has he done?*, and Saul will answer with the
-  spear (20:33, stored WEB; not yet ingested).
+  spear (20:33, [[Jonathan's Covenant and the Arrows]]).
 - **As before.** *Kǝʾeṯmôl šilšôm* (7, WLC; morphhb lemmas 865 and 8032). In 1 Samuel it is the Philistines' *there has
   not been such a thing before* (4:7), those who *knew him before* (10:11), the Hebrews who were with the Philistines
   *before* (14:21), here, and David's *as usual* at Nob (21:5 WEB; 21:6 WLC, spelled *kiṯmôl*). In the files checked, with the spelling *tǝmôl* (8543), it is also Laban's face (Genesis
@@ -168,7 +168,7 @@ verse, 19:8, brings *war again*.
 **How it connects.** The pericope opens the run of chapters in which David is kept from Saul four times, three of them
 by Saul's own children: Jonathan's warning here (19:1–7), Michal's window (19:11–17,
 [[Michal Helps David Escape]]), Samuel and the prophets at Naioth (19:18–24,
-[[Saul Among the Prophets at Naioth]]), and Jonathan's arrows (20:1–42, stored WEB; not yet ingested). Jonathan's plea succeeds once; his second,
+[[Saul Among the Prophets at Naioth]]), and Jonathan's arrows (20:1–42, [[Jonathan's Covenant and the Arrows]]). Jonathan's plea succeeds once; his second,
 *What has he done?* (20:32), draws the spear at Jonathan himself. His love for David (18:1, 3) is the ground the
 narrator gives for both. Ahimelech will make the same defense at Nob, *Who among all your servants is so faithful as
 David, who is the king's son-in-law …?* (22:14, stored WEB; not yet ingested), and die for it.
@@ -219,7 +219,8 @@ David, who is the king's son-in-law …?* (22:14, stored WEB; not yet ingested),
 - 1 Samuel 18:17–25 — the plan in Saul's thoughts — [[David Marries Michal]]
 - 1 Samuel 18:1, 3 — Jonathan's love and covenant — [[Jonathan Loves David]]
 - 1 Samuel 19:8–17 — the oath broken that night — [[Michal Helps David Escape]]
-- 1 Samuel 20:5, 30–35; 22:14; 25:31 — after the oath (not yet ingested)
+- 1 Samuel 20:5, 30–35 — after the oath — [[Jonathan's Covenant and the Arrows]]
+- 1 Samuel 22:14; 25:31 — later echoes (not yet ingested)
 
 ## Notes
 

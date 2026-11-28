@@ -152,7 +152,17 @@ Asked whose son he is, David names his father and his town: *I am the son of you
 (18:2), and Bethlehem drops out of David's story for now. See [[Jonathan Loves David]]. Source: stored WEB 1 Samuel 16:1, 18;
 17:58; 18:2.
 
+### The invented family sacrifice — 1 Samuel 20:6, 28–29
+
+Bethlehem returns as a pretext rather than a destination. To test Saul's intentions at the new-moon meal, David tells
+Jonathan to say *David earnestly asked leave of me that he might run to Bethlehem his city; for it is the yearly
+sacrifice there for all the family* (20:6). Jonathan repeats and embellishes the excuse to Saul: *our family has a
+sacrifice in the city. My brother has commanded me to be there … please let me go away and see my brothers* (20:28–29).
+David never goes to Bethlehem — he hides in the field by [[The Stone Ezel]] — and the excuse provokes Saul's fury
+against Jonathan. See [[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 20:6, 19, 28–30.
+
 ## Appears in
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:6, 28–29; *Bethlehem his city*, named as the pretext of a yearly family sacrifice.
 - [[Jonathan Loves David]] — 1 Samuel 17:58; *your servant Jesse the Bethlehemite*.
 - [[David Comes to the Camp]] — 1 Samuel 17:12, 15; *that Ephrathite of Bethlehem Judah*; David's father's sheep.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–20; *the Bethlehemite*; David sent from his father's house to Saul.

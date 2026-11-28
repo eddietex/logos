@@ -396,6 +396,26 @@ Saul*; at 19:24 Saul comes to Samuel, and the text records no word between them.
 Source: stored WEB Numbers 22:15; 24:2; 1 Samuel 10:10–12; 15:35; 16:14; 19:9–24. Hebrew WLC (OpenScriptures
 morphhb), 2026-11-28.
 
+### The empty seat and the fourth spear — 1 Samuel 20:24–33
+
+At the two-day new-moon feast, Saul takes his usual place *on the seat by the wall*, with [[Abner]] beside him and
+David's seat empty (20:24–25). On the first day he stays silent, assuming temporary ritual impurity: *Something has
+happened to him. He is not clean. Surely he is not clean* (20:26). On the second day, when the seat is still empty, he
+asks Jonathan *Why doesn't the son of Jesse come to eat, either yesterday, or today?* (20:27) — refusing to speak
+David's name three times in the scene (20:27, 30, 31).
+
+When Jonathan gives the fabricated Bethlehem sacrifice excuse, Saul's anger burns against his own son: *You son of a
+perverse rebellious woman, don't I know that you have chosen the son of Jesse to your own shame, and to the shame of
+your mother's nakedness?* (20:30). He states the dynastic fear plainly: *as long as the son of Jesse lives on the earth,
+you will not be established, nor will your kingdom* (20:31), echoing Samuel's sentence at Gilgal (13:13–14). He orders
+Jonathan to send and fetch David, *for he shall surely die!* — contradicting his own sworn oath of 19:6 (*As Yahweh
+lives, he shall not be put to death*). When Jonathan asks *Why should he be put to death? What has he done?*, Saul
+casts his spear at Jonathan to strike him (20:32–33): his fourth spear throw in three chapters, now turned on the son
+whose kingdom he just claimed to defend. See [[Jonathan's Covenant and the Arrows]] and
+[[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]].
+
+Source: stored WEB 1 Samuel 13:13–14; 18:11; 19:6, 10; 20:24–34.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -450,8 +470,12 @@ morphhb), 2026-11-28.
 - Sends messengers to seize David at Naioth three times, and each group prophesies; goes himself; the Spirit of God
   comes on him; strips, prophesies before Samuel, and lies naked all day and night; *Is Saul also among the
   prophets?* — 19:18–24.
+- Presides at the new-moon feast *by the wall*; assumes David is unclean on day one; calls him *the son of Jesse* three
+  times on day two, curses Jonathan's mother, declares Jonathan's kingdom will not be established, and throws his spear
+  at Jonathan — 20:24–33.
 
 ## Appears in
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:24–33; the new-moon feast; assumes ritual uncleanness; *the son of Jesse*; *you will not be established, nor will your kingdom*; casts his spear at Jonathan.
 - [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:19–24; three sendings; *Where are Samuel and David?*; the Spirit of God on him; naked before Samuel all day and night; the proverb's second origin.
 - [[Michal Helps David Escape]] — 1 Samuel 19:9–17; the third spear; messengers sent three times; *Bring him up to me in the bed, that I may kill him*; *Why have you deceived me thus?*
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; the order to kill David spoken aloud; *Saul listened to the voice of Jonathan*; *As Yahweh lives*.
@@ -534,3 +558,5 @@ morphhb), 2026-11-28.
 - [[Idolatry]]
 - [[Mediation and Advocacy]]
 - [[Deception]]
+- [[Clean and Unclean]]
+- [[Nakedness and Covering]]

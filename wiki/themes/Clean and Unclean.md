@@ -321,8 +321,9 @@ See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
   corpses, with the remedies. Note that the gravest source of uncleanness in the system is contact
   with **death**, which is what ties the category back to Genesis: the God of the sanctuary is the
   God of the living.
-- **1 Samuel 20:26; Hosea 9:3–4** — the distinction as ordinary social fact, and as a description of
-  exile: to eat in a foreign land is to eat unclean bread.
+- **1 Samuel 20:26; Hosea 9:3–4** — the distinction as ordinary social fact (now ingested in
+  [[Jonathan's Covenant and the Arrows]]), and as a description of exile: to eat in a foreign land is to eat unclean
+  bread.
 - **Isaiah 6:5** — *"I am a man of unclean lips"*: the category turned inward, into a confession of
   sin rather than of ritual state.
 - **Isaiah 52:11; Ezekiel 44:23** — purity as the mark of the returning and the restored.
@@ -567,8 +568,18 @@ given of it for the dead."* The poor's tithe is holy food, and the declaration k
 uncleanness of the dead (Numbers 19:11; Leviticus 22:4). What *"for the dead"* refers to is not
 said. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:14; Numbers 19:11; Leviticus 22:4.
 
+### *Surely he is not clean* — 1 Samuel 20:26
+
+When David's seat is empty on the first day of the new-moon feast, Saul says nothing, *for he thought, "Something has
+happened to him. He is not clean. Surely he is not clean"* (20:26). The scene confirms that ritual cleanness governed
+attendance at the royal new-moon meal (compare the nocturnal uncleanness lasting until evening in Leviticus 15:16 and
+Deuteronomy 23:10–11). Because ordinary bodily uncleanness ended at evening after bathing, it could explain David's
+absence on day one but not on day two (20:27). No fault or sin is implied by Saul's assumption. See
+[[Jonathan's Covenant and the Arrows]]. Source: stored WEB Leviticus 15:16; Deuteronomy 23:10–11; 1 Samuel 20:24–27.
+
 ## Key passages
 
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:26; Saul assumes David is ritually unclean on day one of the new-moon feast.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; home slaughter eaten by unclean and clean alike (15, 22).

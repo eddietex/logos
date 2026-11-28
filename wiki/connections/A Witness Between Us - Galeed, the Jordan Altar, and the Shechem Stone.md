@@ -14,6 +14,8 @@ tags: [connection]
   WEB).
 - [[Jephthah Called from Tob]] — Judges 11:10–11; *Yahweh will be witness between us*, and words
   spoken *before Yahweh in Mizpah* (stored WEB).
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:23, 42; *Yahweh is between me and you, and between my offspring
+  and your offspring, forever* (stored WEB).
 
 ## Analysis
 
@@ -61,6 +63,15 @@ the heap (Genesis 31:50). The two scenes share a name, *Mizpah*, and the region,
 not say they share a site. The word differs: Laban's witness is *ʿēd*, the elders' is *šōmēaʿ*, *one who
 hears* (Westminster Leningrad Codex, OpenScriptures morphhb, 2026-11-15). Source: stored WEB Judges
 11:10–11.
+
+**A fifth case, across generations, with no monument.** In [[Jonathan's Covenant and the Arrows]], Jonathan and David
+seal their covenant with *behold, Yahweh is between you and me forever* (1 Samuel 20:23) and *we have both sworn in
+Yahweh's name, saying, 'Yahweh is between me and you, and between my offspring and your offspring, forever'* (20:42).
+Like Judges 11:10, no stone pillar is erected as witness — even though David hides beside [[The Stone Ezel]] (20:19),
+that stone is only a hiding place and target, not a monument. Like Laban's Mizpah (*Yahweh watch between me and you,
+when we are absent one from another*, Genesis 31:49) and the Jordan altar (*your children … our children*, Joshua
+22:27), the formula reaches across separation and into future generations. Source: stored WEB Genesis 31:49; Joshua
+22:27; 1 Samuel 20:19, 23, 42.
 
 ## Significance
 

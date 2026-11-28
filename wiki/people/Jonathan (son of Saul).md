@@ -119,6 +119,37 @@ short, then long (morphhb tags both 3129), and long through 19:2–7. See [[Jona
 
 Source: stored WEB Genesis 42:22; 1 Samuel 14:45; 18:3, 22; 19:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### Covenant for his house, the spear, and the arrows — 1 Samuel 20:1–42
+
+When David flees Naioth to him asking *What have I done? What is my iniquity?*, Jonathan first denies it: *Far from
+it; you will not die. Behold, my father does nothing either great or small, but that he discloses it to me* (20:1–2) —
+a tension with 19:1 (where Saul had already told him to kill David) that the text does not explain. Yet once David
+swears *there is but a step between me and death* and proposes the new-moon test, Jonathan commits himself fully:
+*Whatever your soul desires, I will even do it for you* (20:3–4).
+
+Out in the field, Jonathan turns their covenant into a dynastic treaty before Yahweh. He swears the self-curse oath in
+Yahweh's own name — *Yahweh do so to Jonathan, and more also* — to warn David and send him away in peace; he speaks
+the succession blessing *May Yahweh be with you, as he has been with my father* (compare Joshua 1:17); and he asks
+David to show him *the loving kindness of Yahweh* while he lives and *not cut off your kindness from my house forever;
+no, not when Yahweh has cut off every one of the enemies of David from the surface of the earth* (20:13–15). *So
+Jonathan made a covenant with David's house* and causes David to swear again, *for he loved him as he loved his own
+soul* (20:16–17).
+
+At the two-day new-moon feast, Jonathan delivers and elaborates the fabricated excuse of a yearly family sacrifice at
+Bethlehem (20:28–29). Saul erupts, insulting Jonathan's mother (*to the shame of your mother's nakedness*), naming
+what Jonathan is surrendering (*you will not be established, nor will your kingdom*), and demanding David's death
+(20:30–31). Jonathan asks again, *Why should he be put to death? What has he done?* — and Saul casts his spear at his
+own son to strike him (20:32–33). Jonathan rises *in fierce anger* and eats nothing on the second day, *grieved for
+David, because his father had treated him shamefully* (20:34). The next morning he goes out to the field with a little
+boy who knows nothing, shoots an arrow beyond him by [[The Stone Ezel]], and sends the boy back to the city with his
+weapons (20:35–40). Then David emerges and bows three times; they kiss and weep together, and Jonathan sends him off
+with *Go in peace, because we have both sworn in Yahweh's name, saying, 'Yahweh is between me and you, and between my
+offspring and your offspring, forever'* (20:41–42). He goes back into the city to remain at his father's side. See
+[[Jonathan's Covenant and the Arrows]], [[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]],
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]], and [[I Will Be With You - The Promise of Presence]].
+
+Source: stored WEB Joshua 1:17; 1 Samuel 19:1, 6; 20:1–42.
+
 ## Timeline / key events
 
 - Commands a thousand of Saul's three thousand at Gibeah of Benjamin — 1 Samuel 13:2.
@@ -129,6 +160,7 @@ Source: stored WEB Genesis 42:22; 1 Samuel 14:45; 18:3, 22; 19:1–7. Hebrew WLC
 - Named first of Saul's sons in the summary of the reign — 14:49.
 - His soul *knit* with David's; loves him *as his own soul*; makes a covenant; gives him his robe, clothing, sword, bow, and sash — 18:1–4.
 - Warns David of Saul's order, speaks for him to Saul, *Don't let the king sin against his servant*, and brings him back *as before* — 19:1–7.
+- Swears the self-curse oath and expands the covenant with David's house for *loving kindness* forever; cursed and attacked with Saul's spear at the new moon; shoots the signal arrow by the stone Ezel and sends David away *in peace* — 20:1–42.
 
 ## Appears in
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2–3; commands at Gibeah, strikes the garrison at Geba.
@@ -138,6 +170,7 @@ Source: stored WEB Genesis 42:22; 1 Samuel 14:45; 18:3, 22; 19:1–7. Hebrew WLC
 - [[Saul's Wars and Household]] — 1 Samuel 14:49; first of Saul's three sons.
 - [[Jonathan Loves David]] — 1 Samuel 18:1–4; *knit with the soul of David*; the covenant; the robe and the sword.
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; warns David; *Don't let the king sin against his servant*; obtains Saul's oath.
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1–42; *Yahweh do so to Jonathan, and more also*; covenant for his house forever; Saul's spear; the arrow signal and final parting at the stone Ezel.
 
 ## Related people
 - [[Saul]] — his father (13:16)
@@ -167,3 +200,6 @@ Source: stored WEB Genesis 42:22; 1 Samuel 14:45; 18:3, 22; 19:1–7. Hebrew WLC
 - [[Mediation and Advocacy]]
 - [[Sin]]
 - [[Blood]]
+- [[Deception]]
+- [[Strife and Peacemaking]]
+- [[Mourning and Lament]]

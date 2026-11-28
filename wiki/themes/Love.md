@@ -695,8 +695,20 @@ ground of the whole pericope: Jonathan warns David, pleads for him, and brings h
 not mention love or the covenant of 18:3. See [[Jonathan Speaks for David]] and [[Jonathan Loves David]]. Source:
 stored WEB 1 Samuel 18:3, 22; 19:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### *The loving kindness of Yahweh* — 1 Samuel 20:8, 14–17
+
+Chapter 20 joins both vocabularies of love. First, *loving kindness* (*kindness*): David appeals to *a covenant of
+Yahweh* — *Therefore deal kindly with your servant* (20:8) — and Jonathan binds David to show him *the loving
+kindness of Yahweh, that I not die* and *not cut off your kindness from my house forever* (20:14–15). Second,
+Jonathan's love of 18:1, 3 returns as the reason for the repeated oath: *Jonathan caused David to swear again, for the
+love that he had to him; for he loved him as he loved his own soul* (20:17). The love that began as immediate
+attachment in 18:1 now becomes sworn, multi-generational fidelity under a father's spear (20:33). See
+[[Jonathan's Covenant and the Arrows]] and [[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]].
+Source: stored WEB 1 Samuel 18:1, 3; 20:8, 14–17, 33.
+
 ## Key passages
 
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:8, 14–17; *the loving kindness of Yahweh*; *loved him as he loved his own soul*.
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1; *Jonathan … greatly delighted in David*, against his father's order.
 - [[David Marries Michal]] — 1 Samuel 18:20, 22, 28; *Michal, Saul's daughter, loved David*, twice; *all his servants love you*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:16; *all Israel and Judah loved David*, against Saul's fear.

@@ -825,7 +825,18 @@ child*. Saul has already said *I have sinned* twice (15:24, 30); here he is warn
 See [[Jonathan Speaks for David]]. Source: stored WEB Genesis 42:22; 1 Samuel 15:24, 30; 19:4–6. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-28.
 
+### *What is my iniquity? What is my sin?* — 1 Samuel 20:1, 8, 32
+
+David opens chapter 20 with a threefold protestation of innocence: *What have I done? What is my iniquity? What is my
+sin before your father, that he seeks my life?* (20:1). He repeats it inside the covenant appeal: *if there is iniquity
+in me, kill me yourself* (20:8). At the new-moon table, Jonathan echoes the exact defense he had argued in 19:4–5: *Why
+should he be put to death? What has he done?* (20:32). Saul names no sin or fault of David's — only that *as long as
+the son of Jesse lives on the earth, you will not be established, nor will your kingdom* (20:31) — and answers the
+question with a spear (20:33). See [[Jonathan's Covenant and the Arrows]]. Source: stored WEB 1 Samuel 19:4–5; 20:1,
+8, 31–33.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1, 8, 32; *What is my iniquity? What is my sin?*; *Why should he be put to death? What has he done?*
 - [[Jonathan Speaks for David]] — 1 Samuel 19:4–5; *Don't let the king sin against his servant*; the king warned before the act.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:24–30; *I have sinned*, twice, after the defence fails.
 - [[Saul's Rash Oath]] — 1 Samuel 14:33–39; the people eat with the blood; Saul seeks *in which this sin has been*.

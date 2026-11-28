@@ -234,11 +234,39 @@ his; he has no direct speech from 19:8 to 20:1. Three groups of messengers are s
 after them (19:20–23), and David does nothing: each group, and then Saul, is overtaken by the Spirit of God and
 prophesies. The Spirit that *came mightily on David from that day forward* (16:13) is not said to come on him here.
 His third deliverance from Saul is the first that no one in Saul's house arranges. The next verse has him flee again,
-*from Naioth in Ramah*, to Jonathan (20:1, stored WEB; not yet ingested). See [[Saul Among the Prophets at Naioth]].
+*from Naioth in Ramah*, to Jonathan (20:1; see [[Jonathan's Covenant and the Arrows]]). See
+[[Saul Among the Prophets at Naioth]].
 
 Source: stored WEB 1 Samuel 16:13; 19:18–24; 20:1.
 
+### A step between me and death — 1 Samuel 20:1–42
+
+Silent since 18:23, David speaks again in urgency: fleeing [[Naioth]] in [[Ramah]], he comes to
+[[Jonathan (son of Saul)]] asking *What have I done? What is my iniquity? What is my sin before your father, that he
+seeks my life?* (20:1). When Jonathan refuses to believe Saul means to kill him, David swears the doubled oath —
+*truly as Yahweh lives, and as your soul lives, there is but a step between me and death* (20:3) — and proposes the
+new-moon test using a fabricated yearly family sacrifice at [[Bethlehem]] (20:5–6). Appealing to *a covenant of
+Yahweh*, he puts his own life in Jonathan's hand: *if there is iniquity in me, kill me yourself* (20:8).
+
+Out in the field, Jonathan blesses him — *May Yahweh be with you, as he has been with my father* (20:13) — and binds
+David's house by repeated oath not to cut off *the loving kindness of Yahweh* from Jonathan's house forever, even when
+Yahweh has cut off all of David's enemies (20:14–17). While David hides by [[The Stone Ezel]], his seat stands empty
+at Saul's two-day new-moon meal; Saul assumes ritual uncleanness on day one (20:26), then calls him *the son of Jesse*
+three times on day two, demands his death, and throws his spear at Jonathan (20:27–33). After Jonathan shoots the
+signal arrow beyond the unwitting boy and sends him back to the city, David emerges *out of the south*, falls on his
+face, and bows three times; they kiss and weep together, *and David wept the most* (20:41). Until this moment the
+narrator had stated love only from Jonathan's side (18:1, 3; 20:17); at the parting, David's grief exceeds his
+friend's. Sent away *in peace* under the oath *between my offspring and your offspring, forever* (20:42), David leaves
+Saul's court permanently, beginning the fugitive years at Nob (21:1). See [[Jonathan's Covenant and the Arrows]] and
+[[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]].
+
+Source: stored WEB 1 Samuel 18:1, 3; 20:1–42; 21:1.
+
 ## Timeline / key events
+- 1 Samuel 20:1–42 — flees Naioth to Jonathan; *there is but a step between me and death*; proposes the new-moon test
+  and Bethlehem pretext; enters the perpetual covenant of kindness with Jonathan's house; hides by the stone Ezel;
+  bows three times, kisses Jonathan, *wept the most*, and departs into permanent exile.
+  [[Jonathan's Covenant and the Arrows]]
 - 1 Samuel 19:18–24 — flees to Samuel at Ramah and stays with him at Naioth; Saul's messengers, and Saul, are
   overtaken by the Spirit and prophesy. [[Saul Among the Prophets at Naioth]]
 - 1 Samuel 19:8–17 — wins *with a great slaughter*; slips away from the third spear; let down through the window
@@ -270,6 +298,7 @@ Source: stored WEB 1 Samuel 16:13; 19:18–24; 20:1.
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1–42; flees Naioth; *a step between me and death*; the new-moon test; perpetual covenant with Jonathan's house; bows three times and *wept the most*.
 - [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–22; *fled and escaped*; tells Samuel all that Saul had done; stays at Naioth; sought by three groups of messengers.
 - [[Michal Helps David Escape]] — 1 Samuel 19:8–17; the third spear; let down through the window; *fled, and escaped*; called *my enemy*.
 - [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; hidden, defended by Jonathan, and restored *as before*.
@@ -297,6 +326,8 @@ Source: stored WEB 1 Samuel 16:13; 19:18–24; 20:1.
 - [[You Have Done Foolishly - Saul at Gilgal and David at the Census]]
 
 ## Related people
+- [[Jonathan (son of Saul)]] — who loves him *as his own soul* and binds their houses in a covenant forever (18:1–4; 20:1–42)
+- [[Saul]] — his father-in-law and king, whose spear and enmity drive him into exile (16:14–20:42)
 - [[Michal]] — his wife, who *loved David* (18:20, 27–28)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — his three eldest brothers
 

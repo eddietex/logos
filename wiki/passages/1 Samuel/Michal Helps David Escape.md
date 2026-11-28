@@ -114,7 +114,7 @@ the window she watches him from. Her love is stated at 18:20, 28; it is not stat
 - **To the wall.** *Lǝhakkôṯ baḥănîṯ bǝḏāwiḏ ûḇaqqîr* (10, WLC), *to strike with the spear at David and at the wall*,
   is Saul's own sentence from 18:11, *ʾakkeh ḇǝḏāwiḏ ûḇaqqîr*, *I will pin David even to the wall* (WLC). At 18:11
   the narrator said *David escaped from his presence twice*; this is the third throw. The fourth is at Jonathan,
-  *Saul cast his spear at him to strike him* (20:33, stored WEB; not yet ingested). *Qîr*, *wall*, comes twice in
+  *Saul cast his spear at him to strike him* (20:33, [[Jonathan's Covenant and the Arrows]]). *Qîr*, *wall*, comes twice in
   19:10, and the spear stays in it.
 - **He slipped away.** *Wayyip̄ṭar mippǝnê šāʾûl* (10, WLC). In the Hebrew files checked the verb *pāṭar* (6362)
   occurs only here. The word for David's escape is used for nothing else in those books.
@@ -232,7 +232,8 @@ In 2 Samuel David demands her back (3:13–16), and her last scene is at a windo
 - Genesis 29:25 — *behold, it was Leah* — [[Jacob, Leah, and Rachel]]
 - 2 Samuel 6:16; 13:5–6 — Michal at the window again; Amnon's feigned sickness (WLC; not yet ingested)
 - 1 Samuel 19:18–24 — the flight to Samuel at Ramah — [[Saul Among the Prophets at Naioth]]
-- 1 Samuel 20:33; 22:6; 25:44 — after the escape (not yet ingested)
+- 1 Samuel 20:33 — the fourth spear, aimed at Jonathan — [[Jonathan's Covenant and the Arrows]]
+- 1 Samuel 22:6; 25:44 — after the escape (not yet ingested)
 
 ## Notes
 

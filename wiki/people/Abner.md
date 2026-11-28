@@ -22,7 +22,7 @@ of foreign commanders, Phicol to Abimelech (Genesis 21:22, 32; 26:26) and Sisera
 *captains of armies* Deuteronomy appoints for war (20:9) (stored WEB; WLC). See
 [[Saul's Wars and Household]].
 
-**Ahead (not yet ingested).** He sits beside Saul at the new moon (20:25); he sleeps beside Saul in the camp David enters, and is
+**Ahead (not yet ingested).** He sleeps beside Saul in the camp David enters, and is
 mocked by David for not guarding the king (26:5–15) (stored WEB). After Saul's death he makes *Ishbosheth the son
 of Saul* king (2 Samuel 2:8, WEB at bible-api.com).
 
@@ -42,13 +42,24 @@ know the king's armor bearer of 16:21; the tension is recorded on
 
 Source: stored WEB 1 Samuel 1:26; 16:21; 17:55–57. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### By Saul's side at the new moon — 1 Samuel 20:25
+
+At the new-moon feast, *The king sat on his seat, as at other times, even on the seat by the wall; and Jonathan stood
+up, and Abner sat by Saul's side, but David's place was empty* (20:25). Abner speaks no word and takes no part in
+Saul's outburst against Jonathan; his seat beside the king marks his standing as one of the four regular diners at
+Saul's table. See [[Jonathan's Covenant and the Arrows]].
+
+Source: stored WEB 1 Samuel 20:25.
+
 ## Timeline / key events
 - Named as captain of Saul's army, son of Ner — 1 Samuel 14:50–51.
 - Asked *whose son is this youth?*; swears he does not know; brings David with Goliath's head to Saul — 17:55–57.
+- Sits *by Saul's side* at the new-moon meal while David's place stands empty — 20:25.
 
 ## Appears in
 - [[Saul's Wars and Household]] — 1 Samuel 14:50–51; *captain of his army*.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–57; *As your soul lives, O king, I can't tell*; brings David to Saul.
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:25; *Abner sat by Saul's side* at the new-moon table.
 
 ## Related people
 - [[Saul]] — his king, and his cousin by 14:51 with 9:1

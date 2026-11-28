@@ -782,7 +782,19 @@ makes David *captain over a thousand* (18:13), one of the officers Samuel had wa
 the command gives David the people's love (18:16). See [[Saul's Jealousy of David]]. Source: stored WEB 1 Samuel 8:12;
 10:16, 25; 11:14; 14:47; 15:28; 18:8–16. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### *You will not be established, nor will your kingdom* — 1 Samuel 20:13–16, 30–31
+
+Two voices in chapter 20 name the coming transfer of the throne. In the field, Jonathan transfers the succession
+blessing of Joshua 1:17 to David — *May Yahweh be with you, as he has been with my father* (20:13) — and makes a
+dynastic treaty securing *kindness* for his own house when Yahweh cuts off all of David's enemies (20:14–16). At the
+new-moon table, Saul states the same dynastic reality in fury: *as long as the son of Jesse lives on the earth, you
+will not be established, nor will your kingdom* (20:31), echoing Samuel's sentence at Gilgal (13:13–14). In the act of
+defending his son's kingdom, Saul throws his spear at his own heir (20:33). See
+[[Jonathan's Covenant and the Arrows]] and [[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]].
+Source: stored WEB Joshua 1:17; 1 Samuel 13:13–14; 20:13–16, 30–33.
+
 ## Key passages
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:13–16, 30–33; Jonathan yields the succession; Saul warns *you will not be established, nor will your kingdom*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:8, 13; *What can he have more but the kingdom?*; captain over a thousand.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–18:5; the king takes David; the king's son gives him robe and sword.
 - [[David Comes to the Camp]] — 1 Samuel 17:25, 33–39; the king's reward, and the king's armor taken off.

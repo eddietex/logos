@@ -14,8 +14,9 @@ Samuel, and she does nothing. The text does not say which of the five children o
 David also takes *Ahinoam of Jezreel* (25:43, stored WEB; not yet ingested); the text does not identify the two
 women, and the wiki keeps them apart. See [[Saul's Wars and Household]] and [[Ahimaaz (father of Ahinoam)]].
 
-When Saul curses Jonathan at the new moon he speaks of *the shame of your mother's nakedness* (20:30, stored WEB;
-not yet ingested), without naming her. Saul's concubine Rizpah appears in 2 Samuel 3:7 (recalled, not checked).
+When Saul curses Jonathan at the new moon he speaks of *the shame of your mother's nakedness* (20:30,
+[[Jonathan's Covenant and the Arrows]]), without naming her; the text does not explicitly identify Ahinoam as
+Jonathan's mother. Saul's concubine Rizpah appears in 2 Samuel 3:7 (recalled, not checked).
 
 Source: stored WEB 1 Samuel 14:49–50; 20:30; 25:43. Hebrew WLC (OpenScriptures morphhb).
 
@@ -24,6 +25,8 @@ Source: stored WEB 1 Samuel 14:49–50; 20:30; 25:43. Hebrew WLC (OpenScriptures
 
 ## Appears in
 - [[Saul's Wars and Household]] — 1 Samuel 14:50; *Saul's wife*.
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:30; not named; Saul insults Jonathan's mother (*the shame of your
+  mother's nakedness*), possibly referring to Ahinoam as Saul's only named wife in 1 Samuel.
 
 ## Related people
 - [[Saul]] — her husband

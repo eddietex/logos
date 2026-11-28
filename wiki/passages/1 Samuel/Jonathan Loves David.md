@@ -97,7 +97,7 @@ now David's.
 - **As his own soul.** *Kənap̄šô*, twice (18:1, 3, WLC). In the Hebrew files checked, *nepeš* with the prefix *kə-*
   occurs otherwise only at Deuteronomy 23:24 WEB (23:25 WLC), *at your own pleasure*, and Deuteronomy 13:6 WEB (13:7
   WLC), *your friend, who is as your own soul*, the closest companion, there the one who might entice to other gods
-  (stored WEB). 20:17 returns to it: *he loved him as he loved his own soul* (stored WEB; not yet ingested). See
+  (stored WEB). 20:17 returns to it: *he loved him as he loved his own soul* ([[Jonathan's Covenant and the Arrows]]). See
   [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] and [[Love]].
 - **Loved him.** The WLC's consonantal text (*ketiv*) reads *wyʾhbw* and the vocalization (*qere*) reads
   *wayyeʾĕhāḇēhû*, *and he loved him* (18:1). Jonathan is the second person in 1 Samuel said to love David, after Saul
@@ -197,8 +197,9 @@ yet ingested). The text of 18:4 does not say what the gift means; that reading i
 - Genesis 44:30; 1 Samuel 22:8; 25:29 — the life bound to another —
   [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]]
 - Deuteronomy 13:6; 1 Samuel 20:17 — *as your own soul* —
-  [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]]
-- 1 Samuel 20:8–17, 42; 23:16–18 — the covenant renewed
+  [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]], [[Jonathan's Covenant and the Arrows]]
+- 1 Samuel 20:8–17, 42; 23:16–18 — the covenant renewed —
+  [[Jonathan's Covenant and the Arrows]], [[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]]
 - 1 Samuel 2:19; 15:27; 24:4–5, 11; 28:14 — the robe —
   [[The Torn Robe - 1 Samuel 15.27-28, 24.4-5, 28.17, and 1 Kings 11.29-31]]
 - 1 Samuel 13:22; 17:38–39 — the only swords; Saul's clothing —

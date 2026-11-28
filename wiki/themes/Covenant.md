@@ -703,13 +703,25 @@ Salt is required with offerings and is explicitly associated with the covenant o
 It is the first covenant in 1 Samuel made between two persons; the men of Jabesh had asked one of Nahash, and
 got terms of mutilation (11:1–2, stored WEB). No terms are given here, and no oath; the only stated ground is love,
 and the only act that goes with it is Jonathan's gift of his robe and weapons (18:4). Its sequels name Yahweh, *a
-covenant of Yahweh* (20:8) and *a covenant before Yahweh* (23:18) (stored WEB; not yet ingested). Saul will describe it
+covenant of Yahweh* (20:8; see below) and *a covenant before Yahweh* (23:18, stored WEB; not yet ingested). Saul will describe it
 as a plot: *my son makes a treaty with the son of Jesse* (22:8, stored WEB), *kāraṯ* without *bərîṯ*, beside
 *conspired*, *qāšar* (WLC). See [[Jonathan Loves David]]. Source: stored WEB 1 Samuel 11:1–2; 18:1–4; 20:8; 22:8; 23:18.
 Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### A covenant of Yahweh, forever — 1 Samuel 20:8, 14–17, 23, 42
+
+What 18:3 stated without terms or divine name becomes in chapter 20 *a covenant of Yahweh* (20:8) and *a covenant with
+David's house* (20:16). Jonathan binds David by repeated oath to show him *the loving kindness of Yahweh* while he
+lives and *not cut off your kindness from my house forever; no, not when Yahweh has cut off every one of the enemies
+of David from the surface of the earth* (20:14–17). Yahweh himself is named as perpetual witness: *Yahweh is between me
+and you, and between my offspring and your offspring, forever* (20:23, 42). The covenant governs David's later mercy to
+Jonathan's son Mephibosheth (2 Samuel 9; 21:7, recalled, not checked). See [[Jonathan's Covenant and the Arrows]] and
+[[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]]. Source: stored WEB 1 Samuel 18:3; 20:8,
+14–17, 23, 42.
+
 ## Key passages
 
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:8, 14–17, 23, 42; *a covenant of Yahweh*, made *with David's house*, binding *my offspring and your offspring, forever*.
 - [[Jonathan Loves David]] — 1 Samuel 18:3; *Jonathan and David made a covenant*, grounded in love; no terms given.
 - [[Gideon's Ephod and Death]] — Judges 8:33; Israel makes *Baal Berith* its god.
 - [[Another Generation Arose]] — Judges 2:20; *this nation transgressed my covenant*.

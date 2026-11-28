@@ -95,7 +95,7 @@ and leaves him lying before the prophet who had anointed him. See
   of Jonathan's warnings (19:2–7) and Michal's (19:11). Then it turns to Saul's side: *Saul was told* (19, the
   *hophal*) and *when Saul was told* (21, *wayyaggîḏû*, *they told*). Both David and Saul are kept informed, and the
   pericope does not name who tells Saul. David's report to Samuel is not given in his own words. He has no direct
-  speech in 19:8–24; his next words are to Jonathan, *What have I done?* (20:1, stored WEB; not yet ingested).
+  speech in 19:8–24; his next words are to Jonathan, *What have I done?* (20:1, [[Jonathan's Covenant and the Arrows]]).
 - **Samuel and David.** *Wayyēleḵ hûʾ ûšǝmûʾēl wayyēšǝḇû* (18, WLC), *he and Samuel went and lived*. The prophet who
   anointed Saul as *prince* (10:1) and was sent to anoint David (16:1–13) now shelters David from Saul. Samuel speaks
   no word in the pericope. Saul's question in 22 joins the two names, *Samuel and David*.
@@ -223,7 +223,7 @@ from Naioth in Ramah* (20:1), and the next pericope sends him to Jonathan.
 - Genesis 2:25 — *naked* — [[Naked and Ashamed - Genesis 3 and Genesis 9]]
 - 1 Samuel 17:47 — [[Yahweh Doesn't Save with Sword and Spear - 1 Samuel 13.22, 17.47, and Judges 5.8]]
 - 2 Kings 1:9–16; 6:13–23 — prophets protected from men sent to take them (recalled; not stored)
-- 1 Samuel 20:1 — *David fled from Naioth in Ramah* (not yet ingested)
+- 1 Samuel 20:1 — *David fled from Naioth in Ramah* — [[Jonathan's Covenant and the Arrows]]
 
 ## Notes
 

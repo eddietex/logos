@@ -77,6 +77,18 @@ house* (18:2). In 16:22 Saul had asked Jesse's leave; here he does not. See [[Jo
 
 Source: stored WEB 1 Samuel 16:1, 18, 22; 17:25, 55–58; 18:2. Hebrew WLC (OpenScriptures morphhb), 2026-11-21.
 
+### *The son of Jesse* — 1 Samuel 20:27, 30–31
+
+Jesse is not present in chapter 20, yet his name carries Saul's hostility. On the second day of the new-moon feast,
+Saul refuses to speak David's name and calls him *the son of Jesse* three times: *Why doesn't the son of Jesse come to
+eat …?*, *you have chosen the son of Jesse to your own shame*, and *as long as the son of Jesse lives on the earth, you
+will not be established, nor will your kingdom* (20:27, 30–31). The fabricated excuse that triggers Saul's outburst
+also invokes Jesse's household — *the yearly sacrifice there for all the family* at Bethlehem (20:6, 29). Saul keeps
+using *the son of Jesse* in his speech to his servants at Gibeah (22:7, 8, 13, stored WEB; not yet ingested). See
+[[Jonathan's Covenant and the Arrows]].
+
+Source: stored WEB 1 Samuel 20:6, 27–31; 22:7–8, 13.
+
 ## Timeline / key events
 
 - Named as Obed's son and David's father — Ruth 4:17, 22
@@ -84,8 +96,10 @@ Source: stored WEB 1 Samuel 16:1, 18, 22; 17:25, 55–58; 18:2. Hebrew WLC (Open
 - Sends David to Saul with bread, wine, and a young goat; asked to let him stay — 1 Samuel 16:19–22
 - Old, with eight sons; sends David to the camp with food for his brothers — 1 Samuel 17:12–18
 - Named by David to Saul, *your servant Jesse the Bethlehemite*; David kept from his house — 1 Samuel 17:58; 18:2
+- Named three times by Saul in anger (*the son of Jesse*) at the new-moon feast — 1 Samuel 20:27, 30–31
 
 ## Appears in
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:27, 30–31; not present; Saul calls David *the son of Jesse* three times.
 - [[Jonathan Loves David]] — 1 Samuel 17:58; 18:2; *the son of your servant Jesse the Bethlehemite*.
 - [[David Comes to the Camp]] — 1 Samuel 17:12, 17–18; *that Ephrathite*, old; sends David to his brothers.
 - [[David Plays the Harp for Saul]] — 1 Samuel 16:18–22; *a son of Jesse the Bethlehemite*; sends David to Saul with a gift.

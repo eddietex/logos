@@ -28,16 +28,18 @@ Source: stored WEB 1 Samuel 19:18–24; 20:1. Hebrew WLC (OpenScriptures morphhb
 ## Appears in
 - [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–24; David and Samuel stay there; Saul's messengers, then
   Saul, prophesy.
-- 1 Samuel 20:1 — *David fled from Naioth in Ramah* (not yet ingested).
+- [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1; *David fled from Naioth in Ramah*, its fifth and final
+  mention.
 
 ## Related places
-- [[Ramah]] — *Naioth in Ramah*, Samuel's town (19:18–23)
+- [[Ramah]] — *Naioth in Ramah*, Samuel's town (19:18–23; 20:1)
 - [[Secu]] — where Saul stops at *the great well* on the way (19:22)
 - [[Gibeah (Benjamin)]] — Saul's town, which David has fled (10:26; 19:9–17)
+- [[The Stone Ezel]] — the landmark in the field where David next hides after leaving here (20:19)
 
 ## Events here
 - David and Samuel stay together after David's flight from Saul — 1 Samuel 19:18, [[Saul Among the Prophets at Naioth]]
 - Three groups of Saul's messengers, sent to seize David, prophesy with the company of the prophets — 19:20–21
 - Saul, overtaken by the Spirit on the road, strips and lies naked before Samuel all day and night; *Is Saul also
   among the prophets?* — 19:23–24
-- David flees from here to Jonathan — 20:1 (not yet ingested)
+- David flees from here to Jonathan — 20:1, [[Jonathan's Covenant and the Arrows]]

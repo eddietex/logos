@@ -14,7 +14,9 @@ tags: [connection]
   as his own soul"* — ***niqšərâ bənepeš***
 - **Genesis 37:34–35; 42:38; 44:29** — Jacob's three refusals to survive the loss of a son
 - **Genesis 2:7; 9:4–5** — *nepeš* as the living creature and as the life that is in the blood
-- **Deuteronomy 6:5; 1 Samuel 18:3; 20:17** — *nepeš* as the whole of what a person has to give
+- **Deuteronomy 6:5; 1 Samuel 18:3; 20:17** — *nepeš* as the whole of what a person has to give (1 Samuel 20:17 now
+  ingested in [[Jonathan's Covenant and the Arrows]], where Jonathan *caused David to swear again, for the love that
+  he had to him; for he loved him as he loved his own soul*)
 - **1 Samuel 22:8** — Saul: *"all of you have conspired against me"* — *qəšartem*, the same verb, of
   Jonathan and David
 - **1 Samuel 25:29** — Abigail: *"bound in the bundle of life with Yahweh your God"* — a life bound up

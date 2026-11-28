@@ -390,6 +390,23 @@ not reconcile them. See [[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 an
 [[Falling Down Under the Spirit - Balaam and Saul at Naioth]], and
 [[All That Day and All That Night - Saul Fallen Before Samuel]].
 
+[[Jonathan's Covenant and the Arrows]] (20:1–42) is the fourth escape and the final break with Saul's court. David
+flees *Naioth in Ramah* to Jonathan — *What have I done? … truly as Yahweh lives, and as your soul lives, there is but
+a step between me and death* (20:1, 3) — while Jonathan at first denies his father hides anything from him (20:2), a
+tension with 19:1 recorded and not resolved. They arrange a test at the two-day new-moon feast using a fabricated
+yearly family sacrifice at Bethlehem (20:5–6), and in the field Jonathan swears *Yahweh do so to Jonathan, and more
+also*, blesses David with *May Yahweh be with you, as he has been with my father* (Joshua 1:17), and binds David's
+house to *the loving kindness of Yahweh* so his kindness will never be cut off from Jonathan's house forever
+(20:13–17). At the feast Saul excuses David's empty seat on day one as ritual uncleanness (20:25–26); on day two he
+calls David *the son of Jesse* three times, insults Jonathan's mother (*the shame of your mother's nakedness*), warns
+*you will not be established, nor will your kingdom*, and throws his spear — his fourth throw — at Jonathan himself
+(20:27–33). Jonathan leaves in fierce anger and fasts (20:34), goes to the field by [[The Stone Ezel]] with an
+unwitting boy, shoots an arrow beyond him, and sends him back to the city (20:35–40). David emerges *out of the south*,
+bows three times, and they kiss and weep together, *and David wept the most* (20:41); Jonathan sends him off *in peace*
+with *Yahweh is between me and you, and between my offspring and your offspring, forever* (20:42). See
+[[Kindness to My House Forever - Jonathan's Covenant and Mephibosheth]] and
+[[God Do So to Me - The Self-Curse Oath in Ruth and 1 Samuel]].
+
 
 ## Structure
 
@@ -445,7 +462,7 @@ merge, or reorder them freely.
 - [x] [[Jonathan Speaks for David]] — 1 Samuel 19:1–7
 - [x] [[Michal Helps David Escape]] — 1 Samuel 19:8–17
 - [x] [[Saul Among the Prophets at Naioth]] — 1 Samuel 19:18–24
-- [ ] Jonathan's Covenant and the Arrows — 1 Samuel 20:1–42
+- [x] [[Jonathan's Covenant and the Arrows]] — 1 Samuel 20:1–42
 - [ ] David at Nob — 1 Samuel 21:1–9
 - [ ] David Feigns Madness at Gath — 1 Samuel 21:10–15
 - [ ] The Cave of Adullam — 1 Samuel 22:1–5
@@ -602,6 +619,18 @@ merge, or reorder them freely.
 - [[The Spirit of God]] — *God's Spirit came on Saul's messengers*; *came on him also* (19:20, 23)
 - [[Prophecy and Vision]] — *the company of the prophets*; *Is Saul also among the prophets?* (19:20–24)
 - [[Nakedness and Covering]] — *stripped off his clothes … lay down naked* (19:24)
+- [[Covenant]] — *a covenant of Yahweh*; Jonathan's covenant with David's house *forever* (20:8, 16, 23, 42)
+- [[Love]] — *the loving kindness of Yahweh*; *loved him as he loved his own soul* (20:8, 14–15, 17)
+- [[Oaths and Vows]] — *as Yahweh lives, and as your soul lives*; *Yahweh do so to Jonathan, and more also*; sworn *in Yahweh's name* (20:3, 13, 17, 21, 42)
+- [[Clean and Unclean]] — *Something has happened to him. He is not clean* at the new-moon meal (20:26)
+- [[Deception]] — the fabricated yearly family sacrifice at Bethlehem (20:5–6, 28–29)
+- [[Festivals and First Fruits]] — the two-day new-moon royal feast (20:5, 18, 24–27, 34)
+- [[Kingship and Empire]] — *May Yahweh be with you, as he has been with my father*; *you will not be established, nor will your kingdom* (20:13, 31)
+- [[Nakedness and Covering]] — *the shame of your mother's nakedness* (20:30)
+- [[Strife and Peacemaking]] — *Go in peace* (20:7, 13, 21, 42)
+- [[Life and Death]] — *there is but a step between me and death*; *he shall surely die!* (20:3, 31–33)
+- [[Sin]] — *What have I done? What is my iniquity? What is my sin?* (20:1, 8, 32)
+- [[Mourning and Lament]] — Jonathan fasts in grief (20:34); both weep, *and David wept the most* (20:41)
 
 ## Key people
 - [[Samuel]]
@@ -632,18 +661,18 @@ merge, or reorder them freely.
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 - [[Bedan]] — named among the deliverers in Samuel's farewell, otherwise unknown (12:11)
-- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45); loves David *as his own soul*, makes a covenant with him, and gives him his robe and sword (18:1–4); warns David, speaks for him to Saul, and brings him back *as before* (19:1–7)
+- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45); loves David *as his own soul*, makes a covenant with him, and gives him his robe and sword (18:1–4); warns David, speaks for him to Saul, and brings him back *as before* (19:1–7); expands the covenant for his house forever, dodges Saul's spear at the new moon, shoots the signal arrow, and sends David away *in peace* (20:1–42)
 - [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
 - [[Ahijah (son of Ahitub)]] and [[Ahitub (son of Phinehas)]] — Eli's line, with the ephod at Saul's side (14:3, 18–19)
 - [[Ishvi (son of Saul)]] and [[Malchishua]] — Saul's other sons (14:49)
 - [[Merab]] and [[Michal]] — Saul's daughters, *the firstborn* and *the younger* (14:49); Michal lets David down through the window and puts the teraphim in his bed (19:11–17)
 - [[Ahinoam (wife of Saul)]] and [[Ahimaaz (father of Ahinoam)]] — Saul's wife and her father (14:50)
-- [[Abner]] — captain of Saul's army (14:50); does not know *whose son* David is, and brings him to Saul (17:55–57)
+- [[Abner]] — captain of Saul's army (14:50); does not know *whose son* David is, and brings him to Saul (17:55–57); sits beside Saul at the new-moon meal (20:25)
 - [[Ner]] and [[Abiel (father of Kish)]] — Abner's father, and the grandfather of Saul and Abner (9:1; 14:51)
 - [[Amalek]] — struck by Saul (14:48); devoted to destruction, the best spared (15:2–9)
 - [[Agag]] — king of the Amalekites, spared by Saul and killed by Samuel (15:8–9, 32–33)
 - [[Kenites]] — warned away from Amalek for their *kindness* (15:6)
-- [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11); *your servant Jesse the Bethlehemite* (17:58)
+- [[Jesse]] — *the Bethlehemite*, whose sons pass before Samuel (16:1–11); *your servant Jesse the Bethlehemite* (17:58); Saul calls David *the son of Jesse* three times at the new moon (20:27, 30, 31)
 - [[Eliab (son of Jesse)]], [[Abinadab (son of Jesse)]], and [[Shammah (son of Jesse)]] — the three eldest, not chosen (16:6–9), and with Saul at the war; Eliab's anger at David (17:13, 28)
 - [[Goliath]] — the champion of Gath who defies Israel (17:4–10), killed with a stone and beheaded with his own sword (17:49–51)
 - [[Singing Women (of Saul's time)]] — *Saul has slain his thousands, and David his ten thousands* (18:6–7)
@@ -692,4 +721,5 @@ merge, or reorder them freely.
 - [[Gai]], [[Ekron]], and [[Shaaraim]] — the pursuit after Goliath's death (17:52)
 - [[Jerusalem]] — where David brings Goliath's head, the city's only mention in the book (17:54)
 - [[Abel Meholah]] — commonly taken as the home of *Adriel the Meholathite* (18:19; recalled, not checked)
-- [[Naioth]] and [[Secu]] — *Naioth in Ramah*, where David stays with Samuel, and *the great well that is in Secu*, where Saul asks the way (19:18–23)
+- [[Naioth]] and [[Secu]] — *Naioth in Ramah*, where David stays with Samuel (19:18–23) and from which he flees to Jonathan (20:1), and *the great well that is in Secu*, where Saul asks the way (19:22)
+- [[The Stone Ezel]] — the landmark in the field where David hides and waits for Jonathan's arrow signal (20:19)
