@@ -29514,3 +29514,52 @@ was consulted.
 Link check: `scripts/link-check.sh` requires bash 4 and GNU `find -printf`, neither available on this host (macOS,
 bash 3.2); its two checks were run through a line-for-line Python port instead — no wrapped links, no dangling links,
 baseline 53 not-yet-started books.
+
+## [2026-11-28] ingest | 1 Samuel 19.1-7 — Jonathan Speaks for David
+
+Unattended run. Created [[Jonathan Speaks for David]] and the connections
+[[As Yahweh Lives - The Three Oaths of Saul]] and [[My Life in My Hand - Jephthah, David, and the Medium of Endor]].
+Revised [[1 Samuel]] (box checked; overview paragraph; key themes and key people); the people
+[[Jonathan (son of Saul)]], [[Saul]], [[David]], and [[Goliath]]; the themes [[Mediation and Advocacy]], [[Oaths and Vows]],
+[[Blood]], [[Sin]], [[Love]], [[Joy and Enjoyment]], [[Redemption]], and [[Law and Obedience]]; and the passages
+[[David Marries Michal]] (two "not yet ingested" notes for 19:1 resolved), [[Shibboleth]] (its unchecked note on the
+*life in my hand* idiom now answered), and [[Saul's Rash Oath]] (cross-reference). Also `wiki/books/index.md`
+(30 / 47), People Index A-E (one row), F-M (two), and N-Z (one), the themes index (eight rows), Connections Index A-C
+and I-N (one new row each), and the dashboard counts. Frontmatter totals: 516 passages, 400 people, 619 places,
+88 themes, 974 connections.
+
+Judgment calls: the boundary 19:1–7 stands; 19:7 closes on David *in his presence, as before*, and 19:8 opens *There
+was war again*. No new person page: Saul's *servants* (19:1) are not individuated. No place page and no place link
+beyond the existing [[Gibeah (Benjamin)]], because the pericope names no place; *the field* (19:3) is unnamed. The
+Reuben parallel (*Don't sin against the child*, Genesis 42:22) is recorded on the passage page and in the themes rather
+than given its own connection page: it rests on one shared phrase, and nothing in 1 Samuel points to Genesis. The echo
+of Laban's face *not toward him as before* (Genesis 31:2, 5) in *as before* (19:7) is recorded as a possibility only,
+since the phrase is common in Samuel.
+
+New verified observations (WLC, OpenScriptures morphhb, `Gen` through `2Sam` and `Ruth`, as downloaded 2026-11-28
+and reused from that session's cache): *śîm nep̄eš bǝḵap*, *put one's life in one's hand*, only at Judges 12:3;
+1 Samuel 19:5; 28:21 (the other two verses with *nep̄eš* and *kap*, Deuteronomy 28:65 and 1 Samuel 25:29, are not the
+idiom); *dām nāqî* at Deuteronomy 19:10, 13; 21:8, 9; 27:25 and 1 Samuel 19:5; *ḥinnām* (2600) at Genesis 29:15;
+Exodus 21:2, 11; Numbers 11:5; 1 Samuel 19:5; 25:31; 2 Samuel 24:24; *ʾal* with *ḥāṭāʾ bǝ* of a person only at
+Genesis 42:22 and 1 Samuel 19:4; *ḥay YHWH* in Saul's mouth only at 14:39; 19:6; 28:10, and Saul the named subject of
+the *niphal* of *šāḇaʿ* only at 19:6; 28:10; *tǝšûʿâ* (8668) at Judges 15:18; 1 Samuel 11:9, 13; 19:5; 2 Samuel 19:3;
+23:10, 12; *kǝʾeṯmôl šilšôm* (865 + 8032) at 1 Samuel 4:7; 10:11; 14:21; 19:7; 2 Samuel 5:2, with the *tǝmôl* spelling
+(8543) at Genesis 31:2, 5, Deuteronomy 19:4, 6, and elsewhere; *śāmaḥ* with Saul as subject in 1 Samuel only at 11:15
+and 19:5; *ḥāp̄ēṣ* (2654 a) in fourteen verses, of delight in a person at Genesis 34:19; Deuteronomy 21:14; 1 Samuel
+18:22; 19:1; 2 Samuel 20:11, and of Yahweh at Numbers 14:8; 2 Samuel 15:26; 22:20; the *niphal* of *ḥāḇāʾ* (2244)
+of Saul at 10:22 and of David at 19:2. In 19:1 Jonathan's name is spelled short and then long, both tagged 3129.
+
+Contradictions recorded, not resolved: none new. Open questions: whether Saul's oath at 19:6 was sincere when sworn;
+why Jonathan's plea omits the covenant of 18:3; whether *as before* (19:7) echoes Genesis 31.
+
+Sources: 1 Samuel 19:1–7 from stored WEB, with the not-yet-ingested 1 Samuel 19:8–11; 20:5, 32–35; 22:14; 25:29, 31;
+28:3, 6, 9–10, 19, 21–25; 31:6. Comparisons from stored WEB Genesis 3:8, 10; 29:15; 31:2, 5; 34:19; 37:21–22; 42:22;
+Exodus 21:2, 11, 12; Numbers 10:29; 11:5; 14:8; Deuteronomy 19:4, 6, 10, 13; 21:8–9, 14; 27:15, 24–25; 28:65;
+Joshua 2:19; 23:14; Judges 3:19; 11:35; 12:1–6; 15:18; Job 13:14; 1 Samuel 2:25; 4:7; 10:11, 22, 26; 11:9, 13, 15;
+14:21, 24, 28, 39, 44–45; 15:1, 20, 24, 30, 34; 17:1–57; 18:1–29. 2 Samuel 3:28; 5:2; 15:26; 19:3; 20:11; 22:20;
+23:10, 12; 24:24 read in the WLC only and paraphrased; no 2 Samuel WEB is stored. The Hebrew of Job was not checked.
+No lexicon or Septuagint text was consulted.
+
+Link check: `scripts/link-check.sh` fails on this host before checking anything (`declare: -A: invalid option`; macOS
+bash 3.2, no GNU `find`); its two checks were run through the same line-for-line Python port used last run — no
+wrapped links, no dangling links, baseline 53 not-yet-started books.

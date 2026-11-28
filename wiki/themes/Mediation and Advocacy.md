@@ -562,8 +562,23 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
 After the thunder the people ask Samuel to intercede, *that we not die* (12:19), as Pharaoh asked Moses in the hail (Exodus 9:28). Samuel answers with a pledge rather than a single prayer: he will not cease to pray for them, and will teach them *the good and the right way* (12:23). The judge resigns; the intercessor does not. See [[Samuel's Farewell Address]]. Source: stored WEB 1 Samuel 12.
 
+### *Don't let the king sin against his servant* — 1 Samuel 19:1–7
+
+Jonathan stands between Saul and David and carries words both ways: he *told* David the danger, will *talk with my
+father about you*, and *told him* the outcome (19:2–3, 7). His plea is an advocate's. It has a charge, *Don't let the
+king sin against his servant*; grounds, *he has not sinned against you … his works have been very good toward you* and
+*he put his life in his hand*; a witness, *You saw it, and rejoiced*; and the law, *innocent blood*, *without a cause*
+(19:4–5). It is the first time in the book that anyone speaks to Saul for David, and *Saul listened to the voice of
+Jonathan* (19:6). The negative command *ʾal* with *ḥāṭāʾ bǝ*, *don't sin against* a person, occurs in the Hebrew files
+checked only here and in Reuben's *Don't sin against the child* (Genesis 42:22), a plea that was not heard; the wiki
+records the parallel and claims no allusion. Eli had asked *if a man sins against Yahweh, who will intercede for him?*
+(2:25); here someone intercedes before the sin. See [[Jonathan Speaks for David]] and
+[[As Yahweh Lives - The Three Oaths of Saul]]. Source: stored WEB Genesis 37:21–22; 42:22; 1 Samuel 2:25; 19:1–7.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
 
+- [[Jonathan Speaks for David]] — 1 Samuel 19:2–7; Jonathan speaks for David to Saul, and is listened to.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:5–9; Samuel prays and cries *for Israel*, and is answered.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *who will intercede for him?*; the question Samuel later answers.
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

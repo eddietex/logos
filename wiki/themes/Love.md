@@ -687,8 +687,17 @@ occurs only here, at Genesis 25:28 (*Rebekah loved Jacob*), and at Ruth 4:15 (*y
 enemy continually* (18:28–29). The text never says David loved her. See [[David Marries Michal]]. Source: stored WEB
 Genesis 25:28; Ruth 4:15; 1 Samuel 16:21; 18:1–29. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### *Jonathan, Saul's son, greatly delighted in David* — 1 Samuel 19:1
+
+Not *ʾāhaḇ* but *ḥāp̄ēṣ bǝ*, *delight in* (morphhb 2654 a), the verb Saul's servants had been told to use falsely,
+*the king has delight in you* (18:22). Set in one verse against Saul's order to kill David, the son's delight is the
+ground of the whole pericope: Jonathan warns David, pleads for him, and brings him back (19:2–7). The plea itself does
+not mention love or the covenant of 18:3. See [[Jonathan Speaks for David]] and [[Jonathan Loves David]]. Source:
+stored WEB 1 Samuel 18:3, 22; 19:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
 
+- [[Jonathan Speaks for David]] — 1 Samuel 19:1; *Jonathan … greatly delighted in David*, against his father's order.
 - [[David Marries Michal]] — 1 Samuel 18:20, 22, 28; *Michal, Saul's daughter, loved David*, twice; *all his servants love you*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:16; *all Israel and Judah loved David*, against Saul's fear.
 - [[Jonathan Loves David]] — 1 Samuel 18:1, 3; *Jonathan loved him as his own soul*; love as the ground of a covenant.

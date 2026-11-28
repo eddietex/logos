@@ -465,7 +465,19 @@ Israel* (14:45). See [[Saul's Rash Oath]] and
 [[A Father's Oath and His Child - Jephthah's Daughter and Jonathan]]. Source: stored WEB Exodus 13:13–15;
 Deuteronomy 7:8; 1 Samuel 14:45. Hebrew WLC.
 
+### *Yahweh worked a great victory* — 1 Samuel 19:5
+
+Jonathan credits Elah to Yahweh: *he put his life in his hand, and struck the Philistine, and Yahweh worked a great
+victory for all Israel*, *tǝšûʿâ gǝḏôlâ* (WLC). The phrase is Samson's at Lehi (Judges 15:18) and 2 Samuel's for
+David's mighty men (23:10, 12, WLC; paraphrased); *tǝšûʿâ* (8668) is also the word of Jabesh (11:9, 13). The man who
+risked his life and the God who gave the victory are named side by side, as in Jephthah's *I put my life in my hand …
+and Yahweh delivered them into my hand* (Judges 12:3). See [[Jonathan Speaks for David]],
+[[My Life in My Hand - Jephthah, David, and the Medium of Endor]], and
+[[The Spirit Rushed on Him - Samson, Saul, and David]]. Source: stored WEB Judges 12:3; 15:18; 1 Samuel 11:9, 13;
+19:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Jonathan Speaks for David]] — 1 Samuel 19:5; *Yahweh worked a great victory for all Israel*, *tǝšûʿâ*.
 - [[Saul's Wars and Household]] — 1 Samuel 14:48; *delivered Israel out of the hands of those who plundered them*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:45; *the people rescued Jonathan*, *wayyip̄dû*.
 

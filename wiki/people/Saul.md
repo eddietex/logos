@@ -349,6 +349,18 @@ David; and Saul was David's enemy continually* (18:28–29), *ʾōyēḇ*, the w
 
 Source: stored WEB 1 Samuel 14:24; 18:17–30. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
 
+### The order spoken, and the oath — 1 Samuel 19:1–7
+
+What chapter 18 kept in his thoughts Saul now says aloud, *to Jonathan his son, and to all his servants, that they
+should kill David* (19:1). Jonathan answers with a plea that makes Saul the possible sinner, *Don't let the king sin
+against his servant … Why then will you sin against innocent blood?*, and calls him as witness, *You saw it, and
+rejoiced* (19:4–5). *Saul listened to the voice of Jonathan* (19:6), the idiom of his claim and confession at 15:20,
+24, and swore *As Yahweh lives, he shall not be put to death*: his second *As Yahweh lives*, and the first sworn for a
+life (14:39; 28:10). David is *in his presence, as before* (19:7). The oath holds for three verses (19:10, stored
+WEB). See [[Jonathan Speaks for David]] and [[As Yahweh Lives - The Three Oaths of Saul]].
+
+Source: stored WEB 1 Samuel 14:39; 15:20, 24; 19:1–10; 28:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -396,8 +408,11 @@ Source: stored WEB 1 Samuel 14:24; 18:17–30. Hebrew WLC (OpenScriptures morphh
 - Offers Merab and gives her to Adriel; uses Michal's love as *a snare*; asks a hundred Philistine foreskins to make
   David fall; gives Michal to David; *saw and knew that Yahweh was with David*; *David's enemy continually* —
   18:17–29.
+- Orders Jonathan and all his servants to kill David; listens to Jonathan; swears *As Yahweh lives, he shall not be
+  put to death*; receives David back *as before* — 19:1–7.
 
 ## Appears in
+- [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; the order to kill David spoken aloud; *Saul listened to the voice of Jonathan*; *As Yahweh lives*.
 - [[David Marries Michal]] — 1 Samuel 18:17–29; Merab and Michal offered as traps; *one hundred foreskins*; *Saul was David's enemy continually*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6–15; the song; *What can he have more but the kingdom?*; the spear; *afraid of David*.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–58; 18:2, 5; *whose son is this youth?*; takes David, and sets him over the men of war.
@@ -475,3 +490,4 @@ Source: stored WEB 1 Samuel 14:24; 18:17–30. Hebrew WLC (OpenScriptures morphh
 - [[Divine Grief and Relenting]]
 - [[Judgment]]
 - [[Idolatry]]
+- [[Mediation and Advocacy]]

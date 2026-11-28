@@ -640,7 +640,17 @@ had sworn by Eli's life the same way, *as your soul lives, my lord* (1:26). See 
 [[By the Life of Pharaoh - Oaths Sworn by a King]]. Source: stored WEB 1 Samuel 1:26; 17:55. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-21.
 
+### *As Yahweh lives, he shall not be put to death* — 1 Samuel 19:6
+
+Saul's second *As Yahweh lives*, and the first he swears for a life rather than a death. At Michmash he swore
+Jonathan's death (14:39), and the people swore against him (14:45). Here, after listening to Jonathan, he swears
+David's life: *ḥay-YHWH ʾim-yûmāṯ*, the negative oath with its sanction unspoken (WLC). Saul is the named subject of
+the *niphal* of *šāḇaʿ* in the Hebrew files checked only here and at 28:10, his oath to the medium. Three verses later
+he throws the spear (19:10). See [[Jonathan Speaks for David]] and [[As Yahweh Lives - The Three Oaths of Saul]].
+Source: stored WEB 1 Samuel 14:39, 45; 19:6–11; 28:10. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Jonathan Speaks for David]] — 1 Samuel 19:6; Saul's *As Yahweh lives, he shall not be put to death*, broken by 19:10.
 - [[Jonathan Loves David]] — 1 Samuel 17:55; Abner's *As your soul lives, O king, I can't tell*.
 - [[Saul's Rash Oath]] — 1 Samuel 14:24–46; Saul's curse on eating, two further oaths against the guilty man, and the people's oath that saves Jonathan.
 

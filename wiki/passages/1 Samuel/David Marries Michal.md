@@ -107,7 +107,8 @@ Philistines (25); four verses later the king's enemy is the king.
 - **My hand, and the hand of the Philistines.** *ʾAl-tǝhî yāḏî bô ûṯǝhî-ḇô yaḏ-pǝlištîm* (17), said again at 21 and
   in other words at 25, *lǝhappîl … bǝyaḏ-pǝlištîm*, *to make … fall by the hand of the Philistines* (WLC). Three
   times, in Saul's thoughts, not his speech. At 19:1 he will speak it aloud, to Jonathan and to all his servants,
-  *that they should kill David* (stored WEB; not yet ingested).
+  *that they should kill David* (stored WEB; see
+  [[Jonathan Speaks for David]]).
 - **Who am I.** *Mî ʾānōḵî ûmî ḥayyay* (18, WLC). *Mî ʾānōḵî* occurs in the files checked only at Exodus 3:11, Moses
   at the bush, *Who am I, that I should go to Pharaoh*; here; and at 2 Samuel 7:18, David before Yahweh, *Who am I,
   Lord Yahweh, and what is my house* (WLC; paraphrased; no 2 Samuel WEB stored). Saul's own answer to Samuel was the
@@ -148,7 +149,8 @@ Philistines (25); four verses later the king's enemy is the king.
 - **Delight, and no desire.** *Ḥāp̄ēṣ bǝḵā hammeleḵ*, *the king has delight in you* (22), then *ʾên-ḥēp̄eṣ lammeleḵ
   bǝmōhar*, *the king desires no dowry* (25, WLC): verb and noun of one root, said of the king, three verses apart.
   The verb is Shechem's, *he had delight in Jacob's daughter* (Genesis 34:19), and Jonathan's, who *greatly
-  delighted in David* (19:1, stored WEB; not yet ingested). The delight the servants announce is the one thing Saul does not have.
+  delighted in David* (19:1, stored WEB; see
+  [[Jonathan Speaks for David]]). The delight the servants announce is the one thing Saul does not have.
 - **A poor man, and little known.** *ʾÎš-rāš wǝniqleh* (23, WLC). *Rāš*, *poor* (lemma 7326), occurs in the files
   checked only here and in Nathan's parable of *the poor man* and his one ewe lamb (2 Samuel 12:1, 3, 4, WLC;
   paraphrased), the parable whose rich man is David. *Niqleh*, *little known* (*qālâ*, lemma 7034), is Deuteronomy's

@@ -1632,7 +1632,17 @@ his voice … But if you will not listen* (12:14–15), is applied to the king. 
 [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]]. Source: stored WEB 1 Samuel 12:14–15;
 15:1–24. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### *Saul listened to the voice of Jonathan* — 1 Samuel 19:6
+
+*Šāmaʿ bǝqôl*, *listen to the voice*, is the book's idiom of obedience: Samuel's *listen to the voice of the words of
+Yahweh* (15:1), and Saul's claim *I have obeyed the voice of Yahweh* and confession *I … obeyed their voice* (15:20,
+24). Eli's sons *didn't listen to the voice of their father* (2:25); here a father listens to his son. The obedience
+lasts three verses (19:10). At Endor the idiom returns three times, in the medium's mouth and the narrator's
+(28:21–23). See [[Jonathan Speaks for David]] and [[My Life in My Hand - Jephthah, David, and the Medium of Endor]].
+Source: stored WEB 1 Samuel 2:25; 15:1, 20, 24; 19:6–10; 28:21–23. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Jonathan Speaks for David]] — 1 Samuel 19:6; *Saul listened to the voice of Jonathan*, the idiom of obedience.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:1, 13, 19–24; *to obey is better than sacrifice*.
 
 - [[Saul Chosen by Lot at Mizpah]] — 1 Samuel 10:25; *the regulations of the kingdom*, written and laid up before Yahweh.

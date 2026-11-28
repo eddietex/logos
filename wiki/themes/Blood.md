@@ -430,7 +430,19 @@ far, and the narrator ties it to the oath: the people were *very faint* (14:31).
 [[Blood Reserved from Food - Genesis 9 and Leviticus 3]]. Source: stored WEB Genesis 9:4; Leviticus 17:10–14; 19:26;
 Deuteronomy 12:16, 23; 1 Samuel 14:31–35.
 
+### *Innocent blood* — 1 Samuel 19:5
+
+Jonathan asks Saul *Why then will you sin against innocent blood, to kill David without a cause?* *Dām nāqî* occurs in
+the Hebrew files checked at Deuteronomy 19:10, 13; 21:8–9; 27:25 and here: its first use outside the law, and the
+first time it is said to a king (WLC). In Deuteronomy innocent blood shed *in the middle of your land* leaves *blood
+guilt on you* (19:10). Jonathan names his father's plan in those terms and makes the king the one who would sin.
+*Ḥinnām*, *without a cause*, qualifies a killing in those files only here and at 25:31, where Abigail warns David
+against having *shed blood without cause*. See [[Jonathan Speaks for David]] and
+[[Washing the Hands of Innocent Blood - Deuteronomy 21, Psalms 26 and 73, and Matthew 27]]. Source: stored WEB
+Deuteronomy 19:10, 13; 21:8–9; 27:25; 1 Samuel 19:5; 25:31. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Jonathan Speaks for David]] — 1 Samuel 19:5; *innocent blood*, *without a cause*, Deuteronomy's term in Jonathan's plea.
 - [[Saul's Rash Oath]] — 1 Samuel 14:32–34; the starving army eats *with the blood*, and Saul makes them slaughter at a great stone.
 - [[The Fall of Abimelech]] — Judges 9:24; the blood of the seventy laid on Abimelech and on Shechem.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

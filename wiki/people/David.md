@@ -203,7 +203,20 @@ highly esteemed* (18:30). See [[David Marries Michal]] and [[Who Am I - The Obje
 Source: stored WEB Exodus 3:11; 1 Samuel 18:17–30. Hebrew WLC (OpenScriptures morphhb), 2026-11-28; 2 Samuel 7:18;
 12:1–4 in the WLC only.
 
+### Hidden, defended, and restored — 1 Samuel 19:1–7
+
+The order to kill him is now spoken (19:1). He says nothing in the pericope. Jonathan tells him to hide *in a secret
+place* (19:2), the verb used of Saul *hidden among the baggage* (10:22, WLC), and defends him to Saul as one who *has
+not sinned against you*, whose *works have been very good*, and who *put his life in his hand, and struck the
+Philistine* (19:4–5); the idiom of risk is said of him, not by him. Saul swears he will not die, and David is brought
+back *in his presence, as before* (19:6–7). See [[Jonathan Speaks for David]] and
+[[My Life in My Hand - Jephthah, David, and the Medium of Endor]].
+
+Source: stored WEB 1 Samuel 10:22; 19:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
+- 1 Samuel 19:1–7 — told by Jonathan to hide; defended to Saul as one who *put his life in his hand*; restored to
+  Saul's presence *as before*. [[Jonathan Speaks for David]]
 - 1 Samuel 18:17–30 — *Who am I … that I should be son-in-law to the king?*; *a poor man, and little known*; kills
   two hundred Philistines for the bride-price and marries Michal; *behaved himself more wisely*; *his name was highly
   esteemed*. [[David Marries Michal]]
@@ -229,6 +242,7 @@ Source: stored WEB Exodus 3:11; 1 Samuel 18:17–30. Hebrew WLC (OpenScriptures 
 - Ruth 4:17 — named as Jesse's son and Obed's grandson. [[The Birth of Obed]]
 
 ## Appears in
+- [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; hidden, defended by Jonathan, and restored *as before*.
 - [[David Marries Michal]] — 1 Samuel 18:17–30; *Who am I*; two hundred foreskins; married to Michal; *his name was highly esteemed*.
 - [[Saul's Jealousy of David]] — 1 Samuel 18:6–16; *David his ten thousands*; the spear; captain over a thousand; *Yahweh was with him*; loved by all Israel and Judah.
 - [[Jonathan Loves David]] — 1 Samuel 17:55–18:5; *the son of your servant Jesse*; Jonathan's love, covenant, and robe; *behaved himself wisely*.

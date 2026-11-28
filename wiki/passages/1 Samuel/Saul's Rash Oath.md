@@ -291,6 +291,7 @@ ingested), will turn on *pounce on the plunder* and on *the voice of the people*
 - Joshua 10:18 — *Roll large stones*
 - 2 Samuel 14:11 — *not one hair … fall to the earth*
 - Exodus 13:13–15; Deuteronomy 7:8 — *pāḏâ*, redeem
+- 1 Samuel 19:6; 28:10 — Saul's later *As Yahweh lives* — [[As Yahweh Lives - The Three Oaths of Saul]]
 
 ## Notes
 

@@ -89,8 +89,9 @@ counter-claim stand side by side, and the narrator does not say which is true. A
 
 *I put my life in my hand*, *wāʾāśîmâ napšî bəkappî* (WLC), *I set my soul in my palm*. The phrase does not
 occur elsewhere in the WLC of Genesis–Judges. The wiki's [[Though He Slay Me]] page links it to Job 13:14
-and to 1 Samuel 19:5 and 28:21 as the idiom of mortal risk; those three verses have not been checked in
-Hebrew in this run.
+and to 1 Samuel 19:5 and 28:21 as the idiom of mortal risk. 1 Samuel 19:5 and 28:21 have since been checked in the
+WLC and carry the same construction; Job 13:14 has not. See
+[[My Life in My Hand - Jephthah, David, and the Medium of Endor]].
 
 *Yahweh delivered them into my hand*, *wayyittənēm YHWH bəyādî* (WLC). This is 11:32, *wayyittənēm YHWH
 bəyādô*, now in the first person. It is also his own condition from 11:9 and 11:30. Jephthah's defense is

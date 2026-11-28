@@ -351,6 +351,17 @@ The elder given and the younger loved repeat Genesis 29; the bride-price of fore
 and knew that Yahweh was with David; and Michal, Saul's daughter, loved him*; *Saul was David's enemy continually*
 (18:28–29). See [[A Bride-Price of Foreskins - Shechem, Saul, and David]] and
 [[The Younger Before the Firstborn - Jacob and Laban]].
+[[Jonathan Speaks for David]] (19:1–7) has Saul say aloud what chapter 18 kept in his thoughts. He *spoke to Jonathan
+his son, and to all his servants, that they should kill David*, and the same verse answers: *But Jonathan, Saul's son,
+greatly delighted in David* (19:1), the delight Saul's servants had falsely announced (18:22). Jonathan tells David to
+hide and goes out with his father to *the field* (19:2–3). His plea is the first speech in the book for David, and it
+argues from law and record, not from love: *Don't let the king sin against his servant*; *he put his life in his hand,
+and struck the Philistine, and Yahweh worked a great victory*; *You saw it, and rejoiced. Why then will you sin
+against innocent blood, to kill David without a cause?* (19:4–5), the *dām nāqî* of Deuteronomy 19:10. *Saul listened
+to the voice of Jonathan* and swore *As Yahweh lives, he shall not be put to death*, and David was *in his presence,
+as before* (19:6–7). The oath holds for three verses (19:10). See [[As Yahweh Lives - The Three Oaths of Saul]] and
+[[My Life in My Hand - Jephthah, David, and the Medium of Endor]].
+
 
 ## Structure
 
@@ -403,7 +414,7 @@ merge, or reorder them freely.
 - [x] [[Jonathan Loves David]] — 1 Samuel 17:55–18:5
 - [x] [[Saul's Jealousy of David]] — 1 Samuel 18:6–16
 - [x] [[David Marries Michal]] — 1 Samuel 18:17–30
-- [ ] Jonathan Speaks for David — 1 Samuel 19:1–7
+- [x] [[Jonathan Speaks for David]] — 1 Samuel 19:1–7
 - [ ] Michal Helps David Escape — 1 Samuel 19:8–17
 - [ ] Saul Among the Prophets at Naioth — 1 Samuel 19:18–24
 - [ ] Jonathan's Covenant and the Arrows — 1 Samuel 20:1–42
@@ -546,6 +557,14 @@ merge, or reorder them freely.
 - [[Vengeance]] — *to be avenged of the king's enemies* (18:25)
 - [[The Fear of God]] — *Saul was even more afraid of David* (18:29)
 - [[Wisdom]] — *behaved himself more wisely than all the servants of Saul* (18:30)
+- [[Love]] — *Jonathan, Saul's son, greatly delighted in David* (19:1)
+- [[Mediation and Advocacy]] — Jonathan *spoke good of David* to Saul (19:4)
+- [[Sin]] — *Don't let the king sin against his servant* (19:4)
+- [[Blood]] — *innocent blood*, *without a cause* (19:5)
+- [[Redemption]] — *Yahweh worked a great victory for all Israel* (19:5)
+- [[Joy and Enjoyment]] — *You saw it, and rejoiced* (19:5)
+- [[Law and Obedience]] — *Saul listened to the voice of Jonathan* (19:6)
+- [[Oaths and Vows]] — *As Yahweh lives, he shall not be put to death* (19:6)
 
 ## Key people
 - [[Samuel]]
@@ -576,7 +595,7 @@ merge, or reorder them freely.
 - [[Matrites]] — the family of Benjamin chosen before Saul (10:21)
 - [[Worthless Fellows (of Saul's time)]] — *How could this man save us?* (10:27)
 - [[Bedan]] — named among the deliverers in Samuel's farewell, otherwise unknown (12:11)
-- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45); loves David *as his own soul*, makes a covenant with him, and gives him his robe and sword (18:1–4)
+- [[Jonathan (son of Saul)]] — first named; strikes the Philistine garrison at Geba (13:2–3); goes over the pass at Michmash (14:1–14); eats the honey, is taken by lot, and is rescued by the people (14:27–45); loves David *as his own soul*, makes a covenant with him, and gives him his robe and sword (18:1–4); warns David, speaks for him to Saul, and brings him back *as before* (19:1–7)
 - [[Jonathan's Armor Bearer]] — *I am with you according to your heart* (14:7)
 - [[Ahijah (son of Ahitub)]] and [[Ahitub (son of Phinehas)]] — Eli's line, with the ephod at Saul's side (14:3, 18–19)
 - [[Ishvi (son of Saul)]] and [[Malchishua]] — Saul's other sons (14:49)

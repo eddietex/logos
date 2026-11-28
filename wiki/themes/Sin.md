@@ -815,7 +815,18 @@ does not reverse the sentence. See [[Saul Rejected over Amalek]] and
 [[Transgressing the Mouth of Yahweh - Numbers 14 and 1 Samuel 15]]. Source: stored WEB Exodus 10:16–17; Numbers
 14:40–41; 1 Samuel 15:23–30. Hebrew WLC (OpenScriptures morphhb), 2026-11-20.
 
+### *Why then will you sin against innocent blood?* — 1 Samuel 19:4–5
+
+Three times in two verses Jonathan uses *ḥāṭāʾ*: *Don't let the king sin against his servant*; *he has not sinned
+against you*; *why then will you sin against innocent blood* (WLC). He reverses the roles the order assumed: David is
+the innocent party and the king the possible sinner. In the Hebrew files checked the negative command *ʾal* with
+*ḥāṭāʾ bǝ*, *don't sin against* a person, occurs only here and at Genesis 42:22, Reuben's *Don't sin against the
+child*. Saul has already said *I have sinned* twice (15:24, 30); here he is warned before the act, and listens (19:6).
+See [[Jonathan Speaks for David]]. Source: stored WEB Genesis 42:22; 1 Samuel 15:24, 30; 19:4–6. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Jonathan Speaks for David]] — 1 Samuel 19:4–5; *Don't let the king sin against his servant*; the king warned before the act.
 - [[Saul Rejected over Amalek]] — 1 Samuel 15:24–30; *I have sinned*, twice, after the defence fails.
 - [[Saul's Rash Oath]] — 1 Samuel 14:33–39; the people eat with the blood; Saul seeks *in which this sin has been*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:6; *We have sinned against Yahweh*, at Mizpah.

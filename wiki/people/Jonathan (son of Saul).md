@@ -102,6 +102,23 @@ ingested), and the wiki reads the robe in that light. From 18:1 the WLC spells h
 Source: stored WEB 1 Samuel 13:22; 16:21; 17:38–39; 18:1–5; 22:8; 23:17; Genesis 44:30; Deuteronomy 13:6. Hebrew WLC
 (OpenScriptures morphhb), 2026-11-21.
 
+### Speaking for David — 1 Samuel 19:1–7
+
+When Saul tells *Jonathan his son, and … all his servants* to kill David, the same verse answers: *But Jonathan,
+Saul's son, greatly delighted in David* (19:1), *ḥāp̄ēṣ*, the delight Saul's servants had falsely announced (18:22,
+WLC). He tells David to hide *in a secret place* and promises to speak with his father *in the field where you are*
+(19:2–3). His plea is the first speech in the book for David: *Don't let the king sin against his servant*; *he put
+his life in his hand, and struck the Philistine*; *You saw it, and rejoiced*; *Why then will you sin against innocent
+blood, to kill David without a cause?* (19:4–5). It argues from law and record, and does not mention love or the
+covenant of 18:3. Saul listens and swears *As Yahweh lives, he shall not be put to death*, and Jonathan brings David
+back *as before* (19:6–7). At Michmash the people had spoken for Jonathan against his father's oath (14:45); here
+Jonathan speaks for David and obtains an oath for him. His *Don't sin against* shares its form with Reuben's *Don't sin against
+the child* (Genesis 42:22, WLC), the only other instance in the files checked. In 19:1 the WLC spells his name first
+short, then long (morphhb tags both 3129), and long through 19:2–7. See [[Jonathan Speaks for David]] and
+[[As Yahweh Lives - The Three Oaths of Saul]].
+
+Source: stored WEB Genesis 42:22; 1 Samuel 14:45; 18:3, 22; 19:1–7. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Timeline / key events
 
 - Commands a thousand of Saul's three thousand at Gibeah of Benjamin — 1 Samuel 13:2.
@@ -111,6 +128,7 @@ Source: stored WEB 1 Samuel 13:22; 16:21; 17:38–39; 18:1–5; 22:8; 23:17; Gen
 - Eats honey unaware of Saul's oath; *My father has troubled the land*; taken by lot; *behold, I must die*; rescued by the people — 14:27–45.
 - Named first of Saul's sons in the summary of the reign — 14:49.
 - His soul *knit* with David's; loves him *as his own soul*; makes a covenant; gives him his robe, clothing, sword, bow, and sash — 18:1–4.
+- Warns David of Saul's order, speaks for him to Saul, *Don't let the king sin against his servant*, and brings him back *as before* — 19:1–7.
 
 ## Appears in
 - [[Saul's Sacrifice at Gilgal]] — 1 Samuel 13:2–3; commands at Gibeah, strikes the garrison at Geba.
@@ -119,6 +137,7 @@ Source: stored WEB 1 Samuel 13:22; 16:21; 17:38–39; 18:1–5; 22:8; 23:17; Gen
 - [[Saul's Rash Oath]] — 1 Samuel 14:27–45; the honey, *My father has troubled the land*, the lot, and the people's rescue.
 - [[Saul's Wars and Household]] — 1 Samuel 14:49; first of Saul's three sons.
 - [[Jonathan Loves David]] — 1 Samuel 18:1–4; *knit with the soul of David*; the covenant; the robe and the sword.
+- [[Jonathan Speaks for David]] — 1 Samuel 19:1–7; warns David; *Don't let the king sin against his servant*; obtains Saul's oath.
 
 ## Related people
 - [[Saul]] — his father (13:16)
@@ -133,6 +152,7 @@ Source: stored WEB 1 Samuel 13:22; 16:21; 17:38–39; 18:1–5; 22:8; 23:17; Gen
 - [[Ishvi (son of Saul)]] and [[Malchishua]] — his brothers (14:49)
 - [[Merab]] and [[Michal]] — his sisters (14:49)
 - [[Abner]] — his father's commander, and his cousin by 14:51 with 9:1
+- [[Reuben]] — the earlier brother who said *Don't sin against the child* (Genesis 42:22)
 
 ## Themes associated
 - [[War]]
@@ -144,3 +164,6 @@ Source: stored WEB 1 Samuel 13:22; 16:21; 17:38–39; 18:1–5; 22:8; 23:17; Gen
 - [[Providence]]
 - [[Love]]
 - [[Covenant]]
+- [[Mediation and Advocacy]]
+- [[Sin]]
+- [[Blood]]

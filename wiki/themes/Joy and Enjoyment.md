@@ -347,7 +347,16 @@ has given to you, and to your house, you, and the Levite, and the foreigner who 
 foreigner, who has no Israelite father to recite about, is at the meal. See [[First Fruits and the Tithe Declaration]] and
 [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
 
+### *You saw it, and rejoiced* — 1 Samuel 19:5
+
+Jonathan's plea makes Saul's own joy at Elah evidence for David: *Yahweh worked a great victory for all Israel. You
+saw it, and rejoiced* (19:5). *Śāmaḥ* has Saul as subject in 1 Samuel only here and at Gilgal, where *Saul and all the
+men of Israel rejoiced greatly* (11:15) (WLC). Chapter 17 does not record that joy; chapter 18 records the women's
+(18:6) and Saul's anger at it (18:8). See [[Jonathan Speaks for David]]. Source: stored WEB 1 Samuel 11:15; 17:52;
+18:6–8; 19:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-28.
+
 ## Key passages
+- [[Jonathan Speaks for David]] — 1 Samuel 19:5; *You saw it, and rejoiced*, Saul's joy at Elah made evidence.
 - [[Saul Rescues Jabesh Gilead]] — 1 Samuel 11:9, 15; Jabesh glad; Saul and all Israel *rejoiced greatly* at Gilgal.
 - [[The Song of Hannah]] — 1 Samuel 2:1; *My heart exults in Yahweh … I rejoice in your salvation*.
 - [[The Death of Samson]] — Judges 16:23–25; *to rejoice*, *when their hearts were merry*.
